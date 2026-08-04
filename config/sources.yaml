@@ -1,0 +1,59 @@
+# Each source is fetched via its public RSS feed. Only the free title + teaser
+# text that each feed publishes is ever used -- no paywalled full text is fetched.
+#
+# Note: "The Berliner" is not included -- its /feed/ endpoint redirects back to
+# the homepage (the feed appears to be disabled on their end). If you find a
+# working feed URL for it, add it here in the same format.
+
+sources:
+  - name: El País
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada
+    language: es
+
+  - name: The Economist
+    url: https://www.economist.com/latest/rss.xml
+    language: en
+
+  - name: Foreign Affairs
+    url: https://www.foreignaffairs.com/rss.xml
+    language: en
+
+  - name: Le Monde diplomatique
+    url: https://mondediplo.com/backend
+    language: en
+
+  - name: El Independiente
+    url: https://www.elindependiente.com/feed/
+    language: es
+
+  - name: Sifted
+    url: https://sifted.eu/feed
+    language: en
+
+  - name: EU-Startups
+    url: https://www.eu-startups.com/feed/
+    language: en
+
+  - name: The New Stack
+    url: https://thenewstack.io/feed/
+    language: en
+
+  - name: Nexo
+    url: https://www.nexojornal.com.br/rss.xml
+    language: pt
+
+  - name: Brasil de Fato
+    url: https://www.brasildefato.com.br/feed
+    language: pt
+
+  - name: O Globo
+    url: https://oglobo.globo.com/rss/oglobo/
+    language: pt
+
+  - name: Folha de S.Paulo
+    url: https://feeds.folha.uol.com.br/emcimadahora/rss091.xml
+    language: pt
+
+  - name: DW
+    url: https://rss.dw.com/rdf/rss-en-all
+    language: en

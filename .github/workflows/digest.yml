@@ -1,0 +1,60 @@
+name: Daily digest
+
+on:
+  schedule:
+    # ~05:00 UTC = 07:00 CEST (summer) / 06:00 CET (winter) -- GitHub Actions
+    # cron is always UTC and doesn't shift for DST, so the Berlin-local
+    # delivery time drifts by an hour across the year. Adjust this cron
+    # manually around the March/October DST changeovers if a stable local
+    # time matters more than simplicity.
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python src/main.py
+
+      - name: Commit history back to repo
+        run: |
+          git config user.name "news-debrief-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add history/
+          git diff --cached --quiet || git commit -m "digest: $(date -u +%F)"
+          git push
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: output
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

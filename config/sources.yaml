@@ -4,6 +4,12 @@
 # Note: "The Berliner" is not included -- its /feed/ endpoint redirects back to
 # the homepage (the feed appears to be disabled on their end). If you find a
 # working feed URL for it, add it here in the same format.
+#
+# The optional `region: berlin` field hints to the digest's "Berlín" section
+# that a source is Berlin-local -- it does not guarantee every item from that
+# source is treated as local (most of what these outlets publish is still
+# general/national news). Sources without a `region` field default to
+# "global" in code (see src/fetch.py).
 
 sources:
   - name: El País
@@ -57,3 +63,34 @@ sources:
   - name: DW
     url: https://rss.dw.com/rdf/rss-en-all
     language: en
+
+  - name: Tagesspiegel
+    url: https://www.tagesspiegel.de/contentexport/feed/home
+    language: de
+    region: berlin
+
+  # -- Candidates below are NOT confirmed working. Verify each feed URL in a
+  # real browser before uncommenting and merging. Our automated fetch tool got
+  # blocked/403'd on these, which is more likely bot-blocking than a dead
+  # feed, but that needs a human check -- same caveat pattern as "The
+  # Berliner" note above.
+  #
+  # - name: rbb24
+  #   url: <TODO: verify actual feed URL, e.g. https://www.rbb24.de/... -- rbb24
+  #     is arguably the single best source for Berlin news + strikes/closures,
+  #     worth prioritizing verification here>
+  #   language: de
+  #   region: berlin
+  #
+  # - name: Berliner Zeitung
+  #   url: <TODO: pick a working per-section feed from
+  #     https://www.berliner-zeitung.de/rss-feeds-der-berliner-zeitung-li.25605
+  #     -- the index page exists but returned 403 to our automated fetch>
+  #   language: de
+  #   region: berlin
+  #
+  # - name: BZ Berlin
+  #   url: <TODO: verify bz-berlin.de even exposes RSS at all -- site is
+  #     likely JS-rendered, feed existence unconfirmed>
+  #   language: de
+  #   region: berlin

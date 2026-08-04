@@ -28,6 +28,7 @@ class Article:
     link: str
     teaser: str
     published: datetime | None
+    region: str = "global"
 
 
 def load_sources(config_path: Path) -> list[dict]:
@@ -49,7 +50,7 @@ def _entry_published(entry) -> datetime | None:
     return datetime.fromtimestamp(timegm(parsed), tz=timezone.utc)
 
 
-def fetch_source(name: str, url: str) -> list[Article]:
+def fetch_source(name: str, url: str, region: str = "global") -> list[Article]:
     parsed = feedparser.parse(url, request_headers={"User-Agent": USER_AGENT})
     now = datetime.now(timezone.utc)
     cutoff = now - RECENT_WINDOW
@@ -65,6 +66,7 @@ def fetch_source(name: str, url: str) -> list[Article]:
                 link=entry.get("link", ""),
                 teaser=teaser,
                 published=published,
+                region=region,
             )
         )
 
@@ -89,7 +91,8 @@ def fetch_all(config_path: Path) -> list[Article]:
     articles: list[Article] = []
     for source in load_sources(config_path):
         try:
-            articles.extend(fetch_source(source["name"], source["url"]))
+            region = source.get("region", "global")
+            articles.extend(fetch_source(source["name"], source["url"], region))
         except Exception as exc:  # noqa: BLE001 -- one bad feed shouldn't kill the run
             print(f"  [warn] failed to fetch {source['name']}: {exc}")
     return articles

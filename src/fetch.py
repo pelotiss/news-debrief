@@ -17,7 +17,7 @@ import feedparser
 import yaml
 
 RECENT_WINDOW = timedelta(hours=48)
-MAX_PER_SOURCE = 15
+MAX_PER_SOURCE = 8
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) NewsDebrief/1.0"
 
 

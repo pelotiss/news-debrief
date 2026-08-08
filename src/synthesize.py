@@ -8,7 +8,7 @@ from anthropic import Anthropic
 
 from fetch import Article
 
-MODEL = "claude-sonnet-4-5"
+MODEL = "claude-haiku-4-5"
 MAX_TOKENS = 3000  # was 2000 -- three sections + ICYMI need more room
 
 SECTION_BERLIN = "Berlín"
@@ -75,7 +75,7 @@ No preamble before it.
 def _format_items(articles: list[Article]) -> str:
     lines = []
     for a in articles:
-        teaser = a.teaser[:400] if a.teaser else "(no teaser available)"
+        teaser = a.teaser[:200] if a.teaser else "(no teaser available)"
         tag = " (fuente local de Berlín)" if a.region == "berlin" else ""
         lines.append(f"- [{a.source}]{tag} {a.title}\n  teaser: {teaser}\n  url: {a.link}")
     return "\n".join(lines)

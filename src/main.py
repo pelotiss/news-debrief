@@ -17,7 +17,7 @@ CONFIG_PATH = ROOT / "config" / "sources.yaml"
 TEMPLATE_PATH = ROOT / "templates" / "digest.html"
 OUTPUT_PATH = ROOT / "output" / "index.html"  # renamed from latest.html for GitHub Pages
 HISTORY_DIR = ROOT / "history"
-ICYMI_LOOKBACK_DAYS = 7
+ICYMI_LOOKBACK_DAYS = 4
 
 
 def main() -> None:

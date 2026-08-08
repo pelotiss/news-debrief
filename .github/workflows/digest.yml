@@ -1,13 +1,6 @@
 name: Daily digest
 
 on:
-  schedule:
-    # ~05:00 UTC = 07:00 CEST (summer) / 06:00 CET (winter) -- GitHub Actions
-    # cron is always UTC and doesn't shift for DST, so the Berlin-local
-    # delivery time drifts by an hour across the year. Adjust this cron
-    # manually around the March/October DST changeovers if a stable local
-    # time matters more than simplicity.
-    - cron: "0 5 * * *"
   workflow_dispatch: {}
 
 permissions:

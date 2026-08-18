@@ -1,0 +1,886 @@
+{
+  "date": "2026-08-18",
+  "digest_markdown": "## Berlín\n\n[Los sistemas de TI de Berlín siguen parcialmente limitados tras un ciberataque a la Senatsverwaltung](https://www.rbb24.de/politik/beitrag/2026/08/berlin-senatsverwaltung-hackerangriff-cybersicherheit-systeme-eingeschraenkt.html), afectando servicios en línea incluyendo solicitudes digitales. [El portal para solicitar voto por correo (wahlscheinantrag.berlin.de) está fuera de línea sin aviso oficial de la administración electoral](https://www.berliner-zeitung.de/article/wahlschein-portal-offline-und-die-berliner-verwaltung-warnt-mit-keinem-wort-10304575.html).\n\n[Una perturbación en señales de tráfico causó problemas en varias líneas S-Bahn](https://www.rbb24.de/panorama/beitrag/2026/08/signalstoerung-s-bahn-berlin-friedrichstrasse.html). [Una mancha de aceite en la A111 provocó largos atascos](https://www.rbb24.de/panorama/beitrag/2026/08/a111-stau-oel-spur-berlin-stolpe-schulzendorfer-strasse.html).\n\n[El Acuario de Berlín (Aquarium im Zoo) reabrió completamente](https://www.rbb24.de/panorama/beitrag/2026/08/aquarium-berliner-zoo-wiedereroeffnung.html) tras trabajos de renovación.\n\n[Un incendio en un edificio residencial en Friedrichshain fue probablemente causado por un defecto técnico](https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-brand-wohnhaus-fahrlaessige-vorsaetzliche-brandstiftung.html).\n\nRegulaciones de la UE: [Las nuevas reglas de envasado de la UE (PPWR) están obligando a vendedores que envían a otros estados miembros a designar representantes legales, ampliando requisitos administrativos y costos](https://www.berliner-zeitung.de/article/ppwr-dresdner-haendler-versand-eu-laender-bevollmaechtigte-10297670.html).\n\n## Mundo\n\n**Oriente Próximo y Ormuz**: [Trump declaró que el estrecho de Ormuz es \"nuevo territorio de Estados Unidos\" mediante una imagen en su red social](https://elpais.com/internacional/2026-08-18/trump-declara-el-estrecho-de-ormuz-nuevo-territorio-de-estados-unidos.html), escalando sus amenazas de anexión territorial. [Irán respondió afirmando que mantendrá el Ormuz cerrado hasta que EE.UU. cumpla un acuerdo de junio](https://www.brasildefato.com.br/2026/08/18/ira-afirma-que-ormuz-permanecera-fechado-ate-que-eua-cumpram-acordo-trump-ameaca-oma/), mientras Trump amenaza a Omán.\n\n**Seguridad y justicia españolas**: [Una red de inmigración ilegal fue desmantelada con 65 detenidos en varias provincias españolas tras concertar matrimonios de conveniencia para regularizar documentos, generando 300 empadronamientos fraudulentos y 30 millones en lucro](https://elpais.com/espana/2026-08-18/cae-una-red-de-inmigracion-ilegal-que-concertaba-matrimonios-de-conveniencia.html). [El Supremo español estableció que cambiar el sexo en el registro civil no tiene efectos retroactivos para anular condenas de violencia de género, incluso si la modificación se hizo antes del delito, si se prueba \"intencionalidad de defraudar la ley\"](https://elpais.com/sociedad/2026-08-18/el-supremo-establece-que-cambiar-el-sexo-en-el-registro-civil-no-tiene-efectos-retroactivos-para-anular-una-condena-de-violencia-machista.html).\n\n**Conflicto local de libre expresión**: [El Ayuntamiento de Torrelodones (Madrid) pagó un 10% menos del contrato a una compañía teatral por declaraciones pro-Palestina tras una función, con la directora denunciando incumplimiento de contrato y la alcaldesa argumentando que el teatro no es lugar para proclamas políticas](https://elpais.com/cultura/2026-08-18/el-ayuntamiento-de-torrelodones-paga-un-10-menos-de-lo-acordado-a-una-compania-teatral-por-apoyar-a-palestina-tras-una-funcion.html).\n\n**Desastres naturales**: [Un nuevo terremoto de magnitud 4,8 sacudió Granada con epicentro en Gójar, dejando tres heridos leves en el área metropolitana](https://elpais.com/espana/2026-08-18/un-nuevo-terremoto-de-magnitud-46-sacude-granada.html). [Un soldado de la UME murió combatiendo el incendio de Las Peñas de Riglos en Huesca](https://www.elindependiente.com/sociedad/2026-08-16/muere-un-soldado-de-la-ume-durante-el-operativo-contra-el-incendio-de-las-penas-de-riglos-en-huesca/).\n\n**Crisis económica Bolivia**: [Diesel subió un 84% en Bolivia para grandes consumidores tras eliminar subvención parcial para cubrir demanda y colas en estaciones de servicio](https://elpais.com/america/2026-08-18/el-diesel-sube-un-84-en-bolivia-para-los-grandes-consumidores.html).\n\n**Migraciones en Ceuta**: [El Poder Judicial ve necesario reforzar juzgados de Ceuta por la crisis migratoria](https://elpais.com/espana/2026-08-18/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html), mientras gobierno y oposición se disputan responsabilidades sobre la \"inacción\" y la necesidad de \"colaboración entre administraciones\".\n\n**Deportes**: [132 guardias civiles se encargarán de la seguridad de la Vuelta Ciclista a España en Mónaco, Francia y Andorra](https://elpais.com/deportes/2026-08-18/132-guardias-civiles-se-encargaran-de-la-seguridad-de-la-vuelta-ciclista-a-espana.html).\n\n**Vino sueco**: [Vinos de Skåne en Suecia ganaron una cata a ciegas frente a todos los competidores, convirtiéndose en \"Toscana Nórdica\" con producción de clase mundial](https://www.economist.com/culture/2026/08/18/world-class-wine-is-being-made-in-a-corner-of-sweden-yes-sweden).\n\n**Tecnología y IA**: [OpenAI emitió advertencias de que el modelo GLM-5.3 de Z.ai (chino) podría \"acelerar significativamente el panorama de amenazas\" de IA](https://thenewstack.io/openai-open-weight-glm-5-3/). [Claude de Anthropic ahora puede eliminar agentes de voz en producción directamente desde una ventana de chat](https://thenewstack.io/elevenlabs-mcp-voice-agents/).\n\n**Startups europeas**: [Gravis Robotics (Suiza) se convirtió en el último unicornio europeo tras recaudar 172 millones de euros en Series A, alcanzando valoración de 862 millones](https://www.eu-startups.com/2026/08/gravis-robotics-becomes-europes-latest-robotics-unicorn-after-e172-million-series-a.html). [QuantumLight (Londres), fundada por Nik Storonsky de Revolut, cerró su segundo fondo con 432 millones de euros para estrategia de VC impulsada por IA](https://www.eu-startups.com/2026/08/revolut-founders-quantumlight-raises-e432-million-for-ai-driven-venture-strategy.html). [Computomics (Tubinga) recaudó 6,3 millones de euros en Series B para plataforma de crianza climáticamente inteligente contra sequía](https://www.eu-startups.com/2026/08/germanys-computomics-secures-e6-3-million-to-help-crop-breeders-stay-ahead-of-heat-and-drought.html). [Oceanloop (Múnich) aseguró hasta 38,5 millones de euros para sistemas de acuicultura en recirculación de agua dulce](https://www.eu-startups.com/2026/08/munich-based-oceanloop-nets-up-to-e38-5-million-to-scale-its-land-based-aquaculture-technology.html).\n\n**Brasil**: [La selección de gimnasia rítmica llegó a Brasil tras campaña histórica en el Mundial, con nueva misión en los Juegos Suramericanos](https://oglobo.globo.com/esportes/noticia/2026/08/18/apos-campanha-historica-selecao-de-gr-chega-ao-brasil-com-festa-e-nova-missao-os-jogos-sul-americanos.ghtml). [Murió Laura Cardoso, actriz brasileña de 98 años que atravesó generaciones de la dramaturgia brasileña](https://www.brasildefato.com.br/2026/08/18/laura-cardoso-atriz-que-atravessou-geracoes-da-dramaturgia-brasileira-morre-aos-98-anos.html).\n\n**Regulación de tránsito Brasil**: [Contran amplió la Ley Seca brasileña para detectar consumo de drogas y evitar detectar alcohol residual en la boca con nuevos aparatos](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/contran-amplia-lei-seca-para-detectar-consumo-de-drogas-e-evitar-pegar-alcool-residual-na-boca.shtml).\n\n## Si te lo perdiste\n\n[Los incendios forestales sin control en España siguen amenazando patrimonio histórico como el monasterio de San Juan de la Peña en Huesca, con riesgos de desastre irreversible y evacuaciones masivas que continúan](https://elpais.com/espana/2026-08-14/el-incendio-de-huesca-deja-16-municipios-evacuados-y-amenaza-san-juan-de-la-pena-si-arde-se-perderia-el-simbolo-del-origen-de-aragon.html).\n\n[El incendio forestal en la frontera belga-alemana (Landas Altas de Bélgica) sigue requiriendo evacuaciones y sigue siendo uno de los peores incendios de la historia belga, con lluvias y temperaturas más bajas ahora ayudando en contención](https://www.dw.com/en/belgium-wildfire-rains-help-high-fens-containment-efforts/",
+  "articles": [
+    {
+      "source": "El País",
+      "title": "Cae una red de inmigración ilegal que concertaba matrimonios de conveniencia",
+      "link": "https://elpais.com/espana/2026-08-18/cae-una-red-de-inmigracion-ilegal-que-concertaba-matrimonios-de-conveniencia.html",
+      "teaser": "La operación policial se salda con 65 detenidos en varias provincias, 300 empadronamientos en fraude de ley y un lucro de 30 millones",
+      "region": "global",
+      "published": "2026-08-18T13:48:38+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "El Supremo establece que cambiar el sexo en el registro civil no tiene efectos retroactivos para anular una condena de violencia machista",
+      "link": "https://elpais.com/sociedad/2026-08-18/el-supremo-establece-que-cambiar-el-sexo-en-el-registro-civil-no-tiene-efectos-retroactivos-para-anular-una-condena-de-violencia-machista.html",
+      "teaser": "El Alto Tribunal sienta también jurisprudencia al señalar que, aunque la modificación registral se haga antes de cometer el delito, tampoco es válida si se prueba “intencionalidad de defraudar la ley”",
+      "region": "global",
+      "published": "2026-08-18T13:46:16+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "El Ayuntamiento de Torrelodones paga un 10% menos de lo acordado a una compañía teatral por apoyar a Palestina tras una función",
+      "link": "https://elpais.com/cultura/2026-08-18/el-ayuntamiento-de-torrelodones-paga-un-10-menos-de-lo-acordado-a-una-compania-teatral-por-apoyar-a-palestina-tras-una-funcion.html",
+      "teaser": "La directora Daniela Fejerman denuncia incumplimiento de contrato y la alcaldesa replica que el teatro no debe ser lugar para soflamas políticas",
+      "region": "global",
+      "published": "2026-08-18T13:43:38+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "El diésel sube un 84% en Bolivia para los grandes consumidores",
+      "link": "https://elpais.com/america/2026-08-18/el-diesel-sube-un-84-en-bolivia-para-los-grandes-consumidores.html",
+      "teaser": "Un decreto elimina la subvención parcial del combustible para poder cubrir la demanda de hidrocarburos que provoca largas filas en las estaciones de servicio",
+      "region": "global",
+      "published": "2026-08-18T13:31:45+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Poder Judicial ve necesario reforzar los juzgados de Ceuta por la crisis migratoria",
+      "link": "https://elpais.com/espana/2026-08-18/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "teaser": "El Gobierno apela a la “colaboración entre administraciones” y acusa al PP de acudir a Ceuta para “tensionar” | El PP insiste en “reclamar la normalidad” y critica la “inacción” del Gobierno central",
+      "region": "global",
+      "published": "2026-08-18T13:24:06+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Un nuevo terremoto de magnitud 4,8 sacude Granada y deja tres personas con heridas leves",
+      "link": "https://elpais.com/espana/2026-08-18/un-nuevo-terremoto-de-magnitud-46-sacude-granada.html",
+      "teaser": "El temblor, con epicentro en Gójar, se ha dejado sentir con fuerza en el área metropolitana de la capital. “Es una tortura”, dice una vecina afectada",
+      "region": "global",
+      "published": "2026-08-18T13:18:20+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "132 guardias civiles se encargarán de la seguridad de la Vuelta Ciclista a España",
+      "link": "https://elpais.com/deportes/2026-08-18/132-guardias-civiles-se-encargaran-de-la-seguridad-de-la-vuelta-ciclista-a-espana.html",
+      "teaser": "Los agentes acompañarán a los deportistas en Mónaco, Francia y Andorra",
+      "region": "global",
+      "published": "2026-08-18T13:01:08+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Trump declara el estrecho de Ormuz “nuevo territorio de Estados Unidos”",
+      "link": "https://elpais.com/internacional/2026-08-18/trump-declara-el-estrecho-de-ormuz-nuevo-territorio-de-estados-unidos.html",
+      "teaser": "El republicano va un paso más allá en sus amenazas de anexión con una imagen publicada en su propia red social",
+      "region": "global",
+      "published": "2026-08-18T12:56:26+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "World-class wine is being made in a corner of Sweden. Yes, Sweden",
+      "link": "https://www.economist.com/culture/2026/08/18/world-class-wine-is-being-made-in-a-corner-of-sweden-yes-sweden",
+      "teaser": "Bottles from Skane, the “Nordic Tuscany”, beat all comers in a blind tasting",
+      "region": "global",
+      "published": "2026-08-18T11:10:54+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Settler bet: a West Bank flashpoint",
+      "link": "https://www.economist.com/podcasts/2026/08/18/settler-bet-a-west-bank-flashpoint",
+      "teaser": "Also on the daily podcast: the contradictions of India’s civil codes and our columnist responds to big-name correspondence",
+      "region": "global",
+      "published": "2026-08-18T10:23:30+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Introducing our latest newsletter, The Economist for You",
+      "link": "https://www.economist.com/international/2026/08/18/introducing-our-latest-newsletter-the-economist-for-you",
+      "teaser": "A personalised reading list, sent straight to your inbox",
+      "region": "global",
+      "published": "2026-08-18T09:35:29+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Why index funds demand active choices",
+      "link": "https://www.economist.com/podcasts/2026/08/18/why-index-funds-demand-active-choices",
+      "teaser": "A handpicked article read aloud from the latest issue of The Economist",
+      "region": "global",
+      "published": "2026-08-18T08:52:37+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "The problem with Republican fundraising",
+      "link": "https://www.economist.com/united-states/2026/08/17/the-problem-with-republican-fundraising",
+      "teaser": "Democratic candidates are outraising their rivals",
+      "region": "global",
+      "published": "2026-08-17T20:19:00+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "What AI has in common with dogs",
+      "link": "https://www.economist.com/culture/2026/08/17/what-ai-has-in-common-with-dogs",
+      "teaser": "Two new books ponder whether the technology will be tame or savage",
+      "region": "global",
+      "published": "2026-08-17T17:35:39+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "The world’s most influential economist is oddly unconvincing",
+      "link": "https://www.economist.com/finance-and-economics/2026/08/17/the-worlds-most-influential-economist-is-oddly-unconvincing",
+      "teaser": "Daron Acemoglu is revered. Why?",
+      "region": "global",
+      "published": "2026-08-17T17:34:22+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Violent Israeli settlers want to provoke a Palestinian uprising",
+      "link": "https://www.economist.com/middle-east-and-africa/2026/08/17/violent-israeli-settlers-want-to-provoke-a-palestinian-uprising",
+      "teaser": "They are operating with the tacit support of Israel’s government",
+      "region": "global",
+      "published": "2026-08-17T17:25:59+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "How Alliances Survive",
+      "link": "https://www.foreignaffairs.com/united-states/how-alliances-survive-campbell-doshi",
+      "teaser": "The case against pessimism and the path to a new allied order.",
+      "region": "global",
+      "published": "2026-08-18T04:00:00+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "“The Strategy of Terrorism”",
+      "link": "https://www.foreignaffairs.com/the-back-page/strategy-terrorism",
+      "teaser": "A quarter century before 9/11, an upsurge in global terrorism prompted the historian David Fromkin to examine its purpose and method. Terrorism was a strategy of the weak, Fromkin wrote in these pages, but modern technology had enabled it “to enter the political arena on a new scale.” And its surprising success seemed to be due, in large part, “to a miscomprehension of the strategy by its opponents.”",
+      "region": "global",
+      "published": "2026-08-18T04:00:00+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "How China Found Its Most Potent Weapon",
+      "link": "https://www.foreignaffairs.com/china/how-china-found-most-potent-weapon-xiong-weiss",
+      "teaser": "The real history of Beijing’s rare-earth dominance.",
+      "region": "global",
+      "published": "2026-08-18T04:00:00+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "Democracies Need Creative Destruction",
+      "link": "https://www.foreignaffairs.com/united-states/democracies-need-creative-destruction-pahlka-greenway",
+      "teaser": "How to make government work again.",
+      "region": "global",
+      "published": "2026-08-18T04:00:00+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "AI and the New Age of Bioweapons",
+      "link": "https://www.foreignaffairs.com/united-states/ai-and-new-age-bioweapons-sherwood-randall",
+      "teaser": "Preparing for a world of synthetic pathogens.",
+      "region": "global",
+      "published": "2026-08-18T04:00:00+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "America’s Missing Military Revolution",
+      "link": "https://www.foreignaffairs.com/united-states/americas-missing-military-revolution-doug-beck",
+      "teaser": "Why Washington still risks losing the tech race.",
+      "region": "global",
+      "published": "2026-08-18T04:00:00+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "The End of the American Middle East",
+      "link": "https://www.foreignaffairs.com/united-states/end-american-middle-east-iran-marc-lynch",
+      "teaser": "Iran and the last gasp of a failed order.",
+      "region": "global",
+      "published": "2026-08-18T04:00:00+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "The Abandoned Order",
+      "link": "https://www.foreignaffairs.com/united-states/abandoned-order-world-mark-leonard",
+      "teaser": "Learning to live in a post-American world.",
+      "region": "global",
+      "published": "2026-08-18T04:00:00+00:00"
+    },
+    {
+      "source": "Le Monde diplomatique",
+      "title": "August: the longer view",
+      "link": "https://mondediplo.com/2026/08/01zlongerview",
+      "teaser": "The month's archives. - 2026/08 / perspective",
+      "region": "global",
+      "published": "2026-08-17T15:49:22+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Muere un soldado de la UME durante el operativo contra el incendio de Las Peñas de Riglos en Huesca",
+      "link": "https://www.elindependiente.com/sociedad/2026/08/16/muere-un-soldado-de-la-ume-durante-el-operativo-contra-el-incendio-de-las-penas-de-riglos-en-huesca/",
+      "teaser": "Un miembro de la Unidad Militar de Emergencias (UME) ha fallecido este domingo mientras participaba en el operativo de extinción [&#8230;]",
+      "region": "global",
+      "published": "2026-08-16T18:17:57+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "El ministro disraelí Ben Gvir hace un llamamiento a asesinar \"entre 30 y 40 personas cada noche\" en Gaza",
+      "link": "https://www.elindependiente.com/internacional/2026/08/16/el-ministro-disraeli-ben-gvir-hace-un-llamamiento-a-asesinar-entre-30-y-40-personas-cada-noche-en-gaza/",
+      "teaser": "El ministro de Seguridad Nacional israelí, el ultraderechista y exconvicto Itamar Ben Gvir, llamó públicamente al asesinato de entre \"30 [&#8230;]",
+      "region": "global",
+      "published": "2026-08-16T17:16:46+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Can Europe finance its sustainability ambitions?",
+      "link": "https://sifted.eu/articles/can-europe-finance-its-sustainability-ambitions-brnd/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-08-18T09:05:29+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "ARR fever hits fintech: ‘We are still relevant’",
+      "link": "https://sifted.eu/articles/fintech-arr-fever/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-08-18T05:00:58+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "UK government under pressure to change non-compete rules",
+      "link": "https://sifted.eu/articles/non-compete-law-uk-government/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-08-18T05:00:28+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Exclusive: Nik Storonsky’s VC firm closes $500m for second fund",
+      "link": "https://sifted.eu/articles/revolut-nik-storonsky-quantumlight-closes-500/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-08-17T17:32:08+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Gravis Robotics hits $1bn valuation with $200m investment from SoftBank",
+      "link": "https://sifted.eu/articles/gravis-robotics-1bn-valuation-200m-softbank/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-08-17T15:51:10+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Your verified customers are for sale: The rise of account farms",
+      "link": "https://sifted.eu/articles/the-rise-of-account-farms-brnd/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-08-17T13:02:46+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Does it make sense for Revolut to get physical?",
+      "link": "https://sifted.eu/articles/revolut-airport-lounges-opinion/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-08-17T05:00:55+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "University of Glasgow spinouts looking to raise",
+      "link": "https://sifted.eu/articles/university-of-glasgow-spinouts-looking-to-raise/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-08-17T05:00:05+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "10 startups shaping our robotic future",
+      "link": "https://www.eu-startups.com/2026/08/10-startups-shaping-our-robotic-future/",
+      "teaser": "Europe’s robotics and physical AI ecosystem is expanding beyond traditional industrial automation, encompassing humanoid robots, autonomous defence and security systems, software-defined manufacturing and AI models designed to understand and act in the physical world. The startups on this list reflect that broader convergence of artificial intelligence, robotics, autonomy and advanced engineering. While not all are [&#8230;] The post 10 startups shaping our robotic future appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-08-18T13:23:11+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "Revolut founder’s QuantumLight raises €432 million for AI-driven venture strategy",
+      "link": "https://www.eu-startups.com/2026/08/revolut-founders-quantumlight-raises-e432-million-for-ai-driven-venture-strategy/",
+      "teaser": "London-based VC firm QuantumLight, co-founded by Revolut CEO Nik Storonsky in 2023, has closed its second fund at €432 million ($500 million), doubling the size of its debut vehicle as it looks to expand its data-driven approach to investing in technology companies. The fund surpassed its original target and was oversubscribed, according to QuantumLight CEO [&#8230;] The post Revolut founder’s QuantumLight raises €432 million for AI-driven venture strategy appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-08-18T12:05:52+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "Germany’s Computomics secures €6.3 million to help crop breeders stay ahead of heat and drought",
+      "link": "https://www.eu-startups.com/2026/08/germanys-computomics-secures-e6-3-million-to-help-crop-breeders-stay-ahead-of-heat-and-drought/",
+      "teaser": "Computomics, a Tübingen-based BioTech research company, has raised €6.3 million in a Series B round to scale commercial delivery of its climate-smart breeding platform, as heat and drought take an increasing toll on European harvests. The round was led by Convent Capital Agri Food Fund, which invested €5 million. Existing investors High-Tech Gründerfonds (HTGF), MBG [&#8230;] The post Germany&#8217;s Computomics secures €6.3 million to help crop breeders stay ahead of heat and drought appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-08-18T11:42:22+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "Munich-based Oceanloop nets up to €38.5 million to scale its land-based aquaculture technology",
+      "link": "https://www.eu-startups.com/2026/08/munich-based-oceanloop-nets-up-to-e38-5-million-to-scale-its-land-based-aquaculture-technology/",
+      "teaser": "Oceanloop, a Munich-based company developing software-driven recirculating aquaculture systems (RAS), has secured up to €38.5 million to scale its technology and expand production of Giant Grouper in Europe. The financing combines new equity commitments from Hatch Blue’s Blue Revolution Fund and Stolt Ventures, the venture investment arm of Stolt-Nielsen, with a €32 million venture-debt facility [&#8230;] The post Munich-based Oceanloop nets up to €38.5 million to scale its land-based aquaculture technology appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-08-18T10:12:52+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "Vilnius-based LITILIT secures €8 million financing to make femtosecond laser systems scalable",
+      "link": "https://www.eu-startups.com/2026/08/vilnius-based-litilit-secures-e8-million-financing-to-make-femtosecond-laser-systems-scalable/",
+      "teaser": "LITILIT, a Vilnius-based company, has received an €8 million loan from the Lithuanian National Development Bank ILTE for the development of a femtosecond laser modular system (FEMODA) intended to speed up the adoption of advanced lasers and open the door for new applications. The total value of the project is €10 million, while the commercialisation [&#8230;] The post Vilnius-based LITILIT secures €8 million financing to make femtosecond laser systems scalable appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-08-18T07:53:40+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "Sweden’s SweGaN raises €12.1 million to scale gallium nitride on silicon carbide epitaxial wafer production",
+      "link": "https://www.eu-startups.com/2026/08/swedens-swegan-raises-e12-1-million-to-scale-gallium-nitride-on-silicon-carbide-epitaxial-wafer-production/",
+      "teaser": "SweGaN, a Linköping-based DeepTech company specialising in the design, development, and manufacturing of gallium nitride on silicon carbide (GaN-on-SiC) epitaxial wafers, has closed a €12.09 million ($14 million) Series B round to scale production and accelerate global growth. The round was led by Swedish investor Thisbe AB, Danish VC firm North Ventures and existing shareholders. [&#8230;] The post Sweden’s SweGaN raises €12.1 million to scale gallium nitride on silicon carbide epitaxial wafer production appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-08-18T05:59:24+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "Legal AI will create more work, but not for lawyers",
+      "link": "https://www.eu-startups.com/2026/08/legal-ai-will-create-more-work-but-not-for-lawyers/",
+      "teaser": "Every wave of generative AI produces the same two headlines: &#8220;AI is destroying the industry&#8221; and &#8220;actually, AI is creating more work for the industry.&#8221; Whether this is for graphic designers, developers, or copywriters, the debate plays out the same way across sectors. Legal is no exception. Against this backdrop, the legal industry provides a [&#8230;] The post Legal AI will create more work, but not for lawyers appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-08-17T14:32:27+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "Gravis Robotics becomes Europe’s latest unicorn after €172 million Series A",
+      "link": "https://www.eu-startups.com/2026/08/gravis-robotics-becomes-europes-latest-robotics-unicorn-after-e172-million-series-a/",
+      "teaser": "Switzerland-based Gravis Robotics, a ConTech company developing autonomous technology for heavy machinery, has raised €172 million ($200 million) in a Series A round, giving the company an €862 million ($1 billion) post-money valuation &#8211; becoming Europe’s latest robotics unicorn. SoftBank is the sole investor in the round, which Gravis says is the largest Series A [&#8230;] The post Gravis Robotics becomes Europe’s latest unicorn after €172 million Series A appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-08-17T13:51:18+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "OpenAI’s Greg Brockman: Z.ai’s GLM-5.3 likely to “significantly accelerate the threat landscape”",
+      "link": "https://thenewstack.io/openai-open-weight-glm-5-3/",
+      "teaser": "OpenAI has adopted a less-than-straightforward stance with regards to open-weight AI models, both raising alarms over powerful Chinese releases while The post OpenAI&#8217;s Greg Brockman: Z.ai&#8217;s GLM-5.3 likely to &#8220;significantly accelerate the threat landscape&#8221; appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-08-18T13:10:15+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Claude can now delete your production voice agent from a chat window",
+      "link": "https://thenewstack.io/elevenlabs-mcp-voice-agents/",
+      "teaser": "Developers can now ask Claude to inspect a production voice agent, revise its system prompt, change the voice entirely, or The post Claude can now delete your production voice agent from a chat window appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-08-17T19:51:01+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Anthropic defined the standards inside Agent Plugins. So why isn’t it helping govern the format?",
+      "link": "https://thenewstack.io/agent-plugins-portability-gaps/",
+      "teaser": "Earlier this month, Vercel released Agent Plugins 1.0.0 with core maintainers from AWS, Cursor, Microsoft, and OpenAI. Google announced the The post Anthropic defined the standards inside Agent Plugins. So why isn’t it helping govern the format? appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-08-17T19:27:20+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "“Open weights are nowhere near a sufficient solution”: Dario Amodei fires back on AI power",
+      "link": "https://thenewstack.io/amodei-open-weights-compute-regulation/",
+      "teaser": "The independence developers gain from open weights comes with a hard infrastructure ceiling, according to Anthropic CEO Dario Amodei. &#8220;AI The post &#8220;Open weights are nowhere near a sufficient solution&#8221;: Dario Amodei fires back on AI power appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-08-17T16:58:51+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "TNS journalist Darryl K. Taft leaves a legacy of respected work and quiet integrity",
+      "link": "https://thenewstack.io/darryl-taft-technology-journalist/",
+      "teaser": "Technology journalist Darryl K. Taft led a long and successful career at several first-rank tech publications and was a highly The post TNS journalist Darryl K. Taft leaves a legacy of respected work and quiet integrity appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-08-17T15:43:18+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Ciência suja: o que aprendemos estudando os esgotos",
+      "link": "https://www.nexojornal.com.br/colunistas/2026/08/17/saude-lixo-esgoto-saneamento-basico-alicia-kowaltowski",
+      "teaser": "&lt;p&gt;Estruturas de saneamento são fontes extraordinárias de informação histórica e científica, capazes de nos esclarecer sobre o estado de saúde e os modos de vida da maior parte da população&lt;/p&gt; &lt;p&gt;O Império Romano é famoso por sua construção de estradas, aquedutos, templos e anfiteatros. Mas me impressiono mais por algo que parece menos glamouroso, embora, do ponto de vista social, seja extremamente importante: os esgotos. &lt;/p&gt; &lt;p&gt;Mesmo sem conhecer a existência de microrganismos causadores de doenças, os romanos sabiam, por observação, que milhares de pessoas convivendo com seus próprios dejetos produziam uma população menos saudável. Assim, levavam urina e fezes muito a sério — e até mesmo em acampamentos militares em marcha cavavam latrinas locais, tomando cuidado para que a fonte de água para beber nos rios fosse a montante da água que entrasse em contato com os dejetos do exército. Nas cidades, construíam enormes latrinas públicas e drenagens, como a Cloaca Máxima em Roma, sistema que começou por volta de 600 a.C., evoluiu ao longo dos anos e ainda tem algumas partes em uso hoje, mais de 2.000 anos depois. &lt;/p&gt; &lt;p&gt;Esses esgotos da Antiguidade se tornaram uma fonte extraordinária de informação histórica e científica. Por exemplo: em cidades romanas soterradas pelo Vesúvio, como Pompeia e Herculano, arqueólogos estudaram material preservado das latrinas para descobrir o que as pessoas comiam, identificando restos de cereais, sementes de frutas, espinhas de peixes e conchas de moluscos. As amostras mostram muita variedade de alimentação: quase 100 tipos diferentes de vegetais e 40 tipos de peixes e moluscos. &lt;/p&gt; &lt;p&gt;Com isso, os cientistas perceberam que, fazendo a “ciência suja” da escavação de esgotos, podiam aprender sobre a maior parte da população e como viviam — pois, com o esgoto, todo mundo contribui, enquanto textos e objetos luxuosos encontrados em escavações de construções antigas geralmente nos contam apenas sobre a vida das elites. Fazer essa “ciência suja”, portanto, é uma forma de tornar a arqueologia mais democraticamente representativa.&lt;/p&gt; &lt;p&gt;Para entender uma sociedade e suas características, às vezes o melhor lugar para procurar é justamente no que se joga fora&lt;/p&gt; &lt;p&gt;E não aparecem apenas restos de comida. Fezes antigas também revelaram ovos de parasitas intestinais, como lombrigas e outros vermes — a sofisticada infraestrutura sanitária do Império Romano não foi suficiente para eliminá-los completamente, provavelmente porque banhos coletivos, latrinas compartilhadas, uso de fezes como fertilizante e a intensa circulação de pessoas e alimentos mantinham sua transmissão. Há evidência, porém, de que havia menos tipos de parasitas em instalações romanas com esgotos que nas grandes cidades sem infraestrutura sanitária da época. &lt;/p&gt; &lt;p&gt;Não é só na arqueologia que os esgotos nos oferecem uma fotografia da saúde de uma população. Continuamos monitorando essas estruturas no século 21 para verificar a presença de doenças transmissíveis, buscando material genético de parasitas, vírus e bactérias atuais. &lt;/p&gt; &lt;p&gt;A ideia de que o esgoto carrega informações valiosas sobre a saúde populacional se iniciou por volta de 1940, mas ganhou uma nova dimensão durante a pandemia de covid-19. Pessoas infectadas eliminam fragmentos do vírus nas fezes mesmo antes de apresentar sintomas. Assim, é possível medir a quantidade de material genético viral no esgoto, calibrando esses dados com informações de diagnósticos e acompanhando aumentos da circulação do vírus para preparar os serviços de saúde antecipadamente. &lt;/p&gt; &lt;p&gt;A técnica não é útil somente para covid-19, mas também para outros vírus com importância populacional, como o vírus da pólio, que, lastimavelmente, voltou a preocupar a saúde pública depois de quase ter sido erradicado mundialmente pela vacinação. Como a maioria das pessoas infectadas com o vírus não desenvolve paralisia, esperar que apareça um caso grave é uma maneira tardia de descobrir que ele está circulando. O esgoto denuncia sua presença antes disso, e é por isso que seu monitoramento é recomendado pela OMS (Organização Mundial da Saúde).&lt;/p&gt; &lt;p&gt;Não é só o material genético de organismos que podemos monitorar nos esgotos. Todos nós comemos, e, nos alimentos que ingerimos, há material genético das plantas e animais que os compõem. Cada humano come cerca de 100 miligramas a 1 grama de DNA por dia. &lt;/p&gt; &lt;p&gt;Pensando nisso, um estudo recente desenvolveu um método rápido, prático e de baixo custo para acompanhar, quase em tempo real, o que populações inteiras estão comendo. A técnica foi testada em comunidades da Carolina do Norte que somam mais de 2 milhões de pessoas — e aproveitando a infraestrutura de vigilância de esgotos criada durante a pandemia — e mostrou que é possível detectar diferenças alimentares associadas à renda, cultura e oferta local de alimentos, tornando possível desenvolver políticas públicas de modo baseado em melhores evidências para melhorar a nutrição populacional. Essa técnica é especialmente interessante porque descobrir o que as pessoas realmente comem é um dos grandes problemas da pesquisa em nutrição: normalmente dependemos de questionários em que perguntamos às pessoas o que comeram e esperamos que elas se lembrem e sejam sinceras, o que, comprovadamente, não são. &lt;/p&gt; &lt;p&gt;Costumamos imaginar que ciência de ponta acontece em laboratórios impecavelmente limpos, e, de fato, o ambiente laboratorial é bastante regulado. Mas, para entender uma sociedade inteira e suas características, às vezes o melhor lugar para procurar é justamente no que se joga fora, fazendo a interessante “ciência suja” dos esgotos.&lt;/p&gt;",
+      "region": "global",
+      "published": "2026-08-17T21:48:22+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Evidência científica: um guia para entender sua construção",
+      "link": "https://www.nexojornal.com.br/explicado/2026/08/17/evidencia-cientifica-o-que-e-metodo-cientifico-ciencia",
+      "teaser": "&lt;p&gt;Alvo de movimentos negacionistas, métodos rigorosos de pesquisa ajudam a embasar ações e programas que beneficiam e protegem populações. O ‘Nexo’ relembra seu histórico, evolução e importância &lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;A OMS (Organização Mundial da Saúde) informou na quarta-feira (12) que a nova ofensiva de Donald Trump sobre a política de vacinação infantil nos EUA vai contra “décadas de evidência científica”. O governo do presidente americano insiste em relacionar os imunizantes ao surgimento de condições como o autismo, com base em desinformação e negacionismo. &lt;/p&gt; &lt;p&gt;A desinformação propagada por Trump está alinhada com o chamado movimento anticientificismo, que, nos anos recentes, vem sendo impulsionado por sua convergência com determinadas agendas políticas. A propagação de alegações falsas sobre temas sensíveis de saúde pública também ocorreu na pandemia de covid-19, quando o negacionismo se sobrepôs a evidências construídas ao longo de décadas.&lt;/p&gt; &lt;p&gt;Neste texto, o Nexo explica do que se fala quando o assunto é evidência científica, quais são suas características, como elas se inserem na história da ciência e qual a sua importância para a sociedade. &lt;/p&gt; O QUE é uma evidência científica &lt;p&gt;A evidência científica nasce essencialmente de um estudo baseado no método científico. É esse resultado que dá segurança para que pesquisadores sustentem ou refutem uma hipótese sobre fenômenos da sociedade ou da natureza, abrindo espaço para que o conhecimento avance. &lt;/p&gt; &lt;p&gt;A depender do tipo de pesquisa e do nível de certeza em relação aos seus resultados, as evidências científicas podem ter validade mais ou menos forte. &lt;/p&gt; &lt;p&gt;Na saúde, essa hierarquização (conhecida como pirâmide de evidências) ajuda profissionais a tomar decisões clínicas e recomendar ou não determinado tratamento. De modo geral, as abordagens consideram que: &lt;/p&gt; revisões sistemáticas com ou sem metanálises (em que há uma visão abrangente de vários estudos sobre determinado tema) têm grau mais alto de evidência científica ensaios clínicos randomizados e controlados (em que há estudos experimentais em grupos organizados aleatoriamente) têm grau alto de evidência científica estudos de coorte (que acompanham participantes por longos períodos) e de caso-controle (que comparam pessoas com e sem determinada condição) têm grau moderado de evidência estudos de caso (com relatos sobre quadros específicos) têm grau baixo de evidência estudos de laboratório (inclusive os testes com animais), sozinhos, têm grau mais baixo de evidência, apesar de sua importância &lt;p&gt;Independentemente da força da evidência científica, é justamente seu método de construção que a difere de outros tipos de conhecimento — como o senso comum e a religião, que não têm o mesmo rigor. Mesmo que uma ideia já esteja estabelecida no discurso corrente, a ciência exige uma série de técnicas para comprová-la, atualizá-la ou mesmo descartá-la. &lt;/p&gt; &lt;p&gt;Apesar disso, movimentos políticos que ganharam força nos últimos anos têm ignorado essas evidências para defender suas visões de mundo. Esses grupos conquistaram espaço no debate público ao longo da década de 2010 e expandiram-se com a chegada da pandemia de covid-19, período em que políticos instrumentalizaram o discurso anticientífico.&lt;/p&gt; &lt;p&gt;Donald Trump, nos Estados Unidos, e Jair Bolsonaro foram alguns desses políticos. A gestão do ex-presidente brasileiro foi marcada pelo negacionismo na saúde pública, subestimando dados e recomendações oficiais e adotando uma série de decisões consideradas controversas — o que incluiu a nomeação, para chefiar o Ministério da Saúde, de um general que admitiu não saber o que era o SUS (Sistema Único de Saúde).&lt;/p&gt; COMO se constrói uma evidência científica &lt;p&gt;O ponto de partida do método científico, do qual nasce a evidência científica, é a definição de um problema ou uma pergunta seguida pela construção de uma hipótese — isto é, o que os pesquisadores pressupõem ser a resposta para o que buscam. &lt;/p&gt; &lt;p&gt;As informações necessárias para comprovar ou não a hipótese estão na experimentação. Nessa fase, os cientistas testam suas ideias e medem os resultados com diferentes tipos de estudos e ensaios, como os observacionais ou os controlados randomizados. &lt;/p&gt; &lt;p&gt;É comum que os pesquisadores repitam seus experimentos algumas vezes ou os ampliem ao longo de fases para garantir que os resultados sejam confiáveis. É o que acontece, por exemplo, quando se desenvolvem medicamentos, sendo preciso avaliar itens como eficácia, efeitos colaterais, dose adequada e melhor método de formulação da substância. &lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2025/08/Solo-mrna-vaccine-4-Spencer-DAvis-e1754599110558.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Frasco de imunizante produzido com tecnologia de RNA mensageiro &lt;/media:title&gt; &lt;media:credit&gt; Spencer D'Avis / Wikimedia Commons &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;Cada um desses pontos pode gerar outros experimentos e conclusões, com o ciclo se repetindo quantas vezes forem necessárias. No caso dos remédios, quanto maior o número de ensaios, mais certeza se tem de que os resultados individuais não geraram falsos positivos. &lt;/p&gt; &lt;p&gt;Mesmo que a hipótese inicial seja derrubada, o processo de experimentação nem sempre termina. Os cientistas podem redirecionar o estudo para entender por que suas previsões estavam erradas, culminando em novas conclusões, ou podem retomá-los para revisar suas hipóteses ou replicá-las em outros contextos. &lt;/p&gt; &lt;p&gt;O ciclo do método científico é universal, mas as abordagens adotadas em cada etapa mudam a depender da área do conhecimento e do objeto de estudo. &lt;/p&gt; &lt;p&gt;Os métodos em outras áreas&lt;/p&gt; &lt;p&gt;BIOLÓGICAS&lt;/p&gt; &lt;p&gt;Pesquisadores recorrem frequentemente a ensaios clínicos randomizados, estudos de coorte e revisões sistemáticas com metanálise, métodos considerados mais robustos.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;SOCIAIS APLICADAS&lt;/p&gt; &lt;p&gt;Métodos qualitativos e quantitativos que incluem levantamentos estatísticos, entrevistas e etnografias buscam entender a profundidade das ações e comportamentos humanos ou ainda analisar padrões e a frequência de fenômenos culturais ou comportamentais.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;EXATAS&lt;/p&gt; &lt;p&gt;Simulações computacionais e experimentações laboratoriais controladas são usadas para reproduzir fenômenos ou testar teorias. Modelagens matemáticas também são ferramentas adotadas, por exemplo, em estudos do clima.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;HUMANAS&lt;/p&gt; &lt;p&gt;Pesquisas quantitativas, como questionários fechados, e qualitativas — por meio de entrevistas, análise de discursos ou observação de determinado público — são algumas ferramentas usadas. Os estudos também podem incluir métodos históricos, etnográficos, dialéticos (com base, essencialmente, em contradições) e hipotético-dedutivos (partindo de premissas teóricas confrontadas com a realidade).&lt;/p&gt; QUANDO surgiu o método científico &lt;p&gt;O método científico surgiu da necessidade intrínseca das pessoas de compreender o universo que as circunda. Parte importante das bases da ciência que conhecemos hoje foram conceituadas ainda na Antiguidade, quando pensadores abriram mão de respostas divinas para buscar explicação para os fenômenos da natureza.&lt;/p&gt; &lt;p&gt;Aristóteles (384-322 a.C.), por exemplo, propôs que a apuração de uma premissa sobre determinado fenômeno deveria passar antes pela observação direta e pela verificação de padrões. Na prática, para ele, um cientista deveria induzir causas a partir de um fato particular observado e, com isso, deduzir e gerar explicações universais.&lt;/p&gt; &lt;p&gt;Mas havia uma limitação nessa proposição, já que uma indução equivocada poderia levar a uma explicação incoerente. Segundo críticos, não é possível generalizar uma regra ou explicação universal com base apenas num conjunto limitado de casos particulares.&lt;/p&gt; &lt;p&gt;Outro nome proeminente nas bases da ciência é o de Ibn al-Haytham (965-1040), físico e matemático árabe conhecido como o pai da óptica moderna. Na Idade Média, ele sugeriu que uma hipótese deveria ser testada por experimentos baseados em procedimentos sistemáticos. Seus escritos contribuíram para os estudos do inglês Roger Bacon (1220-1292, aproximadamente) sobre a experimentação.&lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/08/Alhazen__122459248_-1-e1786992011105.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Ibn al-Haytham, físico e matemático árabe &lt;/media:title&gt; &lt;media:credit&gt; Domínio público &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;Foi Bacon quem inspirou outros cientistas na consolidação do método científico moderno, o que ocorreu apenas com a Revolução Científica, entre os séculos 16 e 18, na Europa. O período teve como pano de fundo uma série de acontecimentos históricos que deram vazão ao desenvolvimento da ciência e a valorização da razão — incluindo o Renascimento, entre os séculos 14 e 16, e a Reforma Protestante, em 1517.&lt;/p&gt; &lt;p&gt;A partir de então, os cientistas passaram a desenvolver teorias mais robustas para explicar e prever os fenômenos naturais, envolvendo modelos matemáticos, experimentos controlados e leis físicas testadas empiricamente. &lt;/p&gt; &lt;p&gt;Em meio à profusão de descobertas, o francês René Descartes (1596-1650) e o inglês Francis Bacon (1561-1626) defenderam uma abordagem de investigação científica que fosse além do pensamento aristotélico, rompendo com as verdades impostas pela fé e levando os pensadores a observarem o mundo real, não apenas para satisfazer suas próprias curiosidades.&lt;/p&gt; &lt;p&gt;Descartes, especificamente, desenvolveu uma forma cética de separar a ciência baseada na razão de áreas como a alquimia e a astrologia. Ao publicar o livro “Discurso do método” (1637), ele propôs os fundamentos do método científico moderno. Segundo ele, o Universo se assemelharia a uma grande máquina, em que:&lt;/p&gt; equações matemáticas expressam os fenômenos do mundo as partes podem ser isoladas para que se compreenda o todo o observador deve se separar do objeto para conhecê-lo e dominá-lo o conhecimento verdadeiro sobre algo é obtido pela dedução racional e pelo rigor metodológico &lt;p&gt;O princípio da observação e experimentação sistemática aplicada ao método científico ganhou ainda outros reforços, como o astrônomo polonês Nicolau Copérnico (1473-1543), o matemático e filósofo natural italiano Galileu Galilei (1564-1642), o astrônomo e matemático alemão Johannes Kepler (1571-1630) e o matemático e físico inglês Isaac Newton (1643-1727).&lt;/p&gt; &lt;p&gt;“Evitar cuidadosamente conclusões precipitadas e preconceitos, e não incluir em meus julgamentos nada mais do que aquilo que se apresentasse à minha mente de forma tão clara e distinta que eu não tivesse motivo para duvidar”&lt;/p&gt; &lt;p&gt;René Descartes&lt;/p&gt; &lt;p&gt;em seu livro “Discurso do método”, publicado em 1637&lt;/p&gt; &lt;p&gt;Mais tarde, no século 19, a ambição de aplicar o rigor das ciências naturais às ciências sociais ganhou força com o filósofo francês Auguste Comte (1798-1857). Ele propôs o estudo da sociedade (inicialmente chamada de “física social”) com base na observação empírica e na busca por leis gerais dos fenômenos humanos.&lt;/p&gt; &lt;p&gt;No século 20, a filosofia da ciência passou por revisões profundas e enfrentou crises sobre a natureza da verdade, questionando dogmas e refinando os critérios de validação das teorias.&lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/08/Solvay_conference_1927_Version2.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Cientistas reunidos em outubro de 1927 em Bruxelas, na Bélgica &lt;/media:title&gt; &lt;media:credit&gt; Benjamin Couprie / Wikimedia Commons &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;Foi nessa época, por exemplo, que o austríaco Karl Popper (1902-1994), filósofo que formalizou o método hipotético-dedutivo, contestou a ideia de que uma lei científica pode ser comprovada pelo acúmulo de observações que a confirmam — já que nenhum número finito de casos verificados garante a validade de um enunciado universal.&lt;/p&gt; &lt;p&gt;No lugar disso, Popper propôs, na década de 1930, o chamado critério da falseabilidade: uma teoria só é científica se puder, em princípio, ser posta à prova e refutada por um experimento ou observação. Nesse sentido, resistir a um teste científico não prova que a teoria é verdadeira, apenas que ela não foi refutada — o que a diferencia de formulações não testáveis, como as pseudociências. &lt;/p&gt; &lt;p&gt;“A teoria que não for refutada por qualquer acontecimento concebível não é científica. A irrefutabilidade não é uma virtude, como frequentemente se pensa, mas um vício”&lt;/p&gt; &lt;p&gt;Karl Popper &lt;/p&gt; &lt;p&gt;em seu livro “Conjecturas e refutações”, publicado em 1980&lt;/p&gt; &lt;p&gt;O período também foi marcado por crises éticas. Embora a ciência tenha criado as vacinas ou conseguido levar a humanidade à Lua, também desenvolveu a bomba atômica — evento que abalou a crença ingênua de que o progresso científico representa necessariamente sinônimo de bem-estar humano. Os acontecimentos da época forçaram os pesquisadores a repensar a responsabilidade moral da ciência.&lt;/p&gt; QUEM produz evidências científicas &lt;p&gt;O cientista é muitas vezes visto como uma figura distante e inacessível. Há uma crença comum no imaginário popular de que a ciência é restrita a espaços como os laboratórios ou a títulos de mestres e doutores. &lt;/p&gt; &lt;p&gt;Mas, de forma simples, qualquer pessoa que se imbui de métodos científicos para gerar conhecimento pode produzir evidências científicas. A validade de uma evidência pela comunidade científica é determinada essencialmente pela forma como ela foi gerada e testada, não exatamente por quem a produziu.&lt;/p&gt; &lt;p&gt;No Brasil, a pesquisa científica é estimulada desde o ensino médio por meio de programas de iniciação científica. Neles, o estudante tem o primeiro contato com o método científico e pode desenvolver pesquisas com a orientação de professores. A modalidade abrange especialmente alunos de graduação, contemplados por políticas próprias das universidades ou vinculadas a programas governamentais, instituições ou agências de fomento.&lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2023/12/28005321/4067287677_5fbc3a3be7_o_binary_24445.jpg\" type=\"image/jpeg\" medium=\"image\"&gt; &lt;media:title&gt; Pesquisadores em laboratório &lt;/media:title&gt; &lt;media:credit&gt; Eelke / Flickr/Creative Commons &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;É comum que, a depender do tamanho do estudo e da quantidade de etapas do método utilizado, pesquisadores se reúnam em grupos de pesquisa — que podem ser multidisciplinares e compostos por diferentes níveis de formação. &lt;/p&gt; &lt;p&gt;Em 2025, o Brasil tinha 45.480 grupos de pesquisa registrados na Plataforma Lattes, uma das principais ferramentas de mapeamento da vida profissional e acadêmica de pesquisadores no Brasil, vinculada ao CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico).&lt;/p&gt; &lt;p&gt;268.701&lt;/p&gt; &lt;p&gt;pesquisadores estavam ativamente vinculados a grupos de pesquisa no Brasil em 2025, segundo levantamento da Plataforma Lattes&lt;/p&gt; &lt;p&gt;72,24% &lt;/p&gt; &lt;p&gt;eram do doutorado, titulação de 185.690 dos pesquisadores mapeados&lt;/p&gt; &lt;p&gt;3,89%&lt;/p&gt; &lt;p&gt;eram da graduação, titulação de 9.987 dos pesquisadores computados&lt;/p&gt; &lt;p&gt;Esses agrupamentos podem ocorrer ainda em redes ou consórcios de pesquisa, para que cientistas de diferentes instituições dividam estudos e infraestruturas. Um exemplo é o Genoma SUS, dedicado ao sequenciamento de genomas brasileiros para subsidiar políticas públicas no sistema público de saúde. &lt;/p&gt; &lt;p&gt;Na verdade, é difícil que um trabalho científico não seja colaborativo. A cooperação entre profissionais, que deve se basear primordialmente na confiança, é um dos elementos que contribuem para que pesquisas se tornem mais robustas, ganhem maior repertório e tenham maiores chances de gerar evidências impactantes. &lt;/p&gt; Os desafios para quem produz ciência &lt;p&gt;Um fator importante para quem produz evidências científicas é o financiamento. No Brasil, a base desse subsídio está nas fontes públicas federais e estaduais, por meio de programas de bolsas para pesquisadores e projetos geridos por agências de fomento e amparo à pesquisa. Essas entidades têm o papel de manter o fluxo de recursos constante e contemplar áreas estratégicas nas quais os investimentos terão maior impacto.&lt;/p&gt; &lt;p&gt;Uma das mais importantes agências de fomento brasileiras é a Capes (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior), vinculada ao Ministério da Educação. Voltada a formar profissionais de alta qualificação, ela investe principalmente na pós-graduação stricto sensu (mestrado e doutorado) por meio de bolsas. &lt;/p&gt; &lt;p&gt;A Capes já financiou pesquisadores premiados fora do Brasil e autores de contribuições científicas em diversas áreas do conhecimento, como epidemiologia, letras, economia, políticas públicas e urbanismo. Em 2007, a agência também passou a atuar na formação de professores da educação básica (da educação infantil ao ensino médio). &lt;/p&gt; &lt;p&gt;O órgão surgiu na década de 1950 — quando também foi criado o CNPq, principal órgão de financiamento científico —, como resposta à mobilização de cientistas pela institucionalização da pesquisa brasileira. Pouco antes, em 1948, a categoria havia fundado a SBPC (Sociedade Brasileira para o Progresso da Ciência).&lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/08/foto-sede.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; sede do CNPq em Brasília &lt;/media:title&gt; &lt;media:credit&gt; Divulgação / cnpq &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;O apoio governamental à produção de ciência se consolidou nas décadas seguintes, impulsionado pela criação de fundos específicos ao desenvolvimento científico e tecnológico geridos pelo BNDE (Banco Nacional de Desenvolvimento Econômico) — atual BNDES, criado em 1952.&lt;/p&gt; &lt;p&gt;Mesmo com a estruturação, o financiamento em pesquisa científica ainda é um desafio por conta das instabilidades econômicas e políticas no Brasil. A ciência é um dos setores historicamente negligenciados na distribuição de recursos, com cortes de verbas recorrentes e congelamento de reajustes nos valores gerais das bolsas concedidas a pesquisadores.&lt;/p&gt; &lt;p&gt;1%&lt;/p&gt; &lt;p&gt;é quanto o Brasil investe do PIB (Produto Interno Bruto), em média, em ciência, tecnologia e pesquisa e desenvolvimento, pelo menos desde os anos 2000; valor é considerado abaixo do necessário&lt;/p&gt; &lt;p&gt;No longo prazo, a falta de investimento pode intensificar um movimento conhecido como fuga de cérebros — o êxodo de profissionais de alto nível educacional (principalmente pesquisadores) para o exterior —, já que as bolsas são, via de regra, a única fonte de renda desses profissionais. &lt;/p&gt; &lt;p&gt;Os cortes também têm efeitos nos serviços públicos e na vida cotidiana, reduzindo a perspectiva do país em produzir ou acelerar inovações em diferentes setores — como a saúde, principal área afetada pela desvalorização da ciência durante a pandemia de covid-19. &lt;/p&gt; &lt;p&gt;“[Ao falar de financiamento] estamos falando da capacidade de um país formular as suas próprias perguntas, formar pessoas, manter instituições, responder a emergências e transformar conhecimento em bem-estar, desenvolvimento econômico e autonomia política”&lt;/p&gt; &lt;p&gt;Helena Nader&lt;/p&gt; &lt;p&gt;presidente da ABC (Academia Brasileira de Ciências), durante reunião anual da SBPC (Sociedade Brasileira para o Progresso da Ciência) em agosto&lt;/p&gt; &lt;p&gt;Agências privadas e filantrópicas também fomentam a pesquisa. Parte delas foca em projetos de maior risco ou em causas específicas — como ampliar o número de mulheres e pessoas não brancas na pesquisa.&lt;/p&gt; ONDE encontrar evidências científicas &lt;p&gt;Os artigos científicos são o principal meio para cientistas compartilharem suas descobertas. Eles funcionam como uma espécie de relatório do processo e dos resultados obtidos, adotando regras que vão da formatação à organização das referências teóricas. &lt;/p&gt; &lt;p&gt;Antes de serem publicados, esses textos passam pela revisão por pares, um processo no qual especialistas checam a solidez do estudo, dos experimentos e das conclusões obtidas. &lt;/p&gt; &lt;p&gt;Finalizada essa etapa, os artigos podem ser remetidos a revistas científicas, publicações que abraçam os mais diversos temas e abordagens do conhecimento — como a Revista Sociedade Científica e a Acta Amazonica, publicações multidisciplinares consideradas referências no Brasil. Já a britânica Nature e a americana Science, por exemplo, são duas das principais no mundo.&lt;/p&gt; &lt;p&gt;Existem periódicos com mais e menos credibilidade. Isso é medido pelo chamado fator de impacto — calculado a partir de quantas vezes os artigos daquela publicação foram citados em outros estudos. Quanto maior o número, maior a credibilidade.&lt;/p&gt; &lt;p&gt;5.274 &lt;/p&gt; &lt;p&gt;revistas científicas brasileiras estavam cadastradas até março de 2026, com 4.999 delas ativas, segundo o Ibict (Instituto Brasileiro de Informação em Ciência e Tecnologia)&lt;/p&gt; &lt;p&gt;A Capes também tem um sistema próprio de classificação de artigos e periódicos brasileiros, considerado uma das pontes para a avaliação da qualidade dos programas de pós-graduação. &lt;/p&gt; &lt;p&gt;A metodologia Qualis surgiu em 1998 e foi aprimorada ao longo do tempo, mas foi descontinuada em 2025 após a entidade anunciar mudanças na escala de classificação para favorecer critérios mais justos e individualizados. &lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2023/11/29201915/capes20por20agencia20brasil_binary_267417.jpg\" type=\"image/jpeg\" medium=\"image\"&gt; &lt;media:title&gt; Fachada do edifício-sede da Capes &lt;/media:title&gt; &lt;media:credit&gt; Marcello Casal Jr / Agência Brasil - 19.SET.2020 &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;A ideia é que os pesquisadores tenham mais autonomia para escolher os periódicos em que vão publicar, já que o foco da avaliação será essencialmente sobre seu trabalho e não apenas sobre o desempenho da revista. A nova metodologia leva em conta:&lt;/p&gt; indicadores bibliométricos da revista, como as citações elementos quantitativos, como índices de citações de trabalhos, além de indicadores alternativos, como menções em redes sociais e número de downloads elementos qualitativos de cada artigo, o que inclui a avaliação de sua contribuição científica e seu impacto teórico &lt;p&gt;Parte dos pesquisadores criticou a mudança, especialmente pela proposta de indicadores alternativos. Segundo eles, métricas de redes sociais e downloads são pouco relevantes para a produção científica e podem superficializar a avaliação. &lt;/p&gt; &lt;p&gt;Além disso, os críticos afirmam que a atualização atende a uma lógica de mercantilização que avança sobre a produção científica, podendo tornar o processo de avaliação qualitativa menos rigoroso.&lt;/p&gt; &lt;p&gt;Essa é uma preocupação geral no meio científico, especialmente diante das revistas conhecidas como predatórias. É comum que periódicos cobrem taxas para custear a produção e a disseminação de trabalhos. Em alguns casos, esse custo é repassado ao leitor em plataformas de acesso pago; em outros, ao pesquisador. No entanto, uma parcela dos periódicos explora a prática ao cobrar valores exorbitantes e abrir mão de revisões rigorosas com a promessa de publicações mais rápidas.&lt;/p&gt; &lt;p&gt;As revistas predatórias descambam para uma série de implicações para a ciência, que vão desde esquemas de falsificação de trabalhos científicos até o incentivo à pseudociência (quando a pesquisa não seguiu a metodologia científica) — já que pessoas leigas têm usado publicações com falsas evidências para sustentar a desinformação.&lt;/p&gt; QUAIS são os limites das evidências científicas &lt;p&gt;Embora as evidências científicas sejam fundamentais, parte dos pesquisadores lembra que há limitações no processo de produção e reconhecimento do saber científico. A discussão, que ganhou espaço no século 20, tem a ver com a própria noção de ciência e sua posição diante de outros saberes.&lt;/p&gt; &lt;p&gt;Parte desses pesquisadores, especialmente na filosofia, rejeita a ideia de que a verdade científica seja absoluta e a única forma de conhecimento legítimo — especialmente em campos como o ambiental, em que pesquisadores defendem a intersecção entre múltiplos sistemas de conhecimento, como o científico e os tradicionais.&lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/08/1280px-Vandana_Shiva_-_Global_Citizen_Festival_Hamburg_05.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Filósofa e física indiana Vandana Shiva &lt;/media:title&gt; &lt;media:credit&gt; Frank Schwichtenberg / Wikimedia Commons &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;Em seu livro “Monoculturas da mente” (1993), a filósofa e física indiana Vandana Shiva (1952-), por exemplo, classificou o saber ocidental moderno como um sistema falsamente universalizado, sustentado num processo intelectualmente violento e colonizador. &lt;/p&gt; &lt;p&gt;“O desaparecimento do saber local por meio de sua interação com o saber ocidental dominante acontece em muitos planos, por meio de muitos processos. Primeiro fazem o saber local desaparecer simplesmente não o vendo, negando sua existência. Isso é muito fácil para o olhar distante do sistema dominante de globalização”&lt;/p&gt; &lt;p&gt;Vandana Shiva&lt;/p&gt; &lt;p&gt;no ensaio “Monoculturas da mente”, publicado no livro de mesmo nome&lt;/p&gt; &lt;p&gt;Como proposto pelo historiador e filósofo americano Thomas Kuhn (1922-1996), o conhecimento científico apenas se define como verdade absoluta enquanto um novo paradigma não o substitui. &lt;/p&gt; &lt;p&gt;Um exemplo disso ocorreu nos anos 1990, com a mudança de paradigmas científicos no campo da ecologia. O modelo de sustentabilidade da caça, especificamente, passou por mudanças quando pesquisadores reconheceram práticas sustentáveis adotadas historicamente por seringueiros da Amazônia.&lt;/p&gt; POR QUE é importante basear políticas públicas em evidências &lt;p&gt;Evidências científicas são amplamente defendidas como um motor do desenvolvimento econômico e social de um país. &lt;/p&gt; &lt;p&gt;O investimento na ciência amplia a capacidade de resposta institucional, especialmente diante de crises, fornecendo dados e informações qualificadas para entender diferentes cenários e orientar a tomada de decisões. &lt;/p&gt; &lt;p&gt;“Em contextos democráticos, informação qualificada e plural confere lastro técnico para a decisão inexoravelmente política sobre as políticas públicas”&lt;/p&gt; &lt;p&gt;Paulo Jannuzzi &lt;/p&gt; &lt;p&gt;professor da Escola Nacional de Ciências Estatísticas do IBGE (Instituto Brasileiro de Geografia e Estatística), ao Nexo Políticas Públicas em 2025&lt;/p&gt; &lt;p&gt;Esse processo fica mais evidente no Brasil em contextos de emergência em saúde pública, como no caso da epidemia de zika vírus em 2015. &lt;/p&gt; &lt;p&gt;Na época, o governo destinou recursos para instituições de pesquisa, que se debruçaram em estudos sobre os efeitos da microcefalia em crianças. Uma dessas pesquisas detectou a ocorrência de convulsões graves com padrões eletrográficos únicos, o que levou à recomendação de um medicamento antiepiléptico pouco usado no Brasil até então (o Levetiracetam) para o tratamento da condição.&lt;/p&gt; &lt;p&gt;As evidências científicas também são essenciais para entender se as políticas públicas têm conseguido atingir seus objetivos. Segundo especialistas, a cultura de avaliação ainda é incipiente no Brasil, o que torna um desafio fazer diagnósticos precisos e focalizar programas. &lt;/p&gt; &lt;p&gt;O investimento na ciência também fortalece a soberania nacional, tornando os países menos dependentes de tecnologias e soluções estrangeiras. É o caso da produção de biocombustíveis — setor que tem protagonismo brasileiro. Pesquisadores consideram o aporte na ciência um investimento com forte impacto social e retorno financeiro.&lt;/p&gt; EM ASPAS &lt;p&gt;“Afirmações extraordinárias necessitam de evidências extraordinárias”&lt;/p&gt; &lt;p&gt;Carl Sagan&lt;/p&gt; &lt;p&gt;astrônomo americano, no livro “O mundo assombrado pelos demônios”, publicado em 1996&lt;/p&gt; &lt;p&gt;“Talvez a característica mais fascinante da evidência científica seja seu caráter provisório. Uma afirmação científica é forte não porque é eterna, mas porque está sujeita a revisão quando surgirem dados ou métodos melhores”&lt;/p&gt; &lt;p&gt;Luis Felipe Reyes&lt;/p&gt; &lt;p&gt;professor da Faculdade de Medicina da Universidad de La Sabana, na Colômbia, em artigo publicado em março de 2026&lt;/p&gt; &lt;p&gt;“Procuramos evidências não para provar declarações, mas para nos mostrar a realidade, seja ela a favor ou contra uma hipótese científica inicial formulada”&lt;/p&gt; &lt;p&gt;Alicia Kowaltowski&lt;/p&gt; &lt;p&gt;médica, professora e integrante da Academia Brasileira de Ciências e da Academia de Ciências do Estado de São Paulo, em coluna do Nexo em 2025&lt;/p&gt; &lt;p&gt;“Precisamos construir um letramento cruzado: o cientista precisa aprender sobre a regulamentação de políticas públicas para saber como a ciência pode ser útil, e o parlamentar precisa entender sobre evidências científicas para saber usá-las”&lt;/p&gt; &lt;p&gt;Natalia Pasternak&lt;/p&gt; &lt;p&gt;presidente do Instituto Questão de Ciência, durante entrevista em março de 2026&lt;/p&gt; NA ARTE: livros e séries Livro “O ponto cego: Por que a ciência não pode ignorar a experiência humana”, dos pesquisadores Marcelo Gleiser, Adam Frank e Evan Thompson, com críticas ao esquecimento da ciência enquanto atividade humana Série documental “A história da ciência: poder, provas e paixão”, que explora o avanço científico moldado por contextos históricos variados Livro “O mundo assombrado pelos demônios”, do professor de astronomia e ciências espaciais Carl Sagan, sobre os efeitos do analfabetismo científico para a sociedade Série documental “Ciência na Amazônia”, sobre as trajetórias de pesquisadores durante o governo de Jair Bolsonaro Livro “Cartas a um jovem cientista”, do biólogo Edward O. Wilson, com conselhos e reflexões sobre a carreira na ciência Livro “Folha de lótus, escorregador de mosquito”, do biólogo Fernando Reinach, com crônicas sobre casos singulares encontrados nas principais revistas científicas do mundo Livro “História preta das coisas: 50 invenções científico-tecnológicas de pessoas negras”, da professora, escritora e ativista Bárbara Carine Soares Pinheiro Série documental “A corrida das vacinas”, sobre o processo de pesquisa e produção de imunizantes durante a pandemia de covid-19 Vá ainda mais fundo Especial “A história ilustrada de um saber”, do Nexo, sobre saberes científicos essenciais para a vida humana ao longo dos séculos Podcast “Cientistas do Brasil”, do Nexo, que reúne entrevistas com pesquisadores com carreiras consolidadas em instituições do Brasil e do exterior Podcast “Ciência suja”, com episódios sobre histórias de fraudes científicas e seus prejuízos para a sociedade Podcast “Os três elementos”, sobre o universo científico presente no dia a dia Este conteúdo é parte da cobertura especial “Promover a saúde na era da desinformação”, feita com apoio da Umane, uma associação civil, independente, isenta e sem fins lucrativos que apoia iniciativas no âmbito da saúde pública.",
+      "region": "global",
+      "published": "2026-08-17T21:21:46+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "O que o momento da Casas Bahia diz dela. E o que diz do varejo",
+      "link": "https://www.nexojornal.com.br/expresso/2026/08/17/casas-bahia-loja-recuperacao-judicial-varejo",
+      "teaser": "&lt;p&gt;Grupo entrou com pedido de recuperação judicial após divulgação de prejuízo de R$ 10,1 bilhões no segundo trimestre. Quase 300 lojas da empresa foram fechadas em agosto&lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/08/GPA10.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Loja da Casas Bahia &lt;/media:title&gt; &lt;media:credit&gt; Carina Caracol / Wikimedia Commons - 02.02.2015 &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;O Grupo Casas Bahia protocolou um pedido de recuperação judicial no Foro Central Cível de São Paulo no domingo (16). De acordo com comunicado da empresa, a solicitação ocorreu num “contexto de deterioração das condições econômico-financeiras” da companhia. O ambiente macroeconômico também foi apontado como um dos motivos para a situação, por fatores como elevadas taxas de juros, restrição de crédito, aumento dos custos e queda no consumo.&lt;/p&gt; &lt;p&gt;R$ 17,32 bilhões&lt;/p&gt; &lt;p&gt;é o valor das dívidas das Casas Bahia&lt;/p&gt; &lt;p&gt;A crise se reflete na operação do grupo varejista: 298 lojas fecharam em agosto no país, com cerca de 3.000 demissões no mês. O pedido vem dois anos após uma recuperação extrajudicial feita em 2024 com a intenção de melhorar o fluxo de caixa da companhia.&lt;/p&gt; &lt;p&gt;Neste texto, o Nexo apresenta o momento das Casas Bahia e mostra como ela chegou à recuperação judicial. Além disso, explica a situação do varejo em 2026. &lt;/p&gt; O momento das Casas Bahia &lt;p&gt;No comunicado sobre a recuperação judicial, as Casas Bahia afirmaram que a decisão faz parte da reestruturação financeira da companhia, em andamento há três anos.&lt;/p&gt; &lt;p&gt;O Plano de Transformação foi anunciado em agosto de 2023, como uma das primeiras medidas da gestão de Renato Franklin, que havia assumido o cargo de CEO três meses antes. O Grupo Casas Bahia – à época nomeado Via Varejo – vinha de quatro trimestres consecutivos com prejuízos. O baixo aquecimento do mercado após a pandemia de covid-19 foi um dos principais problemas do período. &lt;/p&gt; &lt;p&gt;Segundo Marcos Lyra, professor do departamento de economia da UFF (Universidade Federal Fluminense), o grupo teve dificuldades de se adaptar ao ambiente digital. “Enquanto a Magazine Luiza se diversificou para sobreviver diante da concorrência estrangeira, criando serviços alternativos como computação em nuvem, as Casas Bahia concentraram sua aposta no varejo”, afirmou ao Nexo. &lt;/p&gt; &lt;p&gt;O Plano de Transformação visava à rentabilidade e ao crescimento de caixa, com o enxugamento de projetos vistos como não essenciais e a priorização da venda de móveis e eletrodomésticos no crediário. Além disso, a empresa fechou 55 lojas e demitiu mais de 8.000 funcionários em 2023.&lt;/p&gt; &lt;p&gt;Em abril de 2024, a companhia fez um acordo extrajudicial com o Bradesco e o Banco do Brasil para a renegociação de dívidas de R$ 4,07 bilhões. No processo de recuperação extrajudicial, devedores e credores tentam chegar a um acordo sobre o pagamento sem a intervenção da Justiça – apenas a homologação, que ocorreu em junho de 2024 –, com a manutenção do funcionamento da empresa.&lt;/p&gt; &lt;p&gt;O valor da dívida com os dois bancos seguiu o mesmo, mas o prazo para pagamento passou de 22 meses para 72 (seis anos). Também se estabeleceu uma carência de 24 meses para o pagamento de juros, sendo retomados em 2026. &lt;/p&gt; &lt;p&gt;Mesmo com o planejamento, as Casas Bahia seguiram com problemas financeiros. “Essa dificuldade de acesso a novos empréstimos, com capital de giro [recursos usados para a empresa operar no dia a dia] apertado e custo elevado, dificultou ainda mais essa possibilidade de se organizar para tentar superar esse momento de crise”, disse Ecio Costa, professor de economia da UFPE (Universidade Federal de Pernambuco), ao Nexo.&lt;/p&gt; &lt;p&gt;Os balanços financeiros das Casas Bahia seguiram com dívidas. O segundo trimestre de 2026 registrou um prejuízo líquido de R$ 10,1 bilhões, contra R$ 555 milhões no mesmo período de 2025. No entanto, o grupo afirmou que a maior parte desse valor é de ajustes contábeis extraordinários e não recorrentes, como fechamento de lojas, reorganização de pessoal e baixa de ativos. &lt;/p&gt; &lt;p&gt;De acordo com Costa, a ressalva ajuda a manter o fluxo de caixa da empresa. “Porque vem dizer que a empresa ainda tem dinheiro vivo para honrar compromissos, pagar funcionários, fornecedores e manter lojas abertas. É um prejuízo que é mais contábil no papel, mas não significa necessariamente que o dinheiro sumiu”, afirmou o professor da UFPE. &lt;/p&gt; A recuperação judicial &lt;p&gt;Para Guilherme Macedo, professor do curso de graduação em administração da UFRGS (Universidade Federal do Rio Grande do Sul), houve uma “tempestade perfeita” para o pedido de recuperação judicial das Casas Bahia. “Um negócio com margem muito estreita, uma concorrência muito grande, pessoas sem renda para consumir e elevado custo do capital de giro em função do descalabro fiscal”, disse ao Nexo.&lt;/p&gt; &lt;p&gt;O processo de recuperação judicial acontece quando não há acordo com empresas e credores e é necessário ter uma intervenção da Justiça. Caso o pedido seja aceito, a empresa continua funcionando e fica protegida de eventuais pedidos de falência por parte dos credores.&lt;/p&gt; &lt;p&gt;A intenção da recuperação judicial é manter o funcionamento da empresa e os postos de trabalho. Caso não exista acordo entre credores e a empresa devedora ou haja descumprimento das regras estabelecidas no plano de recuperação, a Justiça pode decretar a falência.&lt;/p&gt; &lt;p&gt;A companhia pediu por uma suspensão temporária das cobranças por 180 dias, que depende da aprovação da Justiça. A petição da recuperação judicial das Casas Bahia também solicitou a manutenção de contratos essenciais, como luz, água, equipes de segurança e aluguéis de estabelecimentos.&lt;/p&gt; &lt;p&gt;Além da varejista, nove empresas do Grupo Casas Bahia entraram conjuntamente com o pedido de recuperação judicial, como a fábrica de móveis Bartira. Marcas como a também varejista Ponto (antiga Ponto Frio) e o e-commerce do supermercado Extra, geridas pela companhia, não foram afetadas. &lt;/p&gt; &lt;p&gt;Do total das dívidas do Grupo Casas Bahia, a maior parte (R$ 16,9 bilhões) é listada como de credores quirografários, ou seja, sem garantia real ou privilégio para ter o ressarcimento dos valores. Costa disse que o cenário pode não ser tão negativo: “A questão é que a empresa precisa realmente se reestruturar para alongar essa dívida e poder pagá-la no médio prazo”.&lt;/p&gt; &lt;p&gt;A lista geral de credores das Casas Bahia é composta por seguradoras, bancos e fabricantes de eletrônicos, como a Samsung. Há também os créditos extraconcursais – custos judiciais, obrigações de luz e água e dívidas salariais –, nome dado aos valores que não são contabilizados no plano da recuperação judicial. &lt;/p&gt; &lt;p&gt;As 3.000 demissões e o fechamento de quase 300 lojas em agosto gerou revolta por parte de grupos sindicais. No sábado (15), o Secor (Sindicato dos Empregados no Comércio de Osasco e Região) afirmou à agência de notícias Estadão Conteúdo que os funcionários foram surpreendidos com a decisão e que aguardam informações sobre os desligamentos e o pagamento de verbas rescisórias e do FGTS (Fundo de Garantia do Tempo de Serviço).&lt;/p&gt; O momento do varejo &lt;p&gt;No sábado (15), um dia antes das Casas Bahia, a também varejista Marabraz protocolou um pedido de recuperação judicial na Justiça de São Paulo. A empresa busca renegociar cerca de R$ 140,19 milhões em dívidas. &lt;/p&gt; &lt;p&gt;De acordo com Marcos Lyra, o comércio varejista nacional enfrenta duas grandes dificuldades. “Ciclos de alta da [taxa] Selic, que vai de um patamar muito barato durante a pandemia para um muito elevado, encarecendo o crédito; e o acirramento da concorrência estrangeira, com a atuação de empresas como Mercado Livre, Amazon e Shopee”, afirmou o professor da UFF. &lt;/p&gt; &lt;p&gt;14% &lt;/p&gt; &lt;p&gt;ao ano é o valor da Selic em agosto de 2026. Em dezembro de 2020, a taxa era de 2% ao ano&lt;/p&gt; &lt;p&gt;Os marketplaces estrangeiros vêm crescendo rapidamente no mercado brasileiro na década de 2020. Lyra afirmou que boa parte do sucesso dos concorrentes é proveniente da criação de um ecossistema digital: “A Amazon pode oferecer streaming de vídeo, música e ebooks em sua assinatura, enquanto o Mercado Livre é agressivo em preços e oferece um serviço financeiro [Mercado Pago] competitivo”. &lt;/p&gt; Famílias endividadas &lt;p&gt;Um dos fatores que explicam o momento ruim do varejo é o consumo fraco das famílias – ou seja, uma demanda com pouca tração. Um dos aspectos por trás disso é o problema das dívidas dos brasileiros. De acordo com levantamento mensal do Serasa, havia R$ 586 bilhões a serem pagos em dívidas no país em julho de 2026. &lt;/p&gt; &lt;p&gt;82% &lt;/p&gt; &lt;p&gt;das famílias brasileiras estavam endividadas em julho de 2026, segundo a CNC (Confederação Nacional do Comércio de Bens, Serviços e Turismo). Esse é o maior percentual da série histórica do órgão &lt;/p&gt; &lt;p&gt;29,8%&lt;/p&gt; &lt;p&gt;das famílias brasileiras estavam inadimplentes (com dívidas atrasadas) em julho de 2026, segundo a CNC&lt;/p&gt; &lt;p&gt;“Uma taxa de juros muito alta retrai o consumo, pois as pessoas estão endividadas, o que causa uma piora substancial na renda disponível das famílias”, afirmou Guilherme Macedo, professor da UFRGS. Além disso, consumidores negativados ficam sem conseguir tomar empréstimos para financiar compras de bens como eletrodomésticos e roupas.&lt;/p&gt; &lt;p&gt;Segundo Macedo, o crescimento do endividamento também passa pela proliferação das bets, com as famílias usando boa parte da renda em sites de apostas online. “Isso afeta muito as classes C e D, que são justamente o perfil de quem consome nas Casas Bahia”, afirmou o professor da UFRGS. &lt;/p&gt; &lt;p&gt;R$ 30 bilhões&lt;/p&gt; &lt;p&gt;é o valor gasto pelos brasileiros por mês com bets, segundo levantamento de abril da CNC&lt;/p&gt; &lt;p&gt;Mesmo quem não está com o nome sujo tem mais dificuldades para financiar uma compra. Isso porque as próprias lojas reduzem sua oferta de crédito para clientes quando há alta inadimplência. O quadro de juros altos também faz com que muitos consumidores fujam de tomar empréstimos muito caros. &lt;/p&gt; &lt;p&gt;No primeiro trimestre de 2026, o consumo das famílias teve alta de 1% na comparação com o fim de 2025 – embora índices recentes apontem para uma possível desaceleração no segundo e terceiro trimestre. &lt;/p&gt;",
+      "region": "global",
+      "published": "2026-08-17T18:08:52+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "A ciência ao redor dos ossos",
+      "link": "https://www.nexojornal.com.br/externo/2026/08/17/osso-ossada-ditadura-militar-vitimas-remanescentes",
+      "teaser": "&lt;p&gt;Exposição leva ao público os bastidores de uma pesquisa sobre como peritos constroem conhecimento a partir de remanescentes de vítimas da ditadura militar&lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/08/RPF-exposicao-ossos-CAAF-2026-08-1400.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Remanescentes ósseos que podem pertencer a vítimas da ditadura militar no Brasil são analisados no Centro de Antropologia e Arqueologia Forense da Unifesp, na capital paulista &lt;/media:title&gt; &lt;media:credit&gt; Divulgação / CAAF-Unifesp &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;Três pessoas estão em volta de uma mesa com panos azuis em uma sala no Centro de Antropologia e Arqueologia Forense (CAAF), na Universidade Federal de São Paulo (Unifesp). Em cima dos panos, há ossadas humanas. Uma perita pega um dos ossos, segura-o e pergunta para as colegas o que elas acham daquele fragmento. Uma delas observa mais de perto e aponta para uma imagem em uma apostila aberta sobre a mesa. A cena faz parte do cotidiano do laboratório forense que investiga remanescentes de pessoas mortas e desaparecidas durante a ditadura militar no Brasil. Profissionais que trabalham ali investigam remanescentes ósseos de diferentes partes do país que podem pertencer a vítimas da ditadura e têm como missão identificar os corpos e tentar descobrir o que aconteceu com eles. A rotina dos peritos, que foi registrada em vídeo nos últimos quatro anos para uma pesquisa científica, agora se tornou uma exposição imersiva.&lt;/p&gt; &lt;p&gt;A mostra “Fazer falar os ossos: engajamentos presentes com o passado” fica em cartaz entre os dias 14 de agosto e 27 de setembro no Centro Maria Antonia da Universidade de São Paulo (USP), na capital paulista. Além dos espaços de exposição, conta com uma programação paralela de filmes (entre eles “Nuestras Madres”, do cineasta guatemalteco César Díaz, e “Madres Paralelas”, de Pedro Almodóvar), debates, oficinas sobre atividades forenses, história e memória da ditadura militar e mesas redondas com familiares de desaparecidos políticos. A instalação reúne cenas gravadas para o projeto Fazendo Falar os Ossos, financiado pela FAPESP e pela agência suíça SNSF (Swiss National Science Foundation), encabeçado pelas pesquisadoras Fernanda Miranda da Cruz, da Unifesp, e Lorenza Mondada, da Universidade de Basileia, na Suíça, em parceria com o filósofo Edson Teles, coordenador do CAAF.&lt;/p&gt; &lt;p&gt;A exposição nasceu da pesquisa que aproxima a linguística da antropologia forense – a ideia do projeto surgiu de uma conversa informal entre os pesquisadores, em que Teles contou para da Cruz e Mondada sobre como os peritos forenses abriam, pela primeira vez, sacos com remanescentes humanos recém-chegados ao laboratório. “Fiquei muito impressionada [com o relato], porque não eram restos humanos quaisquer”, lembra a pesquisadora suíça, uma vez que as ossadas em questão poderiam ser de desaparecidos da ditadura. Na época, Mondada já trabalhava com investigação de interações sociais em ambientes de trabalho delicados, como salas de cirurgia.&lt;/p&gt; &lt;p&gt;Da conversa em 2017, surgiu a vontade de entender os detalhes das interações da equipe forense. O projeto se apoia na etnometodologia, abordagem que investiga como as pessoas constroem e dão sentido às práticas do cotidiano, e na análise de conversa, que examina como a fala e os gestos se organizam, momento a momento, na interação entre as pessoas a partir de detalhes como gestos, olhares e pausas. Da Cruz e Mondada registraram em vídeo, com várias câmeras, a forma como os peritos do CAAF examinavam os ossos e fragmentos, como debatiam os casos que chegavam e as dúvidas que surgiam. Para a análise, a dupla transcreveu as cenas para além das palavras: anotavam instantes em que mãos se moviam, olhares eram trocados, objetos eram manuseados.&lt;/p&gt; &lt;p&gt;Enquanto peritos formados em diferentes áreas do conhecimento buscam montar o quebra-cabeça sobre o que aconteceu com os mortos e desaparecidos da ditadura por meio dos ossos severamente danificados pelo tempo e pela ocultação deliberada, muitas vezes sem informações de contexto relevantes, a dupla brasileiro-suíça procura entender como esse conhecimento é produzido.&lt;/p&gt; &lt;p&gt;Cada milímetro de osso encontrado e cada variação patológica descrita pode ser crucial para recompor a biografia das vítimas, assim como cada detalhe, gesto, comentário e olhar durante a investigação nas longas horas de trabalho.&lt;/p&gt; &lt;p&gt;Entre os achados do levantamento está a noção de que o conhecimento é construído de maneira coletiva. Em diálogo com a tradição dos estudos sobre a produção do conhecimento científico que inclui a etnografia de Bruno Latour e Steve Woolgar, registrada no livro “Vida de Laboratório”, de 1979, as pesquisadoras observam em detalhe como o conhecimento é construído durante as próprias interações no laboratório. “Nos interessa o processo do pensar para além do que se passa na cabeça dos peritos; olhar para o que acontece no entorno da mesa, nos diálogos, na observação particular do material que vai permitir chegar a algum resultado, alguma conclusão sobre quem é aquela pessoa e o que aconteceu com ela”, explica Mondada. “É um saber que se constitui de maneira complexa.”&lt;/p&gt; &lt;p&gt;A análise, publicada em artigo na revista Research on Language and Social Interaction em novembro de 2024, aponta como uma pergunta simples como “o que você acha?” organiza boa parte do trabalho de identificação dos peritos. “Nosso objetivo é revelar aquilo que é mundano para refletir sobre as práticas [no laboratório]”, diz da Cruz. “As interações sociais do cotidiano estão no centro da produção do conhecimento. Quando eu tenho uma dúvida e peço a opinião de um colega, ‘o que você acha?’, o problema se torna coletivo”, aponta Mondada.&lt;/p&gt; &lt;p&gt;Para as pesquisadoras, esse tipo de evidência ajuda a questionar tanto o estereótipo da ciência como produto de um “gênio” que trabalha sozinho quanto a ideia de que a objetividade da ciência prescinde das interações entre os pesquisadores. “Momentos de discordância são muito produtivos para a ciência e a discussão é a base interacional”, diz Mondada. “Se todo mundo concordasse, não haveria conhecimento”, afirma.&lt;/p&gt; &lt;p&gt;Em outro artigo, publicado em 2025 na revista Ethnographic Studies, as pesquisadoras detalham o ato dos peritos de medir os ossos no laboratório. Na ciência tradicional, a medição indica uma ideia de objetividade, mas as interações mostram que há subjetividade na aplicação da metodologia. Duas peritas precisam medir fêmures para calcular a estatura de um indivíduo e também para descobrir se dois ossos são de uma mesma pessoa. Há mais de um método possível sendo discutido para os cálculos. Na interação, elas negociam os movimentos e alinham as ações para chegar a alguma conclusão. O estudo demonstra que a objetividade da medição não reside simplesmente no instrumento, mas também nos procedimentos compartilhados de checagem e validação entre as cientistas.&lt;/p&gt; &lt;p&gt;Na exposição, o público é convidado a ver cenas como essas em trechos dos vídeos gravados para o projeto – ao todo, são mais de 180 horas de material audiovisual. O espaço está dividido em cinco ambientes, com 14 instalações que apresentam vídeos em TVs, telas e projeções. Em uma delas, as imagens são exibidas em uma tela dentro de um saco preto, do tipo utilizado para transportar corpos. Em outra, o visitante observa, por pequenos orifícios em uma parede, cenas do manuseio dos ossos com o som estridente de uma lixadeira que serve para extrair o DNA dos ossos. “É uma realidade desconfortável, mas permite uma experiência imersiva”, explica Mondada.&lt;/p&gt; &lt;p&gt;Além de sensibilizar o público sobre a construção do conhecimento forense, a mostra espera provocar uma reflexão sobre os desaparecidos e mortos da ditadura, uma marca na história brasileira. “Ossos não falam e não há ossos de verdade na exposição; mas a ditadura e as investigações sobre esse período não são uma história do passado, são do presente”, diz da Cruz. No CAAF, os peritos lidam diariamente com uma pergunta que segue em aberto: onde estão os desaparecidos? Para Mondada, expor esse cotidiano é pensar em como o conhecimento sobre a ditadura está presente na ciência e na política, além da história. “É uma questão de democracia, de memória histórica e de não esquecer o que aconteceu”, reflete.&lt;/p&gt; Serviço&lt;br/&gt; Exposição: Fazer falar os ossos: engajamentos presentes com o passado&lt;br/&gt; Curadoria: Lorenza Mondada, Fernanda Cruz e Edson Teles&lt;br/&gt; Abertura: sexta-feira, 14 de agosto de 2026, às 18h&lt;br/&gt; Período em cartaz: 14 de agosto a 27 de setembro de 2026&lt;br/&gt; Horário de visitação: terça a domingo, das 10h às 18h&lt;br/&gt; Local: Centro Maria Antonia da USP – Rua Maria Antônia, 258, São Paulo&lt;br/&gt; Entrada: gratuita&lt;br/&gt; Mais informações: www.mariantonia.prceu.usp.br | https://www.instagram.com/fazerfalarosossos &lt;p&gt;Este texto foi originalmente publicado por Pesquisa FAPESP de acordo com a licença Creative Commons CC-BY-NC-ND. Leia o original aqui. &lt;/p&gt;",
+      "region": "global",
+      "published": "2026-08-17T17:22:01+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "O número recorde de familiares de Bolsonaro disputando a eleição",
+      "link": "https://www.nexojornal.com.br/grafico/2026/08/17/familia-bolsonaro-recorde-eleicoes-2026",
+      "teaser": "&lt;p&gt;Oito familiares do ex-presidente Jair Bolsonaro disputam cargos eletivos em 2026, entre eles a esposa Michelle, que concorre ao Senado pelo Distrito Federal&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Nas eleições de 2026, ao menos 30 candidaturas registradas incluem “Bolsonaro” no nome de urna. A maioria não tem parentesco com o ex-presidente Jair Bolsonaro, mas o nome reúne apoiadores que buscam se associar intencionalmente à sua imagem.&lt;/p&gt; &lt;p&gt;O total é menor que o registrado em 2022, quando 39 candidatos adotaram “Bolsonaro” no nome de urna. Parte deles precisou alterar o registro após questionamentos na Justiça Eleitoral. A legislação proíbe nomes capazes de confundir o eleitorado.&lt;/p&gt; &lt;p&gt;Oito desses candidatos em 2026 são familiares do ex-presidente, um recorde em eleições gerais. Embora Jair Bolsonaro esteja inelegível e fora da disputa, estão na lista: os filhos Carlos, Flávio e Jair Renan; a esposa, Michelle; a ex-esposa, Rogéria; o irmão, Renato; o primo, Marcelo; e Valéria, esposa de outro primo. Todos são candidatos pelo PL.&lt;/p&gt;",
+      "region": "global",
+      "published": "2026-08-17T13:48:43+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Alagoas: capital e interior no centro da disputa pelo governo",
+      "link": "https://www.nexojornal.com.br/debate/2026/08/16/pesquisa-governo-alagoas-jhc-psdb-renan-filho",
+      "teaser": "&lt;p&gt;Renan Filho precisa converter municipalismo e continuidade em maioria, avançando também na capital. JHC precisa converter a força de Maceió em candidatura estadual, usando a coalizão com outras elites para penetrar no interior&lt;/p&gt; &lt;p&gt;A eleição de 2026 em Alagoas opõe duas estratégias distintas de construção de poder. De um lado, Renan Filho (MDB) busca voltar ao governo apoiado pelo atual governador, o correligionário Paulo Dantas, por uma rede de prefeitos e pelo grupo que ocupa o Executivo desde 2015. De outro, JHC (PSDB) tenta transformar a liderança construída à frente da Prefeitura de Maceió em força estadual, com uma coalizão eleitoral potencial que tem em Arthur Lira (PP) uma de suas principais lideranças. &lt;/p&gt; &lt;p&gt;Por isso, mais do que as pesquisas, são essas bases de poder que ajudam a entender a disputa.&lt;/p&gt; &lt;p&gt;Os dois mandatos de Renan Filho e de Paulo Dantas consolidaram relações com prefeitos, deputados estaduais e lideranças municipais. Em um estado onde a grande parte da população vive fora da capital, essas redes seguem relevantes para estruturar campanhas, ainda que isso não signifique controle direto sobre os votos, já que o eleitorado é mais autônomo do que a política local tradicional sugere.&lt;/p&gt; &lt;p&gt;Renan Filho começa a disputa com uma candidatura mais estadualizada e associada à continuidade administrativa. Seu desafio é transformar essa continuidade em ativo eleitoral sem carregar os desgastes de mais de uma década do mesmo campo no poder, além de ampliar sua presença na capital, onde os adversários têm mais força.&lt;/p&gt; &lt;p&gt;JHC enfrenta o problema inverso. Sua ascensão veio de Maceió, o maior colégio eleitoral do estado, que concentra população, recursos administrativos e capacidade de pautar a agenda pública. O desafio é converter essa centralidade metropolitana em maioria estadual, em uma tensão entre capital e interior que organiza a disputa. &lt;/p&gt; &lt;p&gt;Seja como for, a eleição de 2026 testará duas estratégias de poder. O resultado dependerá de qual coalizão atravessar melhor suas fronteiras de origem&lt;/p&gt; &lt;p&gt;Mas a dimensão territorial é mais complexa que uma oposição simples entre capital e interior. Agreste, Sertão, Zona da Mata e municípios metropolitanos têm economias e padrões de competição distintos. Arapiraca, segundo maior centro urbano e principal polo econômico do Agreste, tem papel relevante: avançar nos municípios médios pode pesar tanto quanto o desempenho agregado fora da capital.&lt;/p&gt; &lt;p&gt;Isso é claro na própria composição das duas chapas, ambas puro-sangue, em escolhas que fortaleceram o prefeito de Arapiraca, Luciano Barbosa (MDB). Célia Rocha (PSDB), vice de JHC, já governou a cidade. Isso pressionou Renan a escolher também um político da região: Yale Fernandes (MDB), que foi secretário de Governo de Barbosa.&lt;/p&gt; &lt;p&gt;As convenções partidárias em Alagoas já haviam exposto diferenças na arquitetura das candidaturas. Já de largada o campo de Renan Filho mostrou maior centralização em torno do MDB, com chapa integrada para governo e Senado ao lado de Renan Calheiros e José Wanderley, ambos do partido, reforçando a estratégia de continuidade.&lt;/p&gt; &lt;p&gt;Coalizões centralizadas tendem a ter menos custos de coordenação, mas a dificuldade de incorporar grupos externos é maior. Coalizões heterogêneas, por sua vez, podem ampliar a base territorial, ao custo de negociações permanentes. &lt;/p&gt; &lt;p&gt;Esse é o fator de maior incerteza na candidatura de JHC, que soma a Arthur Lira uma rede partidária e municipal forte no interior. A aliança do ex-prefeito de Maceió reúne lideranças com trajetórias e bases próprias, e a própria montagem da chapa expôs esse custo de coordenação: JHC nem sequer compareceu à convenção de sua federação, o PSDB Cidadania, que delegou à direção partidária decisões sobre a chapa. O episódio, embora previsto nas regras eleitorais, alimentou a leitura de que a coalizão levou até o limite do prazo para se fechar. &lt;/p&gt; &lt;p&gt;No Senado, duas vagas estarão em disputa, abrindo espaço para acomodações que uma única cadeira não permitiria. Arthur Lira busca transferir ao Senado o capital acumulado na presidência da Câmara. O deputado estará ao lado de Marina JHC (PSDB), esposa do candidato ao governo, em uma composição que paradoxalmente traz uma incerteza interna à própria coalizão: a ex-primeira-dama de Maceió desponta como nome competitivo e pode colocar em risca a cadeira de Lira na Casa Alta.&lt;/p&gt; &lt;p&gt;Do lado governista, Renan Calheiros tenta a reeleição, ao lado de Dr. Wanderley (MDB). Correndo por fora, está Davi Davino Filho (Republicanos). Alfredo Gaspar (PL), antes cotado para o Senado, migrou para a disputa nacional como vice na chapa de Flávio Bolsonaro (PL).&lt;/p&gt; &lt;p&gt;As alianças para o Senado ficam menos rígidas: grupos municipais podem apoiar um candidato ao governo e dividir o apoio a um postulante a senador entre nomes de campos diferentes. Por isso, a polarização entre Renan Filho e JHC é mais nítida na disputa do Executivo do que na preferência das elites estaduais.&lt;/p&gt; &lt;p&gt;Da mesma forma, seria precipitado ler 2026 como mera reprodução estadual da disputa presidencial. É verdade que Renan Filho tende a associar sua candidatura a Lula e que Alfredo Gaspar, na chapa de Flávio Bolsonaro, conecta a política alagoana à direita nacional, algo concentrado sobretudo na capital. Também não é de se ignorar que Alagoas deu a maioria dos votos válidos ao PT nos segundos turnos de 2018 e 2022, enquanto Maceió teve maioria bolsonarista nas duas eleições. Mas JHC construiu sua liderança buscando autonomia dessa divisão, e as alianças locais seguem interesses próprios.&lt;/p&gt; &lt;p&gt;Por trás da engenharia eleitoral, seguem os desafios de desenvolvimento e redução de desigualdades. No interior, apesar dos avanços dos últimos anos, pesam as demandas por desenvolvimento regional e acesso a serviços; em Maceió, destacam-se a concentração de renda, os problemas de mobilidade urbana e saneamento e os efeitos do desastre da mineração.&lt;/p&gt; &lt;p&gt;Seja como for, a eleição de 2026 testará duas estratégias de poder. O resultado dependerá de qual coalizão atravessar melhor suas fronteiras de origem.&lt;/p&gt; &lt;p&gt;Luciana Santana é professora da Universidade Federal de Alagoas, onde também atua no programa de pós-graduação em ciência política. É também docente do programa de pós-graduação em ciência política da Universidade Federal do Piauí. Lidera o Grupo de Pesquisa Instituições, Governos, Comportamento Político e Democracia (CNPq) e integra a Red Politólogas, a Rede de Pesquisa em Política Subnacional da América Latina e a INCT: Representação e Legitimidade Democrática (ReDEM).&lt;/p&gt; Este artigo de opinião faz parte da série Debate sobre as eleições estaduais de 2026, produzida em parceria com a ABCP – Associação Brasileira de Ciência Política",
+      "region": "global",
+      "published": "2026-08-16T15:43:04+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Candidaturas negras devem ter condições de disputa para além do registro eleitoral, defende articulação lançada no DF",
+      "link": "https://www.brasildefato.com.br/2026/08/18/candidaturas-negras-devem-ter-condicoes-de-disputa-para-alem-do-registro-eleitoral-defende-articulacao-lancada-no-df/",
+      "teaser": "Movimentos negros do Distrito Federal reuniram, nesta segunda-feira (17), 25 candidaturas negras de sete partidos no 1º Encontro de Candidatos e Candidatas Negras do Campo Democrático do DF. Realizado no Teatro dos Bancários, em Brasília, o encontro colocou no centro do debate as dificuldades enfrentadas por pessoas negras para conquistar espaço, recursos e condições de [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-08-18T13:11:52+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Real Time Big Data aponta Moro na frente na disputa pelo governo do Paraná, mas sem vitória no 1º turno",
+      "link": "https://www.brasildefato.com.br/2026/08/18/real-time-big-data-aponta-moro-na-frente-na-disputa-pelo-governo-do-parana-mas-sem-vitoria-no-1o-turno/",
+      "teaser": "Real Time Big Data aponta Moro na frente no Paraná, mas sem vitória no 1º turno Fonte",
+      "region": "global",
+      "published": "2026-08-18T12:53:27+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "O que Fidel nos ensinou",
+      "link": "https://www.brasildefato.com.br/colunista/vijay-prashad/2026/08/18/o-que-fidel-nos-ensinou/",
+      "teaser": "O legado revolucionário de Fidel Castro nos lembra que se libertar da pilhagem neocolonial exige a construção rigorosa da capacidade produtiva e um compromisso inabalável com a dignidade humana. Queridas amigas e amigos, Saudações do&#160;Instituto Tricontinental de Pesquisa Social. Eu tinha apenas 16 anos quando vi Fidel Castro pela primeira vez na cúpula do Movimento [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-08-18T12:34:22+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Ex-aluno da rede municipal de Maricá é aprovado na carreira diplomática",
+      "link": "https://www.brasildefato.com.br/2026/08/18/ex-aluno-da-rede-municipal-de-marica-e-aprovado-na-carreira-diplomatica/",
+      "teaser": "A cidade de Maricá está em festa pela aprovação do primeiro conterrâneo na carreira diplomática em 100 anos. Marcos Vinícius Sodré, de 29 anos, foi morador do bairro Mumbuca e estudante da rede municipal de ensino e vê no município a base de sua formação humana e a preparação para lidar com diferentes realidades e [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-08-18T12:32:15+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Irã afirma que Ormuz permanecerá fechado até que EUA cumpram acordo; Trump ameaça Omã",
+      "link": "https://www.brasildefato.com.br/2026/08/18/ira-afirma-que-ormuz-permanecera-fechado-ate-que-eua-cumpram-acordo-trump-ameaca-oma/",
+      "teaser": "O Irã afirmou, nesta terça-feira (18), que manterá o Estreito de Ormuz fechado até que os Estados Unidos cumpram os compromissos previstos em um protocolo de acordo firmado em junho. A declaração foi feita pelo principal negociador iraniano, Mohammad Bagher Ghalibaf, que também preside o Parlamento do país. “O Estreito de Ormuz não será reaberto [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-08-18T12:24:29+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Conheça o macarrão artesanal de Lanzhou: a ‘comida rápida’ da província de Gansu",
+      "link": "https://www.brasildefato.com.br/2026/08/18/conheca-o-macarrao-artesanal-de-lanzhou-a-comida-rapida-da-provincia-de-gansu/",
+      "teaser": "Em 1915, um cozinheiro da etnia muçulmana hui chamado Ma Baozi começou a vender macarrão artesanal pelas ruas de Lanzhou, capital da província chinesa de Gansu, carregando os cestos com os ingredientes numa vara sobre os ombros, no jeito tradicional dos vendedores ambulantes chineses. O prato que ele criou é hoje patrimônio imaterial nacional da [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-08-18T12:18:11+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Laura Cardoso, atriz que atravessou gerações da dramaturgia brasileira, morre aos 98 anos",
+      "link": "https://www.brasildefato.com.br/2026/08/18/laura-cardoso-atriz-que-atravessou-geracoes-da-dramaturgia-brasileira-morre-aos-98-anos/",
+      "teaser": "Morreu aos 98 anos, na noite desta segunda-feira (17), a atriz Laura Cardoso, uma das maiores referências da dramaturgia brasileira. A morte foi anunciada na madrugada desta terça-feira (18), em publicação no perfil oficial da artista nas redes sociais. Segundo familiares, ela passou mal em casa, em São Paulo. A causa da morte não foi [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-08-18T11:04:54+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Acampamento Leidiane Ribeiro completa um mês no Distrito Federal em meio à crise de habitação",
+      "link": "https://www.brasildefato.com.br/2026/08/18/acampamento-leidiane-ribeiro-completa-um-mes-no-distrito-federal-em-meio-a-crise-de-habitacao/",
+      "teaser": "Cerca de 10% dos domicílios do Distrito Federal, o equivalente a 100.701 residências, encontram-se em situação de déficit habitacional, segundo dados do Instituto de Pesquisa e Estatística (IpeDF). O levantamento mais recente utiliza dados de 2021 da Pesquisa Distrital por Amostra de Domicílios (PDAD). A classificação engloba famílias sem acesso à moradia adequada, que vivem [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-08-18T10:00:00+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Após campanha histórica, seleção de GR chega ao Brasil com festa e nova missão: os Jogos Sul-americanos",
+      "link": "https://oglobo.globo.com/esportes/noticia/2026/08/18/apos-campanha-historica-selecao-de-gr-chega-ao-brasil-com-festa-e-nova-missao-os-jogos-sul-americanos.ghtml",
+      "teaser": "As atletas da seleção brasileira de ginástica rítmica desembarcaram com festa na manhã desta terça-feira no Rio de Janeiro, após campanha histórica no Campeonato Mundial da modalidade, disputado na última semana em Frankfurt (Alemanha). Duda Arakaki, Nicole Pírcio, Sofia Madeira, Maria Paula Caminha, Mariana Gonçalves e Julia Kurunczi, além das técnicas Camila Ferezin e Bruna Martins foram recebidas pela torcida e por atletas da GR do Vila Mangueira. E mesmo após a conquista de duas medalhas de ouro inéditas, uma de bronze e ter garantido vaga antecipada para os Jogos Olímpicos de Los Angeles, em 2028, elas não terão folga. Após compromissos com patrocinadores em Brasília e São Paulo, festa em Aracaju, onde treinam em esquema de seleção permanente, elas disputarão os Jogos Sul-americanos de Santa Fé, na Argentina, entre 12 e 26 de setembro. — A gente sempre espera muito do público brasileiro porque sabemos o quanto é caloroso. Mas a gente sempre se surpreende também. Uma festa desta a gente não esperava — disse Duda, a capitã do conjunto, no meio da confusão do desembarque no Aeroporto Internacional Tom Jobim. — E ver atletas nesta recepção, crianças... isso é o mais importante para mim. Mais importante do que as medalhas é inspirar novas gerações. Eu já fui esta criança que sonhava e que tinha objetivos. Mostrar que é possível faz todo o sentido para mim. O grupo de atletas da Vila Mangueira que recepcionou às campeãs mundiais estava acompanhado da professora Guta Buarque. Ela disse que esta campanha da seleção é um marco importante para a modalidade como um todo e que ajuda o seu trabalho, cria novas oportunidades e democratiza ainda ainda mais a GR. — Os resultados de uma seleção estimulam a prática daquela modalidade. Ou seja, vai facilitar o meu trabalho uma vez que chama a atenção de mais crianças. E isso é maravilhoso — disse a professora, que lembra que na Vila Mangueira são oito turmas de iniciação para a GR para cerca de 300 crianças, a partir de 5 anos, além das aulas do GR master, no qual não há limite de idade. — Viemos todas dar parabéns às leoas. Este é um feito histórico. Os resultados obtidos na Alemanha dão sequência ao crescimento que o Brasil vem exibindo na ginástica rítmica. Em 2011, quando Camila Ferezin — ex-atleta da ginástica rítmica, primeira medalhista de ouro do Brasil em Jogos Pan-Americanos (Winnipeg-1999) e finalista na Olimpíada de Sydney-2000 — assumiu a coordenação da seleção da modalidade, o país era 26º no Mundial. Somente no ano passado, o Brasil levou suas primeiras medalhas em um Mundial, em edição realizada no Rio de Janeiro: prata no conjunto geral e na série mista. Na edição da Alemanha, o Brasil conquistou as primeiras medalhas de ouro em Mundiais — e obteve vaga para LA-2028. — Estamos muito felizes e aliviadas com o fato de que conquistamos nossos objetivos. Trabalhamos duro para isso. E ter a vaga olímpica neste momento significará que teremos mais calma no ano seguinte. Vamos poder ter mais tranquilidade para trabalhar e nos aperfeiçoar — comenta Duda, que reforça que agora a meta é o pódio olímpico. Em Paris-2024, a seleção de conjunto chegou como uma das favoritas ao pódio, fez excelente exibição na primeira rotação mas na segunda apresentação, Victória Borges entrou mancando. Nos Jogos Olímpicos, a GR não permite substituição e o Brasil não se classificou para a etapa final. — A gente lembra deste episódio sempre, mas não remoendo o que aconteceu. Foi um momento difícil mas importante para nosso crescimento e para o que estamos vivemos hoje. Tivemos uma virada de chave a partir daí e este episódio foi importante. — observa Duda, que irá pela primeira vez aos Jogos Sul-americanos, o próximo compromisso do conjunto. — Já fui para dois Jogos Olímpicos e nunca disputei o Sul-americano. Toda a competição é importante, toda vez que entramos em quadra evoluímos. Esta é uma Olimpíada sul-americana e estou muito empolgada. A treinadora Camila explicou que neste momento não dará folga às atletas. Os treinos recomeçam na semana que vem, após os compromissos com patrocinadores. Ao menos, ela explica, as ginastas terão um período apenas de treino, e não dois: — Elas terão os Jogos Sul-americanos e depois quero dar folga. Mas não sei por quanto tempo. Por agora, vamos treinar em carga horária menor. Farão um período apenas, quatro horas. Elas treinam, oito por dia. Com isso terão tempo de recuperação e também para colocar os estudos em dia — explicou Camila, que estava radiante. — Estou muito orgulhosa de ter escolhido isso para a minha vida... Tudo valeu a pena, este é um sentimento de orgulho e de felicidade, o momento mais feliz da minha carreira.",
+      "region": "global",
+      "published": "2026-08-18T14:01:17+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Ministro Zanin acompanha relator Alexandre de Moraes e vota pela prisão de advogado Alexandre Carracena, suspeito de vazar informações para o CV",
+      "link": "https://oglobo.globo.com/rio/noticia/2026/08/18/ministro-zanin-acompanha-relator-alexandre-de-moraes-e-vota-pela-prisao-de-advogado-alexandre-carracena-suspeito-de-vazar-informacoes-para-o-cv.ghtml",
+      "teaser": "O ministro Cristiano Zanin votou pela manutenção da prisão preventiva do advogado Alessandro Pitombeira Carracena, ex-secretário municipal de Ordem Pública do Rio na gestão de Marcelo Crivella e ex-subsecretário estadual de Defesa do Consumidor e ex-secretário estadual de Esportes no governo Cláudio Castro. O julgamento virtual que começou no dia 14 de agosto ainda não foi concluído, e outros ministros da Corte ainda votarão sobre o pedido de liberdade. O voto de Zanin acompanhou a decisão do relator do processo ministro Alexandre de Moraes. Dez mortos: 'Elas morreram abraçadas', diz mulher sobre filha e irmã vítimas em acidente de ônibus em Petrópolis Guerra no céu: Bombas lançadas por drones aterrorizam moradores de favelas do Rio Ao analisar o pedido de liberdade, Zanin afirmou que a necessidade de uma prisão preventiva em investigações dessa natureza deve ser avaliada dentro do contexto geral das atividades do grupo criminoso, e não apenas a partir de fatos isolados. \"Em crimes dessa natureza, a contemporaneidade da medida cautelar não pode ser aferida apenas com base em fatos isolados, mas sobretudo a partir de um contexto mais amplo, a fim de viabilizar a paralisação das atividades do grupo criminoso investigado\", afirmou o ministro na decisão. Zanin também rejeitou o argumento da defesa de que Carracena já havia deixado o cargo público meses antes da decretação da prisão preventiva, o que afastaria o fundamento relacionado ao possível acesso a informações privilegiadas. Segundo o ministro, a necessidade da prisão continua \"fundamentada nas particularidades do caso e na necessidade de garantir a ordem pública\". Para Zanin, não foram identificadas \"circunstâncias que indiquem desproporcionalidade ou perda de contemporaneidade capazes de justificar a revogação da custódia\". Grávida de quatro meses e menina de 7 anos: Quem são as vítimas identificadas do acidente na BR-040 Carracena ocupou um cargo em comissão na Secretaria de Estado da Casa Civil entre dezembro de 2023 e setembro de 2024. Em seguida, foi nomeado para a Secretaria de Estado de Defesa do Consumidor, posição que ainda ocupa. Segundo as investigações, ele teria ligação com o Comando Vermelho e atuaria como braço político da organização criminosa ao lado do então deputado estadual TH Joias. Corredores de Excelência: Rua de Copacabana será a próxima a receber serviços simultâneos do projeto As investigações citadas no processo apontam que, em 30 de novembro de 2023, Gabriel Dias de Oliveira, conhecido como Índio do Lixão, do Comando Vermelho, enviou a TH Joias uma foto de dinheiro em espécie e afirmou ter R$ 148 mil para entregar ao deputado. Segundo a investigação, R$ 100 mil seriam destinados ao traficante Luciano Martiniano da Silva, conhecido como Pezão, e outros R$ 90 mil seriam entregues a Carracena. Ônibus sem autorização e relatos de alta velocidade: O que se sabe sobre tragédia na BR-040 Outro episódio mencionado pelos investigadores ocorreu em 29 de janeiro de 2024. Na ocasião, o ex-deputado, Thiego Raimundo dos Santos Silva, o TH Joias, teria enviado a Índio do Lixão informações e a localização de dois veículos roubados que, segundo a Polícia Federal, Carracena teria solicitado que fossem devolvidos. Dez mortos: Ex-dono do ônibus da tragédia de Petrópolis define situação da venda do veículo como 'balaio de gato' Moraes vota para tornar Bacellar e TH Joias réus Em outro julgamento relacionado a investigação da operaçãOo Zargun da PF, o ministro Alexandre de Moraes votou para tornar réus o ex-presidente da Assembleia Legislativa do Rio (Alerj) Rodrigo Bacellar e o ex-deputado estadual TH Joias. Eles também são acusados de envolvimento no vazamento de uma operação policial contra o Comando Vermelho. Os ex-deputados TH Joias e Rodrigo Bacellar estão presos Reprodução Moraes defendeu a abertura de uma ação penal contra os dois ex-parlamentares e outras três pessoas, entre elas o desembargador federal Macário Ramos Júdice Neto. Segundo a denúncia do Ministério Público Federal (MPF), o grupo é acusado de obstruir investigação de infração penal envolvendo organização criminosa armada, com participação de funcionário público. Macário Neto também responde à acusação de violação de sigilo funcional. O ex-assessor de TH Joias, Thárcio Salgado, foi denunciado por possível favorecimento pessoal. A quinta denunciada pela Procuradoria é Jéssica Santos, mulher de TH Joias. Polícia investiga troca em grandes eventos: Homem é preso com 147 cartões bancários de terceiros em Copacabana Queda de helicóptero: Parente de colombianas mortas recupera fotos tiradas na véspera do acidente e agradece carinho dos cariocas A reportagem não consegiu contato com a defesa dos citados. Initial plugin text",
+      "region": "global",
+      "published": "2026-08-18T14:01:04+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Ministro na praia e bolas com propaganda política: Deslizes de Espriella em resposta ao terremoto geram críticas na Colômbia",
+      "link": "https://oglobo.globo.com/mundo/noticia/2026/08/18/ministro-na-praia-e-bolas-com-propaganda-politica-deslizes-de-espriella-em-resposta-ao-terremoto-geram-criticas-na-colombia.ghtml",
+      "teaser": "Desde o primeiro dia de emergência humanitária provocada pelo terremoto de magnitude 7,4 que atingiu a Colômbia, o presidente Abelardo de la Espriella determinou que a comunicação do governo sobre a crise deveria passar por ele. Foi ele quem anunciou o primeiro balanço de mortos e quem realizou entrevistas coletivas nas cidades mais afetadas, sempre buscando apresentar a imagem de um gabinete presente nas regiões atingidas, em vez de ministros dando ordens a partir de escritórios em Bogotá. A estratégia, porém, foi afetada por episódios envolvendo integrantes de seu governo e pela própria atuação do presidente. Quer morar fora? Veja guia interativo que reúne informações sobre 36 países Quer ler mais notícias de Mundo? Acompanhe o canal no WhatsApp A principal polêmica do governo veio do ministro da Habitação, o pastor cristão Jaime Beltrán, que apareceu no domingo descansando em uma praia de Santa Marta, no Caribe, enquanto milhões de pessoas dormiam ao relento após perderem suas casas. O episódio ocorreu apenas uma semana depois do terremoto, que deixou 280 mortos, mais de 4 mil feridos e outras 143 pessoas desaparecidas, e provocou críticas de diferentes setores políticos. Em estimativa preliminar apresentada na segunda-feira, o presidente apontou perdas econômicas equivalentes a US$ 9,6 bilhões. O número ainda deve ser revisado à medida que o governo obtiver novas informações e avaliar os danos nas diferentes regiões atingidas. Até agora, mais de 127 mil moradias foram danificadas, 26 mil destruídas e 197 edifícios desabaram. Mais de 90% das moradias não possuem apólices de seguro, o que significa que as vítimas do terremoto aguardam a orientação que o ministro dará para a reconstrução. Beltrán, ex-prefeito de Bucaramanga e uma das pessoas de maior confiança do presidente, entrou cedo na campanha de De la Espriella à Presidência. Ao se defender das críticas pela viagem, o ministro afirmou que havia ido a Santa Marta por um curto período para visitar a família, acrescentando que não se pode esquecer que, “por trás do ministro, há um pai, um marido, um filho”. A justificativa, porém, não encerrou as críticas. Contexto: Ministro da Habitação da Colômbia é criticado por feriado na praia dias após assumir cargo e país sofrer terremoto A senadora Carol Borda, do Salvación Nacional, partido que apoiou a candidatura de De la Espriella, criticou duramente o ministro. Em publicação no X, ela afirmou que a ação do ministro mostra um “nível de desconexão doloroso”, ressaltando a “angústia de milhares de famílias” ao ter “suas casas destruídas e não saber onde vão dormir”. No Centro Democrático, o maior partido de direita no Legislativo, o senador Andrés Forero afirmou que a permanência do ministro no cargo coloca o presidente na resolução de um problema com o qual “nada tem a ver” e submete o governo a um “desgaste prematuro e desnecessário”. O senador Jota Pe Hernández, de direita e integrante do Partido Verde, também publicou a hashtag #Indolente acompanhada da imagem do ministro. A Câmara dos Representantes fez um pedido para convocar Beltrán a uma moção de censura, na qual a maior bancada de esquerda pretende buscar a renúncia do funcionário. A segunda maior bancada, do Centro Democrático, também demonstrou insatisfação com a atitude do ministro. De la Espriella, porém, decidiu mantê-lo no cargo, anunciando que ele ficará à frente de um “plano milagroso” para a reconstrução e que as pessoas que perderam suas casas “não estão abandonadas”. Bolas de futebol Enquanto Beltrán estava na praia, De la Espriella viajou com a esposa e integrantes de seu gabinete para Buenaventura, uma das cidades mais afetadas pelo terremoto. Mais de 10 mil moradias foram atingidas na região, onde mais de 400 pessoas ficaram feridas e 27 morreram. A rede hospitalar local entrou em colapso, e o presidente anunciou a reabertura do navio-hospital Benkos Biohó e o envio de toneladas de ajuda médica. 37 horas até o resgate: Morre mulher que ficou por mais tempo sob os escombros do terremoto na Colômbia A visita, porém, também gerou uma polêmica. Fora da entrevista coletiva, De la Espriella parou em uma rua de Buenaventura e jogou bolas de futebol para crianças vítimas do terremoto. As bolas, no entanto, traziam o logotipo de seu movimento político, Defensores de la Patria. Um ativista local registrou o momento, e as imagens provocaram críticas à distribuição de material associado ao movimento político do presidente entre vítimas da emergência. O episódio foi comparado à atuação do presidente Donald Trump em Porto Rico, em 2017, durante seu primeiro mandato. Na ocasião, Trump foi criticado pelas autoridades locais depois de jogar rolos de papel para pessoas afetadas pelo furacão Maria. Ao El País, o colunista Jhon Jairo Caicedo afirmou que a distribuição das bolas não foi “um pecado”, mas representou um erro de comunicação porque deixou prevalecer no imaginário a ideia de que ele “foi a Buenaventura distribuir bolas”, deixando em segundo plano o restante da visita. Já para Leonard Rentería, líder social de Buenaventura, porém, o principal problema não eram as bolas. Dezenas de escolas foram afetadas pelo terremoto e as autoridades declararam “calamidade educacional”. Seis escolas estão completamente destruídas. O governo anunciou, por meio do ministro do Interior, que espera que empresas de telefonia doem planos de dados para as crianças e afirmou que pretende providenciar tablets para permitir que a educação virtual seja retomada o mais rápido possível. A proposta, contudo, foi questionada pela ex-ministra da Cultura Paula Moreno, que dirige a fundação Manos Visibles e estava em Buenaventura durante a visita presidencial. Sem mencionar diretamente o ministro Lara ou De la Espriella, Moreno defendeu que o governo tenha profissionais do Pacífico envolvidos no processo de reconstrução. — Precisamos que no governo nacional haja um grupo de profissionais do Pacífico que possa acelerar esse processo [de reconstrução], porque estamos muito lentos para entender a realidade e conseguir apresentar soluções reais — disse, criticando, ainda, a possibilidade de aulas virtuais diante das condições da região. — As aulas virtuais não funcionam porque o Pacífico não tem conectividade, e as crianças do Pacífico não têm como pagar pelos celulares. A ex-ministra destacou que o mais importante, na sua avaliação, é retomar as aulas presenciais, especialmente em “ambientes protetores”, porque os jovens são particularmente vulneráveis ao recrutamento por grupos armados na região. Ela ainda questionou os anúncios do governo de conceder subsídios a pessoas que moram de aluguel, afirmando que a ideia é “pouco viável” porque não há muitos espaços para alugar. As críticas reforçaram a cobrança para que as medidas de resposta à emergência considerem as condições específicas do Pacífico colombiano, em vez de aplicar soluções que não correspondam à realidade local. O terremoto é a primeira grande crise enfrentada por De la Espriella, que assumiu o cargo poucos dias antes e agora precisa supervisionar os esforços de assistência e reconstrução. Na noite de segunda-feira, o presidente voltou a afirmar que todas as comunicações relevantes sobre a emergência seriam feitas por ele, acrescentando que seus ministros estão em todas as regiões e trabalham 24 horas por dia, sem descanso. Os episódios envolvendo Beltrán e a distribuição das bolas, porém, expuseram dificuldades na tentativa do governo de transmitir uma imagem de presença e coordenação durante a crise.",
+      "region": "global",
+      "published": "2026-08-18T14:00:37+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Laura Cardoso: 'Você tem uma vida. Você faz dela o que quiser'; veja entrevista ao GLOBO",
+      "link": "https://oglobo.globo.com/cultura/noticia/2026/08/18/laura-cardoso-voce-tem-uma-vida-voce-faz-dela-o-que-quiser-veja-entrevista-ao-globo.ghtml",
+      "teaser": "Laura Cardoso rejeitava a ideia de que a idade determina como alguém conduz a própria vida. Em entrevista ao GLOBO, em 2017, a atriz, que já estava com 89 anos, afirmava querer continuar trabalhando — na época, ela estava no elenco da novela “O outro lado do paraíso”, em que formava um triângulo amoroso com Lima Duarte e Fernanda Montenegro. A artista morreu nesta terça-feira (18), aos 98 anos. 'Quero continuar na batalha': atriz completaria 99 anos em setembro e dizia não querer se aposentar Mais Laura Cardoso: relembre a trajetória da atriz de 'Mulheres de Areia' a 'A Dona do Pedaço' “Nada de preconceitos. Eu acho assim: você tem uma vida. Você é dona dessa vida, então faz dela o que quiser. Deixa o outro viver como ele quer, como eu quero que me deixem viver como eu quero”, disse. Laura Cardoso: \"Você tem uma vida. Você faz dela o que quiser\" Laura afirmava que para seguir vivendo bem, precisava manter o amor pela vida e pelo trabalho: “Acho que a velhice está na cabeça, quando a gente acha que já está velho. Velhice é um estado decorrente do tempo, mas, se você tem uma cabeça boa, amor pela vida, pelo seu trabalho, a velhice é um pedaço da sua vida”. Ao olhar para a própria trajetória, Laura reconheceu os sacrifícios que precisou fazer ao longo dos anos para se dedicar à profissão. Mesmo com os erros e acertos, porém, mantém o vínculo com o trabalho: “Eu gosto demais do meu trabalho”, resume.",
+      "region": "global",
+      "published": "2026-08-18T13:59:36+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Laura Cardoso: atriz chegou aos 98 anos com rotina ativa e sem abrir mão dos doces",
+      "link": "https://oglobo.globo.com/ela/noticia/2026/08/18/laura-cardoso-atriz-chegou-aos-98-anos-com-rotina-ativa-e-sem-abrir-mao-dos-doces.ghtml",
+      "teaser": "Laura Cardoso chegou aos 98 anos mantendo uma rotina ativa e uma relação sem grandes restrições com a alimentação. Uma das principais referências da dramaturgia brasileira, a atriz, que morreu nesta terça-feira (18), costumava dizer que não seguia dietas e não escondia a preferência por doces e chocolate. Mesmo com o avanço da idade, ela continuou ligada à profissão e procurou preservar hábitos que faziam parte de sua rotina havia décadas. Fiuk afirma que foi deserdado por Fábio Jr.: quando um filho pode ficar sem herança no Brasil? Marina Sena e Juliano Floss terminam relacionamento: veja casais que se separaram em 2026 Em entrevista ao GLOBO antes de completar 90 anos, Laura contou que não tinha um cardápio específico nem seguia regras rígidas à mesa. A atriz se definia como \"indisciplinada\", mas destacava o hábito de caminhar, especialmente quando queria conhecer novos lugares. \"Eu sou indisciplinada, viu? Gosto muito de andar, conhecer os lugares a pé. Mas não sigo dieta alguma. Como o que eu gosto, quando eu quero. Graças a Deus, não tenho diabetes nem pressão alta, minha genética portuguesa é muito boa! Agora, sou louca por doces, chocolate! Como muito e depois passo mal\", disse na ocasião. Os doces, aliás, apareciam entre suas maiores tentações. Laura falava sobre chocolate com bom humor e reconhecia que, apesar de gostar bastante, às vezes acabava exagerando. A bebida alcoólica, por outro lado, tinha pouco espaço em seus hábitos. Ela dizia não ter o costume de beber e contava que seu organismo não reagia bem ao álcool. O vinho branco ficava reservado para ocasiões pontuais. Laura Cardoso chegou aos 98 anos com rotina ativa e sem abrir mão de doces Divulgação TV Globo A disposição também acompanhou a atriz em sua relação com o trabalho. Nascida em São Paulo, em 13 de setembro de 1927, Laura começou a carreira aos 15 anos e construiu uma trajetória de mais de oito décadas. Depois dos primeiros trabalhos na TV Tupi, passou por emissoras como Record e Bandeirantes, até consolidar sua carreira na Globo. Ao longo dos anos, participou de produções que se tornaram conhecidas do público, entre elas \"Mulheres de Areia\", \"A Viagem\", \"Chocolate com Pimenta\" e \"O Outro Lado do Paraíso\". Mesmo já idosa, Laura não demonstrava interesse em se afastar definitivamente da atuação e continuava encarando o trabalho como uma parte importante de sua vida. Depois de ficar afastada das grandes produções desde 2020, ela voltou às telas em 2025, no curta-metragem \"Dona Rosinha\", no qual interpretou a personagem-título. A produção marcou uma nova aparição da atriz diante das câmeras em uma fase mais avançada da vida. Laura Cardoso não fazia dietas e não abria mão de doces; atriz morreu aos 98 anos Divulgação TV Globo Laura também permanecia próxima da família e aparecia em registros publicados nas redes sociais, especialmente em conteúdos compartilhados pelo bisneto, Fernando Faria. A atriz deixou duas filhas, três netos e um bisneto, além de uma trajetória que atravessou diferentes gerações da televisão brasileira.",
+      "region": "global",
+      "published": "2026-08-18T13:59:34+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Dólar abre com leve alta, a R$ 5,21, de olho em dados dos EUA",
+      "link": "https://oglobo.globo.com/economia/financas/ao-vivo/ibovespa-hoje-acompanhe-bolsa-e-dolar.ghtml",
+      "teaser": "Dólar abre com leve alta, a R$ 5,21, de olho em dados dos EUA Juros longos dos EUA avançam e petróleo perto de US$ 90 aumenta pressão sobre mercados globais",
+      "region": "global",
+      "published": "2026-08-18T13:57:32+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Há três anos, Laura Cardoso recebia homenagem no Festival de Gramado; veja fotos",
+      "link": "https://oglobo.globo.com/cultura/noticia/2026/08/18/ha-tres-anos-laura-cardoso-recebia-homenagem-no-festival-de-gramado-veja-fotos.ghtml",
+      "teaser": "A atriz Laura Cardoso foi homenageada ha três anos no Festival de Cinema de Gramado. No dia 18 de agosto de 2023, a atriz subiu ao palco do Palácio dos Festivais para receber o Troféu Oscarito das mãos de Alice Braga, Lucy Barreto e Ingrid Guimarães. Durante a cerimônia, a atriz mostrou muito bom humor. \"Obrigada de coração por gostarem do meu trabalho. Enfim, por tudo. Eu estou muito emocionada, ah, não sei o que falar\", disse ela arrancando aplausos da plateia. Laura Cardoso subiu no palco acompanhada do bisneto, Fernando, e foi recebida por Alice, Lucy e Ingrid. À época, a atriz falou ao GLOBO sobre a homenagem. — Estou muito feliz, sempre acho que não mereço tanto. As pessoas são maravilhosas comigo. É muito gratificante. Amo representar. Amo o teatro, o cinema, a TV, o circo. Sou fã de tudo que envolve a arte. Atriz Laura Cardoso recebe o troféu Oscarito, entregue por Ingrid Guimarães, Lucy Barreto e Alice Braga, no Festival de Gramado 2023 Cleiton Thiele/Agência Pressphoto Atriz Laura Cardoso deixa sua marca na Calçada da Fama do Festival de Gramado, em 2023 Cleiton Thiele/Agência Pressphoto Atrizes Léa Garcia e Laura Cardoso, homenageadas no Festival de Gramado 2023 Cleiton Thiele/Agência Pressphoto Laura Cardoso no Festival de Gramado em 2023 Divulgação Em 2023, Festival de Gramado homenageou a atriz Alice Braga, diretora Lucy Barreto e as atrizes Laura Cardoso e Ingrid Guimarães Edison Vara/Agência Pressphoto Caio Blat tira foto com Laura Cardoso no Festival de Gramado de 2023 Cleiton Thiele/Agência Pressphoto Atriz Laura Cardoso no Festival de Gramado 2023 Cleiton Thiele/Agência Pressphoto",
+      "region": "global",
+      "published": "2026-08-18T13:56:55+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Nem toda mulher com câncer de mama se beneficia da quimio",
+      "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/08/18/nem-toda-mulher-com-cancer-de-mama-se-beneficia-da-quimio-1.ghtml",
+      "teaser": "Uma análise brasileira apresentada durante a ASCO 2026, nos Estados Unidos, estima que o teste genômico Oncotype DX®, que analisa a atividade de 16 genes do tumor e 5 genes de referência, pode mudar a indicação de quimioterapia em 43% das pacientes com câncer de mama inicial que receberiam a recomendação para o tratamento. Na maioria das mudanças projetadas, a quimioterapia deixaria de ser indicada. Publicado no JCO Global Oncology, o estudo utilizou uma modelagem para estimar como as informações fornecidas pelo teste Oncotype DX® poderiam modificar as recomendações médicas para pacientes atendidas pela saúde suplementar brasileira. Os cálculos foram construídos com dados epidemiológicos, resultados de pesquisas e padrões de conduta informados por dez oncologistas brasileiros com experiência no tratamento do câncer de mama. Os achados se somam a evidências brasileiras anteriores obtidas na prática clínica, com recomendações médicas registradas antes e depois do resultado do teste. Em um estudo prospectivo publicado em 2021, no JCO Global Oncology, pesquisadores avaliaram 179 mulheres atendidas em dois hospitais públicos de São Paulo. Todas tinham câncer de mama em estágio inicial, positivo para receptores hormonais e negativo para a proteína HER2, conhecidos pelas siglas RH+HER2-. Os médicos informaram a recomendação de tratamento antes de conhecer o resultado do teste Oncotype DX® e voltaram a registrar a conduta após receber essa informação. A recomendação médica mudou em 65% dos casos. A maior parte das alterações ocorreu entre mulheres que inicialmente seriam encaminhadas para quimioterapia, mas passaram a ter indicação apenas de terapia hormonal após o resultado do exame. Em cinco casos, ocorreu o movimento contrário: a quimioterapia, antes não recomendada, passou a ser indicada. O estudo registrou uma redução relativa de 66% nas recomendações de tratamento. \"Como registramos a recomendação médica antes e depois do resultado do teste, foi possível observar diretamente a influência da informação genômica sobre a decisão terapêutica. Em muitos casos, a quimioterapia deixou de ser indicada, mas também identificamos pacientes para as quais o tratamento deveria ser indicado. O objetivo não é simplesmente reduzir seu uso, e sim oferecer a cada mulher a estratégia com maior possibilidade de benefício\", afirma o mastologista André Mattar, primeiro autor do estudo de 2021. O câncer de mama RH+HER2- é o subtipo mais frequente da doença e, em geral, responde à terapia hormonal. Depois da cirurgia, uma das principais decisões da equipe médica é definir quais pacientes também podem se beneficiar de quimioterapia para reduzir o risco de retorno do câncer e quais podem ser tratadas apenas com terapia endócrina. Tradicionalmente, essa escolha leva em conta características como tamanho e grau do tumor, idade da paciente, comprometimento dos linfonodos e condição em relação à menopausa. Embora sejam fundamentais, esses critérios clínicos e patológicos nem sempre permitem estimar com precisão quais mulheres terão benefício relevante com a quimioterapia. O teste Oncotype DX® complementa essa avaliação ao analisar a atividade de genes presentes no tumor. O resultado, chamado resultado Recurrence Score®, é apresentado em uma escala de zero a 100 e fornece informações sobre o risco de recorrência da doença e a probabilidade de benefício da quimioterapia. Diferentemente dos exames destinados a identificar mutações hereditárias, que podem ser transmitidas entre familiares, o teste avalia o comportamento biológico do tumor diagnosticado. Pacientes com características clínicas aparentemente semelhantes podem apresentar resultados genômicos diferentes e, consequentemente, não obter o mesmo benefício com o tratamento. \"Duas mulheres com tumores de tamanho, grau e estágio semelhantes não necessariamente apresentam o mesmo risco de recorrência. A informação genômica acrescenta uma nova camada à avaliação convencional e ajuda a tornar a recomendação mais individualizada, especialmente nos casos em que ainda existe dúvida sobre a necessidade da quimioterapia\", explica a oncologista Laura Testa, da Rede D'Or e do Instituto do Câncer do Estado de São Paulo (ICESP). A modelagem mais recente reforça que o teste Oncotype DX® não funciona apenas como instrumento para retirar a indicação do tratamento. Embora a quimioterapia tenha deixado de ser recomendada na maior parte das mudanças estimadas, em 11 casos, o exame identificaria pacientes que poderiam se beneficiar dela, apesar de a avaliação inicial não apontar essa necessidade. A convergência entre os dois estudos mostra que a análise genômica pode modificar de maneira relevante a recomendação médica tanto em cenários simulados quanto na prática clínica brasileira. Os trabalhos têm desenhos e populações diferentes: a pesquisa mais recente utilizou uma modelagem voltada à saúde suplementar, enquanto o estudo de 2021 avaliou decisões tomadas para pacientes atendidas na rede pública. Uma indicação mais precisa pode evitar que mulheres com baixa probabilidade de benefício sejam expostas a efeitos adversos da quimioterapia, como náuseas, queda de cabelo, fadiga e redução da imunidade. Ao mesmo tempo, pode ajudar a identificar pacientes para as quais o tratamento é importante, mesmo quando os critérios clínicos convencionais apontam inicialmente para um risco menor. Os pesquisadores ressaltam que os estudos avaliaram o impacto das informações genômicas sobre a recomendação médica. O trabalho prospectivo de 2021 não teve como objetivo acompanhar desfechos de longo prazo, como recorrência ou sobrevida, e seus resultados não substituem a avaliação individual realizada pelo oncologista. O estudo de 2021 foi conduzido no Hospital Pérola Byington e na Santa Casa de Misericórdia de São Paulo. A análise mais recente reuniu pesquisadores da ASAS Avaliações Econômicas em Saúde, Universidade de Brasília, Oncoclínicas&amp;CoMedica Scientia Innovation Research, Hospital Nora Teixeira, da Santa Casa de Porto Alegre, Hospital Sírio-Libanês, Hospital Moinhos de Vento, Instituto do Câncer do Estado de São Paulo, Hospital Israelita Albert Einstein e Oncologia D'Or, Rede D'Or. O trabalho foi apresentado em um painel promovido pelo JCO Global Oncology durante a ASCO 2026.",
+      "region": "global",
+      "published": "2026-08-18T13:55:19+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Novo pré-sal? O que já se sabe e o que ainda falta descobrir sobre o petróleo na Foz do Amazonas",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/novo-pre-sal-o-que-ja-se-sabe-e-o-que-ainda-falta-descobrir-sobre-o-petroleo-na-foz-do-amazonas.shtml",
+      "teaser": "A Petrobras confirmou a existência de petróleo no poço Morpho, na bacia da Foz do Amazonas, no litoral do Amapá, nesta segunda-feira (17). Leia mais (08/18/2026 - 11h04)",
+      "region": "global",
+      "published": "2026-08-18T14:04:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Contran amplia Lei Seca para detectar consumo de drogas e evitar pegar álcool residual na boca",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/contran-amplia-lei-seca-para-detectar-consumo-de-drogas-e-evitar-pegar-alcool-residual-na-boca.shtml",
+      "teaser": "O Contran (Conselho Nacional de Trânsito) aprovou nesta segunda-feira (17) atualização das regras da Operação Lei Seca no país. Uma das principais novidades é que o aparelho para teste do bafômetro terá nova tecnologia para diferenciar o chamado álcool residual na boca proveniente de consumo recente de determinados alimentos, medicamentos ou produtos que contenham álcool em sua formulação. Leia mais (08/18/2026 - 11h01)",
+      "region": "global",
+      "published": "2026-08-18T14:01:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Dominic Monaghan, o Merry de 'O Senhor dos Anéis', virá para a CCXP este ano",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/08/dominic-monaghan-o-merry-de-o-senhor-dos-aneis-vira-para-a-ccxp-este-ano.shtml",
+      "teaser": "A CCXP 2026 vai comemorar os 25 anos da estreia de \"O Senhor dos Anéis: A Sociedade do Anel\" com a \"Fellowship Forever\", celebração especial para os fãs da saga. O evento confirmou a presença do ator britânico Dominic Monaghan, que interpreta o hobbit Meriadoc \"Merry\" Brandybuck na trilogia. Leia mais (08/18/2026 - 11h00)",
+      "region": "global",
+      "published": "2026-08-18T14:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Espetáculo no 033 Rooftop leva público ao centro de um crime familiar",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/mise-en-scene/2026/08/espetaculo-no-033-rooftop-leva-publico-ao-centro-de-um-crime-familiar.shtml",
+      "teaser": "Na véspera de Natal, uma mansão isolada pela neve vira o cenário de um dilema simples de enunciar e péssimo de resolver: o dono da casa foi encontrado morto com uma faca nas costas, as linhas de telefone foram cortadas e o motor do carro foi sabotado. Sem sinal e sem polícia, resta às moradoras e funcionária encarar a verdade matemática da situação: a assassina é uma das sete mulheres da sala. Leia mais (08/18/2026 - 11h00)",
+      "region": "global",
+      "published": "2026-08-18T14:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Ultragaz inaugura sua primeira estação própria de biometano do país em Paulínia",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/08/ultragaz-inaugura-sua-primeira-estacao-propria-de-biometano-do-pais-em-paulinia.shtml",
+      "teaser": "Dentro da estratégia de descarbonização da empresa, a Ultragaz inaugurou, na semana passada, a sua primeira estação própria de abastecimento de biometano do país. A base fica em Paulínia, interior de São Paulo, com capacidade para fornecer até 20 mil m³ de biometano por dia e atender cerca de 200 caminhões. Leia mais (08/18/2026 - 10h59)",
+      "region": "global",
+      "published": "2026-08-18T13:59:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Fazenda suspende 14 bets, incluindo três ligadas a Deolane, por falta de documentação; veja lista",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/fazenda-suspende-mais-14-bets-incluindo-tres-ligadas-a-deolane-por-falta-de-documentacao-veja-lista.shtml",
+      "teaser": "O Ministério da Fazenda suspendeu a licença de apostas de cinco empresas, incluindo negócios ligados à influenciadora Deolane Bezerra e ao grupo Pixbet, na última sexta-feira (14). Como cada companhia pode ter até três marcas, 14 sites foram suspensos pelas medidas cautelares, devido à falta de entrega de documentos obrigatórios. Leia mais (08/18/2026 - 10h53)",
+      "region": "global",
+      "published": "2026-08-18T13:53:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Cinco adolescentes suspeitos de participar de estupro coletivo em escola de PE são apreendidos",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/08/cinco-adolescentes-suspeitos-de-participar-de-estupro-coletivo-em-escola-de-pe-sao-apreendidos.shtml",
+      "teaser": "Cinco adolescentes suspeitos de estuprar duas alunas de 14 anos em uma escola em Cabo de Santo Agostinho, em Pernambuco , foram apreendidos nesta segunda-feira (17). Leia mais (08/18/2026 - 10h49)",
+      "region": "global",
+      "published": "2026-08-18T13:49:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Caiado troca marqueteiro um dia após início da campanha",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/caiado-troca-marqueteiro-um-dia-apos-inicio-da-campanha.shtml",
+      "teaser": "O candidato à Presidência pelo PSD , Ronaldo Caiado , anunciou nesta segunda-feira (17), a troca do marqueteiro Paulo Vasconcelos pelo publicitário Marcos Carvalho, antes à frente das redes sociais do candidato. Leia mais (08/18/2026 - 10h41)",
+      "region": "global",
+      "published": "2026-08-18T13:41:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Fact check: How do I spot AI-generated images?",
+      "link": "https://www.dw.com/en/fact-check-how-do-i-spot-ai-generated-images/a-65252602?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Images created or manipulated with artificial intelligence tools are flooding social media. How can you know what’s real and what’s not? Here are a few tips.",
+      "region": "global",
+      "published": "2026-08-18T13:59:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Designing food for a hotter world",
+      "link": "https://www.dw.com/en/designing-food-for-a-hotter-world/a-78413324?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Inside futuristic labs, plants are scanned, stressed and analysed. The aim is to use the results to produce plant strains that can better serve a growing population in a warming world.",
+      "region": "global",
+      "published": "2026-08-18T13:22:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "German court convicts Ukrainian man over Russia parcel plot",
+      "link": "https://www.dw.com/en/german-court-convicts-ukrainian-man-over-russia-parcel-plot/a-78414153?maca=en-rss-en-all-1573-rdf",
+      "teaser": "The court said the man sent packages with GPS trackers from Germany to Ukraine to scope out potential sabotage targets for Russian secret services.",
+      "region": "global",
+      "published": "2026-08-18T12:54:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Belgium wildfire: Rains help High Fens containment efforts",
+      "link": "https://www.dw.com/en/belgium-wildfire-rains-help-high-fens-containment-efforts/a-78411972?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Firefighters continue to battle one of the worst wildfires in Belgian history near the German border. Rains and cooler temperatures are helping them bring it to heel after it ravaged an area half the size of Manhattan.",
+      "region": "global",
+      "published": "2026-08-18T12:38:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Trump's North Korea overture triggers fears for US alliances",
+      "link": "https://www.dw.com/en/trump-s-north-korea-overture-triggers-fears-for-us-alliances/a-78413321?maca=en-rss-en-all-1573-rdf",
+      "teaser": "In announcing scaled back joint military drills with South Korea, the US president appears to be moving toward Pyongyang just as North Korea becomes more emboldened.",
+      "region": "global",
+      "published": "2026-08-18T12:37:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Hyrox: a global fitness sensation made in Germany",
+      "link": "https://www.dw.com/en/hyrox-a-global-fitness-sensation-made-in-germany/a-78074218?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Founded in Germany but successful worldwide, Hyrox combines running and functional training into a unique competition format. How a German idea became an international sports phenomenon.",
+      "region": "global",
+      "published": "2026-08-18T09:52:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Ukraine, Russia trade strikes; Wildberries site hit again",
+      "link": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Ukriane reported 10 dead in a missile strike in the northeastern Kharkiv oblast near the border. Russia, meanwhile, reported more than 600 drones approaching the Moscow area and warned the UK on suppyling drones to Kyiv.",
+      "region": "global",
+      "published": "2026-08-18T09:29:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Pakistan top court orders Imran Khan moved from jail to hospital",
+      "link": "https://www.dw.com/en/pakistan-top-court-orders-imran-khan-moved-from-jail-to-hospital/a-78409549?maca=en-rss-en-all-1573-rdf",
+      "teaser": "The former Pakistani prime minister's family has repeatedly raised concerns about his deteriorating health in prison. The 73-year-old was jailed in 2023 on corruption charges that he says were politically motivated.",
+      "region": "global",
+      "published": "2026-08-18T09:11:00+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Formel 1: Albon verlängert Vertrag bei Williams-Team bis 2027",
+      "link": "https://www.tagesspiegel.de/sport/formel-1-albon-verlangert-vertrag-bei-williams-team-bis-2027-15956005.html",
+      "teaser": "Er bestritt bereits 100 Rennen für den Traditions-Rennstall. Ein Sieg war ihm noch nicht vergönnt. Auch im nächsten Jahr fährt Albon für das Team.",
+      "region": "berlin",
+      "published": "2026-08-18T14:02:55+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Neues „Trendbarometer“: Merz verharrt im Umfragetief – AfD bleibt weiter stärkste Kraft",
+      "link": "https://www.tagesspiegel.de/politik/neues-trendbarometer-merz-verharrt-im-umfragetief--afd-bleibt-weiter-starkste-kraft-15955907.html",
+      "teaser": "Eine neue Forsa-Erhebung sieht wenig Bewegung in der politischen Stimmung im Land. Die Union liegt bei der Sonntagsfrage weiter deutlich hinter der AfD. Besonders schlecht sind die Beliebtheitswerte des Kanzlers.",
+      "region": "berlin",
+      "published": "2026-08-18T14:00:52+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Rote Ampel missachtet: Zwei Verletzte nach Zusammenstoß in Potsdams Berliner Vorstadt",
+      "link": "https://www.tagesspiegel.de/potsdam/landeshauptstadt/rote-ampel-missachtet-zwei-verletzte-nach-zusammenstoss-in-potsdams-berliner-vorstadt-15955215.html",
+      "teaser": "Auf der Kreuzung an der Nuthestraße stießen am Montag zwei Autos zusammen. Beide Fahrzeuge mussten abgeschleppt werden.",
+      "region": "berlin",
+      "published": "2026-08-18T13:51:33+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Plädoyer für Corona-Amnestie in Brandenburg: BSW lässt Wiedergutmachung in Europa untersuchen – für maximal 20.000 Euro aus Steuergeld",
+      "link": "https://www.tagesspiegel.de/potsdam/brandenburg/pladoyer-fur-corona-amnestie-in-brandenburg-bsw-lasst-wiedergutmachung-in-europa-untersuchen--fur-maximal-20000-euro-aus-steuergeld-15954322.html",
+      "teaser": "In Brandenburg hat das BSW eine Studie in Auftrag gegeben, in der untersucht werden soll, wie andere Staaten die Wiedergutmachung von Unrecht in der Corona-Pandemie praktizieren.",
+      "region": "berlin",
+      "published": "2026-08-18T13:50:44+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Uni Hamburg nach Kanzler-Rauswurf in der Krise: „Als Unternehmen hätte man längst Insolvenz anmelden müssen“",
+      "link": "https://www.tagesspiegel.de/wissen/uni-hamburg-nach-kanzler-rauswurf-in-der-krise-als-unternehmen-hatte-man-langst-insolvenz-anmelden-mussen-15942692.html",
+      "teaser": "Die Universität der Hansestadt ist steil aufgestiegen, doch jetzt machen ihr zahlreiche Probleme zu schaffen. Das Finanzloch ist groß – und die Lage dürfte noch dramatischer sein, als bisher öffentlich bekannt ist.",
+      "region": "berlin",
+      "published": "2026-08-18T13:34:26+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Supercup: Comeback fällt aus: Hartenstein fehlt Basketballern verletzt",
+      "link": "https://www.tagesspiegel.de/sport/supercup-comeback-fallt-aus-hartenstein-fehlt-basketballern-verletzt-15955762.html",
+      "teaser": "Eigentlich wollte der NBA-Champion Isaiah Hartenstein endlich wieder für Deutschland spielen. Doch das Comeback fällt aus.",
+      "region": "berlin",
+      "published": "2026-08-18T13:32:45+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Investition der Schwarz-Gruppe: Neues Rechenzentrum soll Lübbenau mit Wärme versorgen",
+      "link": "https://www.tagesspiegel.de/berlin/investition-der-schwarz-gruppe-neues-rechenzentrum-soll-lubbenau-mit-warme-versorgen-15955754.html",
+      "teaser": "Die Schwarz-Gruppe investiert Milliarden in ein Rechenzentrum in Lübbenau im Spreewald. Die Region will die Anlagen künftig als Wärmequelle nutzen.",
+      "region": "berlin",
+      "published": "2026-08-18T13:32:13+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Norwegisches Königshaus: Medien: Kronprinzenpaar besucht König Harald im Krankenhaus",
+      "link": "https://www.tagesspiegel.de/gesellschaft/norwegisches-konigshaus-medien-kronprinzenpaar-besucht-konig-harald-im-krankenhaus-15955750.html",
+      "teaser": "Sorgen um König Harald V.: Der norwegische Monarch ist seit gestern schon wieder im Krankenhaus. Jetzt bekam er dort laut norwegischen Medien Besuch.",
+      "region": "berlin",
+      "published": "2026-08-18T13:31:40+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Hochhaus-Brand in Friedrichshain: Ursache wohl technischer Defekt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/berlin-friedrichshain-brand-wohnhaus-fahrlaessige-vorsaetzliche-brandstiftung.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-08-18T13:56:51+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Urteil nach Todesfahrt in Teltow - Täter muss in psychiatrische Klinik",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/teltow-urteil-mauerweg-autofahrer-todesfahrt-.html",
+      "teaser": "Der Mann, der mit seinem Auto im September 2025 einen Radfahrer getötet und mehrere Menschen verletzt hatte, wurde wegen Totschlags verurteilt. Aufgrund seines Gesundheitszustands ist er aber schuldunfähig.",
+      "region": "berlin",
+      "published": "2026-08-18T13:43:52+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Berliner Aquarium wieder vollständig geöffnet",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/aquarium-berliner-zoo-wiedereroeffnung.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-08-18T13:24:38+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Ölspur verursacht langen Stau auf A111",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/a111-stau-oel-spur-berlin-stolpe-schulzendorfer-strasse.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-08-18T12:36:36+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Signalstörung führt zu Problemen bei mehreren S-Bahnlinien",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/signalstoerung-s-bahn-berlin-friedrichstrasse.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-08-18T12:17:20+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Neugestaltung der Museumslandschaft: Guben sucht Interessenten für historische Spruker Mühle",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/brandenburg-guben-spruker-muehle-interessenbekundung-verfahren.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-08-18T12:16:00+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Trockenheit in Brandenburg: Wie gerecht ist Wasser verteilt?",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/08/wasser-brandenburg-trockenheit-trinkwasser-wasserreserven-verteilung.html",
+      "teaser": "Das Brandenburger Umweltministerium will 2027 ein neues Wassergesetz vorlegen. Steigende Temperaturen und Trockenheit befeuern schon jetzt einen Verteilungskampf zwischen Unternehmen, Bürgern und der Landwirtschaft.",
+      "region": "berlin",
+      "published": "2026-08-18T11:28:20+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Berliner IT-Systeme nach Hackerangriff teilweise eingeschränkt",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-senatsverwaltung-hackerangriff-cybersicherheit-systeme-eingeschraenkt.html",
+      "teaser": "Nach dem Hackerangriff auf Teile der Berliner Senatsverwaltung sind einige digitale Angebote des Landes derzeit nicht oder nur eingeschränkt nutzbar. Betroffen ist unter anderem die Online-Beantragung von Briefwahlunterlagen.",
+      "region": "berlin",
+      "published": "2026-08-18T11:21:14+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Wirtschaftsboom: Nordkoreas Geschäft mit Russland, China und dem Ukraine-Krieg",
+      "link": "https://www.berliner-zeitung.de/article/wirtschaftsboom-nordkoreas-geschaeft-mit-russland-china-und-dem-ukraine-krieg-10304772",
+      "teaser": "Internationale Allianzen und neue Handelsoptionen ermöglichen Pjöngjang Einnahmen und neuen geopolitischen Spielraum.",
+      "region": "berlin",
+      "published": "2026-08-18T14:03:58+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Männer töten Frauen: Hört auf, es Liebe zu nennen!",
+      "link": "https://www.berliner-zeitung.de/article/femizide-wegsehen-schuetzt-nur-die-taeter-10304109",
+      "teaser": "Immer wieder überleben Frauen eine Beziehung nicht, obwohl die Gefahr lange bekannt war. Warum sehen Gesellschaft und Behörden noch immer nicht richtig hin? Ein Kommentar.",
+      "region": "berlin",
+      "published": "2026-08-18T14:00:52+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Regionalliga-Absteiger muss ganzes Team vom Spielbetrieb abmelden",
+      "link": "https://www.berliner-zeitung.de/article/ehemaliger-regionalliga-klub-muss-ganzes-team-vom-spielbetrieb-abmelden-10304890",
+      "teaser": "Ein ungewöhnlicher Vorgang beschäftigt den sächsischen Amateurfußball. Noch vor Saisonstart hat der FC Eilenburg eine Mannschaft abgemeldet.",
+      "region": "berlin",
+      "published": "2026-08-18T13:46:47+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Lawrow: Russland und Nordkorea kämpfen für „neue und gerechte Weltordnung“",
+      "link": "https://www.berliner-zeitung.de/article/russland-und-nordkorea-lawrow-spricht-von-neuer-und-gerechter-weltordnung-10304801",
+      "teaser": "Russland und Nordkorea rücken militärisch enger zusammen. Kim Jong-un unterstützt Russlands Krieg – Lawrow gibt dem Bündnis nun einen ideologischen Überbau.",
+      "region": "berlin",
+      "published": "2026-08-18T13:26:14+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Länderspiele in Köpenick? Der DFB macht den Weg für den 1. FC Union Berlin frei",
+      "link": "https://www.berliner-zeitung.de/article/laenderspiele-in-koepenick-der-dfb-macht-den-weg-fuer-den-1-fc-union-berlin-frei-10304647",
+      "teaser": "Erstmals seit 25 Jahren erlaubt der DFB wieder Stehplätze bei Länderspielen. Für den 1. FC Union Berlin könnte damit ein spektakuläres Szenario möglich werden.",
+      "region": "berlin",
+      "published": "2026-08-18T13:05:05+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Wahlschein-Portal offline – und die Berliner Verwaltung warnt mit keinem Wort",
+      "link": "https://www.berliner-zeitung.de/article/wahlschein-portal-offline-und-die-berliner-verwaltung-warnt-mit-keinem-wort-10304575",
+      "teaser": "Briefwahl Berlin 2026: Das Portal wahlscheinantrag.berlin.de ist nicht erreichbar, ein Warnhinweis der Landeswahlleitung fehlt bislang.",
+      "region": "berlin",
+      "published": "2026-08-18T12:34:58+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Warum ausgerechnet diese ostdeutsche Stadt jetzt Deutschlands Drohnenabwehr voranbringen soll",
+      "link": "https://www.berliner-zeitung.de/article/technologiezentrum-drohnensicherheit-cochstedt-10302853",
+      "teaser": "In Cochstedt wird an der Zukunft der Drohnenabwehr geforscht. Was die Wissenschaftler dort entwickeln – und warum das gerade jetzt wichtig ist.",
+      "region": "berlin",
+      "published": "2026-08-18T12:33:02+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "„Politik bis zur Unkenntlichkeit verzerrt“: Was der „Economist“ von Deutschlands Brandmauer hält",
+      "link": "https://www.berliner-zeitung.de/article/politik-bis-zur-unkenntlichkeit-verzerrt-was-der-economist-von-deutschlands-brandmauer-haelt-10299390",
+      "teaser": "In drei Wochen wählt Sachsen-Anhalt. Anders als Redakteure des Spiegel kommen deren ausländische Kollegen zu einem brisanten Befund: Die Brandmauer schadet der AfD nicht – im Gegenteil.",
+      "region": "berlin",
+      "published": "2026-08-18T12:32:18+00:00"
+    }
+  ]
+}

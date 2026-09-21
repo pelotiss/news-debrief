@@ -1,0 +1,742 @@
+{
+  "date": "2026-09-21",
+  "digest_markdown": "## Berlín\n\nNo hay disrupciones de transporte que afecten tu commute hoy. \n\nSobre regulaciones: La [extrema derecha alemana ha avanzado significativamente en las elecciones estatales de este fin de semana](https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585), incluyendo en Berlin, lo que aumenta la presión política sobre el Canciller Friedrich Merz, aunque esto es más un desarrollo político que un cambio normativo inmediato que te afecte como residente.\n\nEn Berlin específicamente, [la Izquierda ganó de forma clara las elecciones al Parlamento estatal (Abgeordnetenhaus)](https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahltag-prognose-hochrechnungen-ergebnis.html), superando a la CDU. Los próximos pasos serán las [negociaciones de coalición para formar gobierno](https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-agh-bvv-2026-neue-regierung-koalitionen-zeitplan.html), que determinarán cambios políticos futuros a nivel local.\n\n## Mundo\n\n**Alemania y populismo:** [La extrema derecha ganó terreno en elecciones estatales alemanas](https://www.economist.com/europe/2026/09/20/friedrich-merz-rues-disaster-as-populists-win-state-elections), fragmentando el panorama político y poniendo presión sobre el Canciller Merz, quien calificó los resultados como un \"desastre\".\n\n**Crisis en Ceuta:** [El Gobierno español y las autoridades de la ciudad autónoma están en conflicto sobre cómo manejar a hasta 700 menores que permanecen en las calles](https://elpais.com/espana/2026-09-21/crisis-en-ceuta-y-actualidad-politica-directo.html), mientras [ciudadanos de Ceuta se movilizan en defensa de la frontera](https://www.elindependiente.com/espana/2026-09-20/cientos-de-ceuties-marchan-hacia-el-tarajal-en-defensa-de-la-espanolidad-de-ceuta-y-de-su-frontera/).\n\n**Japón:** [El tifón Dujuan genera advertencias de inundaciones y deslizamientos de tierra](https://www.dw.com/en/japan-typhoon-dujuan-sparks-flood-landslide-warnings/a-79349957), con cientos de vuelos cancelados durante un feriado de cinco días.\n\n**Cine:** [La película \"La bola negra\" de los Javis triunfó en San Sebastián](https://elpais.com/cultura/cine/2026-09-21/el-festival-de-san-sebastian-se-rinde-a-los-javis-y-la-bola-negra-en-una-jornada-de-gloria-y-de-bano-de-masas.html) y además ganó el premio del público de Toronto.\n\n**Brasil:** [El medio ambiente ha desaparecido prácticamente de la campaña electoral brasileña a pesar de un año de récords climáticos extremos](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/em-ano-de-recordes-climaticos-meio-ambiente-desaparece-da-campanha-eleitoral-no-brasil.shtml), con las elecciones a menos de 15 días.\n\n**EE.UU. y China:** [Estados Unidos propone un mecanismo de seguridad sobre inteligencia artificial en conversaciones con China](https://www.dw.com/en/us-proposes-ai-safety-mechanism-in-talks-with-china/a-79350248).\n\n**Vivienda:** [Los precios de las viviendas podrían enfrentar presión a medida que suben nuevamente los tipos de interés, a diferencia de ciclos anteriores](https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time).",
+  "articles": [
+    {
+      "source": "El País",
+      "title": "Crisis en Ceuta y actualidad política, directo | La ministra de Juventud asegura que “la mayoría de los menores de Ceuta quiere quedarse. Y se va a quedar”",
+      "link": "https://elpais.com/espana/2026-09-21/crisis-en-ceuta-y-actualidad-politica-directo.html",
+      "teaser": "El Gobierno considera que el Ejecutivo de la ciudad autónoma está haciendo “politiqueo” con la situación de los hasta 700 niños y niñas que siguen en la calle | Feijóo se reúne con el presidente del PP Europeo y Vivas",
+      "region": "global",
+      "published": "2026-09-21T08:19:33+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Detenido un hombre en Alicante por asesinar a su pareja en Leganés",
+      "link": "https://elpais.com/espana/madrid/2026-09-21/detenido-un-hombre-en-alicante-por-la-muerte-de-su-pareja-en-leganes.html",
+      "teaser": "La mujer, de 34 años, fue hallada muerta el sábado en su piso de la localidad madrileña",
+      "region": "global",
+      "published": "2026-09-21T07:44:49+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Pensaba que un hervidor solo servía para calentar agua hasta que descubrí estos cinco usos",
+      "link": "https://elpais.com/escaparate/estilo-de-vida/usos-hervidor-de-agua.html",
+      "teaser": "Este es uno de esos pequeños electrodomésticos que tiene más posibilidades de las que imaginamos. Es rápido, práctico y sorprendentemente versátil en la cocina… Y fuera de ella, también",
+      "region": "global",
+      "published": "2026-09-21T07:25:18+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "El festival de San Sebastián se rinde a los Javis y ‘La bola negra’ en una jornada de gloria y de baño de masas",
+      "link": "https://elpais.com/cultura/cine/2026-09-21/el-festival-de-san-sebastian-se-rinde-a-los-javis-y-la-bola-negra-en-una-jornada-de-gloria-y-de-bano-de-masas.html",
+      "teaser": "El domingo el certamen fue engullido por el drama lorquiano mientras se anunciaba que había ganado el premio del público de Toronto, otro paso adelante hacia los Oscar",
+      "region": "global",
+      "published": "2026-09-21T06:23:12+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Las mejores camisetas blancas para mujer: comparamos cuatro modelos básicos",
+      "link": "https://elpais.com/escaparate/comparativas/mejor-camiseta-blanca-para-mujer.html",
+      "teaser": "Probamos camisetas de diferentes precios y composiciones para descubrir cuáles ofrecen el mejor equilibrio entre calidad y precio",
+      "region": "global",
+      "published": "2026-09-21T05:20:00+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Los productos imprescindibles para prevenir la humedad en casa antes de la llegada del invierno",
+      "link": "https://elpais.com/escaparate/estilo-de-vida/productos-para-evitar-la-humedad-en-casa.html",
+      "teaser": "Invierte lo necesario en los básicos que impedirán la aparición de moho, los malos olores, los daños en paredes y las tan temidas alergias y problemas respiratorios",
+      "region": "global",
+      "published": "2026-09-21T04:30:00+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Los zuecos sanitarios más vendidos de Amazon: cuestan menos de 20 euros y están disponibles en varios colores",
+      "link": "https://elpais.com/escaparate/lo-mas-vendido/zuecos-sanitarios.html",
+      "teaser": "Fabricados en EVA, tienen un diseño con talón abierto y perforaciones en los laterales que ayuda a mantener los pies frescos durante la jornada",
+      "region": "global",
+      "published": "2026-09-21T04:15:00+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Muere Presley Gerber, hijo de Cindy Crawford, a los 27 años",
+      "link": "https://elpais.com/us/entretenimiento/2026-09-21/muere-presley-gerber-hijo-de-cindy-crawford-a-los-27-anos.html",
+      "teaser": "El modelo, hermano de la también popular maniquí Kaia Gerber y que había hecho públicos sus problemas de salud mental, ha fallecido mientras estaba en rehabilitación",
+      "region": "global",
+      "published": "2026-09-21T04:00:15+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Friedrich Merz rues “disaster” as populists win state elections",
+      "link": "https://www.economist.com/europe/2026/09/20/friedrich-merz-rues-disaster-as-populists-win-state-elections",
+      "teaser": "German politics is fragmenting, fraying and radicalising",
+      "region": "global",
+      "published": "2026-09-20T21:44:59+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Want to flip the Senate? Try fish and charisma",
+      "link": "https://www.economist.com/united-states/2026/09/20/want-to-flip-the-senate-try-fish-and-charisma",
+      "teaser": "Democrats in Alaska hope personal appeal, idiosyncratic politics and presidential missteps will win a crucial seat",
+      "region": "global",
+      "published": "2026-09-20T15:57:54+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Cover Story newsletter: Can the AI arms race be stopped?",
+      "link": "https://www.economist.com/the-world-this-week/2026/09/20/cover-story-newsletter-can-the-ai-arms-race-be-stopped",
+      "teaser": "An exclusive look at how we designed our cover",
+      "region": "global",
+      "published": "2026-09-20T14:46:01+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "House prices survived the last interest-rate rise. Will they this time?",
+      "link": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
+      "teaser": "Supports that shored up the housing market when borrowing costs last rose are gone",
+      "region": "global",
+      "published": "2026-09-20T09:05:41+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Donald Trump drops demands to own Greenland, but the harm has been done",
+      "link": "https://www.economist.com/international/2026/09/19/donald-trump-drops-demands-to-own-greenland-but-the-harm-has-been-done",
+      "teaser": "A revised defence pact with Denmark and Greenland is a modest improvement, but annexation threats were a costly blunder",
+      "region": "global",
+      "published": "2026-09-19T19:28:05+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Checks and Balance newsletter: How to think about candidate quality",
+      "link": "https://www.economist.com/united-states/2026/09/19/checks-and-balance-newsletter-how-to-think-about-candidate-quality",
+      "teaser": "John Prideaux, our executive editor, on declaring independence",
+      "region": "global",
+      "published": "2026-09-19T09:26:10+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "China Still Has What America Needs",
+      "link": "https://www.foreignaffairs.com/china/china-still-has-what-america-needs",
+      "teaser": "The Trump-Xi summit gives Washington a chance to buy time.",
+      "region": "global",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "Shrink the UN",
+      "link": "https://www.foreignaffairs.com/united-nations/shrink",
+      "teaser": "The next secretary-general must get back to basics",
+      "region": "global",
+      "published": "2026-09-21T04:00:00+00:00"
+    },
+    {
+      "source": "Le Monde diplomatique",
+      "title": "September: the longer view",
+      "link": "https://mondediplo.com/2026/09/01zlonger-view",
+      "teaser": "The month's archives. - 2026/09 / perspective",
+      "region": "global",
+      "published": "2026-09-14T15:46:15+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "El coronel de la Legión se muestra listo \"para actuar de forma resolutiva y con inmediatez” en cuanto reciban \"la orden”",
+      "link": "https://www.elindependiente.com/espana/2026/09/20/coronel-legion-actuar-resolutiva-inmediatez-orden/",
+      "teaser": "&#160;La Legión cumple este domingo 106 años de historia “con voluntad de vencer la tensión de la crisis actual” y [&#8230;]",
+      "region": "global",
+      "published": "2026-09-20T13:54:05+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Locura por Brad Pitt en San Sebastián",
+      "link": "https://www.elindependiente.com/tendencias/2026/09/20/locura-por-brad-pitt-en-san-sebastian/",
+      "teaser": "Brad Pitt ha desatado la locura a su llegada este domingo al hotel María Cristina de San Sebastián entre los [&#8230;]",
+      "region": "global",
+      "published": "2026-09-20T13:27:43+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Feijóo anuncia que revisará cómo se concede, se mantiene y \"se puede perder\" la nacionalidad cuando gobierne",
+      "link": "https://www.elindependiente.com/espana/2026/09/20/feijoo-anuncia-que-revisara-como-se-concede-se-mantiene-y-se-puede-perder-la-nacionalidad-cuando-gobierne/",
+      "teaser": "El presidente del PP, Alberto Núñez Feijóo, ha vuelto a situar este domingo la inmigración y el control de las [&#8230;]",
+      "region": "global",
+      "published": "2026-09-20T12:16:34+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "La Promesa, avance semanal del lunes 21 de septiembre al viernes 25 de septiembre: Leocadia se lleva al bebé de María y Carlo",
+      "link": "https://www.elindependiente.com/series-y-television/2026/09/20/la-promesa-avance-semanal-del-lunes-21-de-septiembre-al-viernes-25-de-septiembre-leocadia-se-lleva-al-bebe-de-maria-y-carlo/",
+      "teaser": "La Promesa ultima los preparativos de la boda de Curro (Xavi Lock) y Ángela (Marta Costa). De momento, la mayor [&#8230;]",
+      "region": "global",
+      "published": "2026-09-20T11:09:30+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Cientos de ceutíes marchan hacia el Tarajal: \"¡Marruecos, canalla, esto es de los caballas!\"",
+      "link": "https://www.elindependiente.com/espana/2026/09/20/cientos-de-ceuties-marchan-hacia-el-tarajal-en-defensa-de-la-espanolidad-de-ceuta-y-de-su-frontera/",
+      "teaser": "Más de un millar de ceutíes se han concentrado este domingo en la explanada Juan Carlos I, a tres kilómetros [&#8230;]",
+      "region": "global",
+      "published": "2026-09-20T10:45:59+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Valle Salvaje, avance semanal del lunes 21 de septiembre al viernes 25 de septiembre",
+      "link": "https://www.elindependiente.com/series-y-television/2026/09/20/valle-salvaje-avance-semanal-del-lunes-21-de-septiembre-al-viernes-25-de-septiembre/",
+      "teaser": "Valle Salvaje, tras cumplir dos años de emisión ininterrumpida el pasado viernes 18 de septiembre, se encamina hacia otro hito: [&#8230;]",
+      "region": "global",
+      "published": "2026-09-20T10:43:14+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "La teoría de Puigdemont sobre Ceuta: \"España no hace referéndum de autodeterminación porque temen que nosotros pidamos uno también\"",
+      "link": "https://www.elindependiente.com/espana/2026/09/20/teoria-puigdemont-sobre-ceuta-espana-no-hace-referendum-autodeterminacion-porque-temen-nosotros-pidamos-uno-tambien/",
+      "teaser": "El expresidente de la Generalitat de Cataluña, Carles Puigdemont, considera que Ceuta y Melilla son \"dos colonias o ciudades dentro [&#8230;]",
+      "region": "global",
+      "published": "2026-09-20T09:32:46+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Cómo limpiar los radiadores a fondo antes de la llegada del frío",
+      "link": "https://www.elindependiente.com/sociedad/2026/09/20/limpiar-radiadores-frio-trucos/",
+      "teaser": "Saber cómo limpiar los radiadores antes de encender la calefacción es una de esas tareas de mantenimiento preventivo que conviene [&#8230;]",
+      "region": "global",
+      "published": "2026-09-20T07:30:00+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "London Demo Day 2026: startups to watch",
+      "link": "https://sifted.eu/articles/london-demo-day-2026-startups-to-watch/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-09-21T05:00:55+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "New solo GP firm backing early-stage AI and deeptech startups hits first close of maiden fund",
+      "link": "https://sifted.eu/articles/new-solo-gp-firm-backing-early-stage-ai-and-deeptech-startups-hits-first-close-of-maiden-fund/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-09-21T05:00:32+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Europe’s advantage: moving AI from the screen to the real world",
+      "link": "https://sifted.eu/articles/europes-advantage-moving-ai-from-the-screen-to-the-real-world/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-09-21T05:00:25+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "London’s Metris Energy raises €4.35 million to scale AI platform for managing renewable energy assets",
+      "link": "https://www.eu-startups.com/2026/09/londons-metris-energy-raises-e4-35-million-to-scale-ai-platform-for-managing-renewable-energy-assets/",
+      "teaser": "Metris Energy, a London-based AI‑native platform for managing energy assets at scale, has raised a €4.35 million ($5 million) Seed round and unveiled Metria AI, the company’s new AI interface that executes complex tasks previously performed manually by operations teams. The round was led by PT1 Ventures, Octopus Ventures, AENU and Blackfinch Ventures, with participation [&#8230;] The post London’s Metris Energy raises €4.35 million to scale AI platform for managing renewable energy assets appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-09-21T07:15:35+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "London’s Unit1 Studio secures €23.3 million to scale avatar concerts beyond the one-venue ABBA Voyage model",
+      "link": "https://www.eu-startups.com/2026/09/londons-unit1-studio-secures-e23-3-million-to-scale-avatar-concerts-beyond-the-one-venue-abba-voyage-model/",
+      "teaser": "Unit1 Studio, the London-based end-to-end avatar concert producer, has raised €23.3 million (£20 million) in new financing. The round combines an oversubscribed equity investment with additional production financing. The equity round was led by Balderton Capital. Existing investors Mercuri, Gilston Music, and Paul McGuinness, long-time manager of U2, also participated in the round. &#8220;Until now, [&#8230;] The post London’s Unit1 Studio secures €23.3 million to scale avatar concerts beyond the one-venue ABBA Voyage model appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-09-21T06:00:39+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Your AI agent failed. The model might not be the problem.",
+      "link": "https://thenewstack.io/nvidia-agent-debugging-safe/",
+      "teaser": "As AI agents move into production, the path between a request and its result is becoming less predictable. An agent The post Your AI agent failed. The model might not be the problem. appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-09-20T14:04:00+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "One engineer shipped 2,000 PRs a month to production. Verification is the key.",
+      "link": "https://thenewstack.io/agentic-verification-distributed-systems/",
+      "teaser": "Lauren Tan, an engineer on the Grok team at SpaceXAI, who previously worked at Cursor and Meta, recently published a The post One engineer shipped 2,000 PRs a month to production. Verification is the key. appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-09-19T14:00:00+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "“Dormant deployments were quietly consuming storage”: Why Vercel tightened its free-tier rules",
+      "link": "https://thenewstack.io/vercel-hobby-deployment-retention/",
+      "teaser": "Vercel announced this week that teams on its free Hobby plan will now have older, unprotected deployments deleted immediately if The post “Dormant deployments were quietly consuming storage”: Why Vercel tightened its free-tier rules appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-09-19T13:00:00+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models",
+      "link": "https://thenewstack.io/ai-agent-harness-economics/",
+      "teaser": "Our five most-read stories this week covered code collaboration, a model router, a UI change, a benchmark, and a caching The post This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-09-19T10:00:00+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Rastreabilidade na Amazônia: entre o legal e o ilegal",
+      "link": "https://www.nexojornal.com.br/ensaio/2026/09/19/amazonia-desmatamento-agropecuaria-garimpo-meio-ambiente",
+      "teaser": "&lt;p&gt;Integração de dados, tecnologia e controle das cadeias do gado, da madeira e do ouro podem reduzir a circulação de produtos de origem irregular&lt;/p&gt; &lt;p&gt;Commodities como carne, madeira e ouro são pilares da balança comercial brasileira, relevantes nas exportações de produtos primários. Na Amazônia Legal, porém, a expansão dessas cadeias produtivas está entre os principais vetores de pressão sobre a floresta. Essas cadeias permanecem fortemente associadas ao desmatamento ilegal, à grilagem de terras públicas, a crimes ambientais e à violação de direitos de povos indígenas e comunidades tradicionais.&lt;/p&gt; &lt;p&gt;Embora a produção ilegal e a lavagem de produtos sejam comuns às três cadeias produtivas, elas apresentam níveis distintos de amadurecimento regulatório. No caso do ouro, ainda não existe um sistema estruturado de rastreabilidade, e as normas são insuficientes para acompanhar o metal do garimpo ao comprador final. Na atividade madeireira, embora exista um sistema de controle unificado, persistem problemas de efetividade e fraudes nos próprios instrumentos criados para coibi-las. O sistema de controle da cadeia produtiva do gado, por sua vez, existe e é funcional, mas foi concebido para atender às exigências da vigilância sanitária e do comércio exterior, não alcançando adequadamente os impactos socioambientais negativos da pecuária.&lt;/p&gt; &lt;p&gt;Cada vez mais, governos e organismos internacionais exigem rastreabilidade e transparência nas cadeias produtivas globais. Nesse movimento, ganham espaço mecanismos de devida diligência socioambiental e estratégias de responsabilização por violações de direitos humanos e crimes ambientais.&lt;/p&gt; &lt;p&gt;No Brasil, o Ministério Público tem desempenhado papel relevante nesse processo. Desde 2009, no âmbito federal, ele tem firmado Termos de Ajustamento de Conduta com frigoríficos amazônicos, condicionando a compra de gado à regularidade fundiária e ambiental das propriedades e a auditorias externas. &lt;/p&gt; &lt;p&gt;O órgão também tem fortalecido sua atuação contra o desmatamento ilegal, tendo obtido centenas de condenações a partir do cruzamento de imagens de satélite com dados do CAR (Cadastro Ambiental Rural), incluindo pedidos de indenização por dano climático em razão da emissão de carbono decorrente da supressão da vegetação. Já no combate ao garimpo ilegal, tem buscado atingir a estrutura logística e financeira da atividade, com medidas de controle de uso do mercúrio e responsabilização de instituições financeiras que adquirem ouro sem comprovação de origem legal.&lt;/p&gt; &lt;p&gt;Garantir transparência e devida diligência é essencial para proteger a Amazônia e assegurar o direito constitucional a um meio ambiente ecologicamente equilibrado&lt;/p&gt; &lt;p&gt;O Poder Judiciário também tem contribuído para esse esforço. Destacam-se decisões do Supremo Tribunal Federal nas ADPFs (Arguições de Descumprimento de Preceito Fundamental) 760 e 743, atualmente em fase de execução. Nessas ações, a corte reconheceu falhas estruturais na política de proteção à Amazônia e determinou que o poder público adote medidas para eliminar o desmatamento ilegal e prevenir e combater os incêndios florestais. Ao longo de 2025 e 2026, decisões monocráticas dos ministros Flávio Dino e André Mendonça apontaram a necessidade de construir uma arquitetura de dados públicos confiável, capaz de assegurar maior transparência e permitir o cruzamento de informações necessárias ao monitoramento e à rastreabilidade das cadeias produtivas.&lt;/p&gt; &lt;p&gt;A tecnologia tem sido uma importante aliada no combate a esses crimes. Ferramentas como blockchain — bancos de dados digitais compartilhados e imutáveis —, códigos de rastreio e testes de procedência geográfica podem contribuir para tornar essas cadeias mais transparentes. Contudo, tais ferramentas dependem da qualidade e da integração dos dados que as alimentam — questão que enfrenta um obstáculo federativo, já que bases de dados estaduais sobre rebanhos, desmatamento e titulação minerária estão frequentemente isoladas das informações federais, dificultando o cruzamento indispensável à fiscalização.&lt;/p&gt; &lt;p&gt;Nesse cenário de pouca transparência, animais de origem irregular são movimentados para propriedades regularizadas antes do abate; guias de trânsito são adulteradas; volumes de madeira extraída são superestimados nos registros oficiais; e ouro sem lastro real circula amparado por títulos minerários formalmente válidos, criando uma zona de aparente legalidade com impactos ambientais gravosos. &lt;/p&gt; &lt;p&gt;Diante disso, o estudo “Gado, madeira e ouro na Amazônia Legal: desafios e iniciativas de rastreabilidade e transparência”, da Abrampa (Associação Brasileira dos Membros do Ministério Público de Meio Ambiente), com apoio do Ipam (Instituto de Pesquisa Ambiental da Amazônia), sugere três frentes de ação. A primeira é integrar bancos de dados públicos e informações geoespaciais, reunindo CAR, Guias de Trânsito Animal, registros de exploração, bases fundiárias, embargos, alertas de desmatamento e licenciamento ambiental, além de ferramentas de monitoramento e gestão de dados. Assim, inconsistências podem ser identificadas automaticamente, tornando a fiscalização mais eficiente.&lt;/p&gt; &lt;p&gt;A segunda é concentrar a fiscalização nos pontos de agregação. Em todas essas cadeias, materiais de múltiplas origens se combinam e sofrem transformações significativas, dificultando o rastreamento posterior. É o que acontece no caso dos frigoríficos, das serrarias, das DTVMs (Distribuidoras de Títulos e Valores Mobiliários) e das refinarias. Focar a fiscalização nesses elos, com exigências de devida diligência, é mais efetivo e eficiente do que fiscalizar produtores isolados.&lt;/p&gt; &lt;p&gt;A terceira é promover ajustes regulatórios para explicitar os deveres de devida diligência socioambiental de quem compra esses produtos nos diversos elos das cadeias, facilitando a responsabilização dos atores envolvidos. &lt;/p&gt; &lt;p&gt;Nenhuma dessas medidas é trivial: todas exigem investimentos, tempo e coordenação interinstitucional. Mas o custo de não agir é maior, com florestas degradadas, biodiversidade reduzida, direitos violados e risco de perda de mercados. Garantir rastreabilidade, transparência e devida diligência é, portanto, essencial para proteger a Amazônia e assegurar o direito constitucional a um meio ambiente ecologicamente equilibrado. &lt;/p&gt; &lt;p&gt;Vivian Ferreira é advogada, doutora em filosofia e teoria do direito pela Faculdade de Direito da USP (Universidade de São Paulo) e mestre em direito e desenvolvimento pela FGV-SP (Fundação Getulio Vargas de São Paulo). Atua como consultora jurídica do projeto Abrampa pelo Clima.&lt;/p&gt; &lt;p&gt;Raquel Frazão Rosner é advogada, doutoranda e mestre em direito e desenvolvimento pela FGV-SP. Atua como consultora jurídica do projeto Abrampa pelo Clima.&lt;/p&gt;",
+      "region": "global",
+      "published": "2026-09-19T13:53:17+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Ninguém sai ileso da pobreza: as neuroses da ascensão social",
+      "link": "https://www.nexojornal.com.br/ensaio/2026/09/19/economia-desigualdade-ascensao-social-pobreza-psicanalise",
+      "teaser": "&lt;p&gt;Crescer sob a ameaça permanente de escassez significa aprender cedo que a segurança pode desaparecer sem rede capaz de amortecer a queda&lt;/p&gt; &lt;p&gt;Sair da pobreza material não significa abandonar um estado de escassez. A condição material pode ter mudado; a renda, aumentado; e a vida, adquirido contornos improváveis para as gerações anteriores da família. Ainda assim, permanece a sensação de que tudo pode desaparecer a qualquer momento, porque ninguém sai ileso da pobreza.&lt;/p&gt; &lt;p&gt;Dentro e fora dos consultórios de psicanálise, esse é um aspecto pouco discutido da ascensão social. Espera-se que a segurança material produza, quase automaticamente, segurança subjetiva. Quando isso não acontece, o sofrimento do ex-pobre parece ilegítimo: como alguém em condições muito melhores do que aquelas em que cresceu ainda pode vivenciar angústias relacionadas à pobreza?&lt;/p&gt; &lt;p&gt;A resposta exige ampliar o entendimento sobre o que a pobreza produz. Ela é caracterizada pela falta de dinheiro e de oportunidades — e não se deve minimizar a dimensão concreta dessa ausência. Mas ela é também uma experiência capaz de marcar o corpo, o desejo e o inconsciente. Crescer sob a ameaça permanente de escassez significa aprender cedo que a segurança pode desaparecer sem rede capaz de amortecer a queda. Esse estado de alerta não desaparece necessariamente quando a renda aumenta.&lt;/p&gt; &lt;p&gt;Há uma aproximação possível com o que Freud observou nos soldados que retornavam dos combates. Mesmo em segurança, o horror reaparecia involuntariamente — não como lembrança convocada, mas como algo que se impunha à revelia do sujeito. A pobreza prolongada também pode deixar uma marca que não se escolhe recordar, mas que se manifesta como reação. Essa repetição não deve ser confundida com a pulsão de morte — conceito que Freud desenvolveu em “Além do princípio do prazer” ao investigar a compulsão à repetição de experiências traumáticas. Pode ser, antes, o sinal de algo que ainda pede escuta.&lt;/p&gt; &lt;p&gt;O medo funciona como um alarme que não desarma: quanto mais se conquista, mais parece haver a perder&lt;/p&gt; &lt;p&gt;Neurose da pobreza designa, por analogia às neuroses de guerra, formações sintomáticas em quem viveu a privação material como trauma, com efeitos psíquicos que persistem mesmo após a mudança das condições econômicas.&lt;/p&gt; &lt;p&gt;Essas manifestações costumam se tornar mais evidentes justamente depois da ascensão social. Enquanto a sobrevivência ocupa o centro da vida, sobra pouco espaço para elaborar o que se vive; a urgência vem antes. Quando surgem tempo e conquistas próprias, a ferida encontra espaço para aparecer. Não é apenas a pobreza vivida hoje que produz sofrimento, mas a pobreza de ontem, que só agora encontra condições para cobrar seu preço.&lt;/p&gt; &lt;p&gt;Uma das marcas mais persistentes é o medo da queda: não simplesmente perder um emprego ou parte do patrimônio, mas voltar ao inferno da pobreza. O medo funciona como um alarme que não desarma: quanto mais se conquista, mais parece haver a perder. &lt;/p&gt; &lt;p&gt;A reserva financeira nem sempre desmonta um medo de raízes profundas. Talvez o que se tema não seja apenas a falta de dinheiro — se fosse, educação financeira bastaria. O temor é voltar a ser aquele que não é ninguém: um sujeito invisível, um corpo descartável que trabalha e desaparece, sem lugar, sem nome, sem laço que o sustente.&lt;/p&gt; &lt;p&gt;Isso quer dizer que a pobreza produz, além de privação, experiências de humilhação social. Esse medo assume formas contraditórias: vigilância permanente sobre o dinheiro ou sua completa negação; dificuldade de descansar, porque parar parece perigoso; compulsão por produzir continuamente. Essa corrida não tem linha de chegada: não se corre para chegar a algum lugar, mas para não voltar. Nesse conjunto de marcas — sulcos profundos — é que se compreende o que nomeio de trauma da pobreza.&lt;/p&gt; &lt;p&gt;Há ainda uma dimensão menos visível dessa travessia: o não lugar. O mundo de origem já não é inteiramente o mesmo, e aquele ao qual se chegou tampouco oferece pertencimento completo. De um lado, a sensação de ter traído quem ficou; de outro, a necessidade permanente de provar que se merece a nova classe social. Entre os dois surge um exílio de classe e, com ele, uma solidão própria da ascensão social.&lt;/p&gt; &lt;p&gt;A culpa acompanha esse deslocamento. Pode aparecer como “síndrome” do sobrevivente: por que consegui ascender, enquanto familiares e amigos não tiveram a mesma chance? A outra face é a síndrome do salvador: já que consegui, cabe a mim sustentar todos os demais. As duas culpas transformam a conquista em dívida — um imposto social pago permanentemente por ter escapado da pobreza, que nunca se quita com dinheiro.&lt;/p&gt; &lt;p&gt;É aqui que uma experiência individual revela sua dimensão política. O medo da queda mantém o sujeito correndo; a culpa dificulta o desfrute das conquistas; o descanso permanece ameaçador. A sociedade celebra esses comportamentos como mérito e superação: o sistema econômico aprecia o vencedor incansável, ocupado demais para questionar as estruturas que organizam sua vida. Uma dor íntima torna-se funcional a uma engrenagem que romantiza o sofrimento como condição para “merecer” alguma coisa.&lt;/p&gt; &lt;p&gt;A saída dificilmente estará em ganhar mais dinheiro, pois, para quem segue organizado pela escassez, o suficiente pode nunca chegar. É nesse terreno que a psicanálise pode operar como resistência: não para “consertar alguém quebrado”, mas para permitir que o que permaneceu sem elaboração possa ser falado e nomeado. O que se consegue colocar em palavras deixa de governar inteiramente às escuras.&lt;/p&gt; &lt;p&gt;Trata-se, em última instância, de uma autorização do desejo: viver o que foi conquistado sem culpa, apenas porque gerações anteriores não tiveram a mesma possibilidade. Há direitos subjetivos que não foram transmitidos porque ninguém antes pôde exercê-los. Essa autorização precisa ser construída pelo próprio sujeito.&lt;/p&gt; &lt;p&gt;Não deveria ser necessário morrer trabalhando para provar que se merece viver. A fidelidade à origem não está em carregar uma dor indefinidamente — está em viver o que as gerações anteriores desejaram e não puderam experimentar. Ninguém atravessa a pobreza sem marcas, mas as cicatrizes não precisam determinar para sempre a vida de quem conseguiu sair dela. A pobreza já tomou muito de quem ascende socialmente; não deveria tomar também o presente e o futuro.&lt;/p&gt; &lt;p&gt;Kályton Resende é psicanalista e integrante do Fórum do Campo Lacaniano do Rio de Janeiro. Pesquisa a hipótese do trauma da pobreza como mestrando na Uerj (Universidade do Estado do Rio de Janeiro). É autor, criador de conteúdo e idealizador do podcast Pobreza em Análise.&lt;/p&gt;",
+      "region": "global",
+      "published": "2026-09-19T13:42:03+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "‘Tem que taxar os bilionários’: Marcha pelo Clima leva debate sobre mudanças climáticas e eleições às ruas de Brasília",
+      "link": "https://www.brasildefato.com.br/2026/09/20/tem-que-taxar-os-bilionarios-marcha-pelo-clima-leva-debate-sobre-mudancas-climaticas-e-eleicoes-as-ruas-de-brasilia/",
+      "teaser": "Sob um pé de mangueira e com temperatura de 29ºC, ativistas, movimentos sociais, servidores públicos e candidaturas distritais e federais participaram neste domingo (20) da Marcha pelo Clima, realizada no Eixão do Lazer, na altura da 102 Sul, em Brasília (DF). O encontro começou às 10h e terminou por volta das 13h, após os manifestantes [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-09-20T23:50:17+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "“Se eu fosse vivo… vivia”: filme com Conceição Evaristo no elenco vence Festival de Brasília",
+      "link": "https://www.brasildefato.com.br/2026/09/20/se-eu-fosse-vivo-vivia-filme-com-conceicao-evaristo-no-elenco-vence-festival-de-brasilia/",
+      "teaser": "A 59ª edição do Festival de Brasília do Cinema Brasileiro encerrou sua programação neste sábado (19) com &#8220;Se eu fosse vivo&#8230; vivia&#8221;, consagrado como melhor longa-metragem pelo Júri Oficial. Ao todo, o festival reuniu cerca de 35 mil pessoas ao longo dos nove dias de exibição, além das atividades de oficinas, debates sobre políticas públicas [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-09-20T23:13:54+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Extrema direita avança em eleições estaduais na Alemanha e amplia pressão sobre Merz",
+      "link": "https://www.brasildefato.com.br/2026/09/20/extrema-direita-avanca-em-eleicoes-estaduais-na-alemanha-e-amplia-pressao-sobre-merz/",
+      "teaser": "A extrema direita voltou a crescer nas eleições estaduais para o Parlamento, neste domingo (20), na Alemanha. Em Mecklemburgo-Pomerânia Ocidental, o partido da extrema direita e anti-imigração Alternativa para a Alemanha (AfD) aparece na liderança, enquanto em Berlim o partido A Esquerda está à frente, de acordo com os resultados preliminares. O resultado aponta para [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-09-20T20:23:44+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Esposa de Alexandre de Moraes nega vínculo pessoal com Vorcaro em viagem de jatinho",
+      "link": "https://www.brasildefato.com.br/2026/09/20/esposa-de-alexandre-de-moraes-nega-vinculo-pessoal-com-vorcaro-em-viagem-de-jatinho/",
+      "teaser": "O escritório de advocacia Barci de Moraes afirmou neste domingo (20) que não há vínculos pessoais nas contratações de viagens de táxi aéreo para os profissionais da banca. A manifestação foi divulgada após a coluna do jornalista Lauro Jardim, de O Globo, publicar um vídeo que mostra o desembarque do ministro do Supremo Tribunal Federal [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-09-20T19:35:44+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Michele Bachelet retira candidatura ao cargo de secretária-geral da ONU",
+      "link": "https://www.brasildefato.com.br/2026/09/20/michele-bachelet-retira-candidatura-ao-cargo-de-secretaria-geral-da-onu/",
+      "teaser": "A ex-presidenta do Chile Michele Bachelet anunciou, nesse sábado (19), em sua conta no Instagram, que não irá seguir com a candidatura à Secretária-Geral da Organização das Nações Unidas (ONU). Em um vídeo em que informa a decisão, ela afirma que a candidatura ia “contra a corrente” por defender princípios progressistas e que não se [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-09-20T18:52:32+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Dino cita Master e determina revisão de regras da Comissão de Valores Mobiliários",
+      "link": "https://www.brasildefato.com.br/2026/09/20/dino-cita-master-e-determina-revisao-de-regras-da-comissao-de-valores-mobiliarios/",
+      "teaser": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou neste domingo (20) que o governo federal promova a avaliação técnica e reapreciação das regras normativas da Comissão de Valores Mobiliários (CVM), órgão responsável pela fiscalização do mercado de capitais. O prazo para cumprimento da decisão é de 90 dias. A CVM é uma autarquia [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-09-20T16:50:00+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Candidato ao Senado, Deltan Dallagnol tem campanha suspensa pelo TSE",
+      "link": "https://www.brasildefato.com.br/2026/09/20/candidato-ao-senado-deltan-dallagnol-tem-campanha-suspensa-pelo-tse/",
+      "teaser": "Uma liminar concedida pelo Tribunal Superior Eleitoral (TSE), na noite de sábado (19), suspendeu a campanha do candidato ao Senado pelo Paraná Deltan Dallagnol (Novo). A decisão, assinada pelo ministro relator Floriano de Azevedo Marques, impede o candidato de receber e usar recursos do fundo partidário, realizar e transmitir propaganda eleitoral no rádio e na [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-09-20T16:42:14+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Movimentos sociais e culturais farão ato com Alckmin no Espaço Elza Soares, em SP",
+      "link": "https://www.brasildefato.com.br/2026/09/20/movimentos-sociais-e-culturais-participam-de-ato-com-alckmin-no-espaco-elza-soares-em-sp/",
+      "teaser": "Movimentos sociais e culturais participam de um ato de campanha da chapa Brasil Pronto pra Mais com o vice-presidente Geraldo Alckmin, candidato à reeleição para o mesmo cargo, nesta terça-feira (22), no Espaço Cultural Elza Soares, na Alameda Eduardo Prado, 460, região central de São Paulo. A atividade terá início às 17h e também contará [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-09-20T16:19:34+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Capivara chamada 'Samba' mobiliza moradores do Reino Unido após fugir de zoológico",
+      "link": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/21/capivara-chamada-samba-mobiliza-moradores-do-reino-unido-apos-fugir-de-zoologico.ghtml",
+      "teaser": "Equipes de busca do Reino Unido estão à procura de Samba, a capivara que se tornou amada e popular entre os britânicos. O animal fugiu há seis meses do zoológico de Marwell e, apesar dos 150 avistamentos, tem conseguido driblar os drones, cães farejadores e até os agentes. A dificuldade para achar o bichinho está gerando uma onda de memes na internet. Entre as publicações, citadas pelo jornal britânico The Sun, há imagens geradas por inteligência artificial de samba andando de bicicleta, assistindo jogos de futebol e até viajando de avião. Há também algumas do animal mexendo no celular e dirigindo um caminhão. Initial plugin text Initial plugin text Initial plugin text Initial plugin text A busca por Samba está mobilizando a comunidade, com o zoológico pedindo que os moradores fiquem atentos durante suas caminhadas ou enquanto dirigem na região. Eles também podem acompanhar as buscar pelas redes sociais do Zoológico de Marwell. \"Verifique lagoas ou cursos d'água locais, pois as capivaras adoram passar tempo na água. É provável que Samba seja mais ativa à noite, mas também pode ser vista tomando sol nas margens do rio em dias ensolarados. Estamos extremamente gratos a todos que estão nos ajudando na busca\", escreveu o local. Seis meses de busca Samba fugiu no dia 17 de março por uma fresta em seu recinto temporário, junto com sua irmã, Tango, que prontamente desistiu de sua fuga. A fugitiva conseguiu escapar dos guardas — elas conseguem atingir até 32 km/h — antes de seguir para o interior de Hampshire, no sudeste do Reino Unido. Ainda segundo o jornal britânico, os clientes de um pub na cidade vizinha de Owslebury não acreditaram no que viram quando a capivara passou por ali no dia seguinte. Até o final daquela semana, houve inúmeros avistamentos do animal. Uma pessoa que passeava com seu cachorro disse ter visto Samba relaxando às margens de um rio na região de Colden Common, a poucos quilômetro do zoológico em que estava abrigada. A diretora executiva do Marwell, Laura Read, disse ter visto o roedor em meio à folhagem menos de 24 horas depois. Os profissionais, então, instalaram câmeras de monitoramento a 5 km de distância do zoológico. A preocupação não é exagerada: — Os maiores riscos que ela enfrenta são as pessoas e as estradas — explicou a porta-voz do zoológico, Sarah Berry. — Ela ficará bem até o próximo inverno , mas obviamente estamos fazendo tudo o que podemos para recuperá-la o mais rápido possível. Em julho, uma capivara de sete anos chegou a Marwell. Era Ripple, que havia sido transferida do zoológico de Blackpool. Os cuidadores de Samba, porém, insistiram que não se tratava da fugitiva, acrescentando que a busca continuava em andamento. No mês passado, em agosto, os especialistas receberam uma pista da capivara, descrevendo-a como \"muito promissora\".",
+      "region": "global",
+      "published": "2026-09-21T08:00:00+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Mais de dez anos após receber moradores de imóveis desapropriados para a Rio 2016, condomínio Parque Carioca, em Jacarepaguá, passa por revitalização",
+      "link": "https://oglobo.globo.com/rio/bairros/barra/noticia/2026/09/21/mais-de-dez-anos-apos-receber-moradores-de-imoveis-desapropriados-para-a-rio-2016-condominio-parque-carioca-em-jacarepagua-passa-por-revitalizacao.ghtml",
+      "teaser": "Mais de dez anos depois de receber as primeiras famílias, o Conjunto Habitacional Parque Carioca, na Estrada dos Bandeirantes, passa por uma grande reforma. O residencial, composto por 900 unidades habitacionais, está recebendo obras de requalificação nos quatro lotes, com serviços que incluem recuperação de áreas de lazer, melhorias na circulação e acessibilidade e intervenções nos sistemas de água, esgoto e iluminação. Cerca de sete mil pessoas vivem atualmente no local. Expulsão: Escola desliga alunos envolvidos em agressão a professor em Jacarepaguá; polícia intimou jovens O corpo sarado é consequência: Academias se tornam centros de wellness e aliam exercício físico a atividades de saúde e bem-estar As obras são realizadas pela Secretaria municipal de Habitação em parceria com a Subprefeitura dos Grandes Complexos. Entre as intervenções estão a recuperação das quadras poliesportivas, com substituição de alambrados, a manutenção dos parques infantis e a restauração de meios-fios. Escadas, paredes, corrimãos e corredores internos também estão sendo recuperados e pintados. O projeto prevê ainda a implantação de rampas de acessibilidade e a demarcação das vagas de estacionamento. No lote 2, novas vagas para automóveis foram criadas a pedido dos moradores. Também serão instalados dois reservatórios de água, com capacidade de 20 mil litros cada, para reforçar a continuidade do abastecimento do conjunto. No lote 3, uma nova tubulação da rede de esgoto sanitário está sendo instalada. Já no lote 4, foi realizada a manutenção do sistema de iluminação. Os telhados de todos os prédios passaram por vistoria com auxílio de drone para identificar possíveis pontos que precisem de intervenção. Nos quatro lotes, também foram instalados novos contêineres de alta capacidade fornecidos pela Comlurb, com o objetivo de melhorar a organização e o descarte de resíduos. — Nosso objetivo é garantir um conjunto mais seguro, acessível e bem cuidado, com melhores condições de circulação e convivência para quem vive aqui — afirma o secretário municipal de Habitação, Claudio Dutra. O condomínio começou a ser ocupado em 2014, e problemas relacionados a infraestrutura e conservação começaram a aparecer entre as reclamações dos moradores poucos anos após a mudança. Em 2017, reportagem do GLOBO-Barra mostrou dificuldades relacionadas ao abastecimento de água e à manutenção das áreas comuns do residencial. Na época, moradores relatavam mau funcionamento das bombas de água e síndicos apontavam dificuldades para custear reparos em quadras, salões de festas e outros espaços. Demarcação de novas vagas para carros foi um pedido Divulgação/Carla Valladão O Parque Carioca faz parte do programa Minha Casa, Minha Vida e foi construído pela prefeitura em parceria com o governo federal. Os primeiros moradores chegaram entre 2014 e 2016. Muitas famílias vinham da Vila Autódromo, em Jacarepaguá, localizada a cerca de um quilômetro de distância, onde 278 casas seriam desapropriadas em razão das obras do Parque Olímpico, que concentrou as principais instalações da Rio 2016. Na ocasião, os residentes nas casas que iriam abaixo tiveram de escolher entre receber uma indenização ou ocupar um apartamento de dois ou três quartos no novo residencial. Padaria, pizzaria, bar, café, adega: Conheça o complexo prestes a abrir as portas em nova área gastronômica no BarraShopping A mudança representou uma transformação na forma de morar. Famílias que viviam em casas passaram a ocupar apartamentos distribuídos em prédios de cinco andares, com áreas comuns e regras próprias de condomínio. Uma das primeiras moradoras do conjunto, Elisângela Melo, de 55 anos, chegou em 2014, depois de deixar a Vila Autódromo. Hoje, trabalha como zeladora no condomínio e diz que a mudança transformou sua vida. Mais de uma década depois, ela desenvolveu uma relação de forte vínculo com o apartamento onde vive. Diz que a mudança também trouxe impactos para a família. — A minha vida mudou para melhor, minha moradia, meu trabalho, a escolaridade dos meus netos. Eu nunca conseguiria sozinha uma moradia digna. Hoje as crianças estão tendo um parquinho, uma quadra, as escadas todas pintadinhas, tudo cuidado. Isso não tem preço — conta Em 2017, moradores relatavam dificuldades para se adaptar ao novo modelo de moradia. Entre as reclamações estavam os custos de manutenção, a conservação dos espaços comuns e problemas no abastecimento de água. Também havia preocupações relacionadas à situação dos imóveis e às condições para venda ou aluguel das unidades. Para Elisângela, o saldo é positivo. A renovação da pintura de escadas e paredes está em andamento Divulgação/Carla Valladão — O problema é que as pessoas estão acostumadas a não ter custos. Mas, para morar numa moradia dessa, na Estrada dos Bandeirantes, também temos que fazer o nosso esforço. Hoje eu tenho asfalto, mercado do lado, farmácia, rede de saúde, tudo em volta — diz. Mais de uma década depois da chegada das primeiras famílias, a prefeitura também afirma estar avançando na regularização dos imóveis. O trabalho envolve os procedimentos necessários para que os moradores recebam a documentação definitiva de posse das unidades. Praça Sarah Kubitschek: Área de lazer, em Copacabana, terá novos brinquedos, área pet e academia após retirada de muro; veja imagens A percepção sobre a transformação do residencial também aparece na história de Flávia Santos, moradora do lote 2 desde 2015. Antes de chegar ao Parque Carioca, ela vivia em uma casa na Vila União, em Curicica. Hoje, observa, a convivência entre os moradores é melhor, e o conjunto foi ganhando novos serviços ao longo dos anos. — Nós fazemos muitas festas. A gente se organiza para festas juninas, almoços de Dia das Mães; é uma alegria — conta. A requalificação do Parque Carioca faz parte de uma série de ações realizadas pela prefeitura no residencial. — Além das ações de manutenção, já levamos para o conjunto o programa Favela com Dignidade, que reúne diferentes órgãos municipais para atender às demandas dos moradores, e o Comunidade de Responsa, em parceria com a Comlurb, com serviços de limpeza hidráulica, poda, capina e desobstrução de ralos — destaca Marlí Peçanha, presidente do Conselho Municipal de Favelas e subprefeita dos Grandes Complexos, que acompanhou a chegada das famílias ao Parque Carioca e desde então trabalha em ações no local. O Parque Carioca é formado por 45 prédios de cinco andares, distribuídos em quatro lotes. Todos contam com áreas de lazer, quadras de esportes e salão de festas. O complexo tem ainda área verde, piscina e um setor comercial, e os moradores podem fazer aulas gratuitas de ginástica funcional, oferecidas pela Secretaria municipal de Esportes. Initial plugin text",
+      "region": "global",
+      "published": "2026-09-21T08:00:00+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Rio Gastronomia fecha primeiro fim de semana ao som de samba já prepara nova rodada de shows para reabrir na quinta-feira",
+      "link": "https://oglobo.globo.com/rioshow/rio-gastronomia/noticia/2026/09/21/rio-gastronomia-fecha-primeiro-fim-de-semana-ao-som-de-samba-ja-prepara-nova-rodada-de-shows-para-reabrir-na-quinta-feira.ghtml",
+      "teaser": "O primeiro fim de semana do Rio Gastronomia terminou ontem (20) deixando aquele gostinho de quero mais. E a espera não vai ser longa: já na próxima quinta-feira, os portões do Pião do Prado, no Jockey Club Brasileiro, na Gávea, reabrem às 17h para a segunda etapa do maior festival gastronômico do país, com Marcelo D2 abrindo os trabalhos no dia 24, seguido por Blitz na sexta (25), pela roda Samba Que Elas Querem no sábado (26) e por Bento e Flor Gil cantando Gilberto Gil no domingo (27). Rio Gastronomia 2026: tudo que você precisa saber sobre o evento Menu musical: Ferrugem, Blitz e D2 fazem show no Rio Gastronomia 2026; veja line-up completo Antes, porém, era preciso fechar a conta do primeiro fim de semana — e o domingo reservou música para gerações diferentes. Logo às 13h, a fanfarra volante A Bagaceira Frevo Orquestra tomou conta do Pião do Prado, dando o tom animado que embalou a tarde. Às 16h, foi a vez da criançada se divertir com o show interativo de Os Fabulosos, enquanto os músicos do Favela Brass saíram em cortejo pelo espaço já no fim da tarde. Quando a noite chegou, o palco foi de Pretinho da Serrinha, que subiu para fechar o fim de semana com uma roda de samba animada diante da plateia lotada. Pretinho da Serrinha no Rio Gastronomia 2026 Lucas Tavares No repertório, não faltaram sucessos. Pretinho começou com “Alguém me avisou”, “Sonho meu” e “Acreditar”, de Dona Ivone Lara; depois, passeou pela obra de Jorge Aragão, interpretando “Eu e você sempre”, “Lucidez” e “Conselho”. Teve espaço ainda para “Marinheiro só”, marcante no repertório de Clemetina de Jesus; “Samba da mina terra”, de Dorival Caymmi; e tantas outras canções. Do petisco à sobremesa: saiba o que provar nos mais de 40 restaurantes do Rio Gastronomia 2026 Roda-gigante, espaço kids e feira de produtores: Rio Gastronomia 2026 reúne atrações além da boa comida Entre uma atração e outra, o domingo também foi de mesas cheias, com o público aproveitando o último dia da primeira etapa para experimentar os pratos dos mais de 40 bares e restaurantes do festival. Alguns deles, aliás, já despontam entre os mais pedidos pelo público (veja abaixo a lista dos mais vendidos no primeiro fim de semana de Rio Gastronomia). Os mais vendidos no primeiro fim de semana 1 - Empanada de polvo (Gonza) 2 - Lasanha de costela (Heaven) 3 - Hambúrguer (Maturatta) 4 - Trio de croquetes de pastrami (Balcão 201) 5 - Atum komah (Katz-su) — O que mais gosto do evento é essa versatilidade de reunir os melhores restaurantes num só lugar. Eu, por exemplo, fui de comida asiática, que adoro, e meu marido foi de empanada e assado de tira argentinos — contou a chef e professora de Gastronomia Albertini Banjar, de 41 anos, que veio de Macaé para curtir o Rio Gastronomia e ficou até o show de Pretinho da Serrinha. No Auditório Sesc | Senac, o domingo também foi de descobertas à mesa: passaram pelo espaço a nutricionista Gabi Kapim com a Turma da Mônica, em \"Socorro! Meu filho pode comer peixe?\"; a azeitóloga Lívia Pirozzi, falando sobre azeite de oliva e saúde; Jéssica Trindade, eleita Chef do Ano no Prêmio Rio Show de Gastronomia 2026, e Monique Gabiatti, com apresentação de Luciana Fróes; e as chefs e amigas de longa data Katia Barbosa, Mariana Resende e Vanessa Marzano, as “Baronesas de Iguatemi”. — Na pandemia, a gente chorava as mágoas juntas. Depois, passamos a nos juntar na mesa de bar, na Barão de Iguatemi (rua na Praça da Bandeira), onde ficam nossos bares. Na brincadeira, falávamos que éramos as baronesas de Iguatemi, e somos mesmo: a maioria dos bares da rua é administrada por mulheres. Nos unimos para melhorar aquela área para todas nós — contou Katia Barbosa durante a aula. O Rio Gastronomia 2026 volta na próxima quinta-feira, dia 24, reabrindo os portões às 17h. O evento vai até 4 de outubro, sempre de quinta-feira a domingo, com uma extensa e saborosa programação no Jockey Club Brasileiro, na Gávea, Zona Sul do Rio. Os ingressos estão à venda pelo site da Ticketmaster (compre aqui). O que provar nos mais de 40 restaurantes do Rio Gastronomia 2026 O Ministério da Cultura, Prefeitura da Cidade do Rio de Janeiro, Secretaria Municipal de Cultura, através da Lei Municipal de Incentivo a Cultura – Lei do ISS, Sesc RJ e Senac RJ apresentam Rio Gastronomia 2026. O evento conta o Governo do Estado do Rio de Janeiro como estado anfitrião e com a Cidade do Rio de Janeiro como cidade anfitriã; patrocínio Master de Claro, Banco do Brasil e Elo e 99Food; patrocínio de Stella Artois, PRIO, Maturatta, Light, Secretaria Municipal de Cultura, através da Lei Municipal de Incentivo a Cultura – Lei do ISS; apoio da Sulamérica, Rede D’Or, Naturgy, Prezunic, Garrafaria, Água Pouso Alto, Président, Batavo, Cielo, Chandon, Seara Gourmet, Coca-Cola, Matte Leão, Sabores de Visconde de Mauá, Prefeitura de Belo Horizonte, por meio da Belotur, Sebrae, Governo do Amapá e Fecomércio, TV Globo, Ipiranga, e Secretaria de Estado de Cultura e Economia Criativa (Sececrj); participação de café Três Corações, Frescatto, Aperol, Granfino, Granado, Nova Rio, Cachaça 51, Limppano e Prefeitura de Maricá; Shopping Oficial Rio Sul; Cia Aérea Oficial Gol Linhas Aéreas; Hotel Oficial Fairmont Rio; Parceiro ESG magikk; Parceria do SindRio; Produção RKF e Lanikai; Rádio Oficial CBN e Rádio Globo, Parceiro de Mídia Eletromídia, Assessoria de Imprensa In Press. A realização é do GLOBO através do Ministério da Cultura. Mais informações sobre o Rio Gastronomia Como comprar: Os ingressos para o Rio Gastronomia 2026 estão à venda pelo site da Ticketmaster. Saiba mais aqui. Valor promocional: Você garante a entrada no evento e desconto de 10% nos Pratos RG (que custam R$ 30) — sai a partir de R$ 80 (qui e sex) e R$ 88 (sáb e dom), inteira, no 1º lote. Crianças até 10 anos não pagam ingresso. Ingresso solidário: Você garante 20% de desconto na compra de até dois ingressos e ainda ajuda quem precisa. Parte da renda será revertida para o projeto Mesa Brasil Sesc RJ. Quem já é de casa: Assinantes O GLOBO e Valor Econômico têm 50% de desconto. Clientes Banco do Brasil com Cartões BB Elo: Você garante 30% de desconto na compra de até 4 ingressos (inteira). Mais descontos: Há ainda desconto de 50% para maiores de 60 anos e para pessoas com deficiência.",
+      "region": "global",
+      "published": "2026-09-21T08:00:00+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Pontedera: clube da cidade da Vespa, na Itália, ganha DNA brasileiro e aposta em herdeiros de Del Piero e Gattuso",
+      "link": "https://oglobo.globo.com/esportes/futebol-internacional/noticia/2026/09/21/pontedera-clube-da-cidade-da-vespa-na-italia-ganha-dna-brasileiro-e-aposta-em-herdeiros-de-del-piero-e-gattuso.ghtml",
+      "teaser": "Pontedera é uma cidade conhecida por ser o berço da Vespa, um símbolo do design italiano, e está localizada no meio da Toscana, uma região charmosa da Itália. O clube de futebol local, porém, que leva o mesmo nome da região, não tem o mesmo sucesso da famosa moto, mas vive a expectativa de uma vida nova agora com donos brasileiros. O Brasil tem grandes times fundados por italianos, como Palmeiras e Cruzeiro, e chegou a vez da Itália ter um pouco do DNA brasileiro. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "region": "global",
+      "published": "2026-09-21T08:00:00+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Ex-prefeito de Itatiaia é condenado por injúria racial",
+      "link": "https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/09/ex-prefeito-de-itatiaia-e-condenado-por-injuria-racial.ghtml",
+      "teaser": "O ex-prefeito de Itatiaia Irineu Nogueira Coelho foi condenado por injúria racial contra uma funcionária de uma padaria em Resende, no Sul fluminense. O crime ocorreu em outubro de 2023. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "region": "global",
+      "published": "2026-09-21T08:00:00+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Dudu Bertholini e Marina Dias contam como nasceu a Academia de Poses e sonham transformar o quadro em reality",
+      "link": "https://oglobo.globo.com/ela/gente/noticia/2026/09/21/dudu-bertholini-e-marina-dias-contam-como-nasceu-a-academia-de-poses-e-sonham-transformar-o-quadro-em-reality.ghtml",
+      "teaser": "O stylist e diretor de criação Dudu Bertholini conta que ensaiou durante os tempos em que pilotou a marca Neon, ao lado da ex-sócia Rita Comparato, entre 2003 e 2013, um dos quadros mais incensados que surgiu nas redes este ano: o Academia de Poses. À época dos desfiles, a grife causou frisson na São Paulo Fashion Week com modelos que caprichavam no carão e na movimentação de braços e quadris na passarela. O forte era o pivô, e a top Marina Dias era a estrela absoluta do show. “Ela tinha um repertório maravilhoso e me ajudava a treinar as meninas”, lembra Dudu. Do off-line para o mundo virtual, foi um caminho de longas conversas até a dupla se lançar de cabeça no projeto. “Saímos do formato backstage/prova de roupa/desfile e entramos numa nova fase, disseminando essa arte de maneira acessível”, diz Marina sobre os vídeos compartilhados nas redes sociais. O designer afirma que nunca separou performance do look. “A atitude é importantíssima para o resultado final da imagem”, observa. Outra top, Marcelle Bittar, faz coro: “Uma modelo sem pose não é modelo. Daí a importância do trabalho desses ícones”. Marina frisa o enfoque da autoestima. “Amar suas particularidades e não se limitar”, observa. Ex-bailarina e diretora criativa do Conservatório Dança e Arte, Nicole Abramoff comenta: “A posição para a foto é extensão do movimento, sob a ótica do balé. É preciso ocupá-la com verdade. O projeto traz essa consciência”. A dupla, amiga há mais de 25 anos, quer espalhar boas vibrações. “Para que todos desenvolvam suas melhores versões”, explica Dudu. Marina vai além. “Estamos estudando novas formas para apresentar o projeto: cursos, performances, apresentações”, enumera. “E temos ainda outro objetivo: que o quadro vire um reality. Será que é pedir demais?”",
+      "region": "global",
+      "published": "2026-09-21T07:30:00+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Beco do Bragança vira novo destino de design e decoração no Centro do Rio",
+      "link": "https://oglobo.globo.com/ela/decoracao/noticia/2026/09/21/beco-do-braganca-vira-novo-destino-de-design-e-decoracao-no-centro-do-rio.ghtml",
+      "teaser": "É em uma parte da cidade com ruas de paralelepípedo e prédios centenários que nasce um novo destino de decoração e design. No Centro do Rio, as marcas Capioca, Tapilogie e Cabiúna abriram lojas, criando um burburinho daqueles para quem gosta de casas bonitas com peças raras. Com design autoral a tapetes e móveis vintage, cada endereço tem seu foco, mas todos vivem em sintonia. “São marcas com propósito. A Casa Capioca e a Tapilogie têm o olhar cuidadoso da nova geração para a sustentabilidade. Enxergam o passado com direção ao futuro. E ainda inovam em resgatar uma área da cidade que ficou abandonada”, diz a diretora de arte Gigi Barreto, cliente do novo hub. Novo endereço no Centro do Rio movimenta a cena de design e decoração Entremeio Fotografia Mariana Wakin, dona da Tapilogie, divide o prédio com a Cabiúna e endossa a sintonia entre as marcas. “Existe uma forma parecida na maneira de pensar o espaço, na valorização do feito à mão e de uma estética menos óbvia”, acredita . “O Beco do Bragança é um daqueles lugares do Centro que ficaram intactos, atravessando décadas de projetos urbanísticos”, destaca Antonio Mauricio, da Cabiúna. A poucos passos dali, está a Capioca, da Marina Caroni, com uma seleção de itens vintage. “Os produtos das três marcas se falam. Acredito muito na harmonia do vintage com o contemporâneo autoral, um valoriza o outro. Nossa ideia é estar sempre conectado e nos apresentando em conjunto. E também esperamos mais marcas legais ocupando o Centro”, diz Marina. No embalo da Semana de Arte do Rio, sábado que vem terá encontro com música e que tais. Capioca Marina Caroni começou a marca em 2023 Entremeio Fotografia Foram três anos apenas no digital até Marina Caroni (uma capixaba-carioca, daí o nome da marca) decidir que precisava de um espaço para receber clientes. Especializada em curar e restaurar móveis e peças vintage, ela conta que, com a loja, o cliente pode ter a experiência de ver as peças sendo transformadas, além de tocar e experimentar antes de levar (os preços vão de R$ 450 a R$ 8.990). A Capioca começou na sala de casa e agora ocupa um sobrado de dois andares que somam 400 metros quadrados. Apaixonada pelo garimpo e pela sustentabilidade, lança cerca de 100 peças mensalmente. “Fazer uma visita é uma oportunidade para trocar conhecimento. Consigo mostrar os diferentes tipos de madeira, as formas de restauro, contamos a história da peça e o caminho que ela percorreu até chegar aqui”, diz Marina. A loja fica aberta às sextas, das 10h às 16h, e em outros dias com hora marcada: (21) 99758-8856. Cabiúna Antonio Maurício desenvolve linhas autorais de mobiliário Julia Moura O arquiteto Antônio Maurício foi o primeiro a chegar na região. Em 2024, escolheu o sobrado histórico para instalar seu ateliê, onde as peças são vistas em escala real, no meio de tudo aquilo que as inspirou. A marca foca em objetos de uso, entre mobiliário, iluminação e utilitários (alguns deles premiados pela iF Design Awards). Apesar de Cabiúna significar madeira escura em tupi-guarani, Antônio usa diversos materiais. Desenha mobiliário em marcenaria, as luminárias e utilitários são em cerâmica e as cúpulas impressas em 3D são feitas em biopolímero. “Aqui a gente projeta, faz protótipos, fotografa. Os visitantes entram no espaço de criação e entendem os desenhos, a escala e o acabamento de um jeito que nenhuma foto entrega”, diz. A luminária Pendente Par, lançamento mais recente, começa em R$ 4.500. O espaço funciona apenas com hora marcada: (21) 98456-1145. Tapilogie Mariana abriu a loja para oferecer uma experiência mais imersiva Leia Viegas Tudo começou em 2020 no Instagram. Mariana Wakin resolveu botar à venda uma série de tapetes vintage, feitos à mão em lã, algodão e seda e de países como Irã, Índia, Paquistão e Turquia. Deu certo. E agora ela abre o espaço físico em uma loja de 240 metros quadrados no Beco do Bragança. O mais legal, ela conta, é levar seu olhar para além do digital, em um ambiente que foi pensado como uma extensão da própria marca: um espaço vivo, onde os tapetes dividem a cena com móveis vintage, livros, luminárias, objetos, flores e a fragrância própria da Tapilogie. “A proposta é criar um ponto de encontro para uma experiência que vai muito além da compra e aproxima as pessoas daquilo que a Tapilogie acredita: uma casa com personalidade, história e objetos que tenham significado”, diz Mariana. Tapetes de R$ 900 a R$ 16 mil. A loja fica aberta às sextas, das 10h às 16h, e em outros dias com hora marcada: (21) 99783-1662.",
+      "region": "global",
+      "published": "2026-09-21T07:30:00+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Oskar Metsavaht promove evento de conscientização ambiental na Barra",
+      "link": "https://oglobo.globo.com/ela/gente/noticia/2026/09/21/oskar-metsavaht-promove-evento-de-conscientizacao-ambiental-na-barra.ghtml",
+      "teaser": "Depois de tantos dias chuvosos, o próximo sábado vai ser de praia, no que depender de Oskar Metsavaht e seu Instituto-E. A turma aporta no Quiosque Burle Experience, na Barra, no Posto 6, para o Dia do Cuidado com a Restinga Carioca. O evento vai das 8h às 18h, com atividades como limpeza de praia, plantio, ioga, aula de surfe e música. “Iniciamos, há mais de 15 anos, um projeto de recuperação das dunas de restinga na Praia de Ipanema”, comenta Oskar. “Hoje, já estamos no Leblon, na Barra e na Macumba e somos reconhecidos pela UNESCO como Reserva da Biosfera.”",
+      "region": "global",
+      "published": "2026-09-21T07:30:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Em ano de recordes climáticos, meio ambiente desaparece da campanha eleitoral no Brasil",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/09/em-ano-de-recordes-climaticos-meio-ambiente-desaparece-da-campanha-eleitoral-no-brasil.shtml",
+      "teaser": "As eleições de 2026 ocorrem em um ano marcado por enchentes e ciclones no sul e sudeste do país, enquanto o risco de uma nova seca extrema ameaça o norte . No mundo, recordes de temperaturas foram registradas no hemisfério norte e desastres como a enchente no Nepal e no Tibete dão mais uma amostra da desregulação do clima. Leia mais (09/21/2026 - 05h00)",
+      "region": "global",
+      "published": "2026-09-21T08:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Podcast: a reta final da corrida eleitoral e as preocupações de Lula e Flávio Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-a-reta-final-da-corrida-eleitoral-e-as-preocupacoes-de-lula-e-flavio-bolsonaro.shtml",
+      "teaser": "A menos de 15 dias do primeiro turno da eleição , o cenário da corrida presidencial está acirrado. A última pesquisa do Datafolha , divulgada na quinta-feira (17), mostra Lula (PT) e Flávio Bolsonaro ( PL ) empatados tecnicamente no primeiro e no segundo turno, com o presidente numericamente à frente do senador nos dois casos. Leia mais (09/21/2026 - 05h00)",
+      "region": "global",
+      "published": "2026-09-21T08:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Prefeitura do Rio vai desapropriar casarão após desabamento no Cosme Velho",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/prefeitura-do-rio-vai-desapropriar-casarao-apos-desabamento-no-cosme-velho.shtml",
+      "teaser": "A Prefeitura do Rio de Janeiro vai desapropriar o que restou de um casarão histórico de dois andares que desabou parcialmente na manhã de sábado (19) no Cosme Velho , na zona sul da cidade. Leia mais (09/21/2026 - 04h20)",
+      "region": "global",
+      "published": "2026-09-21T07:20:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Violência doméstica atinge 38% das mulheres com deficiência no Brasil",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/violencia-domestica-atinge-38-das-mulheres-com-deficiencia-no-brasil.shtml",
+      "teaser": "Mais de um terço das mulheres com deficiência no Brasil (38%) já foi vítima de violência doméstica praticada por homens ao longo da vida, aponta pesquisa do DataSenado. Na amostra de 2.828 mulheres com deficiência ouvidas pelo levantamento, o percentual equivale a cerca de 1.075 entrevistadas. Leia mais (09/21/2026 - 04h15)",
+      "region": "global",
+      "published": "2026-09-21T07:15:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "INSS paga benefícios de setembro a partir desta quinta (24); veja datas",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/inss-paga-beneficios-de-setembro-a-partir-desta-quinta-24-veja-datas.shtml",
+      "teaser": "Os aposentados, pensionistas e demais beneficiários do INSS (Instituto Nacional do Seguro Social) começam a receber os pagamentos referentes a setembro nesta quinta-feira (24). O dinheiro será liberado primeiro para quem recebe até um salário mínimo . Leia mais (09/21/2026 - 04h00)",
+      "region": "global",
+      "published": "2026-09-21T07:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Como o streaming pode estar esmagando a classe média da música e banalizando discos",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/como-o-streaming-pode-estar-esmagando-a-classe-media-da-musica-e-banalizando-discos.shtml",
+      "teaser": "No trajeto de ônibus, na academia e no escritório, a música está em todos os lugares. Reproduzida nos fones de ouvido ou nos alto-falantes, ela virou trilha sonora do cotidiano devido à facilidade de se acessar qualquer artista pelo streaming, a qualquer hora. Leia mais (09/21/2026 - 04h00)",
+      "region": "global",
+      "published": "2026-09-21T07:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Após 40 anos de amizade, como uma amiga pôde não me convidar para o casamento do filho?",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/09/apos-40-anos-de-amizade-como-uma-amiga-pode-nao-me-convidar-para-o-casamento-do-filho.shtml",
+      "teaser": "Nesta coluna do The New York Times, Philip Galanes responde a perguntas de leitores. Leia mais (09/21/2026 - 04h00)",
+      "region": "global",
+      "published": "2026-09-21T07:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Ana Claudia Q. Arantes, de best-seller sobre a morte, faz live na CasaFolha nesta segunda (21)",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/ana-claudia-q-arantes-de-best-seller-sobre-a-morte-faz-live-na-casafolha-nesta-segunda-21.shtml",
+      "teaser": "A médica paliativista Ana Claudia Quintana Arantes participa de uma live na CasaFolha nesta segunda-feira (21). No encontro, ela vai tirar dúvidas ligadas a seu curso \"A morte é um dia que vale a pena viver\" , disponível no site casafolhasp.com.br . Leia mais (09/21/2026 - 04h00)",
+      "region": "global",
+      "published": "2026-09-21T07:00:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Germany's auto crisis: Can the 35-hour workweek survive?",
+      "link": "https://www.dw.com/en/germany-s-auto-crisis-can-the-35-hour-workweek-survive/a-79307488?maca=en-rss-en-all-1573-rdf",
+      "teaser": "German carmakers want employees to work 40 hours instead of the current 35 without extra pay, arguing it would improve competitiveness. Unions strongly oppose the proposal and view it as an attack on workers' rights.",
+      "region": "global",
+      "published": "2026-09-21T08:13:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "US proposes AI safety mechanism in talks with China",
+      "link": "https://www.dw.com/en/us-proposes-ai-safety-mechanism-in-talks-with-china/a-79350248?maca=en-rss-en-all-1573-rdf",
+      "teaser": "US Treasury chief Scott Bessent said there had been \"successful\" talks with China on trade and AI. The talks come amid growing fears that AI could pose an existential threat to humanity.",
+      "region": "global",
+      "published": "2026-09-21T08:06:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "India news: India's medal tally at Asian games rises to six",
+      "link": "https://www.dw.com/en/india-news-india-s-medal-tally-at-asian-games-rises-to-six/live-79349941?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Indian athletes won two bronze and two silver medals on the second day of the Asian Games in Japan. Meanwhile, more bodies were recovered after a flash flood in Kerala. DW has more.",
+      "region": "global",
+      "published": "2026-09-21T07:34:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Japan: Typhoon Dujuan sparks flood, landslide warnings",
+      "link": "https://www.dw.com/en/japan-typhoon-dujuan-sparks-flood-landslide-warnings/a-79349957?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Hundreds of flights have been canceled in Japan, which is in the middle of a five-day holiday. The storm could dump record levels of rain on the country.",
+      "region": "global",
+      "published": "2026-09-21T06:27:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "US: Man wounded in Texas after being shot by ICE agent",
+      "link": "https://www.dw.com/en/us-man-wounded-in-texas-after-being-shot-by-ice-agent/a-79349482?maca=en-rss-en-all-1573-rdf",
+      "teaser": "An ICE agent shot and wounded a man in Austin, Texas. The city's mayor has called for an independent investigation into the shooting.",
+      "region": "global",
+      "published": "2026-09-21T03:42:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Iran closes language center in Tehran, France vows response",
+      "link": "https://www.dw.com/en/iran-closes-language-center-in-tehran-france-vows-response/a-79348984?maca=en-rss-en-all-1573-rdf",
+      "teaser": "In response to the Iranian authorities' decision to close a French language center affiliated with its embassy in Tehran, France vowed to take appropriate measures.",
+      "region": "global",
+      "published": "2026-09-21T01:20:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Canada, France agree to closer ties in defense, economy",
+      "link": "https://www.dw.com/en/canada-france-agree-to-closer-ties-in-defense-economy/a-79348843?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Amid strained relations with the US, French President Emmanuel Macron and Canadian Prime Minister Mark Carney announced closer economic and defense ties.",
+      "region": "global",
+      "published": "2026-09-20T21:29:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "German state elections deal a blow to Chancellor Friedrich Merz",
+      "link": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Elections in Berlin and Mecklenburg-Western Pomerania have dealt the CDU a historic defeat while the AfD saw a massive gain. The pressure on Germany's unpopular chancellor is mounting.",
+      "region": "global",
+      "published": "2026-09-20T21:20:00+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Industrie-Arbeitsmarkt: IAB-Studie: Rüstung kann Jobverluste nicht ausgleichen",
+      "link": "https://www.tagesspiegel.de/wirtschaft/dpa-industrie-arbeitsmarkt-iab-studie-rustung-kann-jobverluste-nicht-ausgleichen-16079843.html",
+      "teaser": "Nur rund 1.100 Menschen sind im vergangenen Jahr von anderen Industriesparten in die Rüstung gewechselt. Die immensen Jobverluste kann das nicht kompensieren.",
+      "region": "berlin",
+      "published": "2026-09-21T08:27:28+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "125 Stunden singen: Über 200 Chöre starten Weltrekordversuch in Berlin",
+      "link": "https://www.tagesspiegel.de/berlin/dpa-125-stunden-singen-uber-200-chore-starten-weltrekordversuch-in-berlin-16079830.html",
+      "teaser": "Der Berliner Chorverband feiert sein 125-jähriges Bestehen mit einem Dauerkonzert. Ab heute soll bis Samstag gesungen und dabei ein Weltrekord aufgestellt werden.",
+      "region": "berlin",
+      "published": "2026-09-21T08:22:20+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Folgen der Landtagswahlen: Reichinnek weist Antisemitismus-Vorwürfe zurück",
+      "link": "https://www.tagesspiegel.de/berlin/dpa-folgen-der-landtagswahlen-reichinnek-weist-antisemitismus-vorwurfe-zuruck-16079792.html",
+      "teaser": "In Berlin hat die Linke die Abgeordnetenhauswahl mit großem Vorsprung gewonnen. Ihr wird immer wieder Antisemitismus vorgehalten. Wird das zum Hindernis für die Übernahme der Regierungsverantwortung?",
+      "region": "berlin",
+      "published": "2026-09-21T08:14:51+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Fußball-Bundesliga: Medien: Gladbach kurz vor Verpflichtung von Trainer Blessin",
+      "link": "https://www.tagesspiegel.de/sport/dpa-fussball-bundesliga-medien-gladbach-kurz-vor-verpflichtung-von-trainer-blessin-16079781.html",
+      "teaser": "Alexander Blessin soll Medienberichten zufolge der neue Trainer von Borussia Mönchengladbach werden. Nach der Länderspielpause würde ein echter Kracher zum Auftakt auf den 53-Jährigen warten.",
+      "region": "berlin",
+      "published": "2026-09-21T08:13:48+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Berlin-Wahl: Brinker: „Wir sind eine sehr, sehr starke Opposition“",
+      "link": "https://www.tagesspiegel.de/berlin/dpa-berlin-wahl-brinker-wir-sind-eine-sehr-sehr-starke-opposition-16079776.html",
+      "teaser": "Kristin Brinker ist zufrieden mit dem Ergebnis der AfD bei der Berlin-Wahl und kündigt an: „Wir werden alles tun, damit wir hier den Finger in die Wunde legen.“",
+      "region": "berlin",
+      "published": "2026-09-21T08:09:28+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Berlin-Wahl: Grüne: Linke muss problematischem Teil Grenzen setzen",
+      "link": "https://www.tagesspiegel.de/berlin/dpa-berlin-wahl-grune-linke-muss-problematischem-teil-grenzen-setzen-16079768.html",
+      "teaser": "Die Grünen wünschen sich eine Regierungskoalition mit der Linken. Doch der mögliche Juniorpartner macht deutlich, dass die Linken sich vorher einem innerparteilichen Problem stellen sollten.",
+      "region": "berlin",
+      "published": "2026-09-21T08:06:58+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Mobilitätskosten: Spritpreis übers Wochenende gesunken",
+      "link": "https://www.tagesspiegel.de/wirtschaft/dpa-mobilitatskosten-spritpreis-ubers-wochenende-gesunken-16079756.html",
+      "teaser": "Nach den Rekorden der vergangenen Woche ist Tanken wieder etwas billiger geworden. Inzwischen stagniert der Preis aber.",
+      "region": "berlin",
+      "published": "2026-09-21T07:58:13+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Tatverdächtige fliehen: 15-Jähriger erstochen - Weiterer Teenager schwer verletzt",
+      "link": "https://www.tagesspiegel.de/gesellschaft/panorama/dpa-tatverdachtige-fliehen-15-jahriger-erstochen-weiterer-teenager-schwer-verletzt-16079751.html",
+      "teaser": "Zwei Teenager treffen auf zwei Männer, die Situation eskaliert. Beide Teenager erleiden Stichverletzungen, für einen von ihnen kommt jede Hilfe zu spät.",
+      "region": "berlin",
+      "published": "2026-09-21T07:56:17+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Berlin-Wahl 2026: Giffey verpasst Einzug ins Abgeordnetenhaus",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahlkreise-direktkandidaten-giffey-wegner-evers.html",
+      "teaser": "Die ehemalige Regierende Bürgermeisterin Franziska Giffey hat das Direktmandat in ihrem Wahlkreis verpasst und wird nicht mehr im Abgeordnetenhaus sitzen. Andere prominente Politiker zogen nur über die Landesliste ins Parlament ein.",
+      "region": "berlin",
+      "published": "2026-09-21T08:22:17+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "BVV-Wahlen 2026 in Berlin: Ergebnisse für alle Bezirke",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/ergebnisse/berlin-bezirksverordnetenversammlung-2026-ergebnisse-kandidierende.html",
+      "teaser": "Wer hat in den zwölf Berliner Bezirken gewonnen? Hier finden Sie die Wahlergebnisse für die BVV-Wahlen 2026.",
+      "region": "berlin",
+      "published": "2026-09-21T08:17:24+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Sechs Erkenntnisse aus der Berlin-Wahl: Einstürzende Gewissheiten",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-auffaelligkeiten-briefwahl-arbeiter-junge-waehlende.html",
+      "teaser": "Kreuzberg wählt Grün. Die Linke spricht vor allem Senioren an. Und was das Wahlverhalten angeht, ist Berlin noch immer eine geteilte Stadt. Es gibt Sätze, die schienen lange wie in Stein gemeißelte Wahrheiten. Am Sonntag wurden einige von ihnen zerdeppert.",
+      "region": "berlin",
+      "published": "2026-09-21T08:11:33+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Berlin-Wahl 2026: Mehrheit gegen Vergesellschaftung großer Immobilienkonzerne",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/vergesellschaftung-immobilienkonzerne-mehrheit-dagegen-umfrage.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-09-21T07:04:45+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Karte: So hat Ihr Kiez bei der Berlin-Wahl gewählt",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahlkarte-wahlergebnisse-wahlbezirke-interaktive-karte.html",
+      "teaser": "Das Wahlergebnis auf einen Blick – und bis ins kleinste Detail: Unsere interaktive Karte zeigt, wie Berlin insgesamt abgestimmt hat und wie sich die Ergebnisse in den einzelnen Wahlbezirken unterscheiden.",
+      "region": "berlin",
+      "published": "2026-09-21T06:50:00+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Die Linke muss nach ihrem Wahlsieg zeigen, dass sie regieren kann",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-2026-kommentar-abgeordnetenhaus.html",
+      "teaser": "Elif Eralp hat Die Linke in Berlin zu einem deutlichen Wahlsieg geführt. Nun müssen Partei und Kandidatin zeigen, dass sie eine Regierung bilden und auch führen können. Und wie ihre Wahlversprechen umgesetzt werden können - trotz großem Haushaltsloch.",
+      "region": "berlin",
+      "published": "2026-09-21T06:38:03+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Nach der Berlin-Wahl: Das sind die nächsten Schritte",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-wahl-agh-bvv-2026-neue-regierung-koalitionen-zeitplan.html",
+      "teaser": "Die Wahl in Berlin ist gelaufen. Doch bis feststeht, wer im Roten Rathaus und in den zwölf Bezirken regiert, kann es noch lange dauern. Ein Überblick über die nächsten Schritte nach der Wahl.",
+      "region": "berlin",
+      "published": "2026-09-21T04:20:00+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Vorläufiges Ergebnis: Linke gewinnt Berlin-Wahl klar vor CDU",
+      "link": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/abgeordnetenhaus-wahltag-prognose-hochrechnungen-ergebnis.html",
+      "teaser": "Bei der Abgeordnetenhauswahl in Berlin ist die Linke laut vorläufigem Ergebnis erstmals stärkste Kraft geworden - vor der CDU. Die AfD überholt Grüne und eine historisch schlechte SPD. Das BSW verpasst den Einzug ins Parlament knapp.",
+      "region": "berlin",
+      "published": "2026-09-21T00:40:51+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "„Desaster“ für die CDU: So reagieren BBC, Reuters und El País auf die Wahlen in Berlin und Schwerin",
+      "link": "https://www.berliner-zeitung.de/article/desaster-fuer-die-cdu-so-reagieren-bbc-reuters-el-pais-und-andere-auf-die-wahlen-in-berlin-und-schwerin-10413853",
+      "teaser": "Medien sehen nach den Wahlen einen Verlierer: Friedrich Merz. AfD bestimme die politische Agenda, so die einhellige Meinung. Ein erster Überblick.",
+      "region": "berlin",
+      "published": "2026-09-21T07:19:03+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Schlafen im Regen: Frank Castorf feiert seinen 75. Geburtstag nach",
+      "link": "https://www.berliner-zeitung.de/article/frank-castorf-75-geburtstag-filmfestival-babylon-10413482",
+      "teaser": "Mit einem kleinen Filmfestival im Babylon, in unmittelbarer Nähe zur Volksbühne, traf sich die Castorf-Gemeinde zur fröhlichen Freiheitsandacht.",
+      "region": "berlin",
+      "published": "2026-09-21T07:10:57+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Presley Gerber: Sohn von Cindy Crawford stirbt im Alter von 27 Jahren",
+      "link": "https://www.berliner-zeitung.de/article/presley-gerber-sohn-von-cindy-crawford-stirbt-im-alter-von-27-jahren-10413712",
+      "teaser": "Der Sohn des Supermodels Cindy Crawford ist tot. Presley Gerber starb im Alter von 27 Jahren in einer Therapieeinrichtung. Die Todesursache ist noch unklar.",
+      "region": "berlin",
+      "published": "2026-09-21T06:53:45+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "US-Luftwaffe fehlen Ersatzteile für 14 Milliarden Dollar – Flotte wird immer älter",
+      "link": "https://www.berliner-zeitung.de/article/us-luftwaffe-fehlen-ersatzteile-fuer-14-milliarden-dollar-flotte-wird-immer-aelter-10413574",
+      "teaser": "Die US-Luftwaffe kämpft nach eigenen Angaben mit einer massiven Versorgungslücke bei Ersatzteilen für ihre Flugzeuge. Führungskräfte warnen vor Folgen für die Einsatzbereitschaft.",
+      "region": "berlin",
+      "published": "2026-09-21T05:41:01+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Jetzt auch in Deutschland: Was einmal Volkspartei war, kollabiert",
+      "link": "https://www.berliner-zeitung.de/article/jetzt-auch-in-deutschland-was-einmal-volkspartei-war-wird-marginalisiert-10413112",
+      "teaser": "Später als im übrigen Europa, aber nicht minder nachdrücklich schrumpfen auch die deutschen Volksparteien. Ein Trend, der auch die Grünen nicht verschont.",
+      "region": "berlin",
+      "published": "2026-09-21T05:36:45+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Weltklasse made in Ostdeutschland: Ein Tag zum Träumen bei Allresist in Strausberg",
+      "link": "https://www.berliner-zeitung.de/article/weltklasse-made-in-ostdeutschland-ein-tag-zum-traeumen-bei-allresist-in-strausberg-10407142",
+      "teaser": "Ein Freund der Unternehmerfamilie erinnert sich an die Anfänge der Allresist GmbH und beschreibt den Aufstieg zum Weltmarktführer als Mikroelektronikausrüster.",
+      "region": "berlin",
+      "published": "2026-09-21T05:24:19+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Berlin wählt den Bruch – und hält ausgerechnet die Linke für den Neuanfang",
+      "link": "https://www.berliner-zeitung.de/article/berlin-waehlt-bruch-und-haelt-ausgerechnet-die-linke-fuer-den-neuanfang-10412440",
+      "teaser": "Die Linke verdoppelt ihr Ergebnis und wird stärkste Kraft. CDU und SPD werden gemeinsam abgestraft. Nun hängt Berlins Zukunft ausgerechnet an der Partei, die am tiefsten gefallen ist.",
+      "region": "berlin",
+      "published": "2026-09-21T05:22:00+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "„Desaster“ für Merz: So blickt die Weltpresse auf die Wahlergebnisse in MV und Berlin",
+      "link": "https://www.berliner-zeitung.de/article/desaster-fuer-merz-so-blickt-die-weltpresse-auf-die-wahlergebnisse-in-mv-und-berlin-10412496",
+      "teaser": "Linke siegt in Berlin, AfD im Nordosten, CDU im Absturz: von CNN bis Le Monde, von Warschau bis Doha. So blickt die Weltpresse auf die Doppelwahl und Kanzler Merz.",
+      "region": "berlin",
+      "published": "2026-09-21T05:22:00+00:00"
+    }
+  ]
+}

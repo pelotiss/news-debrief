@@ -1,0 +1,926 @@
+{
+  "date": "2026-10-23",
+  "digest_markdown": "## Berlín\n\nNo hay disrupciones de transporte ni cambios regulatorios con impacto directo en residentes de Berlín hoy.\n\nUna noticia local relevante: [Berlin seguirá siendo centro federal de patinaje artístico](https://www.rbb24.de/sport/beitrag/2026/10/eiskunstlauf-deu-bundesstuetzpunkt-berlin-olympia-2030.html) hasta 2030, lo que beneficia a atletas como las parejas alemanas de élite en su camino hacia Olimpiadas.\n\nOtra cuestión local a seguir: [la policía de Brandenburg recibe 115 nuevos vehículos de servicio](https://www.rbb24.de/panorama/beitrag/2026/10/brandenburger-polizei-bekommt-neue-dienstwagen.html), mejorando la capacidad operativa en la región.\n\n## Mundo\n\n**España / Justicia:** [La Audiencia Nacional ha aplicado la amnistía a los 12 CDR acusados de terrorismo](https://elpais.com/espana/2026-10-23/la-audiencia-nacional-aplica-la-amnistia-a-los-cdr-acusados-de-terrorismo.html), resolviendo un caso que el tribunal mantenía en suspenso pese al aval de julio del TJUE.\n\n**Grecia / Regulación Digital:** [Grecia ha prohibido el acceso a redes sociales para menores de 15 años](https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606), una normativa que entra en vigor el 1 de enero de 2027 para proteger la salud mental de los menores.\n\n**Asia-Pacífico:** [Taiwán se prepara para el tifón Champi](https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819), que ya ha causado una muerte y evacua a miles de personas.\n\n**Criptomonedas:** [Sam Bankman-Fried afirma desde la cárcel que ha pagado sus deudas](https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts), en una entrevista exclusiva con The Economist.\n\n**Tecnología:** [Cygrid, startup de ciberseguridad de Berlín, ha salido del sigilo con 2,66 millones de euros](https://www.eu-startups.com/2026/10/berlins-cygrid-exits-stealth-with-e2-66-million-to-stop-ai-agents-from-accessing-confidential-company-data/) en financiación para su plataforma que controla el acceso de agentes de IA a datos confidenciales empresariales.\n\n**Robótica:** [NEURA Robotics, empresa «unicornio», presenta un nuevo robot y abre una rama de su academia de robótica en asociación con la Universidad Técnica de Múnich](https://www.eu-startups.com/2026/10/unicorn-neura-robotics-reveals-new-robot-along-with-a-training-facility-for-european-robotics/).\n\n**Fútbol:** [El Flamengo fue eliminado de la Copa Libertadores](https://oglobo.globo.com/esportes/futebol/flamengo/noticia/2026/10/23/imprensa-internacional-repercute-eliminacao-do-flamengo-na-libertadores-cenario-inacreditavel.ghtml) tras perder contra Estudiantes en penales, generando repercusión internacional.\n\n**Mercados / Petróleo:** [El precio del crudo superó los 114 dólares por barril](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/petroleo-volta-a-subir-e-ultrapassa-us-114-pela-primeira-vez-desde-maio.shtml) por primera vez desde mayo, presionando los mercados globales.",
+  "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | Pedro Sánchez responde a Feijóo: “Criarse entre mujeres no te hace feminista. Defender sus derechos, sí”",
+      "link": "https://elpais.com/espana/2026-10-23/ultima-hora-de-la-actualidad-politica-en-directo.html",
+      "teaser": "Óscar López, sobre el plan de Feijóo de pactar el salario mínimo con la patronal: “Nos está diciendo que no lo va a subir” | El líder del PP intentará gobernar aunque no sea la lista más votada: “El objetivo es que Sánchez se vaya”",
+      "region": "global",
+      "published": "2026-10-23T11:16:10+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "La Audiencia Nacional aplica la amnistía a los CDR acusados de terrorismo",
+      "link": "https://elpais.com/espana/2026-10-23/la-audiencia-nacional-aplica-la-amnistia-a-los-cdr-acusados-de-terrorismo.html",
+      "teaser": "El tribunal mantenía en suspenso la medida para los 12 procesados, pese al aval de julio del TJUE",
+      "region": "global",
+      "published": "2026-10-23T11:15:58+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Adiós al encrespamiento: tres tratamientos con aceite de argán para un pelo más suave y brillante",
+      "link": "https://elpais.com/escaparate/belleza/adios-al-encrespamiento-tres-tratamientos-con-aceite-de-argan-para-un-pelo-mas-suave-y-brillante.html",
+      "teaser": "Estos tres productos tienen fórmulas con aceite de argán que ayudan a suavizar el cabello, mejorar su aspecto y facilitar el peinado.",
+      "region": "global",
+      "published": "2026-10-23T11:05:00+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Sánchez con Broncano: sesión de control del buen rollito",
+      "link": "https://elpais.com/espana/2026-10-22/sanchez-con-broncano-sesion-de-control-del-buen-rollito.html",
+      "teaser": "“¿Qué nivel de dureza de entrevista quieres?”, dijo el presentador. Y empezaron a rajar de Milei",
+      "region": "global",
+      "published": "2026-10-23T11:03:54+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Los estrenos de teatro de la semana: la mala ‘memoria’ de Feijóo, un ‘circo’ sin cuarta pared y un bonito texto neoyorquino",
+      "link": "https://elpais.com/babelia/2026-10-23/los-estrenos-de-teatro-de-la-semana-la-mala-memoria-de-feijoo-un-circo-sin-cuarta-pared-y-un-bonito-texto-neoyorquino.html",
+      "teaser": "Los críticos de ‘Babelia’ reseñan lo nuevo de Xron, Las Nenas y Pau Roca",
+      "region": "global",
+      "published": "2026-10-23T11:03:00+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "El ‘todo vaquero’ de Pedro Sánchez en La Revuelta: diseccionamos el polémico atuendo del presidente",
+      "link": "https://elpais.com/icon/2026-10-23/el-todo-vaquero-de-pedro-sanchez-en-la-revuelta-diseccionamos-el-polemico-atuendo-del-presidente.html",
+      "teaser": "Camisa remangada, vaquero estrecho con lavado discutible y marcas españolas. El estilismo del presidente en el programa de Broncano es una afirmación que suscita muchas preguntas. Entramos al trapo",
+      "region": "global",
+      "published": "2026-10-23T11:01:15+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Las víctimas de Magrudis responsabilizan al Ayuntamiento de Sevilla por la falta de acuerdo de indemnización",
+      "link": "https://elpais.com/sociedad/2026-10-23/las-victimas-de-magrudis-responsabilizan-al-ayuntamiento-de-sevilla-por-la-falta-de-acuerdo-de-indemnizacion.html",
+      "teaser": "La Audiencia de Sevilla da una semana más a las partes para que cierren la negociación para el cobro de 10 millones y no se celebre el macrojuicio por el mayor brote de listerioris",
+      "region": "global",
+      "published": "2026-10-23T11:00:54+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "El PP da carpetazo a la propuesta de Sanidad para mejorar la transparencia de las listas de espera",
+      "link": "https://elpais.com/sociedad/2026-10-23/las-comunidades-del-pp-tumban-la-propuesta-de-sanidad-para-mejorar-la-transparencia-de-las-listas-de-espera.html",
+      "teaser": "El ministerio buscaba sustituir la norma, de 2003, porque da una imagen parcial de las demoras. Las comunidades lideradas por los populares replican que el texto no está terminado",
+      "region": "global",
+      "published": "2026-10-23T10:57:52+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Songs of disenchantment: the sorrow of Nigeria",
+      "link": "https://www.economist.com/podcasts/2026/10/23/songs-of-disenchantment-the-sorrow-of-nigeria",
+      "teaser": "Also on the daily podcast: can Europe match Starlink and remembering novelist Jeffrey Archer",
+      "region": "global",
+      "published": "2026-10-23T09:38:19+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Sam Bankman-Fried on effective altruism",
+      "link": "https://www.economist.com/podcasts/2026/10/22/sam-bankman-fried-on-effective-altruism",
+      "teaser": "Our podcast on markets, the economy and business. This week, SBF talks exclusively to Money Talks from a prison phone",
+      "region": "global",
+      "published": "2026-10-22T16:02:38+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Sam Bankman-Fried says he has paid his debts",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
+      "teaser": "The crypto tycoon speaks with The Economist from prison in California",
+      "region": "global",
+      "published": "2026-10-22T15:51:39+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "How personal rivalries and clashes are shaping the AI race",
+      "link": "https://www.economist.com/culture/2026/10/22/how-personal-rivalries-and-clashes-are-shaping-the-ai-race",
+      "teaser": "A new book offers a rollicking tale of the people shaping Silicon Valley’s new obsession",
+      "region": "global",
+      "published": "2026-10-22T12:59:25+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Jeffrey Archer’s career was worthy of his most improbable plots",
+      "link": "https://www.economist.com/obituary/2026/10/22/jeffrey-archers-career-was-worthy-of-his-most-improbable-plots",
+      "teaser": "The bestselling novelist, conman and politician died on October 5th, aged 86",
+      "region": "global",
+      "published": "2026-10-22T12:59:25+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Economic data, commodities and markets",
+      "link": "https://www.economist.com/economic-and-financial-indicators/2026/10/22/economic-data-commodities-and-markets",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-10-22T12:59:25+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Leadership lessons from Napoleon",
+      "link": "https://www.economist.com/culture/2026/10/22/leadership-lessons-from-napoleon",
+      "teaser": "How the French emperor’s management style ultimately led to his fall",
+      "region": "global",
+      "published": "2026-10-22T12:59:25+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "How Ella Langley two-stepped to the top of the charts",
+      "link": "https://www.economist.com/culture/2026/10/22/how-ella-langley-two-stepped-to-the-top-of-the-charts",
+      "teaser": "Country music is riding high, thanks to a new generation of stars and fans",
+      "region": "global",
+      "published": "2026-10-22T12:59:25+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "Brazil’s Economic Impasse",
+      "link": "https://www.foreignaffairs.com/brazil/brazils-economic-impasse",
+      "teaser": "Monica de Bolle, an expert in Brazilian economic policy, makes an authoritative argument that Brazil’s economic problems will persist no matter the outcome of the country’s presidential election. A Flávio Bolsonaro administration would fare no better than Lula when it comes to reducing debt and delivering growth—and Bolsonaro’s illiberal policies could make the economic picture even worse.",
+      "region": "global",
+      "published": "2026-10-22T08:00:00+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "A Less-Is-More Strategy for America",
+      "link": "https://www.foreignaffairs.com/united-states/less-more-strategy-america",
+      "teaser": "Barry Posen, a professor at MIT, is one of America's leading experts on international security. He argues that the United States military is breaking down because it has been overused and overextended over the last 30 years, and that the only way to repair it is for Washington to exercise much more restraint.",
+      "region": "global",
+      "published": "2026-10-22T08:00:00+00:00"
+    },
+    {
+      "source": "Le Monde diplomatique",
+      "title": "October: the longer view",
+      "link": "https://mondediplo.com/2026/10/01zlonger-view",
+      "teaser": "The month's archives. - 2026/10 / perspective",
+      "region": "global",
+      "published": "2026-10-12T17:06:52+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Los 5 mejores consejos para ahorrar en la factura de la luz de cara al cambio de hora y la llegada del frío a casa",
+      "link": "https://www.elindependiente.com/economia/2026/10/22/mejores-consejos-ahorrar-factura-luz/",
+      "teaser": "El otoño vuelve a situar el gasto energético y de luz entre las preocupaciones de los hogares. Las tardes más [&#8230;]",
+      "region": "global",
+      "published": "2026-10-22T13:40:15+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Netflix y Javier Castillo consolidan su alianza: así será la nueva adaptación con Inma Cuesta como protagonista",
+      "link": "https://www.elindependiente.com/series-y-television/2026/10/22/netflix-javier-castillo-adaptacion-susurro-fuego/",
+      "teaser": "El idilio entre Netflix y la literatura superventas de Javier Castillo suma un nuevo capítulo. La plataforma de streaming ha [&#8230;]",
+      "region": "global",
+      "published": "2026-10-22T12:34:49+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "El reconocido viñetista 'El Roto' cede 301 obras a la Junta de Castilla-La Mancha",
+      "link": "https://www.elindependiente.com/espana/castilla-la-mancha/2026/10/22/el-reconocido-vinetista-el-roto-cede-301-obras-a-la-junta-de-castilla-la-mancha/",
+      "teaser": "El consejero de Educación, Cultura y Deportes, Amador Pastor, ha trasladado su más sincero agradecimiento al artista Andrés Rábago, conocido [&#8230;]",
+      "region": "global",
+      "published": "2026-10-22T12:22:13+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "FC Barcelona - Real Madrid: fecha, horario y dónde ver el Clásico por televisión",
+      "link": "https://www.elindependiente.com/deportes/futbol/2026/10/22/barcelona-real-madrid-fecha-horario-donde-ver-clasico-television/",
+      "teaser": "El primer FC Barcelona - Real Madrid de la temporada 2026-2027 llega con un aliciente extra, el regreso de José [&#8230;]",
+      "region": "global",
+      "published": "2026-10-22T12:07:59+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Aragón destinará en torno a 3.100 millones de euros a Sanidad en los Presupuestos de 2027",
+      "link": "https://www.elindependiente.com/espana/aragon/2026/10/22/aragon-destinara-en-torno-a-3-100-millones-de-euros-a-sanidad-en-los-presupuestos-de-2027/",
+      "teaser": "El Gobierno de Aragón destinará en torno a 3.100 millones de euros a Sanidad en los Presupuestos de 2027. El [&#8230;]",
+      "region": "global",
+      "published": "2026-10-22T12:03:35+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Luna llena de octubre 2026: cuándo es, cómo verla y las ventajas por el cambio de hora en España",
+      "link": "https://www.elindependiente.com/futuro/astronomia/2026/10/22/luna-llena-octubre-2026-cuando-verla/",
+      "teaser": "El otoño avanza y las noches comienzan a ganar terreno progresivamente en toda España. Tras el paso de la Luna [&#8230;]",
+      "region": "global",
+      "published": "2026-10-22T11:44:05+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "El PP fuerza un debate sobre vivienda entre la ministra Isabel Rodríguez y Juan Bravo, a celebrar en la Ser",
+      "link": "https://www.elindependiente.com/espana/2026/10/22/el-pp-fuerza-un-debate-sobre-vivienda-entre-la-ministra-isabel-rodriguez-y-juan-bravo-a-celebrar-en-la-ser/",
+      "teaser": "El PSOE ha aceptado la propuesta del Partido Popular de celebrar un debate sectorial sobre vivienda como parte de la [&#8230;]",
+      "region": "global",
+      "published": "2026-10-22T11:31:14+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Mientras España quiere apagar sus nucleares, una startup del MIT inventa reactores prefabricados que se construyen como barcos",
+      "link": "https://www.elindependiente.com/economia/2026/10/22/mientras-espana-quiere-apagar-sus-nucleares-una-startup-del-mit-inventa-reactores-prefabricados-que-se-construyen-como-barcos/",
+      "teaser": "El encaje de la energía nuclear en la transición hacia un modelo limpio es cualquier cosa menos sencillo. En España, [&#8230;]",
+      "region": "global",
+      "published": "2026-10-22T11:22:24+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Oslo tech struggles to break out of Stockholm's shadow",
+      "link": "https://sifted.eu/articles/oslo-tech-problems-physical-ai-vc-growth-capital/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-10-23T10:45:03+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Nvidia funds European startups. They spend it on Nvidia",
+      "link": "https://sifted.eu/articles/nvidia-european-investments-2026/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-10-23T05:00:55+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "14 Italian early stage startups to watch, according to VCs",
+      "link": "https://sifted.eu/articles/14-italian-early-stage-startups-to-watch-according-to-vcs/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-10-23T05:00:33+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Palantir chief: Europe must ‘accept some dependency’ on US tech",
+      "link": "https://sifted.eu/articles/palantir-louis-mosley-european-tech-sovereignty/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-10-22T18:56:43+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Meet Aaron Rosenberg: The man DeepMind researchers call before they quit",
+      "link": "https://sifted.eu/articles/aaron-rosenberg-radical-ventures-podcast/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-10-22T16:49:43+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Ireland’s AI scene has buzz. Now it needs breakouts",
+      "link": "https://sifted.eu/articles/irelands-ai-scene/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-10-22T05:00:56+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Sifted’s first Onstage Demo Day",
+      "link": "https://sifted.eu/articles/sifteds-first-onstage-demo-day/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-10-22T05:00:40+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "More startup ‘mafias’ are coming in Norway, predicts VC",
+      "link": "https://sifted.eu/articles/norway-startup-mafia-vc-physical-ai-cognite/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-10-22T05:00:06+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "The European startups defending Ukraine in 2026, and the VCs funding them",
+      "link": "https://www.eu-startups.com/2026/10/the-european-startups-defending-ukraine-in-2026-and-the-vcs-funding-them/",
+      "teaser": "As Ukraine continues to defend itself against Russia’s invasion, European startups are developing technologies ranging from autonomous drones and air-defence systems to satellite intelligence, with venture capital playing an increasingly important role in supporting defence innovation. EU-Startups&#8217; reporting on European DefenceTech and adjacent dual-use technologies has identified more than €1.8 billion in financing across 22 [&#8230;] The post The European startups defending Ukraine in 2026, and the VCs funding them appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-10-23T10:10:25+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "London’s Cognitive Credit lands €35.73 million to scale its AI and data platform for credit markets",
+      "link": "https://www.eu-startups.com/2026/10/londons-cognitive-credit-lands-e35-73-million-to-scale-its-ai-and-data-platform-for-credit-markets/",
+      "teaser": "Cognitive Credit, the London-based provider of corporate credit data, analytics and AI technology, has secured a €35.73 million ($40 million) strategic growth investment. The investment round was led by global growth equity firm Summit Partners, with continued participation from existing investor ETFS Capital. The investment follows an €8.93 million ($10 million) Series B led by [&#8230;] The post London’s Cognitive Credit lands €35.73 million to scale its AI and data platform for credit markets appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-10-23T09:45:13+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "OPINION: Robotics are essential for Europe’s energy transition",
+      "link": "https://www.eu-startups.com/2026/10/opinion-robotics-are-essential-for-europes-energy-transition/",
+      "teaser": "Europe&#8217;s energy transition story is usually told through assets: more renewable generation, smarter grids, electric vehicles and battery storage. Yet while much of the debate focuses on financing and building infrastructure, a different challenge is emerging beneath the surface: operating and maintaining a rapidly expanding asset base over the next several decades. But the high-margin [&#8230;] The post OPINION: Robotics are essential for Europe’s energy transition appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-10-23T08:44:13+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "Berlin’s Cygrid exits stealth with €2.66 million to stop AI agents from accessing confidential company data",
+      "link": "https://www.eu-startups.com/2026/10/berlins-cygrid-exits-stealth-with-e2-66-million-to-stop-ai-agents-from-accessing-confidential-company-data/",
+      "teaser": "Cygrid, a Berlin-based cybersecurity startup, has exited stealth with a €2.66 million pre-Seed funding round for its identity-enforcement platform that controls access to confidential information. The funding round was led by Atlantic, the pan-European pre-Seed fund, with participation from D11Z, the Schwarz family office-backed venture firm, alongside angel investors including Boris Gorin, VP Product at [&#8230;] The post Berlin’s Cygrid exits stealth with €2.66 million to stop AI agents from accessing confidential company data appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-10-23T07:32:51+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "Portuguese EdTech Intuitivo raises €1.35 million to ease teachers’ workload and expand into Brazil",
+      "link": "https://www.eu-startups.com/2026/10/portuguese-edtech-intuitivo-raises-e1-35-million-to-ease-teachers-workload-and-expand-into-brazil/",
+      "teaser": "Intuitivo, a Portuguese EdTech startup that helps lighten teachers’ administrative load, has raised €1.35 million in Seed funding. The round was led by Caixa Capital and the Impact Innovation Fund, managed by 3xP Global under the Venture Capital Programme of the Capitalisation and Resilience Fund (FdCR), administered by Banco Português de Fomento, Portugal’s development bank. [&#8230;] The post Portuguese EdTech Intuitivo raises €1.35 million to ease teachers’ workload and expand into Brazil appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-10-23T06:25:52+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "Top 50: Journalists and PR pros in European Tech",
+      "link": "https://www.eu-startups.com/2026/10/top-50-journalists-and-pr-pros-in-european-tech/",
+      "teaser": "Europe&#8217;s technology ecosystem is evolving rapidly, with AI, FinTech, DeepTech and digital regulation dominating headlines and reshaping the industry. Behind these stories is a network of journalists and communications professionals who play a vital role in how Europe&#8217;s technology sector is reported on, understood and represented. From reporters breaking stories on Europe&#8217;s biggest Tech companies [&#8230;] The post Top 50: Journalists and PR pros in European Tech appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-10-22T16:00:09+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "What does the failure of the Clarity Act mean for cryptocurrencies? (Sponsored)",
+      "link": "https://www.eu-startups.com/2026/10/what-does-the-failure-of-the-clarity-act-mean-for-cryptocurrencies-sponsored/",
+      "teaser": "The CLARITY Act was designed to set clearer rules for how digital assets are classified and overseen in the US. Its failure in the Senate leaves American investors without that framework for now, and anyone watching the Ethereum price USD chart saw the reaction within hours. The much-lauded CLARITY Act failed to advance in the [&#8230;] The post What does the failure of the Clarity Act mean for cryptocurrencies? (Sponsored) appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-10-22T15:43:50+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "Unicorn NEURA Robotics reveals new robot along with a training facility for European robotics",
+      "link": "https://www.eu-startups.com/2026/10/unicorn-neura-robotics-reveals-new-robot-along-with-a-training-facility-for-european-robotics/",
+      "teaser": "NEURA Robotics continues its roll of recent announcements with the launch of a new robot and the opening of a new branch of their Neura Gym in partnership with the Technical University of Munich (TUM). The two have today opened the TUM RoboGym powered by NEURA at LabCampus near Munich Airport. Spanning more than 2,300 [&#8230;] The post Unicorn NEURA Robotics reveals new robot along with a training facility for European robotics appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-10-22T14:51:13+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Five AI agent harnesses took the same memory test. The results weren’t even close.",
+      "link": "https://thenewstack.io/letta-frontiermemory-agent-harness-benchmark/",
+      "teaser": "AI agents are getting better at remembering past conversations and earlier tasks but remembering something doesn&#8217;t guarantee an agent can The post Five AI agent harnesses took the same memory test. The results weren&#8217;t even close. appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-10-22T18:34:32+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Ramp built an AI agent harness in six weeks — and LangChain’s CEO says it’s part of a bigger shift",
+      "link": "https://thenewstack.io/ramp-laminar-agent-harness/",
+      "teaser": "Ramp spent months testing managed agent APIs, open-source frameworks, and third-party platforms before concluding it would be better off building The post Ramp built an AI agent harness in six weeks — and LangChain&#8217;s CEO says it&#8217;s part of a bigger shift appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-10-22T16:31:15+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation",
+      "link": "https://thenewstack.io/openai-donates-open-responses/",
+      "teaser": "OpenAI on Thursday announced that it is donating the Open Responses API specification to the open source Agentic AI Foundation The post OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-10-22T16:01:00+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "OpenAI’s COBOL migration score has made a striking leap",
+      "link": "https://thenewstack.io/penai-cobol-migration-benchmark/",
+      "teaser": "This week, OpenAI put COBOL in the spotlight. It announced benchmark results suggesting its latest models are getting much better The post OpenAI’s COBOL migration score has made a striking leap appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-10-22T15:34:58+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Google and AWS open new paths for PyTorch beyond Nvidia",
+      "link": "https://thenewstack.io/pytorch-tpu-trainium-migration/",
+      "teaser": "At PyTorch Conference North America 2026 this week, Google open-sourced TorchTPU, a native PyTorch stack for Google TPUs, now available The post Google and AWS open new paths for PyTorch beyond Nvidia appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-10-22T15:23:23+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "AI found a critical PHP flaw. The bigger failure began in 2024.",
+      "link": "https://thenewstack.io/php2shell-chainguard-embargo-dispute/",
+      "teaser": "Did one of your favorite websites go dark on Wednesday? Some did, as operators took services offline while they waited The post AI found a critical PHP flaw. The bigger failure began in 2024. appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-10-22T15:01:54+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Who on-calls an AI? This is the unresolved crisis of agent ownership",
+      "link": "https://thenewstack.io/production-ai-agent-ownership/",
+      "teaser": "At 2:07 a.m., an AI agent starts failing.&#160; The application is still running, but requests are timing out because a The post Who on-calls an AI? This is the unresolved crisis of agent ownership appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-10-22T15:00:00+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "PHP’s security scramble is just a preview: AI is digging up flaws faster than maintainers can fix them",
+      "link": "https://thenewstack.io/php2shell-ai-vulnerabilities-maintainers/",
+      "teaser": "One of the biggest security scares to hit the web is causing widespread disruption, prompting businesses, hospitals, schools, and government The post PHP’s security scramble is just a preview: AI is digging up flaws faster than maintainers can fix them appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-10-22T14:35:13+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Educação midiática para navegar pelas eleições",
+      "link": "https://www.nexojornal.com.br/colunistas/2026/10/22/meta-big-techs-redes-sociais-eleicoes-2026-educacao-midiatica",
+      "teaser": "&lt;p&gt;Enquanto as mídias remodelam a democracia e outros pilares da sociedade, cabe a nós manter vivos os valores que nos humanizam, como a indignação diante das injustiças e a capacidade de imaginar futuros &lt;/p&gt; &lt;p&gt;Se havia dúvidas de que vivemos em um mundo figital (junção das palavras “físico” com “digital”) e uma vida on ou conectada (“on life”, como se diz em inglês), o que estamos presenciando neste período eleitoral eliminou todas elas. As telas espelham a vida e percebemos, de forma bastante concreta, que nossa democracia está nas mãos da internet e das redes sociais. Tenho recebido diversas mensagens me dizendo que, mais do que nunca, é fácil compreender que, sem educação midiática, não será possível darmos conta de enfrentar os desafios do nosso tempo, em que há uma mistura inquestionável da vida real com a vida enquadrada — aquela que nos é mostrada por meio dos algoritmos que tentam governar nossas vontades e atitudes. Diante das evidências de que as big techs e suas plataformas estão interferindo no processo eleitoral de um país imenso e diverso como o Brasil — e de que a força da desinformação, aliada ao viés de confirmação de uma população com lacunas educacionais, está sendo usada para confundir e moldar uma visão de mundo distorcida —, já não é possível argumentar em favor de uma educação completamente desplugada ou desconectada, sob pena de aprofundarmos o fosso que separa aqueles que compreendem seu poder de atuação dentro e fora das redes daqueles que seguem seus influenciadores prediletos sem questionar. Estar informado sobre como funcionam essas mídias e como podemos atuar nelas e com elas é uma questão de sobrevivência democrática.&lt;/p&gt; &lt;p&gt;Não por acaso, a Unesco (Organização das Nações Unidas para a Educação, a Ciência e a Cultura) acaba de lançar o tema da Semana Mundial de Educação Midiática, celebrada ao redor do mundo entre 23 e 31 de outubro: “#TodosNósDesempenhamosUmPapel — Alfabetização Midiática e Informacional para todos”, em tradução livre, que convida todos os cidadãos a refletirem sobre seu papel neste ecossistema informacional. A semana foi criada em 2021 pela ONU (Organização das Nações Unidas) para enfatizar a necessidade da circulação de informações factuais, oportunas, direcionadas, claras, acessíveis, multilíngues e baseadas em evidências científicas. A MIL Alliance (Aliança para a Alfabetização Midiática e Informacional) da Unesco é uma rede global de colaboração entre mais de 400 organizações e mais de 200 especialistas comprometidos com o avanço de políticas, estratégias e práticas que fortaleçam a alfabetização midiática e informacional em todo o mundo, da qual tenho o privilégio de fazer parte.&lt;/p&gt; &lt;p&gt;Estar informado sobre como as mídias funcionam é uma questão de sobrevivência democrática&lt;/p&gt; &lt;p&gt;“Caiu na rede é peixe”, diz o ditado popular, que nunca conteve tanta sabedoria: é preciso saber nadar com competência e pensamento crítico para passar por águas turvas e opacas, que não nos deixam ver o que há ao infinito e além. “Em uma era marcada por inteligência artificial, plataformas digitais e sobrecarga de informações, todos têm um papel crucial a desempenhar no empoderamento dos indivíduos para que naveguem pelas informações de forma crítica, confiante e ética. Trabalhando juntos, podemos construir coletivamente ecossistemas de informação mais fortes para todos”, diz a convocatória da MIL Alliance, que lidera a Semana Mundial, no site em que disponibiliza não apenas informações sobre como se engajar na causa, mas diversos materiais sobre educação midiática que a Unesco disponibiliza para escolas, famílias, jovens, organizações de mídia e jornalistas, pesquisadores, influenciadores digitais, cidades, organizações da sociedade civil e governos. A abordagem holística da MIL Alliance no que se refere à educação midiática corrobora aquilo com o que nós, pesquisadores e especialistas no tema, temos nos deparado no nosso cotidiano: ela não é mais um tema restrito à escola ou às organizações educacionais, mas uma área do conhecimento que ajuda a compreender o que estamos vivendo, oferecendo ferramentas e insumos práticos para que possamos desenvolver competências e habilidades que nos auxiliem a exercer nossa cidadania no mundo figital de forma concreta e responsável.&lt;/p&gt; &lt;p&gt;“Qual é a sua parte?”, questiona a campanha. A pergunta deve ressoar em todos nós, que, além de consumidores, hoje somos mídia. Grande parte dos cidadãos brasileiros está na internet — 90,5% da população com 10 anos ou mais tem acesso à rede, segundo dados do IBGE (Instituto Brasileiro de Geografia e Estatística) — e somos o segundo país do mundo com mais horas gastas nas redes sociais. Portanto, precisamos urgentemente pensar nas razões pelas quais tanto navegamos e aonde queremos chegar. O que estamos vivenciando neste período eleitoral só demonstra que a participação social também pode ser exercida por meio dos cliques, likes, comentários e compartilhamentos de conteúdos nas redes — e que esses atos de envolvimento reverberam nas ruas e residências. Observar a realidade nos revela que os meios são extensões dos seres humanos e, por impactarem nossa vida em todas as dimensões, precisam ser compreendidos para que possamos utilizá-los de forma crítica, a favor do desenvolvimento e da melhoria da nossa existência. &lt;/p&gt; &lt;p&gt;Todos temos parte, fazemos parte, somos parte deste ecossistema informacional, e se não temos (ainda) agência na forma como os conteúdos são distribuídos (não sabemos como os algoritmos dessas plataformas funcionam, e isso é determinante para a nossa conduta ali), é nosso compromisso cobrar transparência e desenvolver novas maneiras de interagir. É preciso lembrar que a capacidade de agir e tomar decisões é uma característica única e intransferível do ser humano, assim como o julgamento, a atribuição de valor, a interpretação, a criação e, sobretudo, a capacidade de mobilizar uns aos outros. Talvez a melhor lição que possamos aprender em momentos como este é que as mídias continuam a influenciar nossa relação com o mundo e com os outros – elas sempre exerceram esse poder, só que, agora, têm uma escala e velocidade que não conseguimos sequer imaginar —, e, por isso, estão também reconfigurando pilares fundantes da nossa sociedade, como a democracia. E tal reconfiguração pede não só uma mudança de olhares e perspectivas, mas, sobretudo, a manutenção dos valores que nos são caros e nos humanizam, como a indignação diante das injustiças e a capacidade de transformar o que não serve ao bem comum, imaginando e desejando futuros possíveis. A imaginação e o desejo são forças políticas potentes, e cabe a nós, dentro e fora das redes, mantê-los vivos para garantir uma existência digna para todos.&lt;/p&gt;",
+      "region": "global",
+      "published": "2026-10-22T21:44:57+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Em quais agências reguladoras ficar de olho a partir de 2027",
+      "link": "https://www.nexojornal.com.br/expresso/2026/10/22/agencias-reguladoras-cadeiras-vagas-2027-mandato-eleicao",
+      "teaser": "&lt;p&gt;Próximo presidente poderá indicar ao menos 25 novos diretores para órgãos federais. Número pode dobrar caso Lula não preencha vagas ainda em aberto&lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/10/toms4625_1_-scaled.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Membros da ANP durante leilão de blocos de exploração de petróleo &lt;/media:title&gt; &lt;media:credit&gt; Tomaz Silva / Agência Brasil &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;O próximo presidente da República, eleito no domingo (25), terá a oportunidade de indicar ao menos 25 novos diretores para as 12 agências reguladoras federais. O número pode chegar a quase 50 caso Luiz Inácio Lula da Silva (PT) não preencha cargos ainda em aberto.&lt;/p&gt; &lt;p&gt;A indicação do presidente passa por sabatina no Senado Federal. Uma vez escolhido, o dirigente exerce mandato fixo de cinco anos, sem poder ser demitido — a não ser em caso de condenação judicial ou pedido de demissão.&lt;/p&gt; &lt;p&gt;Neste texto, o Nexo mostra em quais agências reguladoras ficar de olho a partir de 2027.&lt;/p&gt; Mineração &lt;p&gt;A ANM (Agência Nacional de Mineração) foi criada em 2017 para regular e fiscalizar atividades de estudo e exploração dos recursos minerais da União, incluindo o garimpo. Das cinco cadeiras que compõem a diretoria do órgão:&lt;/p&gt; duas já estão abertas e aguardam indicação de Lula duas ficarão disponíveis a partir de 4 de dezembro, incluindo a do diretor-geral Mauro Henrique Moreira Sousa, nomeado por Jair Bolsonaro (PL) em 2022 uma quinta cadeira ficará vaga em dezembro de 2028 &lt;p&gt;Desde a sua criação, a autarquia enfrenta dificuldades orçamentárias e estruturais, incluindo queda no número de servidores, enquanto suas atribuições legais aumentam.&lt;/p&gt; &lt;p&gt;As fragilidades persistem num momento de expansão da atividade minerária e do interesse massivo em minerais críticos e terras raras, considerados estratégicos para indústrias de alta tecnologia, como as automotivas, de defesa e aeroespaciais. O Brasil tem a segunda maior reserva mundial desses recursos, ainda pouco explorada.&lt;/p&gt; &lt;p&gt;485,4%&lt;/p&gt; &lt;p&gt;foi quanto aumentou a emissão de autorizações de pesquisa para terras raras pela ANM entre 2021 e 2025&lt;/p&gt; &lt;p&gt;O tema é um dos alvos das campanhas eleitorais de 2026. Flávio Bolsonaro (PL) sugere usar os recursos para suprir novas tecnologias, em especial data centers, e acelerar a exploração de áreas com “licenciamento ágil e técnico”, além de atrair capital e tecnologia estrangeiros. O senador não detalha as medidas nem cita a ANM entre as propostas.&lt;/p&gt; &lt;p&gt;Lula fala em criar uma política específica para minerais críticos e evitar a simples exportação de matérias-primas. Também afirma que atacar a mineração ilegal será “prioridade estratégica, com investigação financeira obrigatória em todas as ações de desarticulação de organizações criminosas”. O presidente, no entanto, não detalha a proposta ou cita a ANM.&lt;/p&gt; Proteção de dados &lt;p&gt;A ANPD (Agência Nacional de Proteção de Dados) é vinculada ao Ministério da Justiça e Segurança Pública e zela pela proteção de dados pessoais, especialmente em ambientes digitais. Cabe a ela fiscalizar o cumprimento da LGPD (Lei Geral de Proteção de Dados) e do ECA Digital (Estatuto Digital da Criança e do Adolescente), além do Marco Civil da Internet.&lt;/p&gt; &lt;p&gt;A autarquia é o órgão regulador mais recente, criado inicialmente como autoridade nacional em 2018 e convertido em agência em fevereiro de 2026. Das cinco vagas de seu conselho diretor:&lt;/p&gt; uma aguarda indicação de Lula desde novembro de 2025 duas devem abrir até dezembro, incluindo a do presidente Waldemar Gonçalves Ortunho Júnior, nomeado em 2020 por Bolsonaro outras duas estarão disponíveis em 2028 e 2029 &lt;p&gt;Entre as prioridades da ANPD a partir de 2027 está combater o design manipulativo de plataformas digitais, um conjunto de técnicas para manter o usuário preso à tela (como a rolagem infinita e o excesso de notificações). O artifício já é proibido por lei, mas ainda não foi regulamentado, o que demandará um longo processo.&lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/08/julian-0I21xHfgw0E-unsplash-scaled.jpg\" type=\"image/jpeg\" medium=\"image\"&gt; &lt;media:title&gt; Celular com ícones de redes sociais &lt;/media:title&gt; &lt;media:credit&gt; Julian Christ / Unsplash &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;Pntares da bancada bolsonarista — que se expandiu nas eleições de 2026 — querem limitar o papel da agência, desarticulando mecanismos de responsabilização de plataformas. A empreitada pode avançar em 2027 se Flávio sair eleito das urnas em 25 de outubro. O candidato, que considera a regulação de plataformas uma “censura”, promete revogar atos normativos de Lula sobre o tema.&lt;/p&gt; &lt;p&gt;Nem ele nem o atual presidente mencionam a ANPD em seus planos de governo, embora o petista prometa avançar na regulação de big techs — o que considera uma “reafirmação da democracia”.&lt;/p&gt; Petróleo, gás natural e biocombustíveis &lt;p&gt;A ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis) foi criada em 1997 a partir da Lei do Petróleo e é vinculada ao Ministério de Minas e Energia. A autarquia é responsável por regular e fiscalizar toda a cadeia de exploração e venda do insumo, além do gás natural e biocombustíveis, como o etanol.&lt;/p&gt; &lt;p&gt;Cabe à agência:&lt;/p&gt; regular e fiscalizar empresas que desempenhem atividades de refino, importação, transporte, distribuição e revenda de combustíveis organizar a oferta de blocos de exploração de petróleo e gás vistoriar refinarias, bases de distribuição e postos de combustíveis para combater possíveis fraudes monitorar a qualidade e os preços de combustíveis e insumos como o gás de cozinha &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/10/fiscalizacao-postos-de-combustivel_mcamgo_abr_150320211818-6.jpg\" type=\"image/jpeg\" medium=\"image\"&gt; &lt;media:title&gt; Fiscalização da ANP em posto de combustível &lt;/media:title&gt; &lt;media:credit&gt; Marcelo Camargo / Agência Brasil &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;O próximo presidente da República poderá indicar ao menos três novos diretores à ANP, que abrirá vagas em 2027, 2028 e 2029. Outras duas cadeiras podem entrar na rodada se Lula não conseguir indicar substitutos ainda em 2026, quando dois mandatos vencem — incluindo o do presidente Carlos Manuel Baigorri, indicado por Bolsonaro em 2021.&lt;/p&gt; &lt;p&gt;Flávio, se eleito, promete liberar o fracking, técnica de extração de petróleo e gás de rochas inacessíveis por meios convencionais de perfuração. Embora a prática seja regulada pela ANP desde 2014, há dúvidas sobre se ela é compatível com as leis ambientais, o que abriu disputas na Justiça.&lt;/p&gt; &lt;p&gt;O senador promete ainda modernizar o refino do petróleo e acelerar a exploração da bacia da foz do Amazonas, na Margem Equatorial, para aumentar a arrecadação federal e impulsionar a economia. Segundo a Petrobras, no entanto, explorar comercialmente a área ainda é incerto e depende de um longo processo de estudos — o que enfrenta impasses com órgãos de fiscalização.&lt;/p&gt; &lt;p&gt;A medida também é vista com preocupação por ambientalistas, que defendem a redução ou eliminação do uso de combustíveis fósseis. Lula promete usar recursos da exploração para financiar investimentos em energias limpas e dar andamento à transição energética.&lt;/p&gt; Energia elétrica &lt;p&gt;Cabe à Aneel (Agência Nacional de Energia Elétrica), vinculada ao Ministério de Minas e Energia, regular e fiscalizar toda a cadeia de produção e comercialização de energia — seja elétrica, solar, eólica, térmica ou nuclear — no mercado brasileiro. Isso inclui:&lt;/p&gt; o cálculo e a revisão anual das tarifas o monitoramento da qualidade e da segurança dos serviços prestados pelas concessionárias a licitação dos direitos de exploração em usinas de geração e linhas de transmissão de energia &lt;p&gt;Apenas uma cadeira das cinco que compõem a diretoria da agência aguarda indicação de Lula para substituição. As outras quatro, incluindo a do presidente Sandoval Feitosa, indicado por Bolsonaro em 2022, serão trocadas somente na próxima gestão.&lt;/p&gt; &lt;p&gt;A gestão de Feitosa à frente da Aneel é marcada por atritos com o governo Lula, que acusou a diretoria da agência de omissão na fiscalização de concessionárias, especificamente diante dos apagões recorrentes da Enel em São Paulo. Na época, a autarquia defendeu o cumprimento de ritos técnicos próprios e sua competência privativa para extinguir contratos.&lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2025/12/enel-sp.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Trabalhadores da Enel em atendimento para restabelecer a luz &lt;/media:title&gt; &lt;media:credit&gt; Rovena Rosa / Agência Brasil &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;As tensões ocorrem ainda em meio ao encarecimento das tarifas de luz. A gestão de Feitosa defende a modernização tarifária, um conjunto de medidas — como precificar o consumo a depender do horário de uso — para equilibrar a cobrança da energia e aprimorar a eficiência do sistema.&lt;/p&gt; &lt;p&gt;Tanto Lula quanto Flávio prometem baratear as contas de luz e ampliar a infraestrutura do sistema elétrico em seus planos de governo. O senador propõe ainda reduzir gradualmente tributos e subsídios embutidos, preservando a tarifa social. O presidente fala em expandir o uso de fontes renováveis e tecnologias menos poluentes.&lt;/p&gt; Vigilância sanitária &lt;p&gt;A Anvisa (Agência Nacional de Vigilância Sanitária), vinculada ao Ministério da Saúde, atua essencialmente no controle de medicamentos, vacinas, alimentos, cosméticos, agrotóxicos e outros produtos e insumos que possam influenciar a saúde da população.&lt;/p&gt; &lt;p&gt;Ao órgão, cabe ainda fiscalizar estabelecimentos, serviços de saúde e fronteiras para evitar riscos sanitários e verificar o cumprimento de normas do setor, além de monitorar preços do mercado farmacêutico.&lt;/p&gt; &lt;p&gt;A Anvisa é outra autarquia com histórico de tensões entre sua diretoria e Lula. Em 2024, o presidente questionou Antonio Barra Torres — então diretor-presidente do órgão, indicado por Bolsonaro em 2020 — sobre uma suposta lentidão nos processos de análise e aval a novos medicamentos. Na época, o diretor disse que alertou o governo federal sobre a escassez de servidores.&lt;/p&gt; &lt;p&gt;Com a saída de Barra Torres em dezembro daquele ano, Lula indicou para presidir a Anvisa o economista Leandro Pinheiro Safatle — que cumpre o mandato até dezembro de 2029. A vaga do diretor deve se somar a mais duas disponíveis: uma em 2027 e outra já aberta, caso Lula não a preencha até o fim do ano. As duas cadeiras restantes da diretoria ficarão vagas em 2030.&lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/07/anvisa_04.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Sede da Anvisa &lt;/media:title&gt; &lt;media:credit&gt; Marcelo Camargo / Agência Brasil &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;A canetas emagrecedoras têm sido a principal pauta da agência, que tem aprovado novas versões do medicamento e intensificado ações de fiscalização sobre insumos ilegais. Em campanha, Lula prometeu fornecer o produto gratuitamente no SUS (Sistema Único de Saúde), embora a medida ainda dependa da finalização de avaliações técnicas do Ministério da Saúde.&lt;/p&gt; &lt;p&gt;O presidente também promete em seu plano de governo manter esforços para manter a cobertura vacinal e atualizar medicamentos para o tratamento do câncer, mas sem detalhar medidas ou investimentos especificamente para a Anvisa.&lt;/p&gt; &lt;p&gt;A vacinação foi uma das áreas mais afetadas na gestão Bolsonaro, que contestou a eficácia dos imunizantes e os protocolos clínicos recomendados pela comunidade científica para o tratamento da covid-19. Flávio, que diz se inspirar no pai em seu plano de governo, promete “manter a imunização e o incentivo à produção nacional de vacinas”, sem, no entanto, detalhar como fará isso.&lt;/p&gt;",
+      "region": "global",
+      "published": "2026-10-22T21:27:46+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Alagoas: Maceió elege governador. Interior elege Assembleia",
+      "link": "https://www.nexojornal.com.br/debate/2026/10/22/alagoas-eleicoes-2026-governo-renan-filho-jhc",
+      "teaser": "&lt;p&gt;JHC chega ao Executivo pela força da capital e tem pela frente um Legislativo em que o MDB derrotado tem, sozinho, maioria absoluta&lt;/p&gt; &lt;p&gt;Alagoas chegou a 2026 organizada em torno de três vetores: a força eleitoral do interior, a centralidade da capital e a reorganização das elites locais. Na reta final, a disputa pelo governo se resumia a uma dupla conversão: Renan Filho (MDB) precisava transformar municipalismo e continuidade em maioria estadual, avançando na capital, enquanto JHC (PSDB) precisava converter a força de Maceió em candidatura competitiva no interior. &lt;/p&gt; &lt;p&gt;As urnas de 4 de outubro resolveram essa questão, mas abriram outra, agora de governo.&lt;/p&gt; &lt;p&gt;JHC foi eleito no primeiro turno com 892.484 votos, 52,20% dos válidos, contra 47,37% de Renan Filho. Renan venceu em 71 dos 102 municípios e somou, fora de Maceió, uma vantagem de cerca de 96,7 mil votos. Na capital, porém, JHC abriu 179,4 mil votos de frente. Venceu também em Arapiraca, Rio Largo, Marechal Deodoro, São Miguel dos Campos e Coruripe, cujos prefeitos haviam declarado apoio ao emedebista. Às vésperas do pleito, Renan reunia 89 prefeitos, enquanto JHC, 12.&lt;/p&gt; &lt;p&gt;O dado mais relevante, portanto, não é a força da capital, já esperada, mas o enfraquecimento da transferência de votos pelas redes municipais nos maiores centros do interior. A capilaridade emedebista seguiu majoritária nos pequenos municípios, mas deixou de ser decisiva onde o eleitorado é mais urbano e mais exposto à agenda de gestão que JHC projetou a partir de Maceió. Nem a avaliação positiva do governo Paulo Dantas (MDB), apresentada em todas as pesquisas publicadas, bastou para transferir votos ao candidato da continuidade.&lt;/p&gt; &lt;p&gt;Se a eleição foi um teste de engenharia coalizional, o mandato que começa em janeiro será um teste de engenharia de governo&lt;/p&gt; &lt;p&gt;A eleição também confirmou que o pleito estadual não foi um plebiscito ideológico. Lula (PT) venceu em Alagoas com 54,73% dos válidos, enquanto Flávio Bolsonaro (PL) venceu em Maceió, única capital nordestina a dar-lhe a vitória. Parte relevante do eleitorado votou em Lula e em JHC, cuja opção por evitar o confronto com o governo federal se mostrou eficaz. &lt;/p&gt; &lt;p&gt;No Senado, a centro-direita, que parecia fragmentada, coordenou-se: Arthur Lira (PP) e Marina JHC (PSDB) foram eleitos, enquanto Renan Calheiros (MDB), senador desde 1995, ficou de fora. Somado à derrota de Renan Filho, que deixou o Ministério dos Transportes para disputar o governo, o resultado é um revés sem precedentes recentes para o grupo que organizou a política estadual nas últimas décadas.&lt;/p&gt; &lt;p&gt;Apesar disso, o MDB não perdeu o Legislativo. Enquanto os Calheiros saíram derrotados, Marcelo Victor (MDB), presidente da Assembleia Legislativa desde 2019, saiu vitorioso: foi o segundo deputado mais votado, ajudou a eleger boa parte da bancada e articula a própria sucessão na Mesa. O partido elegeu sozinho 15 das 27 cadeiras da Casa, maioria absoluta. Com o PT, que fez três, o campo derrotado soma 18. Os partidos da coligação de JHC (PP com três; PL, PSDB e União Brasil com duas cada) ficam com nove.&lt;/p&gt; &lt;p&gt;O quadro tensiona um padrão conhecido da política alagoana: o de uma Assembleia historicamente alinhada ao Executivo. A questão agora é saber se esse alinhamento era ao governador ou ao grupo que controla a Casa. &lt;/p&gt; &lt;p&gt;Os primeiros sinais apontam para a segunda hipótese. Logo após a eleição, os deputados aprovaram mandato de cinco anos para o próximo dirigente da Arsal, a agência reguladora estadual, retirando do futuro governador a prerrogativa de substituí-lo. Parlamentares também têm defendido publicamente a “autonomia” da Casa, consolidada sob Renan Filho e preservada com Dantas, cuja chegada ao governo em 2022 passou pela própria Assembleia.&lt;/p&gt; &lt;p&gt;A disputa pela presidência da Casa será o primeiro teste da capacidade do governador de transformar vitória eleitoral em maioria legislativa. A literatura sobre presidencialismo de coalizão, transposta para os estados, mostra que governadores dispõem de recursos poderosos para isso: cargos, execução orçamentária, convênios e emendas. Em estados de forte interiorização política, deputados dependem do acesso ao Executivo para entregar obras e serviços às suas bases, o que tende a corroer maiorias oposicionistas ao longo do mandato. &lt;/p&gt; &lt;p&gt;JHC conhece o roteiro. Em 2021, encontrou na Câmara de Maceió uma maioria adversária e, ao longo do mandato, a converteu em base, até eleger em 2024 a maior bancada da Casa.&lt;/p&gt; &lt;p&gt;A Assembleia, contudo, não é a Câmara Municipal. O MDB alagoano combina coesão organizacional, controle da Mesa e articulação com dezenas de prefeitos, os mesmos que apoiaram Renan Filho. Negociar individualmente com deputados poderia acelerar adesões, mas acirraria o conflito com a presidência da Casa. Já um acordo em bloco garantiria estabilidade ao custo de entregar parte do governo ao grupo derrotado nas urnas.&lt;/p&gt; &lt;p&gt;Outro ponto de atenção para JHC é que a agenda anunciada na campanha, com mobilidade urbana (incluindo um BRT de quase R$ 1 bilhão), saúde, segurança e renegociação de dívidas do estado, depende de aprovação orçamentária e recursos federais. O segundo turno entre Lula e Flávio Bolsonaro definirá se o governador terá em Brasília um interlocutor pragmático ou um governo de sua órbita partidária. &lt;/p&gt; &lt;p&gt;Em suma, o desafio de integrar capital e interior, que estruturou a disputa, mudou de natureza. JHC venceu pela capital, mas governará um estado cujo interior seguiu majoritariamente emedebista e cuja Assembleia foi eleita por essas mesmas redes. &lt;/p&gt; &lt;p&gt;Se a eleição foi um teste de engenharia coalizional, o mandato que começa em janeiro será um teste de engenharia de governo. JHC terá que converter força territorial concentrada em maioria parlamentar, sem abrir mão da agenda que o elegeu.&lt;/p&gt; &lt;p&gt;Luciana Santana é professora da Universidade Federal de Alagoas, onde também atua no Programa de Pós-Graduação em Ciência Política. É docente do Programa de Pós-Graduação em Ciência Política da Universidade Federal do Piauí. Lidera o Grupo de Pesquisa Instituições, Governos, Comportamento Político e Democracia (CNPq) e integra a Red Politólogas, a Rede de Pesquisa em Política Subnacional da América Latina e o INCT ReDem (Representação e Legitimidade Democrática).&lt;/p&gt; Este artigo de opinião faz parte da série Debate sobre as eleições estaduais de 2026, produzida em parceria com a ABCP – Associação Brasileira de Ciência Política",
+      "region": "global",
+      "published": "2026-10-22T21:04:09+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Amapá: guinada à direita e fracasso das dinastias",
+      "link": "https://www.nexojornal.com.br/debate/2026/10/22/amapa-dr-furlan-governador-direita-amazonia-legal1",
+      "teaser": "&lt;p&gt;Bloco conservador sai fortalecido de pleito que teve a família Alcolumbre como uma das principais derrotadas&lt;/p&gt; &lt;p&gt;No primeiro texto sobre o Amapá desta série, foram apresentadas duas hipóteses que pareciam definir a disputa eleitoral de 2026: por um lado, a tendência de aprofundamento da trajetória de conversão à direita dos padrões de voto no estado, conforme diagnosticado pelo Laboratório de Estudos Geopolíticos da Amazônia Legal; por outro, a continuidade da corrosão do capital político das principais dinastias amapaenses. Encerrada a apuração dos votos do primeiro turno, ambas as tendências se confirmaram.&lt;/p&gt; &lt;p&gt;Antônio Furlan confirmou seu amplo favoritismo nas urnas e foi eleito governador em primeiro turno, com 62,75% dos votos totais. Ex-prefeito de Macapá, reeleito em 2024 com uma votação recorde (85,08% dos votos totais), Furlan havia sido afastado em 2026 da prefeitura pelo Supremo Tribunal Federal junto a seu vice, em meio a suspeitas de desvio de recursos de emendas parlamentares.&lt;/p&gt; &lt;p&gt;Sua expressividade eleitoral não se resume ao volume de votos que recebeu na disputa pelo Palácio do Setentrião: Rayssa Furlan (Podemos), sua esposa, e Lucas Barreto (PSD), o segundo nome da chapa, foram eleitos para o Senado com 29,98% e 24,22% dos votos, respectivamente, derrotando o líder do governo Lula no Congresso, Randolfe Rodrigues (PT). Com isso, considerando a vaga já ocupada por Davi Alcolumbre (União Brasil), todas as três cadeiras do estado do Amapá passam a ser ocupadas por partidos de direita. A própria vitória de Furlan também cerrou fileiras junto ao campo bolsonarista, embora sem muito entusiasmo.&lt;/p&gt; &lt;p&gt;No caso da Câmara dos Deputados, também se verificou uma guinada à direita. Das oito cadeiras em disputa, o União Brasil ficou com três, o PDT com três, o PL com uma, o PCdoB com uma e o Podemos também com uma. Com isso, a direita passa a ter cinco das oito vagas – ante três da legislatura atual. Outro dado importante é o aumento da fragmentação partidária: cinco partidos passam a possuir representação na Câmara, face a apenas três na legislação atual. É um dado relativamente contraintuitivo, dada a tendência geral no país desde as últimas alterações na legislação eleitoral, sobretudo a partir da introdução da cláusula de barreira e da proibição das coligações para as disputas proporcionais.&lt;/p&gt; &lt;p&gt;O crescimento eleitoral da direita amapaense também é bastante pronunciado dentro da Assembleia Legislativa, tendo passado de 58% dos deputados e deputadas eleitos em 2022 para mais de 70% em 2026. O PDT elegeu três deputados estaduais; o União Brasil, cinco; o Republicanos, cinco; o Podemos, dois; o MDB, dois; a Rede, dois; o PT, um; o PP, um; o PSD, dois; e o PL, um. Apesar do índice ainda bastante elevado de fragmentação partidária, aqui houve uma diminuição do número de partidos com representação na Alap (Assembleia Legislativa do Amapá), que caiu de 15 em 2022 para 10 em 2026.&lt;/p&gt; &lt;p&gt;O Amapá se soma ao robusto bloco conservador constituído na Amazônia Legal&lt;/p&gt; &lt;p&gt;Ainda em relação à Alap, Antônio Furlan começará seu mandato com minoria parlamentar, já que sua base conta com apenas cinco deputados e deputadas de um total de 24 cadeiras. Contudo, não é precipitado imaginar que, a despeito dessa minoria inicial, não será difícil ao governador construir maioria ao longo do primeiro ano, consolidando um bloco majoritariamente conservador no âmbito da política estadual, em contraste com o padrão historicamente constituído desde a redemocratização.&lt;/p&gt; &lt;p&gt;Quando considerada a hipótese da continuidade da corrosão do capital político das principais dinastias amapaenses, dois elementos merecem destaque. Em primeiro lugar, tanto a família Góes quanto a família Capiberibe ficaram muito distantes dos padrões de sucesso eleitoral que ostentaram durante praticamente três décadas. Do lado dos Capiberibe, nem o ex-governador Camilo – candidato a deputado federal pelo PT – nem seu pai e patriarca da dinastia, João – candidato a senador pelo PSB –, obtiveram sucesso eleitoral. Do lado dos Góes, embora Roberto – candidato a deputado estadual pelo União Brasil e primo do ex-governador e ministro Waldez Góes – tenha sido eleito, a família ficou muito aquém da pujança eleitoral que já apresentou.&lt;/p&gt; &lt;p&gt;O segundo elemento, todavia, é o mais fundamental: embora a família Góes e a família Capiberibe sigam amargando seu ocaso político no estado, a grande dinastia política derrotada em 2026 é a família Alcolumbre, e, de modo especial, sua principal liderança, Davi Alcolumbre. O presidente do Senado, que chegou a indicar, para além da cota ministerial do União Brasil dentro do governo Lula, dois ministros de sua cota pessoal – um dos quais o próprio ex-governador Waldez Góes –, já vinha de uma série de derrotas políticas importantes. Duas delas envolveram seu próprio irmão, Josiel Alcolumbre, que foi derrotado no segundo turno da disputa pela prefeitura de Macapá em 2020 e fracassou em 2024 na tentativa de conquistar uma vaga na Câmara Municipal.&lt;/p&gt; &lt;p&gt;Neste ano, Alcolumbre colocou suas fichas na reeleição do governador Clécio Luís (União), a quem dedicou forte apoio político e eleitoral, novamente sem sucesso, já que Clécio terminou com apenas 36,97% dos votos válidos. Entretanto, a despeito da nova derrota em candidaturas majoritárias, o grupo político de Davi Alcolumbre aumentou ligeiramente sua representação parlamentar tanto na Alap – o União Brasil saiu de três para cinco cadeiras – quanto na Câmara dos Deputados – onde seu partido saiu de zero para três assentos.&lt;/p&gt; &lt;p&gt;Com esse resultado, o Amapá se soma ao robusto bloco conservador constituído na Amazônia Legal, de modo específico, e no Brasil, de modo mais geral. A possibilidade de constituição de maioria parlamentar na Alap por parte de Furlan, assim como seu alinhamento ideológico com o campo bolsonarista e com a retórica do agronegócio – além da hegemonia conservadora no Senado –, tendem a produzir uma mudança de trajetória na estrutura de proteção ambiental do estado, historicamente apresentada como seu cartão de visitas.&lt;/p&gt; &lt;p&gt;Ivan Henrique de Mattos e Silva é cientista político, professor da Universidade Federal do Amapá e vice-coordenador-geral do Laboratório de Estudos Geopolíticos da Amazônia Legal.&lt;/p&gt; Este artigo de opinião faz parte da série Debate sobre as eleições estaduais de 2026, produzida em parceria com a ABCP – Associação Brasileira de Ciência Política",
+      "region": "global",
+      "published": "2026-10-22T20:38:50+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Sergipe: onde os clãs se mantêm e o PL fracassou",
+      "link": "https://www.nexojornal.com.br/debate/2026/10/22/fabio-mitidieri-governador-sergipe-eleicao",
+      "teaser": "&lt;p&gt;Em meio a alterações pontuais, resultados eleitorais indicam a permanência e o realinhamento dos agrupamentos de base familiar no Estado&lt;/p&gt; &lt;p&gt;A política sergipana sai das eleições de 2026 com o campo governista consolidado e com base territorial ampla. Mesmo que partidariamente diversificadas, as bancadas estadual e federal eleitas são alinhadas ao Executivo. A oposição mostrou força, mas não obteve uma representação proporcional em todo o estado, por controlar máquinas municipais numa base territorial circunscrita.&lt;/p&gt; &lt;p&gt;Na primeira vitória em primeiro turno no estado desde 2014, o governador Fábio Mitidieri (PSD) foi reeleito com 59,27% dos votos válidos, contra 37,48% de Valmir de Francisquinho (Republicanos). Um cenário bem diferente do de 2022, quando conquistou o segundo turno com 51,7% dos votos válidos, ante 48,3% de Rogério Carvalho (PT). Mitidieri venceu em 67 dos 75 municípios (incluindo a capital e Grande Aracaju), mostrando que o eixo capital-interior não constituiu uma linha de tensão e instabilidade para o governismo. Francisquinho, por sua vez, venceu em apenas oito municípios do Agreste Central.&lt;/p&gt; &lt;p&gt;A vitória de Mitidieri é ainda mais notável pois ocorreu em meio a algumas fraturas. Uma delas foi a ruptura com Belivaldo Chagas (um dos fundadores do PSD no estado, que hoje está no Podemos), cuja filha, Priscila Felizola, compôs a chapa de oposição do Republicanos. Outra é o conflito entre Alessandro Vieira (MDB) e André Moura (União Brasil), que rachou a coalizão governista ao Senado e se converteu numa competição eleitoral interna, fazendo com que Vieira saísse da coligação em fevereiro (embora o senador tenha mantido o apoio ao governador). &lt;/p&gt; &lt;p&gt;Na oposição, as fissuras foram bem mais desagregadoras. O Republicanos de Valmir de Francisquinho abrigou o candidato derrotado ao Senado Eduardo Amorim, de base conservadora interiorana, e a prefeita de Aracaju, Emília Corrêa, eleita em 2024 com margem expressiva – ambos deixaram o PL de última hora na janela partidária, após romper com a ala bolsonarista do deputado Rodrigo Valadares. O PL, por sua vez, lançou uma chapa própria, encabeçada por Ricardo Marques, para servir de palanque para Flávio Bolsonaro (PL) no estado. Marques, no entanto, se retirou do pleito depois que seu vice desistiu, passando então a apoiar Francisquinho.&lt;/p&gt; &lt;p&gt;Essas divisões deixaram o polo conservador 20 pontos atrás na corrida ao governo e não renderam nenhuma cadeira no Senado. O PL local, engolido numa crise interna por causa de Valadares, não elegeu ninguém para a bancada federal. Mesmo os dois deputados estaduais eleitos pelo partido não são identificados com a cara atual da legenda, à extrema direita: aliados de Mitidieri, Luciano Pimentel e Fernandinho Franco migraram para o PL na janela partidária depois de uma carreira construída em outros partidos. &lt;/p&gt; &lt;p&gt;Eleição consolida e amplia base territorial governista em Sergipe&lt;/p&gt; &lt;p&gt;O campo governista elegeu Rogério Carvalho (PT) e Alessandro Vieira (MDB) ao Senado. André Moura (União) ficou em quarto lugar, mas se mantém influente no estado após seu partido obter seis cadeiras na Assembleia Legislativa (a maior bancada local) e duas na Câmara dos Deputados.&lt;/p&gt; &lt;p&gt;A fragmentação partidária caiu na Assembleia, com o número de legendas representadas caindo de 10 para nove e nenhuma sigla ocupando mais de 25% da Casa. O PSD de Mitidieri e o União do aliado André Moura detêm juntos 11 cadeiras e precisam de apenas mais dois deputados para formar maioria simples. A situação é muito próxima à da atual legislatura, o que sugere uma continuidade estrutural nas alianças. &lt;/p&gt; &lt;p&gt;Na Câmara, a situação não é muito diferente. PSD e União conquistaram cada um duas cadeiras, metade da bancada sergipana, enquanto PSB, PT, Republicanos e PP elegeram um deputado cada.&lt;/p&gt; &lt;p&gt;Em meio a alterações pontuais, os resultados eleitorais indicam a permanência e o realinhamento dos agrupamentos de base familiar no dstado. O campo governista elegeu um primo do governador, Cláudio Mitidieri (PSB), como deputado federal e Maísa Mitidieri (PSD), irmã de Fábio, como deputada estadual.&lt;/p&gt; &lt;p&gt;André Moura viu a filha, Yandra Moura (União), ser a deputada federal mais votada do estado. A cidade de Lagarto, por sua vez, elegeu para Brasília deputados de clãs locais rivais: Fábio Reis (PSD) e Gustinho Ribeiro (PP). &lt;/p&gt; &lt;p&gt;Do lado da oposição, o colapso do PL cedeu espaço para a ascensão de agrupamentos familiares em torno do Republicanos. Mesmo derrotado, Francisquinho elegeu seu filho para a bancada federal. Na Assembleia, George Passos é herdeiro de um agrupamento familiar de longa tradição no estado, e Ana Luiza é cunhada do ex-deputado Thiago de Joaldo, que não se elegeu. &lt;/p&gt; &lt;p&gt;Por fim, agrupamentos menos estruturados segundo a lógica familiar-territorial das parentelas sergipanas reduziram seu espaço, como PSOL, PDT, Cidadania e PP. Aliado do governo, o PT sai das eleições menos enfraquecido, mas ainda sob domínio exclusivo do agrupamento liderado pelo senador Rogério Carvalho, que tem João Daniel como seu representante na Câmara e seu filho Camilo Daniel como deputado na Assembleia. &lt;/p&gt; &lt;p&gt;Por isso, a eleição presidencial é decisiva para testar a coesão da base. Num cenário de vitória de Lula, reforça-se o acesso do governador a recursos federais, além das posições das bancadas do PT e do PSB na Câmara e de Rogério Carvalho no Senado. Caso Flávio vença, a bancada da federação União Progressista se torna a ponte natural com o governo federal, deixando Mitidieri mais dependente de André Moura.&lt;/p&gt; &lt;p&gt;Fernanda Rios Petrarca é professora do Departamento de Ciências Sociais e do Programa de Pós-Graduação em Sociologia na Universidade Federal de Sergipe. &lt;/p&gt; &lt;p&gt;Wilson José F. de Oliveira é professor do Departamento de Ciências Sociais e dos Programas de Pós-Graduação em Sociologia e em Antropologia na Universidade Federal de Sergipe.&lt;/p&gt; Este artigo de opinião faz parte da série Debate sobre as eleições estaduais de 2026, produzida em parceria com a ABCP – Associação Brasileira de Ciência Política",
+      "region": "global",
+      "published": "2026-10-22T20:11:51+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "A trajetória do desmatamento na Amazônia desde 1988",
+      "link": "https://www.nexojornal.com.br/grafico/2026/10/22/trajetoria-desmatamento-amazonia-desde-1988",
+      "teaser": "&lt;p&gt;Região registra menor taxa da série histórica no período de agosto de 2025 a julho de 2026. O ‘Nexo’ mostra a variação dos números nos últimos 38 anos, do governo José Sarney ao terceiro mandato de Lula&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;A Amazônia registrou a menor taxa de desmatamento da série histórica no período de agosto de 2025 a julho de 2026, segundo dados divulgados na sexta-feira (16) pelo Prodes (Projeto de Monitoramento do Desmatamento por Satélite), do Inpe (Instituto Nacional de Pesquisas Espaciais).&lt;/p&gt; &lt;p&gt;A medição do desmatamento no bioma começou em 1988, quando o Brasil era governado por José Sarney (PMDB). Naquele ano, foram cortados 21.050 km² de vegetação nativa, área um pouco menor que a do estado de Sergipe. O pico ocorreu em 1995, sob Fernando Henrique Cardoso (PSDB), com 29.059 km² derrubados, extensão ligeiramente maior que a de Alagoas. Já em 2026, foram destruídos 3.335 km², pouco mais que duas vezes o tamanho da cidade de São Paulo.&lt;/p&gt; &lt;p&gt;A trajetória do desmatamento está ligada a dinâmicas econômicas, em especial o avanço da fronteira agropecuária, e à política ambiental. Em 2004, ano em que o corte raso atingiu a segunda pior taxa da série histórica, no primeiro mandato de Luiz Inácio Lula da Silva (PT), o governo federal criou o PPCDAm (Plano de Prevenção e Controle do Desmatamento na Amazônia Legal), política que intensificou o monitoramento na Amazônia e criou novas áreas protegidas, levando à redução da devastação nos anos seguintes.&lt;/p&gt; &lt;p&gt;A taxa de desmatamento caiu 83% entre 2004 e 2012, passando de 27.772 km² para 4.571 km² ao ano. A partir de 2012, no governo de Dilma Rousseff (PT), no entanto, o desmatamento parou de cair, puxado por medidas como aprovação do novo Código Florestal, a desaceleração da demarcação de áreas protegidas e a redução orçamentária do Ministério do Meio Ambiente.&lt;/p&gt; &lt;p&gt;A situação se agravou nos governos de Michel Temer (MDB) e Jair Bolsonaro (PL). Eleito em 2018, o ex-presidente, saudoso da política ambiental da ditadura militar (1964-1985), se opôs publicamente à conservação da Amazônia e deixou de investir em medidas que no passado haviam feito o desmate cair, tirando o poder de órgãos ambientais, afrouxando regulamentações e paralisando a demarcação de terras indígenas, entre outras medidas.&lt;/p&gt; &lt;p&gt;A tendência de alta se reverteu com o retorno de Lula (PT) à Presidência em 2023. Ao lado da então ministra do Meio Ambiente, Marina Silva (Rede), o presidente retomou o PPCDAm e obteve quedas consecutivas nas taxas de desmatamento em 2023, 2024, 2025 e 2026. O Nexo mostra essa trajetória no gráfico abaixo, em que você pode verificar tanto os números da Amazônia Legal quanto os dos nove estados que a compõem.&lt;/p&gt; Desmatamento anual na Amazônia Legal Área de floresta derrubada a cada ano, em km², com destaque para os governos do PT e de Bolsonaro Estado Observações: O ano do Prodes vai de agosto do ano anterior a julho do ano indicado. Cada ano leva a cor do presidente que governou a maior parte do período. A taxa de 2026 é estimativa preliminar. 1993 e 1994 têm a média dos dois anos.&lt;br/&gt;Fonte: Prodes, Inpe (Instituto Nacional de Pesquisas Espaciais)",
+      "region": "global",
+      "published": "2026-10-22T19:28:46+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Como o Brasil enxerga a democracia, segundo este estudo",
+      "link": "https://www.nexojornal.com.br/expresso/2026/10/22/o-que-brasileiros-acham-da-democracia-ato-democracia-relatorio-usp",
+      "teaser": "&lt;p&gt;Relatório ‘Pulso da democracia’ mostra aumento do apoio ao regime político nas Américas. Entre os brasileiros, 68% afirmam apoiar os ideais democráticos &lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/10/int5037_0.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Eleitores em seção eleitoral em São Paulo &lt;/media:title&gt; &lt;media:credit&gt; Paulo Pinto / Agência Brasil - 04.10.2026 &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;Após mais de uma década em declínio, o apoio à democracia voltou a crescer no continente americano, chegando a 64% da população. Essa é uma das principais conclusões do relatório “Pulso da Democracia 2026”, publicado em 9 de setembro pelo Center for Global Democracy da Vanderbilt University, no Tennessee, e pelo Kellogg Institute for International Studies, vinculado à Universidade de Notre Dame, em Indiana.&lt;/p&gt; &lt;p&gt;O relatório se baseou nas respostas obtidas pelo AmericanBarometer (Barômetro da América), projeto realizado pela Vanderbilt em parceria com instituições locais para coletar dados sobre a opinião pública e o comportamento democrático na América Latina. Um evento de divulgação dos achados brasileiros ocorreu na quinta-feira (22), na USP (Universidade de São Paulo). &lt;/p&gt; &lt;p&gt;68% &lt;/p&gt; &lt;p&gt;é a porcentagem de entrevistados brasileiros que afirmaram apoiar a democracia, segundo o relatório “Pulso da democracia 2026”&lt;/p&gt; &lt;p&gt;Neste texto, o Nexo mostra como o relatório foi feito e explica como os brasileiros enxergam a democracia. &lt;/p&gt; O estudo &lt;p&gt;Pesquisadores do AmericanBaromether coletam dados sobre a percepção democrática na América Latina e no Caribe desde 2004. Na edição de 2026, foram feitas mais de 25 mil entrevistas em 21 países – com a adição de Estados Unidos e Canadá. &lt;/p&gt; &lt;p&gt;De acordo com Robert Vidigal, professor do Instituto de Ciência Política da UnB (Universidade de Brasília) e pesquisador do Center for Global Democracy da Vanderbilt, esse tipo de estudo ajuda a entender a adesão dos cidadãos ao sistema político. “Uma democracia em que a população não acredita nos ideais democráticos tende a ser frágil e vulnerável a rupturas e mudança de regime”, disse ao Nexo. &lt;/p&gt; &lt;p&gt;O questionário foi formulado com perguntas sobre valores democráticos, apoio ao sistema, Estado de Direito e intenção de imigrar. Ao todo, 121 questões estavam presentes na maior parte das pesquisas, enquanto outras 166 foram inseridas a partir da dinâmica sociopolítica e econômica de cada país. &lt;/p&gt; &lt;p&gt;A coleta se dividiu em três metodologias:&lt;/p&gt; domiciliar, em 16 países da América Latina e do Caribe telefônica, no Haiti e na Nicarágua digital, no Canadá, em Cuba e nos Estados Unidos &lt;p&gt;A frase central do estudo é “A democracia pode ter problemas, mas é melhor do que qualquer outra forma de governo”. Ela costuma ser atribuída ao ex-primeiro ministro britânico Winston Churchill, que teve seu primeiro mandato no cargo durante a Segunda Guerra Mundial (1939-1945). &lt;/p&gt; &lt;p&gt;Após dizer se concorda ou não com a afirmação, o entrevistado recebe perguntas sobre temas como tolerância a golpes de Estado, criminalidade ou fechamento do Congresso. “Assim, é possível verificar se o apoio declarado resiste quando se oferecem alternativas autoritárias concretas”, afirmou Vidigal. &lt;/p&gt; A satisfação com a democracia &lt;p&gt;O índice de 64% de entrevistados apoiando a democracia em 2026 é o maior desde 2014, quando esteve no mesmo patamar. Em meados dos anos 2010, no entanto, o apoio ao regime democrático estava em queda no continente: foi de 69% em 2012 para 57,8% em 2017. &lt;/p&gt; &lt;p&gt;Apesar da recuperação do apoio democrático na América Latina e no Caribe, a maior parte dos entrevistados está insatisfeita com a forma como a democracia é implementada em seu país. A satisfação está abaixo dos 45% desde 2017. &lt;/p&gt; &lt;p&gt;Apoio e insatisfação&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;No Brasil, o apoio à democracia passou de 64% em 2023 para 68% em 2026. O índice está num patamar intermediário, equidistante da adesão uruguaia, que registrou 86% – a mais alta –, e da peruana, com 50% – a mais baixa. &lt;/p&gt; &lt;p&gt;Apesar do crescimento do apoio à democracia na maior parte dos países entrevistados, isso não significa confiança nas instituições. Menos de um terço (31%) dos entrevistados latino-americanos afirmaram ter confiança no Congresso Nacional, enquanto 41% disseram que confiam nas eleições. &lt;/p&gt; &lt;p&gt;Sobre os valores que mais são associados à democracia, praticamente todos os países da América Latina afirmaram que o cumprimento da lei é o principal, sendo mencionado por 30,3% de todos os entrevistados. O cenário brasileiro é um dos únicos em que liberdade (31%) e igualdade (30%) estão à frente da aplicação da legislação (22%). &lt;/p&gt; &lt;p&gt;Segundo Vidigal, o resultado mostra a importância da liberdade e da igualdade para a manutenção do regime. “Fortalecer a legitimidade democrática exige não apenas preservar eleições competitivas e mecanismos de participação, mas garantir que as instituições respondam às expectativas dos brasileiros em relação à proteção de direitos e ao tratamento igualitário”, disse o professor da UnB. &lt;/p&gt; &lt;p&gt;56%&lt;/p&gt; &lt;p&gt;dos entrevistados em geral afirmaram que a democracia apresenta mais liberdades civis que o autoritarismo; 29% afirmaram o contrário, enquanto 15% disseram não ter sentido diferenças&lt;/p&gt; Melhoria nas condições de vida &lt;p&gt;O relatório “Pulso da democracia 2026” também fez perguntas a respeito da percepção socioeconômica dos entrevistados. Enquanto a maioria dos países observou uma recuperação econômica entre 2023 e 2026, entrevistados do Brasil e do México afirmaram que houve uma piora. &lt;/p&gt; &lt;p&gt;59%&lt;/p&gt; &lt;p&gt;é o percentual de brasileiros que afirmaram que a economia piorou desde 2023; entre 2021 e 2023, esse valor foi de 35%&lt;/p&gt; &lt;p&gt;De acordo com Vidigal, o cenário brasileiro foi o único que registrou “uma deterioração significativa” na percepção econômica, provavelmente impulsionada pelo aumento do custo de vida. Entre os mexicanos, a queda foi de apenas dois pontos percentuais (de 42% para 40%). &lt;/p&gt; &lt;p&gt;Em contrapartida, a percepção brasileira a respeito da insegurança alimentar está empatada como a menor do estudo. O índice de entrevistados que relataram faltar comida em casa por falta de dinheiro ou outros recursos nos três meses anteriores ao levantamento caiu de 17% para 12% entre os relatórios de 2023 e de 2026. O percentual de 2026 é igual ao do Uruguai. &lt;/p&gt; &lt;p&gt;Honduras, por sua vez, registrou o maior índice de insegurança alimentar na pesquisa de 2026: 37% dos hondurenhos afirmaram que havia faltado comida em casa nos três meses anteriores. &lt;/p&gt; Mudanças de espectro político &lt;p&gt;A onda de direita que varreu as eleições brasileiras de 2026, com a eleição massiva de governadores e parlamentares alinhados a esse espectro político, repete um movimento comum ao redor da América Latina. A alternância entre governos à esquerda e à direita tem sido uma constante no continente desde o fim das ditaduras militares nos anos 1980. &lt;/p&gt; &lt;p&gt;Em 2026, Chile e Colômbia viram José Antônio Kast e Abelardo de la Espriella substituir presidentes de esquerda. Além disso, a peruana Keiko Fujimori, filha do ex-ditador Alberto Fujimori, foi eleita. Os três são alinhados à extrema direita. &lt;/p&gt; &lt;p&gt;Segundo o relatório “Pulso da democracia”, o período recente apresentou um aumento da identificação dos entrevistados com a direita. Trinta e seis por cento dos latino-americanos disseram se posicionar nesse espectro político em 2026, o maior valor desde 2004, quando a pesquisa teve 41% dos respondentes desse campo. &lt;/p&gt; &lt;p&gt;Para Vidigal, esse aumento pode estar relacionado ao que ele chama de “fim da direita envergonhada”. Segundo ele, o campo político ficou associado às ditaduras militares, o que fez com que muitos adotassem o rótulo de “centro”. &lt;/p&gt; &lt;p&gt;“Parte do crescimento pode ser, portanto, menos uma mudança de valores e mais uma perda do estigma: pessoas que já tinham posições conservadoras passaram a assumir o rótulo”, afirmou o professor da UnB. &lt;/p&gt; &lt;p&gt;50%&lt;/p&gt; &lt;p&gt;dos respondentes brasileiros afirmaram se identificar com a direita &lt;/p&gt; &lt;p&gt;No caso brasileiro, Vidigal afirmou que esse avanço da identificação com a direita pode estar relacionado com três fatores:&lt;/p&gt; o antipetismo a atração por discursos de endurecimento penal e de flexibilização do acesso a armas a presença de lideranças religiosas na política, que aproximaram parte do eleitorado de candidatos conservadores &lt;p&gt;Em relação ao relatório anterior, de 2023, houve um crescimento de quatro pontos percentuais na identificação brasileira com a direita. O aumento é pequeno em comparação com outros países latino-americanos. No mesmo período, houve um acréscimo de 11% na identificação dos colombianos com o campo político, por exemplo, chegando a 40%. &lt;/p&gt; &lt;p&gt;“A força eleitoral da direita [no Brasil] parece refletir mais a insatisfação com governos de esquerda do que um realinhamento ideológico”, disse Vidigal. Segundo o professor da UnB, é preciso fazer novas pesquisas para identificar se o alinhamento dos governos à direita significa uma concordância do eleitor com esse campo. &lt;/p&gt;",
+      "region": "global",
+      "published": "2026-10-22T17:16:47+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Faz sentido transpor ao Brasil o modelo econômico de Milei?",
+      "link": "https://www.nexojornal.com.br/expresso/2026/10/22/bolsonaro-milei-argentina-modelo-economico-flavio-economia",
+      "teaser": "&lt;p&gt;‘Tesouraço’ de Flávio Bolsonaro (PL) se inspira no ‘plano motosserra’ que ajudou a eleger o presidente da Argentina. Economistas avaliam as propostas ao ‘Nexo’ e apontam as diferenças entre os dois países&lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/10/55418340502_0e1c4e90de_k.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Flávio Bolsonaro e Javier Milei durante lançamento de candidatura do candidato do PL em São Paulo &lt;/media:title&gt; &lt;media:credit&gt; Vittor Sales / Divulgaçao 25.07.2026 &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;O plano econômico de Flávio Bolsonaro (PL) defende um “tesouraço”, termo que faz referência a um conjunto de cortes de gastos e de enxugamentos que seriam feitos na máquina pública. O senador se inspira na política econômica de Javier Milei, que foi eleito na Argentina em 2023 tendo a “motosserra” como símbolo de campanha.&lt;/p&gt; &lt;p&gt;Depois que assumiu o poder, o presidente argentino promoveu um choque econômico para conter a alta de preços. Desde então, a inflação caiu, mas as medidas levaram ao aumento da pobreza, e o país agora enfrenta risco de entrar em recessão.&lt;/p&gt; &lt;p&gt;Neste texto, o Nexo explica a política econômica de Milei e os seus efeitos, fala sobre o que se sabe do plano de Flávio e analisa com ajuda de economistas as diferenças e semelhanças nas realidades dos dois países.&lt;/p&gt; A política econômica de Milei &lt;p&gt;Milei chegou à presidência da Argentina em dezembro de 2023 após uma campanha baseada em promessas de corte de despesas, aposta na economia de mercado e redução radical do Estado. O plano foi chamado de “motosserra”, em uma referência à ideia de podar, por meio dos cortes, supostos privilégios da burocracia e de políticos no país, chamados por ele de “casta”.&lt;/p&gt; &lt;p&gt;A intermitente crise econômica impulsionou a campanha de Milei, que dizia também que iria dolarizar a economia argentina – promessa que não cumpriu.&lt;/p&gt; &lt;p&gt;Ao assumir a Casa Rosada, o político de extrema direita adotou um amplo programa de austeridade, que se baseou na redução de gastos públicos, na eliminação de subsídios e na desregulamentação. Ele também reduziu a fiscalização estatal sobre diversas normas, flexibilizou normas trabalhistas e eliminou políticas protecionistas, como cotas e impostos de importação.&lt;/p&gt; &lt;p&gt;O plano de Milei visava conter a inflação da Argentina, que vinha subindo desde os governos anteriores. A forte alta de preços tinha efeitos negativos sobre a população.&lt;/p&gt; &lt;p&gt;211,4%&lt;/p&gt; &lt;p&gt;foi a taxa de inflação anual registrada na Argentina em 2023, segundo o Indec (Instituto Nacional de Estatísticas e Censos) – a mais alta do mundo naquele ano&lt;/p&gt; &lt;p&gt;40,1%&lt;/p&gt; &lt;p&gt;foi a taxa de pobreza na Argentina no primeiro semestre de 2023, segundo o Indec. E 9,3% viviam em situação de indigência&lt;/p&gt; &lt;p&gt;A mensuração da pobreza na Argentina avalia se o rendimento dos domicílios é suficiente para custear a cesta básica total, que inclui gastos com alimentação, transporte, educação e saúde. No caso da pobreza extrema, ou indigência, compara-se o rendimento familiar ao valor suficiente para pagar ao menos uma cesta básica alimentar, que contém determinados nutrientes que cobrem um limiar mínimo de necessidades energéticas.&lt;/p&gt; &lt;p&gt;A inflação também prejudicava a atividade econômica, que registrou retração em 2023 – durante a maior parte do ano, o país era governado por Alberto Fernández, do campo da esquerda. Milei assumiu o poder num momento em que a taxa de desemprego era de 5,7%.&lt;/p&gt; &lt;p&gt;1,6%&lt;/p&gt; &lt;p&gt;foi a queda do PIB (Produto Interno Bruto) da Argentina em 2023. Em 2022, houve crescimento de 5,2%&lt;/p&gt; &lt;p&gt;Entre 2023 e 2026, o governo Milei implementou outras medidas de austeridade e corte, como o cancelamento do reajuste salarial de servidores e a extinção de cargos públicos. Também tem segurado o repasse dos recursos necessários para custear a educação.&lt;/p&gt; &lt;p&gt;As medidas continuam sendo implementadas, mesmo em um cenário de impopularidade de Milei. Na segunda-feira (19), por exemplo, o governo publicou um decreto com plano de demissão voluntária que pode alcançar até 21 mil servidores públicos.&lt;/p&gt; &lt;p&gt;O texto prevê o desligamento voluntário de funcionários perto da idade de se aposentar – entre 58 e 64 anos – ou que já tenham alcançado os requisitos para aposentadoria, com exceção dos militares e funcionários da segurança e inteligência. O documento diz que as vagas dos servidores que aderirem serão suprimidas de forma permanente.&lt;/p&gt; &lt;p&gt;77,5 mil&lt;/p&gt; &lt;p&gt;foi a quantidade de vagas eliminadas no serviço estatal argentino de dezembro de 2023, quando Milei assumiu, a agosto de 2026, segundo o Ministério da Desregulamentação e Transformação do Estado da Argentina&lt;/p&gt; Os efeitos da política da Milei &lt;p&gt;Os primeiros efeitos da política de Milei foram drásticos para a população argentina. O governo permitiu a desvalorização do peso frente ao dólar e liberou preços de serviços básicos que contavam com subvenções públicas antes de seu mandato. Num primeiro momento, a inflação subiu.&lt;/p&gt; &lt;p&gt;Os cortes nos subsídios à energia elétrica e aos transportes públicos, e a eliminação do controle de preços de aluguéis, medicamentos e produtos essenciais (como leite e açúcar) afetaram diretamente a população no curto prazo.&lt;/p&gt; &lt;p&gt;52,9%&lt;/p&gt; &lt;p&gt;foi a taxa de pobreza na Argentina em setembro de 2024, segundo Indec&lt;/p&gt; &lt;p&gt;Ao longo do tempo, com os cortes de despesas públicas, o fim da emissão de moeda para pagar gastos do governo e a estabilização do peso argentino, a inflação caiu – embora ainda permaneça em patamares elevados, se comparada com a realidade brasileira, por exemplo.&lt;/p&gt; &lt;p&gt;33,4%&lt;/p&gt; &lt;p&gt;é a inflação acumulada em 12 meses até setembro de 2026, segundo o Indec&lt;/p&gt; &lt;p&gt;A proporção de argentinos abaixo da linha da pobreza passou a cair na segunda metade de 2024, chegando a 28,2% no final de 2025. No entanto, voltou a crescer no primeiro semestre de 2026.&lt;/p&gt; &lt;p&gt;32,3%&lt;/p&gt; &lt;p&gt;foi a taxa de pobreza na Argentina no primeiro semestre de 2026, segundo o Indec&lt;/p&gt; &lt;p&gt;A taxa de indigência também vem crescendo: passou de 6,3% no segundo semestre de 2025 para 7,5% da população nos primeiros seis meses de 2026.&lt;/p&gt; &lt;p&gt;A taxa de desemprego aumentou para 7,9% no segundo trimestre de 2026 ante os 7,6% no mesmo período do ano anterior, de acordo com o Indec. Quase metade (45%) das vagas de trabalho no país são informais.&lt;/p&gt; &lt;media:content url=\"https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2026/10/argentina.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Bandeira da Argentina &lt;/media:title&gt; &lt;media:credit&gt; Tânia Rêgo / Agência Brasil &lt;/media:credit&gt; &lt;/media:content&gt; &lt;p&gt;A economia argentina cresceu 2% no segundo trimestre de 2026 em relação ao mesmo período de 2025, segundo o Indec. Mas os números não são necessariamente positivos. Na série histórica dessazonalizada — que retira efeitos sazonais, como acelerações ou quedas típicas de determinados momentos do ano —, o PIB registrou uma queda de 0,6% no segundo trimestre de 2026, em relação aos três meses anteriores.&lt;/p&gt; &lt;p&gt;Além disso, o consumo privado recuou 2,4%, o consumo público diminuiu 2,3% e os investimentos caíram 0,8%. Economistas avaliam que o país está próximo de uma recessão.&lt;/p&gt; O que Flávio propõe &lt;p&gt;O plano econômico de Flávio Bolsonaro se inspira diretamente na política de Milei – embora não especifique medidas e deixe diversas dúvidas sobre como será conduzida, como avaliaram economistas ao Nexo em setembro.&lt;/p&gt; &lt;p&gt;O programa fala sobre “tesouraço” nos gastos públicos, sobre reforma do Estado e sobre cortes de impostos, mas sem explicar como tudo será feito — e fazendo referências ao plano “motosserra” de Milei.&lt;/p&gt; &lt;p&gt;Uma das principais propostas do candidato do PL é o ajuste fiscal, mas ele e sua equipe têm adotado discursos contraditórios que geram incertezas sobre o plano, conforme apontaram economistas ao Nexo em outubro. Para empresários e agentes do mercado, a campanha diz que vai promover mudanças no cálculo de reajuste previdenciário e de benefícios sociais e nos pisos constitucionais de saúde e educação. Para a população em geral, nega que vai mexer em aposentadorias e no salário mínimo.&lt;/p&gt; &lt;p&gt;Daniella Marques, assessora econômica da campanha de Flávio, destacou no evento Esfera Brasil em 14 de setembro que o candidato do PL instruiu a equipe a revogar todas as normas instituídas pelo ex-ministro da Fazenda Fernando Haddad, usando a “inspiração no que foi feito no governo Milei na Argentina”. A economista acrescentou que “Milei é um ótimo exemplo”.&lt;/p&gt; Cenários distintos &lt;p&gt;Fabio Giambiagi, economista e pesquisador associado ao FGV-Ibre (Instituto Brasileiro de Economia da Fundação Getulio Vargas), afirmou que, entre a Argentina de 2023 e o Brasil de 2026, só há semelhanças na polarização ideológica. “Em termos econômicos, as situações são completamente diferentes”, disse ao Nexo.&lt;/p&gt; &lt;p&gt;Giambiagi citou, como exemplo, que a Argentina tinha cerca de 200% ao ano de inflação em 2023, enquanto a inflação brasileira fica abaixo de 5% ao ano atualmente.&lt;/p&gt; &lt;p&gt;4,58%&lt;/p&gt; &lt;p&gt;é a inflação acumulada em 12 meses terminados em setembro de 2026 no Brasil, segundo o IBGE (Instituto Brasileiro de Geografia e Estatística)&lt;/p&gt; &lt;p&gt;Ana Bottega, consultora do BID (Banco Interamericano de Desenvolvimento) e do PNUD (Programa das Nações Unidas para o Desenvolvimento), seguiu a mesma linha de raciocínio. “A Argentina realmente estava com uma crise econômica muito grande, com uma inflação descontrolada e não tinha reservas internacionais. E isso não acontece no Brasil”, afirmou ao Nexo.&lt;/p&gt; &lt;p&gt;“O Brasil tem crédito, tem reputação internacional e tem reservas exteriores muito grandes, que ajudam a dar um menor peso à dívida pública”, acrescentou Bottega.&lt;/p&gt; &lt;p&gt;Os dois economistas ouvidos pelo Nexo também disseram que o diagnóstico de Flávio sobre a economia brasileira — de que seria necessário aplicar por aqui a fórmula de Milei — não é adequado.&lt;/p&gt; &lt;p&gt;“De forma alguma faz sentido aplicar isso no Brasil, dado que o país não está numa situação grave, não está em crise econômica, não está com inflação descontrolada, não está com nenhum grande problema. Enfim, está recuperando a confiança externa, a confiança dos investidores estrangeiros”, afirmou Bottega.&lt;/p&gt; Os potenciais efeitos de uma política à la Milei &lt;p&gt;Giambiagi afirmou que Flávio Bolsonaro “está claramente muito mal informado sobre a Argentina”.&lt;/p&gt; &lt;p&gt;“Para ter uma ideia, o chamado carry-over estatístico – ou seja, o resultado do PIB supondo que o último dado dessazonalizado se mantenha até o final do ano – hoje dá um resultado negativo do PIB da Argentina em 2026 em relação a 2025”, disse. O carry-over estatístico, também chamado de herança estatística, é um fenômeno em que os resultados de um período influenciam o seguinte.&lt;/p&gt; &lt;p&gt;“Eu tenho certeza absoluta de que o Flávio Bolsonaro não tem a menor ideia disso. Porque senão não estaria pregando as virtudes do modelo argentino. Certamente, ele também não sabe que o investimento está caindo há vários trimestres [na Argentina], além de outros problemas do gênero”, afirmou Giambiagi.&lt;/p&gt; &lt;p&gt;O economista da FGV acrescentou que as propostas desencontradas do candidato do PL sobre ajuste fiscal vão na direção oposta ao que Milei fez. “Para ter uma ideia, o gasto público primário na Argentina em termos reais em 2024 em relação a 2023 caiu 27%”, afirmou Giambiagi. “Não há a menor possibilidade disso vir a ocorrer no Brasil.”&lt;/p&gt; &lt;p&gt;Bottega avaliou que a aplicação de uma política econômica ao estilo de Milei no Brasil representa um risco muito grande de aumento da pobreza. “Mesmo sem saber exatamente onde [Flávio Bolsonaro] quer cortar, um corte grande de gastos vai com certeza afetar quem depende mais do Estado, que são as pessoas mais pobres. Cortando os benefícios para essas pessoas, a pobreza vai aumentar”, afirmou.&lt;/p&gt; &lt;p&gt;Embora não fale publicamente sobre corte de benefícios, a campanha de Flávio já defendeu nos bastidores alterar o cálculo de reajuste de benefícios da Previdência, impedindo ganho real em relação à inflação.&lt;/p&gt; &lt;p&gt;“Temos muitas evidências de que as políticas sociais governamentais cumpriram e cumprem um papel muito importante na redução da pobreza”, acrescentou Bottega.&lt;/p&gt; &lt;p&gt;A economista ainda afirmou que ajustes fiscais costumam desacelerar a economia, o que pode, consequentemente, fazer os juros caírem — atualmente, a Selic, a taxa básica de juros, está em 13,75% ao ano. “Mas seria uma queda com um custo social muito alto, que não necessariamente vai beneficiar o país”.&lt;/p&gt; &lt;p&gt;Em texto publicado pelo Nexo em 17 de outubro, outros economistas também apontaram que um ajuste fiscal da magnitude ventilada pela campanha de Flávio — com cortes que chegam à casa dos R$ 200 bilhões — teria um efeito recessivo. Ou seja, poderia levar a uma contração na atividade econômica.&lt;/p&gt;",
+      "region": "global",
+      "published": "2026-10-22T15:14:37+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Celina Leão acusa governo Lula de querer acabar com o Fundo Constitucional do DF; entenda nova lei",
+      "link": "https://www.brasildefato.com.br/2026/10/23/celina-leao-acusa-governo-lula-de-querer-acabar-com-o-fundo-constitucional-do-df-entenda-nova-lei/",
+      "teaser": "A governadora e candidata à reeleição Celina Leão (PP) tem utilizado as atuais regras que regem o Fundo Constitucional do Distrito Federal (FCDF) para alavancar sua campanha política. Ela se reuniu com aliados nesta quarta-feira (21), na sede da Associação Brasiliense de Construtores (Asbraco), com o objetivo de articular planos para reverter a Lei Complementar [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-10-23T10:00:00+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Vik Muniz, sarau, jazz e teatro: confira opções culturais no Distrito Federal",
+      "link": "https://www.brasildefato.com.br/2026/10/23/vik-muniz-sarau-jazz-e-teatro-confira-opcoes-culturais-no-distrito-federal/",
+      "teaser": "Brasília recebe uma programação cultural que passa pelas artes visuais, pelo teatro, pela música, pela literatura e pela formação artística neste fim de semana. Entre os destaques está a chegada da exposição “Vik Muniz &#8211; A Olho Nu” ao Centro Cultural Banco do Brasil (CCBB Brasília), a partir de terça-feira (27), com entrada gratuita e [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-10-23T10:00:00+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Justiça condena dois ex-dirigentes do Iges-DF por esquema de corrupção",
+      "link": "https://www.brasildefato.com.br/2026/10/23/justica-condena-dois-ex-dirigentes-do-iges-df-por-esquema-de-corrupcao/",
+      "teaser": "A 8ª Vara Criminal do Tribunal de Justiça do Distrito Federal (TJDFT) condenou, na quarta-feira (21), dois ex-integrantes da alta cúpula do Instituto de Gestão Estratégica de Saúde do Distrito Federal (Iges-DF) por corrupção passiva, e o empresário Waldenes Barbosa, dono da empresa Salutar Alimentação Serviços Ltda, por corrupção ativa. Segundo a investigação, a dupla [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-10-23T09:00:00+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Das praças de Roma: estudantes e militantes contam por que se rebelam contra a guerra e o custo de vida",
+      "link": "https://www.brasildefato.com.br/2026/10/23/das-pracas-de-roma-estudantes-e-militantes-contam-por-que-se-rebelam-contra-a-guerra-e-o-custo-de-vida/",
+      "teaser": "Nos corredores de uma escola ocupada, nas assembleias dos centros sociais da periferia e nas passeatas que nas últimas semanas tomaram Roma, a pergunta é a mesma: quem paga a crise? A Itália vive seu outono mais quente em anos. Desde 16 de outubro, no “No Meloni Day”, estudantes secundaristas e universitários ocupam escolas e [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-10-23T09:00:00+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Ato em frente à Globo exige que debate tenha checagem de fatos não só nos sites, mas na TV",
+      "link": "https://www.brasildefato.com.br/2026/10/22/ato-em-frente-a-globo-exige-que-debate-tenha-checagem-de-fatos-nao-so-nos-sites-mas-na-tv/",
+      "teaser": "Durante cerca de três horas, manifestantes fizeram um ato em frente à sede da Rede Globo, no Jardim Botânico, no Rio de Janeiro (RJ), nesta quinta-feira (22), para exigir que a emissora realize a checagem de fatos em tempo real na televisão durante o debate entre os candidatos à Presidência da República marcado para sexta-feira [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-10-23T00:48:06+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Especialistas alertam para riscos da desinformação e orientam eleitores a consultar fontes oficiais no segundo turno",
+      "link": "https://www.brasildefato.com.br/2026/10/22/especialistas-alertam-para-riscos-da-desinformacao-e-orientam-eleitores-a-consultar-fontes-oficiais-no-segundo-turno/",
+      "teaser": "Além de verificar as orientações e informações práticas sobre a votação para o segundo turno, o eleitor brasileiro deve ter cuidado com conteúdos que circulam nas redes sociais e em aplicativos de mensagens. Na reta final da campanha que se encerra neste domingo (25), informações falsas ou fora de contexto podem confundir o eleitorado, especialmente [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-10-23T00:33:20+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "‘Quem não deve, não recorta’: Lula usa frase de Flávio Bolsonaro e pede que TSE requisite os sigilos",
+      "link": "https://www.brasildefato.com.br/2026/10/22/quem-nao-deve-nao-recorta-lula-usa-frase-de-flavio-bolsonaro-e-pede-que-tse-requisite-os-sigilos/",
+      "teaser": "A campanha do presidente Luiz Inácio Lula da Silva (PT) protocolou, na noite desta quinta-feira (22), uma nova petição no Tribunal Superior Eleitoral (TSE) em que pede que o próprio tribunal requisite os dados bancários, fiscais e telefônicos dos candidatos às fontes oficiais e os divulgue de forma simultânea. O documento responde à decisão do [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-10-23T00:28:49+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "‘O que não pode haver é alternância de regime’, diz Marina Silva em ato de frente ampla por Lula",
+      "link": "https://www.brasildefato.com.br/2026/10/22/o-que-nao-pode-haver-e-alternancia-de-regime-diz-marina-silva-em-ato-de-frente-ampla-por-lula/",
+      "teaser": "O vice-presidente Geraldo Alckmin (PSB) encerrou, na noite desta quinta-feira (22), o Ato de Frente Ampla pela Democracia e pela Soberania, na Casa de Portugal, no bairro da Liberdade, em São Paulo (SP). Organizado pelo Direitos Já! Fórum pela Democracia, o encontro reuniu lideranças do PSDB, do PSD e de outros partidos, além de intelectuais, [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-10-23T00:19:48+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Imprensa internacional repercute eliminação do Flamengo na Libertadores: 'Cenário inacreditável'",
+      "link": "https://oglobo.globo.com/esportes/futebol/flamengo/noticia/2026/10/23/imprensa-internacional-repercute-eliminacao-do-flamengo-na-libertadores-cenario-inacreditavel.ghtml",
+      "teaser": "A eliminação do Flamengo, ontem, na semifinal da Libertadores, foi assunto no mundo todo. Depois de perder para o Estudiantes, nos pênaltis, no Maracanã, o time rubro-negro ganhou destaque na imprensa francesa, espanhola e argentina. O jornal L´Équipe, por exemplo, chamou a partida de \"cenário inacreditável\" \"Cobranças de pênalti absurdas de Paquetá e Jorginho, Muslera defende três pênaltis: o cenário inacreditável que leva o Estudiantes à final da Copa Libertadores\", destacou o L'Équipe, da França. L'Équipe repercute eliminação do Flamengo na Libertadores Reprodução \"Muslera conquista o Maracanã\", escreveu o AS, da Espanha. AS repercute eliminação do Flamengo na Libertadores Reprodução \"O Estudiantes alcançou o ápice mais uma vez no Maracanã: uma noite eterna em busca do seu quinto título da Copa Libertadores\", escreveu o La Nacion, da Argentina. La Nacion repercute eliminação do Flamengo na Libertadores Reprodução",
+      "region": "global",
+      "published": "2026-10-23T11:02:23+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Brasileira com alergia a camarão morre após comer lula durante lua de mel em Portugal",
+      "link": "https://oglobo.globo.com/brasil/noticia/2026/10/23/brasileira-com-alergia-a-camarao-morre-apos-comer-lula-durante-lua-de-mel-em-portugal.ghtml",
+      "teaser": "A enfermeira brasiliense Amanda Marinho Nascimento, de 29 anos, morreu nesta quarta-feira (21), em Portugal, após apresentar uma reação alérgica depois de comer um pedaço de lula empanada durante a lua de mel. Casada havia 11 dias, ela estava em um restaurante de frutos do mar em Leiria com o marido, Tiago Nascimento. Amanda sabia que tinha alergia a camarão, mas não imaginava que poderia reagir a outros frutos do mar. Caso Beatriz Vitória: jovem suspeitava estar grávida antes de desaparecer; ex-namorado e atual companheira são presos Mexilhão-dourado: molusco invasor avança pela Amazônia mais rápido do que previam estudos e gera prejuízos ao setor elétrico; entenda Segundo o relato do marido, o alimento parecia peixe empanado. Após engolir um pedaço, Amanda sentiu um incômodo na garganta, que passou depois de beber água. Cerca de duas horas depois, enquanto o casal saía de uma livraria, ela começou a apresentar manchas e inchaço na pele, além de dificuldade para respirar. — A ambulância chegou e fez os primeiros socorros, mas, naquela unidade, não tinha o suporte necessário. Ela, então, precisou ser transferida para o Hospital Universitário de Coimbra, um pouco mais distante, e, infelizmente, não resistiu — contou Tiago ao Metropoles. Traslado do corpo Além da perda, o marido enfrentou dificuldades para custear o traslado do corpo ao Brasil. Segundo ele, o seguro de viagem contratado pelo casal previa reembolso, o que exigiria o pagamento antecipado dos custos, estimados em R$ 38 mil. Uma campanha de arrecadação foi organizada por familiares e amigos, e o valor necessário já foi obtido. A previsão era de que o corpo chegasse ao Brasil em cerca de sete dias. Moradores de Ceilândia, no Distrito Federal, Amanda e Tiago se casaram em 10 de outubro. O retorno ao Brasil estava previsto para esta sexta-feira (23). Os dois estavam juntos havia dez anos. — É muito difícil perdê-la justamente quando íamos começar uma nova história, agora como marido e mulher — lamentou o marido. Enfermeira de UTI Amanda trabalhava desde maio de 2025 na Unidade de Terapia Intensiva (UTI) do Hospital Mantevida Taguatinga, no Distrito Federal. Em nota, o Grupo Mantevida destacou o compromisso e a humanidade da profissional no cuidado com pacientes e familiares. O Conselho Regional de Enfermagem do Distrito Federal (Coren-DF) também manifestou pesar pela morte e solidariedade à família, aos amigos e aos colegas de trabalho.",
+      "region": "global",
+      "published": "2026-10-23T11:02:13+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Mudanças no Reviver Centro vão alterar bônus para construções na Zona Sul do Rio; entenda",
+      "link": "https://oglobo.globo.com/rio/noticia/2026/10/23/mudancas-no-reviver-centro-vao-alterar-bonus-para-construcoes-na-zona-sul-do-rio-entenda.ghtml",
+      "teaser": "Mudanças à vista nas regras do Reviver Centro, programa que oferece uma série de benefícios a investidores que constroem ou adaptam (retrofit) prédios para moradia em regiões como Cinelândia e Castelo. A partir de 2 de dezembro, será revisada a concessão de uma espécie de bônus urbanístico previsto na chamada Operação Interligada. Pelo mecanismo atual, em vigor desde 2021, quem licencia um empreendimento residencial no Centro ganha o direito de construir a mesma metragem nas zonas Sul e Norte, em desacordo com as regras de zoneamento dessas áreas. A medida foi criada pela prefeitura para atrair moradores para o bairro, que sofria com o esvaziamento durante a pandemia de Covid-19. 'Zona Sul é um foco', diz delegado sobre quadrilha ligada ao CV especializada em roubos; chefe morreu em perseguição policial Câmeras corporais de policiais: estudo indica que, no Rio, em 74,4% de casos de solicitação de imagens há ausência ou indisponibilidade de registros Um dos objetivos da alteração é desestimular a construção de novos estúdios na Zona Sul. Embora o bônus do Reviver Centro também possa ser usado em toda a Zona Norte, a maioria dos 31 projetos que receberam o benefício — totalizando 1.805 unidades — é de pequenos apartamentos em Ipanema, Copacabana e na Lagoa. O mercado imobiliário contesta as mudanças e defende a ampliação do prazo. Até agora, dos 300 mil metros quadrados que podem ser distribuídos entre projetos em outras áreas da cidade como contrapartida de obras realizadas no Centro, apenas metade foi negociada, segundo o relatório mais recente do Reviver Centro, divulgado em setembro. Isso significa que construtores podem perder a oportunidade de erguer empreendimentos em 150 mil metros quadrados com regras urbanísticas mais flexíveis, sobretudo na Zona Sul, área mais cobiçada pelo setor. Suspeito morto em perseguição em Botafogo tinha 27 passagens pela polícia; carro passou por seis bairros em 1h22 Mais tempo depende de lei A perda pode ser ainda maior, já que essa conta não inclui as metragens de bonificação vinculadas a 40 projetos, com 1.662 unidades, protocolados até 30 de junho e ainda em análise pela Secretaria municipal de Desenvolvimento Urbano. Procurada, a prefeitura não havia respondido se pretende estender o prazo. A prorrogação deverá exigir a aprovação de um projeto de lei na Câmara Municipal. — A prefeitura pode mudar a legislação. Mas o mercado entende que as regras antigas têm que valer para todos os projetos já licenciados ou protocolados. Até 1º de dezembro, nem todas as contrapartidas podem ter sido fechadas. O tempo médio para um negócio imobiliário do gênero ser viabilizado é de 5,2 anos, incluindo a escolha do parceiro que vai adquirir esses bônus. Muitos empreendimentos licenciados no Centro a partir de 2021 estão sendo viabilizados só agora — argumenta o presidente do Sindicato da Indústria da Construção Civil (Sinduscon), Claudio Hermolin. Uma das principais alterações será o fim da concessão de bônus para novas construções no Centro. A contrapartida será permitida apenas para quem converter imóveis comerciais em residenciais. Mesmo nesses casos, a metragem que poderá ser transferida para as zonas Norte e Sul será reduzida. Com as novas regras, quem fizer a adaptação de um prédio de estúdios de mil metros quadrados no Centro poderá construir apenas 200m² na Zona Sul. Na Tijuca, o limite será de 600m². Oposição a Ruas começa a se organizar na Alerj, mas tamanho dependerá da eleição de Lula ou Flávio Bolsonaro Para Fernando Costa, vice-presidente da Associação de Dirigentes do Mercado Imobiliário (Ademi), restringir os incentivos a projetos de retrofit não faz sentido. — As construtoras já perceberam que geralmente sai mais barato erguer um novo prédio no lugar de retrofitar o que já existe naquele mesmo espaço. O presidente da Comissão de Assuntos Urbanos da Câmara Municipal, Pedro Duarte (PSD), disse que tem acompanhado as discussões no mercado imobiliário. Caso a prefeitura não encaminhe uma nova proposta, os vereadores poderão apresentar um texto alternativo. — A prefeitura ainda está muito envolvida com o calendário eleitoral. Vamos esperar até a próxima semana para decidir o que fazer. Mas o ideal é que a iniciativa parta do governo — disse. As mudanças no Reviver Centro estão previstas na lei aprovada em maio, que criou o Praça Onze Maravilha, programa de revitalização do Catumbi e da Cidade Nova. Quem é Fábio Silva: Vereador do Rio foi preso pela PF apontado como dono de provedores ligados ao CV Tire dúvidas sobre as mudanças Qual é a regra do Reviver hoje? O investidor que erguer ou reformar (retrofit) residenciais no Centro tem direito a construir a mesma metragem nas zonas Sul e Norte (áreas receptoras) com regras urbanísticas mais flexíveis. Esse bônus é válido para os empreendimentos no Centro com o pedido de licença feito até 30 de junho e indicação da contrapartida correspondente realizada até o próximo dia 1º de dezembro. O que muda a partir de dezembro? O bônus urbanístico só será aplicável nos casos de retrofit no Centro, e a metragem correspondente passará a variar de acordo com o tamanho do imóvel reformado e a área receptora. Qual é o bônus para reforma de unidades com mais de 50m? Cai de 100% para 40% na Zona Sul. Ou seja, a cada 100m² retrofitados no Centro, poderão ser licenciados 40m² em Copacabana, Ipanema, Flamengo, Lagoa e outros bairros da região. Em compensação, o bônus sobe para 120% na Tijuca, na Praça da Bandeira e no Rio Comprido. No demais bairros da Zona Norte, pode chegar a 240%. O bônus muda quando a reforma for de residenciais com menos de 50m ? Sim. Na Zona Sul, o potencial construtivo cairá para apenas 20% (hoje é de 100%). Na Tijuca, na Praça da Bandeira e no Rio Comprido, o bônus será de 60%, mas dobra no restante da Zona Norte.",
+      "region": "global",
+      "published": "2026-10-23T11:00:01+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Tour do Maracanã, que recebe visitantes do mundo todo, é sob nova direção",
+      "link": "https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/10/tour-do-maracana-que-recebe-visitantes-do-mundo-todo-e-sob-nova-direcao.ghtml",
+      "teaser": "O Viva Maracanã, a partir deste mês, assume a operação do Tour do Maracanã, experiência que permite conhecer o principal palco do futebol mundial e atrai turistas do Brasil e do mundo. A visita, como se sabe, percorre espaços icônicos do Maracanã, como a zona mista, os vestiários e o túnel de acesso e o campo, aproximando o público dos bastidores e das histórias que o tornam um local único. O visitante também pode viver experiências interativas, como fotos temáticas, registros com drone, o desafio de chute a gol e um vídeo com IA que coloca o visitante em atuação no gramado do estádio – uma lembrança única da visita ao maior palco do futebol. O Viva Maracanã, que assume toda operação do serviço do tour, é uma empresa que pertence ao Grupo Viva, holding criada por Grupo Águia e KLEFER para gestão de equipamentos turísticos. Mais informações sobre as experiências e a operação do tour serão divulgadas em breve.",
+      "region": "global",
+      "published": "2026-10-23T11:00:00+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Receita Federal abre consulta a lote residual de restituição do IRPF 2026 nesta sexta-feira",
+      "link": "https://oglobo.globo.com/economia/imposto-de-renda/noticia/2026/10/23/receita-federal-abre-consulta-a-lote-residual-de-restituicao-do-irpf-2026-nesta-sexta-feira.ghtml",
+      "teaser": "A Receita Federal abre logo mais, às 9h desta sexta-feira, a consulta ao lote residual de restituição do Imposto de Renda Pessoa Física (IRPF) de outubro de 2026. O lote reúne 184.442 restituições, que somam R$ 531,6 milhões, com pagamento previsto para a próxima sexta-feira, dia 30. Esse lote contempla restituições de declarações 2026 transmitidas fora do prazo e com pendências solucionadas pelos contribuintes, além de restituições residuais de exercícios anteriores. O valor da restituição será depositado ao longo do dia 30. Do total, R$ 293.431.549,64 serão destinados a contribuintes com prioridade legal, distribuídos da seguinte forma: Idosos acima de 80 anos: 5.424 restituições Idosos entre 60 e 79 anos: 27.948 restituições Pessoas com deficiência física, mental ou moléstia grave: 4.047 restituições Contribuintes que tem o magistério como maior fonte de renda: 8.827 restituições Além disso, informa a Receita, 121.531 restituições serão destinadas a contribuintes que não possuem prioridade legal, mas receberam prioridade por terem utilizado a Declaração Pré-Preenchida e/ou optado por receber via PIX e ainda 16.665 restituições destinadas a contribuintes não prioritários. Como consultar a restituição? Para verificar se a restituição está disponível, o contribuinte deve acessar o site da Receita Federal, clicar em “Meu Imposto de Renda” e, depois, em “Consultar minha restituição”. Quem encontrar alguma pendência pode consultar o extrato da declaração no Centro Virtual de Atendimento ao Contribuinte (e-CAC). Se necessário, é possível enviar uma declaração retificadora para corrigir as informações. Reagendamento do pagamento A Receita Federal informou que o pagamento é feito somente em conta bancária de titularidade do contribuinte que enviou a declaração. Dessa forma, se houver erro nos dados bancários ou algum problema na conta destino indicada, não haverá pagamento. Nesses casos, o contribuinte poderá reagendar o pagamento pelo portal do Banco do Brasil. O contribuinte também pode ser reagendado pela Central de Relacionamento BB: 4004-0001 (capitais) 0800-729-0001 (demais localidades) 0800-729-0088 (deficientes auditivos). Para solicitar o reagendamento, o contribuinte deverá informar o valor da restituição e o número do recibo da declaração. Após o reagendamento, basta aguardar nova tentativa de crédito. Caso o contribuinte não resgate o dinheiro em até um ano, deverá fazer o pedido pelo e-CAC, acessando “Declarações e Demonstrativos”, “Meu Imposto de Renda” e “Solicitar restituição não resgatada na rede bancária”.",
+      "region": "global",
+      "published": "2026-10-23T10:58:53+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Quadro de Monet se torna obra de arte mais cara já vendida na França",
+      "link": "https://oglobo.globo.com/cultura/artes-visuais/noticia/2026/10/23/quadro-de-monet-se-torna-obra-de-arte-mais-cara-ja-vendida-na-franca.ghtml",
+      "teaser": "O quadro \"Íris\", pintado por Claude Monet no fim de sua vida, foi arrematado nesta quinta-feira (22) por 50 milhões de euros (R$ 282,5 milhões), em Paris, e se tornou a obra de arte mais cara já vendida na França. Foram cerca de 45 minutos de disputa entre compradores por telefone, em um leilão organizado pela Sotheby's. A tela do mestre do impressionismo estava sendo apresentada ao público pela primeira vez, como parte da venda de uma coleção da família Schlumberger. O quadro, de 1,60 m x 1,80 m, nunca havia deixado a mansão da família em Paris, e era conhecido apenas por meio de uma fotografia em preto e branco. A obra foi adquirida no passado pela colecionadora de arte Jeanne Schlumberger (1889-1983), diretamente da família do pintor, informou Thomas Bompard, diretor do departamento de Arte Moderna e Contemporânea da Sotheby’s França. Íris, uma pintura que Monet criou em sua casa, em Giverny, era avaliado entre 22 milhões e 30 milhões de euros (entre 130 milhões e 178 milhões de reais), \"a maior estimativa já atribuída a uma pintura oferecida em leilão na França\", destacou a Sotheby's na semana passada. Outras três obras de Monet foram vendidas hoje em leilões organizados pela casa, entre elas \"Salgueiro-Chorão\", vendida por 9,6 milhões de euros (R$ 54,26 milhões), e \"O Sena em Vernon\", por 4,2 milhões (R$ 23,74 milhões).",
+      "region": "global",
+      "published": "2026-10-23T10:58:43+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Nota 10: a história de Heitor em 'Quem ama cuida'",
+      "link": "https://oglobo.globo.com/play/novelas/noticia/2026/10/23/nota-10-a-historia-de-heitor-em-quem-ama-cuida.ghtml",
+      "teaser": "Para a história de Heitor em “Quem ama cuida”. Os autores fugiram daquele clichê do sumiço causado por amnésia e mostram o rapaz com culpa, tentando se redimir após ter tomado uma decisão consciente. O personagem foi bem inserido na trama e causa reviravoltas interessantes.",
+      "region": "global",
+      "published": "2026-10-23T10:51:52+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Nota 0: o excesso de reprises de 'Brasil visto de cima' e 'Mundo visto de cima'",
+      "link": "https://oglobo.globo.com/play/noticia/2026/10/23/nota-0-o-excesso-de-reprises-de-brasil-visto-de-cima-e-mundo-visto-de-cima.ghtml",
+      "teaser": "Para o excesso de reprises de “Brasil visto de cima” e “Mundo visto de cima”. As duas atrações são boas, mas seus episódios se repetem à exaustão há vários anos. Ontem, enquanto um programa estava no ar na TV Brasil, o outro era exibido no canal Modo Viagem.",
+      "region": "global",
+      "published": "2026-10-23T10:49:55+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Meghan Markle se diz profundamente abalada por acusações contra o pai",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/meghan-markle-se-diz-profundamente-abalada-por-acusacoes-contra-o-pai.shtml",
+      "teaser": "Meghan Markle , 45, afirmou estar profundamente abalada pelas acusações de que seu pai, Thomas Markle , 82, teria mantido imagens de abuso sexual infantil. Leia mais (10/23/2026 - 08h18)",
+      "region": "global",
+      "published": "2026-10-23T11:18:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Com adiamentos, investidores de IA ficam restritos à IPO da Anthropic",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/com-adiamentos-investidores-de-ia-ficam-restritos-a-ipo-da-anthropic.shtml",
+      "teaser": "O calendário de IPOs (ofertas públicas iniciais de ações) do setor de tecnologia , que antes era bastante robusto, agora se resume apenas à Anthropic . Leia mais (10/23/2026 - 08h06)",
+      "region": "global",
+      "published": "2026-10-23T11:06:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Uma nova lei torna São Paulo mais sustentável",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/10/uma-nova-lei-torna-sao-paulo-mais-sustentavel.shtml",
+      "teaser": "São Paulo é uma cidade de enorme importância para o Brasil pela sua força econômica, cultural e pela diversidade de sua população, mas também expõe contradições profundas da nossa sociedade. Ao lado da riqueza e das oportunidades, convivem a fome, a precariedade habitacional e as desigualdades no acesso à educação, à saúde e aos serviços essenciais. Leia mais (10/23/2026 - 08h00)",
+      "region": "global",
+      "published": "2026-10-23T11:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Delegado demitido sob acusação de tortura e 'rinha de presos' é eleito deputado federal pelo PL",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/delegado-demitido-sob-acusacao-de-tortura-e-rinha-de-presos-e-eleito-deputado-federal-pelo-pl.shtml",
+      "teaser": "Um delegado de polícia que chegou a ser demitido do cargo e denunciado à Justiça sob a acusação de torturar presos, colocá-los para brigar e cobrar ingresso e de obrigá-los a construir uma academia para a empresa de sua família foi eleito deputado federal pelo PL de Roraima. Leia mais (10/23/2026 - 08h00)",
+      "region": "global",
+      "published": "2026-10-23T11:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Antes de virar símbolo do Halloween, ser bruxa era uma acusação que podia levar à morte",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/10/antes-de-virar-simbolo-do-halloween-ser-bruxa-era-uma-acusacao-que-podia-levar-a-morte.shtml",
+      "teaser": "Quando você pensa em bruxa, a primeira imagem que vem à cabeça é a daquela mulher com um chapéu pontudo, sentada em sua vassoura voadora, dando uma risada maligna e lançando feitiços com sua varinha. Mas você sabia que as bruxas que conhecemos dos contos de fadas são bem diferentes das mulheres que, no passado, receberam esse título ? Leia mais (10/23/2026 - 08h00)",
+      "region": "global",
+      "published": "2026-10-23T11:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "João Silvério Trevisan será homenageado no Festival MixBrasil",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/joao-silverio-trevisan-sera-homenageado-no-festival-mixbrasil.shtml",
+      "teaser": "O escritor, cineasta e dramaturgo João Silvério Trevisan , 82, receberá o Prêmio Ícone Mix Brasil na 34ª edição do Festival MixBrasil, que será realizada de 11 a 22 de novembro, em São Paulo. Leia mais (10/23/2026 - 08h00)",
+      "region": "global",
+      "published": "2026-10-23T11:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Morricone e Nino Rota ganham releituras em concerto gratuito no MIS",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musica-em-letras/2026/10/morricone-e-nino-rota-ganham-releituras-em-concerto-gratuito-no-mis.shtml",
+      "teaser": "Créditos de abertura Leia mais (10/23/2026 - 08h00)",
+      "region": "global",
+      "published": "2026-10-23T11:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Petróleo volta a subir e ultrapassa US$ 114 pela primeira vez desde maio",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/petroleo-volta-a-subir-e-ultrapassa-us-114-pela-primeira-vez-desde-maio.shtml",
+      "teaser": "O preço do petróleo superou os US$ 114 por barril pela primeira vez desde maio nesta sexta-feira (23), pressionando os mercados globais, que já vinham sofrendo com uma forte liquidação das ações das gigantes de tecnologia durante a noite de quinta-feira (22) em Wall Street. Leia mais (10/23/2026 - 07h40)",
+      "region": "global",
+      "published": "2026-10-23T10:40:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Sri Lanka: Death of iconic elephant raises habitat concerns",
+      "link": "https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-all-1573-rdf",
+      "teaser": "The death of what was thought to be Sri Lanka’s largest elephant has drawn attention to human-elephant conflict in rural communities. The island country sees a high number of deadly encounters.",
+      "region": "global",
+      "published": "2026-10-23T09:29:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
+      "link": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Greece has passed legislation banning social media access for children under 15. New rules will come into effect on January 1, 2027, and are designed to protect children's mental health.",
+      "region": "global",
+      "published": "2026-10-23T09:04:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Germany news: Wadephul says 'threat of famine' due to ongoing wars",
+      "link": "https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-all-1573-rdf",
+      "teaser": "German Foreign Minister Johann Wadephul is joining counterparts in Turkey for discussions on a range of interlinked geopolitical crises. Back in Germany, the Bavarian CSU party begins its two-day conference in Munich.",
+      "region": "global",
+      "published": "2026-10-23T08:48:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Israel preparing 'full closure' of West Bank, Netanyahu says",
+      "link": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Prime Minister Benjamin Netanyahu said Israel is shutting down the occupied West Bank after having prevented a \"major attack.\"",
+      "region": "global",
+      "published": "2026-10-23T08:25:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "South Korea proposes military talks with North again",
+      "link": "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf",
+      "teaser": "South Korea is attempting to mutually determine the land border with North Korea amid military incidents and escalating tensions.",
+      "region": "global",
+      "published": "2026-10-23T07:50:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Germany sit out FIFA Under-15 World Cup as Russia return",
+      "link": "https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Germany is one a handful of FIFA's 211 nations to refuse an invitation to play at the inaugural Under-15 World Cup. The tournament will also mark Russia's return to the FIFA fold.",
+      "region": "global",
+      "published": "2026-10-23T07:17:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
+      "link": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf",
+      "teaser": "One person has died and thousands have been evacuated as Taiwan prepares for a possible direct hit. Though no longer a \"super\" typhoon, Champi is still packing winds of nearly 200 kmh and will bring torrential rain.",
+      "region": "global",
+      "published": "2026-10-23T06:40:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Musk's Starshield system 'back' in Ukraine, says Trump",
+      "link": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf",
+      "teaser": "US President Trump has said he wouldn't comment on who called for capping Ukraine's Starshield access but added that Elon Musk had \"put it back.\" His account was rejected by Ukraine, which says nothing has changed.",
+      "region": "global",
+      "published": "2026-10-23T05:37:00+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Mit Wirtschaftsförderung: Investitionen im Blick: Ministerin reist nach Japan",
+      "link": "https://www.tagesspiegel.de/berlin/dpa-mit-wirtschaftsforderung-investitionen-im-blick-ministerin-reist-nach-japan-16193338.html",
+      "teaser": "Brandenburg will sich gegenüber ausländischen Investoren offen zeigen. Die Wirtschaftsministerin reist nun nach Japan. Ihr Ziel: Neue Investoren werben.",
+      "region": "berlin",
+      "published": "2026-10-23T11:15:21+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "DEU: Berlin soll Bundesstützpunkt fürs Eiskunstlaufen bleiben",
+      "link": "https://www.tagesspiegel.de/berlin/dpa-deu-berlin-soll-bundesstutzpunkt-furs-eiskunstlaufen-bleiben-16193266.html",
+      "teaser": "Gute Nachrichten für den Eiskunstlauf in Berlin: Der Bundesstützpunkt bleibt vorerst bis Ende 2030 anerkannt. Davon profitieren auch die deutschen Top-Paare auf ihrem Weg zu Olympia.",
+      "region": "berlin",
+      "published": "2026-10-23T11:08:13+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Fuhrpark: Mehr als 100 neue Streifenwagen für die Polizei",
+      "link": "https://www.tagesspiegel.de/berlin/dpa-fuhrpark-mehr-als-100-neue-streifenwagen-fur-die-polizei-16193186.html",
+      "teaser": "Polizisten legen teilweise im Dienstwagen jährlich tausende Kilometer zurück. Nun wurden zahlreiche neue Streifenwagen angeschafft.",
+      "region": "berlin",
+      "published": "2026-10-23T11:01:50+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Dokument für Einbürgerung: Ermittler decken Betrug mit Sprachzertifikaten auf",
+      "link": "https://www.tagesspiegel.de/politik/dpa-dokument-fur-einburgerung-ermittler-decken-betrug-mit-sprachzertifikaten-auf-16193038.html",
+      "teaser": "Wer in Deutschland eingebürgert werden möchte, braucht ein Sprachzertifikat. Das machten sich mutmaßliche Betrüger zunutze - bis die Ermittler ihnen auf die Spur kamen.",
+      "region": "berlin",
+      "published": "2026-10-23T10:52:20+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Botho Strauß und sein Buch „Bleiben und Blicken“: Die Kobolde des Todes erheitern ihn nur",
+      "link": "https://www.tagesspiegel.de/kultur/botho-strauss-und-sein-buch-bleiben-und-blicken-die-kobolde-des-todes-erheitern-ihn-nur-16190235.html",
+      "teaser": "Das Abseits als sicherer Ort, der Vergangenheit poetisch dicht auf den Fersen: Botho Strauß hat mit „Bleiben und Blicken“ ein sehr persönliches Buch geschrieben.",
+      "region": "berlin",
+      "published": "2026-10-23T10:51:42+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Energieversorgung: Reiche will Raffinerien in Deutschland langfristig sichern",
+      "link": "https://www.tagesspiegel.de/wirtschaft/dpa-energieversorgung-reiche-will-raffinerien-in-deutschland-langfristig-sichern-16193015.html",
+      "teaser": "Die Energiebranche sieht die Raffinerien in Deutschland unter hohem Wettbewerbsdruck. Dazu kommt der teure Umbau zu klimafreundlicheren Prozessen. Die Bundesregierung arbeitet an einer Strategie.",
+      "region": "berlin",
+      "published": "2026-10-23T10:50:51+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "In der fremden Welt einer Sexmesse: Geklonte Glieder und feministische Dominas",
+      "link": "https://www.tagesspiegel.de/gesellschaft/in-der-fremden-welt-einer-sexmesse-geklonte-glieder-und-feministische-dominas-16191824.html",
+      "teaser": "Unsere Autorin wuchs zu Zeiten auf, in denen es peinlich war, auch nur in der Nähe eines Sex-Shops zu sein. Jetzt war sie zum ersten Mal auf der Venus – und hat allzu Menschliches gesehen. Zehn überraschende Erkenntnisse.",
+      "region": "berlin",
+      "published": "2026-10-23T10:41:14+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Katharina Thalbach, Corinna Harfouch und weitere: Prominente stellen sich gegen Anti-Vergesellschaftungsgesetz der Bundesregierung",
+      "link": "https://www.tagesspiegel.de/berlin/katharina-thalbach-corinna-harfouch-und-weitere-prominente-stellen-sich-gegen-anti-vergesellschaftungsgesetz-der-bundesregierung-16192726.html",
+      "teaser": "Der Bund will die Vergesellschaftung von Wohnungsbeständen verhindern. In einem offenen Brief sprechen sich über 200 Menschen gegen das geplante Sperrgesetz aus. Darunter sind viele prominente Unterzeichner.",
+      "region": "berlin",
+      "published": "2026-10-23T10:37:34+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Für Hase/Volodin und Co: Berlin bleibt Eiskunstlauf-Stützpunkt",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/10/eiskunstlauf-deu-bundesstuetzpunkt-berlin-olympia-2030.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-10-23T11:02:00+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Brandenburger Polizei bekommt 115 neue Dienstwagen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburger-polizei-bekommt-neue-dienstwagen.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-10-23T10:59:04+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Mutmaßlicher Russland-Spion kommt in U-Haft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-festnahme-mutmasslicher-spion-russland.html",
+      "teaser": "In Eisenhüttenstadt wurde am Donnerstag ein Ukrainer festgenommen, der mutmaßlich für Russland militärische Informationen gesammelt haben soll. Es ist nicht der erste Spion, der in diesem Jahr in Berlin und Brandenburg verhaftet wurde. Er ist nun in Untersuchungshaft.",
+      "region": "berlin",
+      "published": "2026-10-23T10:33:45+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Jugendgewalt: Fünf Potsdamer Tatverdächtige in U-Haft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-potsdam-cottbus-jugend-gewalt-untersuchungshaft.html",
+      "teaser": "Nach Fällen schwerer Jugendgewalt in Potsdam und Frankfurt (Oder) sind insgesamt 35 Tatverdächtige identifiziert worden. Fünf von ihnen sitzen derzeit in Untersuchungshaft. Der Potsdamer SPD-Politiker Reimann forderte, die Jugendhilfe miteinzubeziehen.",
+      "region": "berlin",
+      "published": "2026-10-23T09:54:20+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "B167 zwischen A24 und Ortseingang Neuruppin bis Montag gesperrt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-neuruppin-b167-vollsperrung.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-10-23T09:52:21+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Bundeskanzler Merz besucht Chip-Forscher in Frankfurt (Oder)",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/frankfurt-oder-bundeskanzler-merz-besuch-chip-forschung.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-10-23T09:51:35+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Emirates fliegt vorerst doch nicht zwischen Berlin und Dubai",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/flughafen-ber-keine-langstreckenverbindung-berlin-dubai.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-10-23T09:19:12+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Radon: Brandenburg sucht Freiwillige für Messungen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-sucht-freiwillige-fuer-radon-messungen.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-10-23T09:13:46+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Gegen alle drei Bundesliga-Absteiger ungeschlagen? Energie Cottbus fordert Heidenheim",
+      "link": "https://www.berliner-zeitung.de/article/energie-cottbus-heidenheim-bundesliga-absteiger-10522687",
+      "teaser": "Acht Spieler fehlten, doch Energie Cottbus will in Heidenheim nachlegen. Mit einem Punkt wäre der Aufsteiger gegen alle drei Absteiger ungeschlagen.",
+      "region": "berlin",
+      "published": "2026-10-23T11:00:40+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Berliner Taxis am BER droht das Aus: Was das für die Fahrgäste bedeutet",
+      "link": "https://www.berliner-zeitung.de/article/berliner-taxis-am-ber-droht-das-aus-was-das-fuer-die-fahrgaeste-bedeutet-10523244",
+      "teaser": "Der Landkreis Dahme-Spreewald hat die Vereinbarung mit Berlin zum Jahresende gekündigt. Ein Vielflieger berichtet von Umwegen und überhöhten Preisen. Ein Experte gibt Tipps.",
+      "region": "berlin",
+      "published": "2026-10-23T10:26:12+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Vollmond am 26. Oktober: Für vier Sternzeichen könnte sich jetzt alles ändern",
+      "link": "https://www.berliner-zeitung.de/article/vollmond-am-26-oktober-fuer-vier-sternzeichen-koennte-sich-jetzt-alles-aendern-10523618",
+      "teaser": "Der Jägermond im Oktober bringt alte Gefühle zurück und stellt Beziehungen auf die Probe. Besonders vier Sternzeichen sind betroffen.",
+      "region": "berlin",
+      "published": "2026-10-23T10:14:03+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "100 Milliarden Ukraine-Hilfe im Vergleich: So viel gab Deutschland für den Golfkrieg, die Eurokrise oder Corona aus",
+      "link": "https://www.berliner-zeitung.de/article/100-milliarden-ukraine-hilfe-im-vergleich-so-viel-gab-deutschland-fuer-den-golfkrieg-die-eurokrise-oder-corona-aus-10520697",
+      "teaser": "Die zwölfstellige Summe klingt nach einem historischen Kraftakt. Pro Jahr gibt Deutschland gemessen am BIP aber weniger aus als einst für den Golfkrieg.",
+      "region": "berlin",
+      "published": "2026-10-23T09:58:43+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Und auf Erden Dschingis Khan: Die große Ausstellung auf der Berliner Museumsinsel",
+      "link": "https://www.berliner-zeitung.de/article/dschingis-khan-und-die-welt-der-mongolen-museumsinsel-berlin-james-simon-galerie-kritik-10514166",
+      "teaser": "Für die einen ist der reitende Eroberer ein Nationalheld, für die anderen ein Massenmörder. Der Mongolenfürst und sein Weltreich sind jetzt auf der Berliner Museumsinsel zu bewerten.",
+      "region": "berlin",
+      "published": "2026-10-23T09:44:25+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Amy Winehouse: Was die unveröffentlichten Demos von „Back to Black“ verraten",
+      "link": "https://www.berliner-zeitung.de/article/amy-winehouse-was-die-unveroeffentlichten-demos-von-back-to-black-verraten-10523215",
+      "teaser": "Vor 20 Jahren veröffentlichte Amy Winehouse ihr Album „Back to Black“. Nun erscheint eine Jubiläumsausgabe mit unveröffentlichten Demos und einem Konzertmitschnitt.",
+      "region": "berlin",
+      "published": "2026-10-23T09:42:45+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "„Müssen uns zum Glück zwingen“: Rapper Ski Aggu verbietet Handys bei seinen Shows",
+      "link": "https://www.berliner-zeitung.de/article/muessen-uns-zum-glueck-zwingen-rapper-ski-aggu-verbietet-handys-bei-seinen-shows-10522810",
+      "teaser": "Soziale Medien und Smartphones haben Ski Aggu groß gemacht. Für seine nächste Tour kündigt der Berliner Rapper nun jedoch ein Handyverbot an. Was steckt dahinter?",
+      "region": "berlin",
+      "published": "2026-10-23T09:00:08+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Nord Stream im Ukraine-Deal: The Economist enthüllt, was die USA Russland anbieten",
+      "link": "https://www.berliner-zeitung.de/article/nord-stream-im-ukraine-deal-economist-enthuellt-was-die-usa-russland-anbieten-10523054",
+      "teaser": "Die USA stellen Russland laut Bericht neue Gasgeschäfte mit Europa in Aussicht – über Deutschlands Kopf hinweg. Kiew fürchtet Deals vor einem Kriegsende.",
+      "region": "berlin",
+      "published": "2026-10-23T08:53:59+00:00"
+    }
+  ]
+}

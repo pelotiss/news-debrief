@@ -1,0 +1,886 @@
+{
+  "date": "2026-11-09",
+  "digest_markdown": "## Berlín\n\nNo hay disrupciones de tránsito o transporte reportadas hoy que afecten tu commute.\n\nEn cuanto a regulaciones: [Berlin registra operaciones contra la criminalidad armada](https://www.tagesspiegel.de/gesellschaft/panorama/dpa-schusswaffenkriminalitat-grosseinsatz-in-berlin-durchsuchung-auch-bei-hells-angels-16264852.html), con redadas que incluyen al Vereinsheim de los Hells Angels, como parte de esfuerzos de una unidad especial creada hace un año.\n\n## Mundo\n\n**Estados Unidos / Política doméstica**\n\n[Un congresista republicano inició un proceso de destitución contra el secretario de Defensa Pete Hegseth](https://elpais.com/us/2026-11-09/un-congresista-presenta-los-articulos-de-destitucion-contra-el-secretario-de-defensa-pete-hegseth.html), según [DW](https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323), acusándolo de guerras sin aprobación del Congreso. Este es el primer proceso contra un funcionario de la administración Trump tras su derrota electoral.\n\n[Un movimiento llamado \"Listos para AOC\" busca empujar a Alexandria Ocasio-Cortez hacia la presidencia](https://elpais.com/us/2026-11-09/listos-para-aoc-nace-el-movimiento-que-empuja-a-alexandria-ocasio-cortez-a-postularse-a-la-presidencia-de-estados-unidos.html).\n\n**Estados Unidos / Política ambiental y fronteriza**\n\n[El Tribunal Supremo permitió la construcción del muro fronterizo en el parque natural de Big Bend, Texas](https://elpais.com/us/2026-11-09/el-tribunal-supremo-permite-la-construccion-del-muro-fronterizo-en-el-parque-natural-de-big-bend-en-texas.html), permitiendo que la administración Trump retome las obras del proyecto.\n\n**Estados Unidos / Política exterior**\n\n[Trump señala que la guerra contra Irán está militarmente \"efectivamente terminada\"](https://www.tagesspiegel.de/internationales/dpa-nach-den-midterms-trump-iran-krieg-ist-militarisch-effektiv-voruber-16265180.html), bajando el tono de posibles nuevos ataques.\n\n[La guerra de Ucrania presenta desafíos para las negociaciones de paz promovidas por Estados Unidos](https://www.economist.com/europe/2026/11/09/donald-trump-is-in-a-hurry-for-peace-in-ukraine-vladimir-putin-is-not), con Putin sin prisa para concluir las conversaciones.\n\n**Tecnología**\n\n[Nvidia sufre una caída de más del 8% en bolsa tras confirmarse una investigación sobre una relación extramatrimonial del CEO Jensen Huang con una presunta espía china](https://elpais.com/economia/2026-11-09/nvidia-se-desploma-en-bolsa-tras-confirmar-una-investigacion-sobre-la-relacion-extramatrimonial-de-su-ceo-con-una-presunta-espia-china.html), lo que pone en duda el futuro de la figura clave de la industria tecnológica.\n\n[Anthropic lanzó nuevos modelos de IA Claude Fable 5.2 y Mythos 5.2 con reducciones de precio](https://thenewstack.io/anthropic-fable-coding-upgrade/) antes de su IPO.\n\n[Meta lanzó Muse Ember, un modelo multimodal más eficiente para competir con Claude Haiku y otras soluciones](https://thenewstack.io/meta-muse-ember-launch/).\n\n**América Latina**\n\n[El papa León congregó a 2,5 millones de fieles en Buenos Aires en la misa más multitudinaria de su pontificado](https://www.elindependiente.com/internacional/2026/11-09/leon-xiv-congrega-a-25-millones-de-fieles-en-buenos-aires-el-acto-mas-multitudinario-de-su-pontificado.html), renovando advertencias sobre la austeridad de Milei.\n\n[El presidente colombiano avanza contra narcotraficantes y críticos sociales en una aproximación \"trumpiana\"](https://www.economist.com/the-americas/2026/11/09/colombias-trumpian-president-is-taking-no-prisoners).\n\n**Otros temas globales**\n\n[Francia acusa a la Guardia Revolucionaria de Irán de hackear refrigeradores en supermercados franceses](https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646).\n\n[El periódico independiente Novaya Gazeta cierra su redacción en Moscú tras ser catalogado como \"agente extranjero\" por autoridades rusas](https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827).\n\n[Noruega afirma que fue excluida del Campeonato Mundial Junior de Hockey para dar paso al regreso de Rusia](https://www.dw.com/en/ice-hockey-norway-says-it-s-been-kicked-out-of-world-juniors-in-favor-of-russia/a-79901844).",
+  "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | Abascal atribuye la crisis de la vivienda a la llegada de migrantes y asegura que “el principal fondo buitre es el Gobierno”",
+      "link": "https://elpais.com/espana/2026-11-09/ultima-hora-de-la-actualidad-politica-en-directo.html",
+      "teaser": "Pedro Sánchez augura “una movilización histórica” el 29-N | Feijóo ofrece en Palma “orden, seguridad y vivienda” y se compromete a “recuperar el control de las fronteras” | El PP acepta que los debates sean organizados por la Academia de Televisión",
+      "region": "global",
+      "published": "2026-11-09T22:20:02+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Un congresista republicano da el primer paso para iniciar el ‘impeachment’ del secretario de Defensa, Pete Hegseth",
+      "link": "https://elpais.com/us/2026-11-09/un-congresista-presenta-los-articulos-de-destitucion-contra-el-secretario-de-defensa-pete-hegseth.html",
+      "teaser": "Este proceso de ‘impeachment’ es el primero contra un representante de la Administración Trump y llega después de la derrota republicana en las elecciones",
+      "region": "global",
+      "published": "2026-11-09T22:09:09+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "El Tribunal Supremo permite la construcción del muro fronterizo en el parque natural de Big Bend, en Texas",
+      "link": "https://elpais.com/us/2026-11-09/el-tribunal-supremo-permite-la-construccion-del-muro-fronterizo-en-el-parque-natural-de-big-bend-en-texas.html",
+      "teaser": "La Administración Trump podrá reanudar las obras del proyecto al que se han opuesto ambientalistas, ganaderos y otros residentes de la región de ambos partidos",
+      "region": "global",
+      "published": "2026-11-09T21:56:38+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Pedro Sánchez anuncia consejos de ministros extraordinarios antes de las elecciones con medidas sociales: “Hay temas que se nos han quedado pendientes”",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-11-09/pedro-sanchez-anuncia-consejos-de-ministros-extraordinarios-antes-de-las-elecciones-con-medidas-sociales-hay-temas-que-se-nos-han-quedado-pendientes.html",
+      "teaser": "El presidente augura una participación superior al 70% en el 29-N y habla de Zapatero: “Estoy convencido de que lo último que quiere es tener esas joyas”",
+      "region": "global",
+      "published": "2026-11-09T21:56:15+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Nvidia sufre en Bolsa tras iniciar una investigación por la relación de su consejero delegado con una supuesta espía",
+      "link": "https://elpais.com/economia/2026-11-09/nvidia-se-desploma-en-bolsa-tras-confirmar-una-investigacion-sobre-la-relacion-extramatrimonial-de-su-ceo-con-una-presunta-espia-china.html",
+      "teaser": "Los títulos llegan a caer más de un 8% ante las dudas sobre el futuro de Jensen Huang, mayor figura actual de la industria tecnológica y clave en el éxito de la compañía en los últimos años",
+      "region": "global",
+      "published": "2026-11-09T21:18:03+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "La Primitiva: comprobar sorteo del lunes 9 de noviembre",
+      "link": "https://elpais.com/sorteos/2026-11-09/la-primitiva-sorteo-del-lunes-9-de-noviembre.html",
+      "teaser": "Consulta todos los números premiados del sorteo de este lunes",
+      "region": "global",
+      "published": "2026-11-09T20:45:56+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Un escándalo de espías y seducción en el gigante tecnológico Nvidia compromete a Donald Trump",
+      "link": "https://elpais.com/us/2026-11-09/un-escandalo-de-espias-y-seduccion-en-el-gigante-tecnologico-nvidia-compromete-a-donald-trump.html",
+      "teaser": "El presidente mantiene una relación de amistad con el fundador del mayor fabricante de chips del mundo. Los servicios secretos le informaron hace un año de las sospechas",
+      "region": "global",
+      "published": "2026-11-09T20:27:14+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "“Listos para AOC”: nace el movimiento que empuja a Alexandria Ocasio-Cortez a postularse a la presidencia de Estados Unidos",
+      "link": "https://elpais.com/us/2026-11-09/listos-para-aoc-nace-el-movimiento-que-empuja-a-alexandria-ocasio-cortez-a-postularse-a-la-presidencia-de-estados-unidos.html",
+      "teaser": "Una red de organizadores de campañas en todo el país pretende movilizar a un millón de personas con la fórmula que hizo triunfar a Mamdani y Obama",
+      "region": "global",
+      "published": "2026-11-09T18:55:40+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Donald Trump is in a hurry for peace in Ukraine. Vladimir Putin is not",
+      "link": "https://www.economist.com/europe/2026/11/09/donald-trump-is-in-a-hurry-for-peace-in-ukraine-vladimir-putin-is-not",
+      "teaser": "American-brokered talks may help Russia prolong the war",
+      "region": "global",
+      "published": "2026-11-09T21:08:38+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Café Europa newsletter: Democratic wins or no, Europe is over America",
+      "link": "https://www.economist.com/europe/2026/11/09/cafe-europa-newsletter-democratic-wins-or-no-europe-is-over-america",
+      "teaser": "Matt Steinglass, our Europe editor, offers a view of the midterms from Amsterdam",
+      "region": "global",
+      "published": "2026-11-09T20:54:55+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Scientists are finally starting to understand endometriosis",
+      "link": "https://www.economist.com/science-and-technology/2026/11/09/scientists-are-finally-starting-to-understand-endometriosis",
+      "teaser": "That should lead to quicker diagnosis and better treatment",
+      "region": "global",
+      "published": "2026-11-09T20:22:16+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Colombia’s Trumpian president is taking no prisoners",
+      "link": "https://www.economist.com/the-americas/2026/11/09/colombias-trumpian-president-is-taking-no-prisoners",
+      "teaser": "Drug lords and social-justice warriors are both in El Tigre’s sights",
+      "region": "global",
+      "published": "2026-11-09T20:06:18+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "The future of Trumponomics: compromise or failure",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+      "teaser": "How the art of the deal may yet prevail over the art of denial",
+      "region": "global",
+      "published": "2026-11-09T19:13:41+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Xi Jinping’s plan for a China-centric world order",
+      "link": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
+      "teaser": "A “community with a shared future” sounds soft, but is backed by muscle",
+      "region": "global",
+      "published": "2026-11-09T17:32:54+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Bartleby newsletter: Can AI write newsletters",
+      "link": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
+      "teaser": "Andrew Palmer, our Bartleby columnist, has bad news for some email scribes",
+      "region": "global",
+      "published": "2026-11-09T16:39:37+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "The War Room newsletter: How long will Pete Hegseth last?",
+      "link": "https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last",
+      "teaser": "“Democrats, and a handful of Republicans, want the former Fox News host’s well-gelled head,” writes Samuel Beal, our Washington correspondent",
+      "region": "global",
+      "published": "2026-11-09T16:36:40+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "A Recipe for Disaster in Taiwan",
+      "link": "https://www.foreignaffairs.com/taiwan/recipe-disaster-taiwan-lissner-rapp-hooper",
+      "teaser": "Why the risk of a crisis is growing.",
+      "region": "global",
+      "published": "2026-11-09T09:00:00+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "The New Epicenter of Global Terror",
+      "link": "https://www.foreignaffairs.com/nigeria/new-epicenter-global-terror",
+      "teaser": "How Africa’s weak states and rare earths drive transnational extremism.",
+      "region": "global",
+      "published": "2026-11-09T09:00:00+00:00"
+    },
+    {
+      "source": "Le Monde diplomatique",
+      "title": "A border firmly closed, from both sides",
+      "link": "https://mondediplo.com/maps/algeria-morocco-border",
+      "teaser": "- Africa / Map , 2026/11 algeria morocco",
+      "region": "global",
+      "published": "2026-11-03T09:50:16+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Esto no es una huelga",
+      "link": "https://www.elindependiente.com/opinion/2026/11/09/esto-no-es-una-huelga/",
+      "teaser": "Viendo a Sánchez, estofado de otoño, penuria y tópico como una castañera, animando a luchar por los “derechos” ahí en [&#8230;]",
+      "region": "global",
+      "published": "2026-11-09T21:51:33+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Sánchez resignifica los insultos de la derecha: \"Trabajo para que el 29-N mucha gente diga: 'Sánchez, ¡qué hijo de puta!'\"",
+      "link": "https://www.elindependiente.com/espana/2026/11/09/pedro-sanchez-entrevista-la-septima-consejos-ministros-insulto-hijo-puta/",
+      "teaser": "Sucedió con el Perro Sánchez, sucedió con el zurdo. Y ahora sucede con hijo de puta, lo que está por [&#8230;]",
+      "region": "global",
+      "published": "2026-11-09T21:50:50+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "El PP acepta que el cara a cara Sánchez-Feijóo y el debate a cuatro los organice la Academia de Televisión",
+      "link": "https://www.elindependiente.com/espana/2026/11/09/el-pp-acepta-que-el-cara-a-cara-feijoo-sanchez-y-el-debate-a-cuatro-los-organice-la-academia-de-la-television/",
+      "teaser": "Finalmente, si nada se tuerce, habrá debates electorales. Dos. Un cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo [&#8230;]",
+      "region": "global",
+      "published": "2026-11-09T18:42:31+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "León XIV congrega a 2,5 millones de fieles en Buenos Aires, el acto más multitudinario de su pontificado",
+      "link": "https://www.elindependiente.com/internacional/2026/11/09/leon-xiv-congrega-a-25-millones-de-fieles-en-buenos-aires-el-acto-mas-multitudinario-de-su-pontificado/",
+      "teaser": "León XIV congregó este lunes a dos millones y medio de fieles para la misa que celebró ante el Monumento [&#8230;]",
+      "region": "global",
+      "published": "2026-11-09T16:56:02+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Qué regalar esta Navidad: 8 gadgets que elegiría por su utilidad, no por la moda",
+      "link": "https://www.elindependiente.com/de-tiendas/2026/11/09/que-regalar-esta-navidad-8-gadgets-que-elegiria-por-su-utilidad-no-por-la-moda/",
+      "teaser": "Para regalar tecnología esta Navidad, me quedaría con los JBL Live Beam 4 si no conoces al detalle las preferencias [&#8230;]",
+      "region": "global",
+      "published": "2026-11-09T16:55:39+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "La borrasca Bruna pone en alerta roja a Cáceres y Ávila este martes por las fuertes lluvias",
+      "link": "https://www.elindependiente.com/espana/2026/11/09/la-borrasca-bruna-pone-en-alerta-roja-a-caceres-y-avila-este-martes-por-las-fuertes-lluvias/",
+      "teaser": "La Agencia Estatal de Meteorología (Aemet) ha emitido una alerta roja para este martes por las fuertes lluvias que se [&#8230;]",
+      "region": "global",
+      "published": "2026-11-09T16:54:41+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "¿Qué regalar a alguien que teletrabaja? Mis 7 ideas favoritas para aprovechar mejor el escritorio",
+      "link": "https://www.elindependiente.com/de-tiendas/2026/11/09/que-regalar-a-alguien-que-teletrabaja-mis-7-ideas-favoritas-para-aprovechar-mejor-el-escritorio/",
+      "teaser": "Para alguien que encadena videollamadas desde casa, los Jabra Evolve3 85 serían mi primera elección: combinan seis micrófonos, cancelación de [&#8230;]",
+      "region": "global",
+      "published": "2026-11-09T16:30:49+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Margarita Robles, en su segunda visita a Ceuta tras el inicio de la crisis: \"Haciendo grande a Ceuta hacemos grande a España\"",
+      "link": "https://www.elindependiente.com/espana/2026/11/09/margarita-robles-en-su-segunda-visita-a-ceuta-tras-el-inicio-de-la-crisis-haciendo-grande-a-ceuta-hacemos-grande-a-espana/",
+      "teaser": "Margarita Robles ha viajado este lunes Ceuta, su segunda visita a la ciudad autónoma desde la entrada masiva de inmigrantes [&#8230;]",
+      "region": "global",
+      "published": "2026-11-09T16:04:23+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Monzo in talks to raise up to £500m, reports say",
+      "link": "https://sifted.eu/articles/monzo-to-raise-up-to-500m/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-09T16:56:48+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Onodrim raises $300m as European defence rollups heat up",
+      "link": "https://sifted.eu/articles/onodrim-300-european-defence-rollup/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-09T10:34:35+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "The realities of scaling AI agents: ‘You don't have an AI problem, you have a content problem’",
+      "link": "https://sifted.eu/articles/the-realities-of-scaling-ai-agents-brnd/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-09T09:23:09+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "The winners and losers of Europe's fintech growth funding drought",
+      "link": "https://sifted.eu/articles/fintech-growth-drought/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-09T05:00:32+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "SF confidence, reality checks and AI bubble anxiety come to the Rise venture salon in the Alps",
+      "link": "https://sifted.eu/articles/sf-confidence-reality-checks-and-ai-bubble-anxiety-come-to-the-rise-venture-salon-in-the-alps/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-09T05:00:20+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "UCL spinouts looking to raise",
+      "link": "https://sifted.eu/articles/ucl-spinouts-looking-to-raise/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-09T05:00:20+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "From tending graves to raising €1.7 million: Memora sets out to modernise Europe’s cemeteries",
+      "link": "https://www.eu-startups.com/2026/11/from-tending-graves-to-raising-e1-7-million-memora-sets-out-to-modernise-europes-cemeteries/",
+      "teaser": "Danish startup Memora has raised €1.7 million (DKK 13 million) to connect cemetery managers, gardeners and families through one platform, bringing together administration, maintenance and communication. The round was led by venture capital firm True Collective. Chris Evans, formerly of Kahoot!, will also join the company as CTO in early 2027. &#8220;I learned how much [&#8230;] The post From tending graves to raising €1.7 million: Memora sets out to modernise Europe&#8217;s cemeteries appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-11-09T16:33:47+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "OPINION: Long sales cycles could be FinTech’s biggest competitive advantage",
+      "link": "https://www.eu-startups.com/2026/11/opinion-long-sales-cycles-could-be-fintechs-biggest-competitive-advantage/",
+      "teaser": "Any FinTech founder raising in the UK this year will have seen the numbers &#8211; according to KPMG&#8217;s Pulse of FinTech, investment fell to €2.1 billion (£1.8 billion) in the first half of 2026, down around two-thirds on the same period last year and the lowest since the report began in 2016. Deal count hit [&#8230;] The post OPINION: Long sales cycles could be FinTech’s biggest competitive advantage appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-11-09T15:48:55+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "SWISSto12 and UNIVITY work together to build sovereign 5G infrastructure in space",
+      "link": "https://www.eu-startups.com/2026/11/swissto12-and-univity-work-together-to-build-sovereign-5g-infrastructure-in-space/",
+      "teaser": "Swiss SpaceTech startup SWISSto12 and French startup UNIVITY are advancing Europe&#8217;s ambitions for sovereign satellite communications after successfully completing a Critical Design Review (CDR) for two active antenna systems designed to deliver 5G connectivity from space. The milestone brings the companies closer to demonstrating broadband and direct-to-device connectivity through a single satellite architecture, combining European [&#8230;] The post SWISSto12 and UNIVITY work together to build sovereign 5G infrastructure in space appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-11-09T15:07:17+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "Jülich-based SRTD Biotech secures €31.5 million to develop precision mRNA therapies targeting diseased cells",
+      "link": "https://www.eu-startups.com/2026/11/julich-based-srtd-biotech-secures-e31-5-million-to-develop-precision-mrna-therapies-targeting-diseased-cells/",
+      "teaser": "SRTD Biotech, a Jülich-based BioTech startup focused on developing next-generation precision mRNA therapeutics, has completed an oversubscribed €31.5 million Seed financing round. The funding was led by Mérieux Equity Partners, with NRW.BANK and Boehringer Ingelheim Venture Fund joining the syndicate as co-leads. Lilly Ventures, HTGF, and the Freiburg-based family Office Anobis Asset also participated in [&#8230;] The post Jülich-based SRTD Biotech secures €31.5 million to develop precision mRNA therapies targeting diseased cells appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-11-09T12:43:19+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "OPINION: Building open source gives startups a head start, not a moat",
+      "link": "https://www.eu-startups.com/2026/11/opinion-building-open-source-gives-startups-a-head-start-not-a-moat/",
+      "teaser": "Every startup faces the same squeeze: big ambitions, small team and limited budget. Free open-source software, which can be used, modified, and redistributed under its license, can help founders ease the squeeze. It lets a small startup build products that once required a large engineering department. But a shortcut is not a strategy. To make good [&#8230;] The post OPINION: Building open source gives startups a head start, not a moat appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-11-09T10:51:10+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "Palantir alumni-founded DefenceTech Onodrim hits unicorn status with €268.01 million raise",
+      "link": "https://www.eu-startups.com/2026/11/palantir-alumni-founded-dutch-defencetech-scale-up-onodrim-hits-unicorn-status-after-raising-e268-01-million/",
+      "teaser": "Onodrim, the Dutch European defence and industrial scale-up platform, has closed a €268.01 million ($300 million) Series A funding round at a €1.16 billion ($1.3 billion) valuation. The funding round was led by US investment group Lux Capital, with participation from existing investors General Catalyst and Lakestar, alongside Altimeter, Strike Capital, 137 Ventures, and 8090, [&#8230;] The post Palantir alumni-founded DefenceTech Onodrim hits unicorn status with €268.01 million raise appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-11-09T10:30:26+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "Bulgaria’s BlackPeak Capital reaches €125 million first close for new Southeast Europe growth fund",
+      "link": "https://www.eu-startups.com/2026/11/bulgarias-blackpeak-capital-reaches-e125-million-first-close-for-new-southeast-europe-growth-fund/",
+      "teaser": "BlackPeak Capital, a Bulgarian private equity firm, today announced the first close of BlackPeak Southeast Europe Growth Equity Fund II SCSp (BPSEEF II) at €125 million to invest in fast-growing companies across Southeast Europe, with Bulgaria, Romania, Croatia, Slovenia and Serbia as its primary markets BPSEEF II is backed by returning anchor investors from BPSEEF I, [&#8230;] The post Bulgaria&#8217;s BlackPeak Capital reaches €125 million first close for new Southeast Europe growth fund appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-11-09T10:09:11+00:00"
+    },
+    {
+      "source": "EU-Startups",
+      "title": "France’s Calogena secures €40 million EU grant to build its first commercial nuclear reactor",
+      "link": "https://www.eu-startups.com/2026/11/frances-calogena-secures-e40-million-eu-grant-to-build-its-first-commercial-nuclear-reactor/",
+      "teaser": "Calogena, a French nuclear startup developing a small modular reactor (SMR) designed to supply low-carbon heat to district heating networks, has secured €40 million. The funding came in the form of a grant from the European Commission’s Innovation Fund ,and it marks the first time that European funding has been given to an SMR earmarked [&#8230;] The post France’s Calogena secures €40 million EU grant to build its first commercial nuclear reactor appeared first on EU-Startups .",
+      "region": "global",
+      "published": "2026-11-09T08:52:28+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Anthropic launches Fable 5.2 with a price cut and stronger coding scores",
+      "link": "https://thenewstack.io/anthropic-fable-coding-upgrade/",
+      "teaser": "On Monday, Anthropic&#160;launched Claude Fable 5.2 and Mythos 5.2, the latest versions of its duo of flagship models. Like before, The post Anthropic launches Fable 5.2 with a price cut and stronger coding scores appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-09T19:08:20+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Google claims its new AI software cuts inference latency by over 90% — but there’s a catch",
+      "link": "https://thenewstack.io/google-tpu-sync-inference/",
+      "teaser": "Google&#8217;s eighth-generation TPU announcement on Monday included more than new chips, introducing TPU Sync, an open-source system designed to speed The post Google claims its new AI software cuts inference latency by over 90% — but there&#8217;s a catch appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-09T18:40:01+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Cursor and Google join OpenAI in giving coding agents a voice. Claude Code stays silent.",
+      "link": "https://thenewstack.io/cursor-antigravity-voice-agents/",
+      "teaser": "Two of the biggest players in the AI coding space are betting that developers want to talk to their agents The post Cursor and Google join OpenAI in giving coding agents a voice. Claude Code stays silent. appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-09T18:22:41+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Meta launches Muse Ember to take on Claude Haiku and GPT-6 Luna",
+      "link": "https://thenewstack.io/meta-muse-ember-launch/",
+      "teaser": "Meta on Monday debuted Muse Ember, a smaller, more efficient multimodal member of its Muse model family. The company is The post Meta launches Muse Ember to take on Claude Haiku and GPT-6 Luna appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-09T18:00:00+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Why semantic layers will be essential for enterprise AI",
+      "link": "https://thenewstack.io/semantic-layers-enterprise-ai/",
+      "teaser": "AI can find your data. It can&#8217;t read your mind. AI agents can already reach into your CRM, your warehouse, The post Why semantic layers will be essential for enterprise AI appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-09T15:00:00+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Real-time state has a cost your memory bill won’t show",
+      "link": "https://thenewstack.io/duplicated-streaming-state-costs/",
+      "teaser": "Real-time applications often combine tools with distinct roles. A typical setup might use Kafka to handle events, Flink to process The post Real-time state has a cost your memory bill won’t show appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-09T14:29:57+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Moving from AI adoption to an AI operating model: How Docusign engineering went beyond tool rollout",
+      "link": "https://thenewstack.io/docusign-ai-engineering-adoption/",
+      "teaser": "Docusign rolled out AI coding tools across its engineering teams, expecting them to help developers write code faster and do The post Moving from AI adoption to an AI operating model: How Docusign engineering went beyond tool rollout appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-08T17:00:00+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Scaling an autonomous agent from one team to fifty: A serverless-to-container decision framework",
+      "link": "https://thenewstack.io/scaling-autonomous-agents-framework/",
+      "teaser": "QA teams shipping complex products generate test failures around the clock. Every failure needs a bug ticket with steps, screenshots, The post Scaling an autonomous agent from one team to fifty: A serverless-to-container decision framework appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-08T16:30:00+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "O que Lula mudou no Judiciário em 2004. E o que ele defende agora",
+      "link": "https://www.nexojornal.com.br/expresso/2026/11/09/poder-judiciario-mudancas-reforma-lula-2026",
+      "teaser": "Presidente sinaliza intenção de avançar com reforma do sistema judicial. Tema entrou no debate público na esteira do caso Master e deve se manter em 2027 &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2023/12/28005342/stf2_binary_23492.jpg\" type=\"image/jpeg\" medium=\"image\"&gt; &lt;media:title&gt; A entrada do prédio do Supremo Tribunal Federal, em Brasília &lt;/media:title&gt; &lt;media:credit&gt; Antonio Cruz / Agência Brasil - 14.05.2012 &lt;/media:credit&gt; &lt;/media:content&gt; O presidente Luiz Inácio Lula da Silva (PT) afirmou, no domingo (8), em pronunciamento à nação na TV, que o Brasil precisa fazer uma reforma do Judiciário com “urgência”. “O Brasil precisa debater com urgência uma reforma política e do Judiciário. É dever dos agentes públicos atender esse desejo. É chegada a hora de a Justiça brasileira recuperar a sua credibilidade. A atividade da magistratura precisa de juízes isentos, éticos e livres de conflito de interesses e projetos de enriquecimento” Luiz Inácio Lula da Silva presidente brasileiro, em pronunciamento à nação no domingo (8) Lula já havia defendido mudanças no sistema judicial durante a campanha eleitoral, em meio à crise institucional do Supremo Tribunal Federal na esteira do caso Master. A discussão se assemelha à que levou à reforma do Judiciário no primeiro mandato do presidente, em 2004. Neste texto, o Nexo relembra as mudanças empreendidas no governo Lula em 2004, contextualiza o momento atual e fala sobre as ideias defendidas pelo presidente para os próximos anos. As mudanças em 2004 Em 2003, durante o primeiro mandato de Lula, o governo, com Márcio Thomaz Bastos à frente do Ministério da Justiça, impulsionou a discussão que resultou na Emenda Constitucional nº 45, de 2004, que ficou conhecida como Reforma no Judiciário. Na época, Nelson Jobim era o presidente do Supremo Tribunal Federal. As principais mudanças instituídas pela emenda foram:&#160; a criação do CNJ (Conselho Nacional de Justiça) a criação do CNMP (Conselho Nacional do Ministério Público) a instituição da súmula vinculante, mecanismo que uniformiza o entendimento constitucional do STF, com efeito para os demais órgãos do Judiciário A reforma também criou mecanismos destinados a melhorar o funcionamento do sistema judicial, ampliou a competência da Justiça do Trabalho e garantiu a autonomia da Defensoria Pública. O contexto em 2026 O debate atual sobre uma reforma do Judiciário tem girado em torno da criação de um Código de Ética para o Supremo. Desde que assumiu a presidência da corte, em setembro de 2025, Edson Fachin tem defendido uma maior contenção dos ministros. Embora as críticas ao Supremo no Brasil venham de longa data, a demanda por um código de ética ganhou força no fim de 2025, após revelações envolvendo os ministros Dias Toffoli e Alexandre de Moraes no caso Master. &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2026/09/55297807224_fe8a597766_k.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; André Mendonça e Alexandre de Moraes em sessão do STF &lt;/media:title&gt; &lt;media:credit&gt; Antonio Augusto / STF 27.05.2026 &lt;/media:credit&gt; &lt;/media:content&gt; Investigações relacionadas ao caso também identificaram mensagens do banqueiro preso Daniel Vorcaro sobre outros ministros da corte ou familiares de ministros — como Kassio Nunes Marques, André Mendonça e Luiz Fux —, além do procurador-geral da República, Paulo Gonet. O caso Master jogou o Supremo numa crise institucional, que impactou as eleições e&#160;evidenciou cisões na corte. Em abril, o ministro Flávio Dino apresentou num artigo no site ICL Notícias sua versão mais ampla de um código de ética para a magistratura, chamada de “Nova Reforma do Judiciário”. Entre os pontos defendidos, estão: a supressão de institutos como a aposentadoria compulsória punitiva a revisão das competências constitucionais do Supremo e dos tribunais superiores a revisão do capítulo do Código Penal que trata dos crimes contra a administração pública, com a criação de tipos penais mais rigorosos para corrupção envolvendo juízes e servidores da Justiça Em paralelo, há uma ala no Supremo que tem atuado mais ativamente para restringir os penduricalhos, como os ministros Cristiano Zanin e Gilmar Mendes, além de Moraes e Dino. Penduricalho é um termo usado para se referir a verbas extras pagas a servidores públicos que elevam a remuneração além do salário-base. Muitas vezes, a soma desses recursos ao salário-base ultrapassa o teto constitucional do funcionalismo público, que é de R$ 46,3 mil — o salário mensal de ministros do Supremo. O que Lula defende agora Em meio aos avanços da crise do caso Master, Lula passou a defender mais abertamente uma reforma no Judiciário. Em setembro, num evento no Palácio do Planalto, o presidente propôs uma “discussão profunda” sobre o tema em 2027.&#160; “Tenho certeza de que faremos, para o próximo ano, uma discussão profunda sobre a necessidade de uma nova reforma no Poder Judiciário brasileiro para que o povo possa continuar acreditando na Justiça” Luiz Inácio Lula da Silva presidente da República, em declaração em setembro Lula deu a declaração ao lado de Fachin e de Gonet, após serem reveladas novas informações sobre a relação entre Moraes e Vorcaro. Segundo o presidente, o objetivo da reforma seria reforçar a credibilidade da Justiça perante a população num momento de desgaste das instituições.&#160;&#160; 48% dos entrevistados não confiam no Supremo Tribunal Federal, segundo pesquisa do Datafolha divulgada em 18 de setembro 38% manifestaram desconfiança em relação ao Judiciário como um todo Em meio à defesa de Lula de uma reforma judicial, o deputado federal Reginaldo Lopes (PT-MG) apresentou, em setembro, uma PEC (Proposta de Emenda à Constituição) para reformar regras do Judiciário e de instituições de controle. Entre as propostas, estão: mandato único de até 10 anos para ministros de tribunais superiores e cortes de contas idade mínima de 50 anos e máxima de 70 anos para assumir o cargo paridade de gênero nos tribunais teto remuneratório mais rígido Lula também tem defendido medidas como a fixação de mandatos para o Supremo, o aumento da idade mínima para a indicação de ministros, a revisão dos critérios de indicação e restrições à relação dos magistrados com empresários e advogados. Contudo, os termos da proposta ainda são vagos. Atualmente, os ministros são escolhidos pelo presidente da República e passam por análise do Senado. Os indicados precisam ser brasileiros natos e ter idade entre 35 e 65 anos, notável saber jurídico e reputação ilibada, segundo a Constituição Federal. Eles podem permanecer no cargo até a aposentadoria compulsória aos 75 anos. O Grupo Prerrogativas, que reúne advogados e juristas alinhados ao PT, apresentou a Lula uma proposta de reforma que estabelece mandatos de 12 anos para ministros de tribunais superiores e idade mínima de 50 anos e máxima de 63 anos para ingressar no STF. Pela proposta, a composição da corte teria de ter, no mínimo, cinco mulheres e três pessoas negras. Está prevista ainda a criação de um novo Código de Ética e Integridade para magistrados, entre outras medidas. A ideia do governo é formar uma comissão ou grupo de trabalho com juristas e representantes da sociedade civil — como ocorreu entre 2003 e 2004 — para construir um texto que altere principalmente as regras de funcionamento do Supremo. As perspectivas para 2027 Heloísa Câmara, professora de direito constitucional da UFPR (Universidade Federal do Paraná), destacou que o fato de o Legislativo ter dado uma forte guinada à direita — e à extrema direita — nas eleições de 2026 sugere que haverá pontos de conflito com o Executivo em 2027.&#160; “Poderia sugerir que há consenso [entre Executivo e Legislativo] na necessidade de mudanças. Entretanto, são percepções bastante diferentes. Há projetos de reformas do Judiciário para torná-lo mais democrático e outros que procuram justamente cercear os méritos”, afirmou ao Nexo. Após terminar o primeiro turno na frente, o senador Flávio Bolsonaro (PL-RJ) defendeu uma mudança na Constituição para “redemocratizar o país”, sem explicar o que isso queria dizer. O candidato do PL perdeu a eleição no segundo turno e fugiu para os Estados Unidos, mas seu partido cresceu nas duas Casas legislativas. Câmara lembrou que muitos parlamentares foram eleitos com a bandeira do impeachment de ministros do Supremo. O bolsonarismo também propõe retirar da corte os processos criminais contra parlamentares. Para Emílio Peluso Neder Meyer, professor de direito constitucional da UFMG (Universidade Federal de Minas Gerais), o governo possivelmente terá dificuldades para avançar com uma proposta de reforma do Judiciário no Congresso, em especial no Senado. O fato de Lula ter uma base menor no Congresso a partir de 2027 será um empecilho. Para aprovar uma PEC, é necessário o apoio de 308 dos 513 deputados federais e de 49 dos 81 senadores, em dois turnos em cada Casa. “Sendo minoritário, o presidente terá dificuldade para alcançar essa maioria, justamente por causa do PL, que será o principal partido de oposição, e de alguns partidos que compartilham das mesmas ideias, que são bastante refratárias à atuação da magistratura. [São ideias] que visam, na verdade, ser muito mais cerceadoras da forma como se enxerga o exercício da magistratura no Brasil”, afirmou ao Nexo. Além disso, Câmara destacou que toda instituição tende a resistir aos mecanismos de controle, e o Supremo não foge à regra. “É fundamental que exista participação social para que as propostas sejam mais democráticas e de maior transparência e não o seu oposto”, disse. Para Meyer, questões centrais numa reforma do Judiciário passam por pensar na remuneração, nas condições de nomeação e em mandatos para ministros do Supremo. “Pensar também em como trabalhar a institucionalidade da corte, ao reforçá-la por meio da colegialidade e de menos decisões monocráticas”, afirmou. Já Câmara destacou que é fundamental que o processo de indicação de ministros seja mais transparente. Também é necessário o estabelecimento de mecanismos claros para vedações a situações de conflito de interesse (envolvendo, por exemplo, a participação em eventos, a atuação de escritórios de advocacia de familiares e a escolha de quem é recebido ou não para conversas sobre os casos nos tribunais).",
+      "region": "global",
+      "published": "2026-11-09T21:08:26+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "As armadilhas das dicas para ‘fortalecer o sistema imune’",
+      "link": "https://www.nexojornal.com.br/externo/2026/11/09/saude-melhorar-imunidade-suplemento-suco-verde-riscos",
+      "teaser": "Cobrindo de sucos verdes a suplementos de células-tronco, pesquisa revelou que mais de 96% dos conteúdos no Instagram são de criadores que vendem ou anunciam produtos do tipo &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2026/11/Aojiru-drink-smoothie-food-juice-health-shake-1614476-pxhere.com_.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Suco verde &lt;/media:title&gt; &lt;media:credit&gt; Creative Commons / Px Here &lt;/media:credit&gt; &lt;/media:content&gt; Todos nós queremos um sistema imune que funcione bem para nos ajudar a combater bactérias e vírus invasores e nos recuperarmos mais rapidamente de doenças. Mas recomendações populares sobre como “fortalecer o sistema imune” podem ser mais um obstáculo do que uma ajuda. Promover o&#160;fortalecimento&#160;do sistema imune é uma tendência na internet. Criadores de conteúdo compartilham receitas para fortalecer o sistema imune — desde&#160;bebidas&#160;até&#160;sopas&#160;até&#160;tijelas de poke e pães de abóbora. Livros sobre nutrição falam de “imunidade superpotente”, enquanto clínicas naturopáticas compartilham&#160;“dicas” para fortalecer o sistema imune A expressão “fortalecer” tornou-se tão comum que aparece com frequência em&#160;conteúdos sobre saúde&#160;de&#160;instituições acadêmicas&#160;conceituadas. A pandemia da COVID-19 — mais do que nunca na memória recente — fez com que o&#160;público refletisse profundamente sobre a imunidade. Como pesquisadores interdisciplinares de saúde pública que estudam as forças influentes que moldam as percepções do público, o aumento do discurso sobre o reforço imune durante esse período chamou nossa atenção. Pesquisamos esse conceito em alta nos&#160;resultados de busca do Google&#160;e em&#160;redes sociais como o Instagram. Constatamos que isso é problemático de duas maneiras: em primeiro lugar, o conteúdo frequentemente apresenta&#160;imprecisões científicas&#160;sobre o funcionamento do sistema imune. Em segundo lugar, dá destaque a empresas que promovem produtos ou serviços ineficazes. Em um momento em que&#160;a confiança em intervenções baseadas em evidências, como vacinas, está abalada, isso pode levar a resultados negativos para nossa saúde. Equilíbrio, sem exageros Nem todo conteúdo sobre o fortalecimento da imunidade é impreciso ou prejudicial. Informações provenientes de pesquisas ou de organizações médicas geralmente se concentram na alimentação saudável,&#160;prática de exercícios,&#160;sono adequado e na prevenção dos malefícios do tabaco e do álcool. A ideia de “potencilizar” ou “aumentar” a imunidade, no entanto, continua sendo fundamentalmente equivocada. O sistema imune precisa ser mantido, não potenciado. Isso porque o sistema imune de cada pessoa é complexo, composto por células, tecidos, órgãos e proteínas. Esse sistema atua de forma inata e não específica para manter afastados germes invasores nocivos, utilizando, por exemplo, a pele e as membranas mucosas como barreira protetora. E ele também atua de forma adaptativa, mobilizando uma resposta direcionada e específica contra invasores nocivos. O sistema imune adaptativo utiliza&#160;células B que produzem anticorpos&#160;— proteínas especiais que se ligam aos germes invasores e os marcam para destruição ou neutralizam seus efeitos. Existem também&#160;células T, que atuam como destruidoras, caçando e matando células que foram infectadas por germes. Surpreendentemente, o processo adaptativo do&#160;sistema imune cria células de memória&#160;dos patógenos contra os quais luta. Quando o mesmo invasor volta a entrar no corpo, ele pode ser rapidamente reconhecido e combatido de forma mais eficaz. Um sistema imune que funciona bem também&#160;diferencia corretamente entre as células do próprio organismo e as células invasoras. Um sistema imune com desempenho insuficiente aumenta a&#160;possibilidade e a gravidade de infecções. Mas um sistema imune hiperativo pode levar a uma série de&#160;doenças autoimunes, como a artrite reumatoide e a esclerose múltipla. Manter o sistema imune, portanto, envolve equilíbrio — e não sobrecarregar suas funções e capacidades. Empresas aumentam seus lucros Aqueles que promovem o conceito de “fortalecimento imune” muitas vezes estão simplesmente tentando obter lucro. A própria ideia de “fortalecimento” pode criar uma sensação de carência — de que a saúde de alguém poderia (sempre) estar melhor. Isso enquadra o estado de saúde como um déficit que exige que as pessoas busquem continuamente esforços de restauração ou otimização — uma&#160;estratégia de marketing de saúde e bem-estar&#160;comumente utilizada. O primeiro passo é estabelecer uma lacuna, acompanhada de ansiedade ou medo. O segundo passo é oferecer ações que possam ser adquiridas para preencher essa lacuna. Nossa&#160;pesquisa no Instagram&#160;durante a pandemia, por exemplo, constatou que mais de 96% do conteúdo sobre fortalecimento imune que analisamos provinha de criadores que vendiam ou anunciavam produtos ou serviços. Identificamos 62 empresas diferentes marcadas em uma amostra de 28 publicações. Também refletimos sobre como a própria hashtag das redes sociais&#160;#immunebooster&#160;funcionava como um produto retórico usado para “gerar atividade na&#160;economia da atenção&#160;online”. Outras empresas podem promover produtos ou serviços que supostamente fortalecem o sistema imune com alegações nesse sentido, como&#160;hidroterapia,&#160;infusões intravenosas, limpezas e desintoxicações. No passado, empresas de cereais também comercializaram seus produtos como&#160;“auxiliares” da imunidade. Não há evidências sólidas de que qualquer uma dessas atividades traga benefícios à função imune. Suplementos à base de células-tronco Suplementos alimentares na forma de&#160;vitaminas, minerais ou ervas&#160;também oferecem benefícios limitados para quem não apresenta deficiências diagnosticadas. Conforme observado em um&#160;artigo sobre fortalecimento imune&#160;publicado por uma rede farmacêutica canadense, “até o momento, nenhum medicamento, produto ou remédio natural foi oficialmente aprovado pelo Ministério da Saúde do Canadá para fortalecer o sistema imune”. Empresas, no entanto, comercializam produtos como&#160;fortalecedores explícitos&#160;ou, de maneira geral, como produtos que oferecem “benefícios ao sistema imune”. Uma pesquisa recente de nossa equipe, por exemplo, avaliou a comercialização de suplementos de “células-tronco” no marketplace de comércio eletrônico da Amazon. Descobrimos que mais de 40% dos produtos alegavam benefícios relacionados à imunidade. Os suplementos são hoje um grande negócio, com uma&#160;mercado avaliado na casa das centenas de bilhões de dólares. Não é surpreendente encontrar uma abordagem de marketing ampla e abrangente para produtos como os suplementos de “células-tronco”, que&#160;não apresentam evidências claras de eficácia para nenhuma condição de saúde Confiança na medicina A comercialização da imunidade é uma preocupação para todos nós.&#160;Espaços de saúde&#160;comercializados podem prejudicar a confiança nos&#160;sistemas de saúde e gerar confusão sobre em quem e no que confiamos. Se nossas percepções forem moldadas por empresas&#160;e influenciadores, isso pode influenciar negativamente atividades essenciais de saúde baseadas em evidências, como a vacinação. A disseminação desenfreada de desinformação sobre vacinas durante a pandemia desestimulou a adesão à vacinação e contribuiu para promover noções incorretas sobre&#160;imunidade pessoal. A relutância em relação à vacina é altamente complexa, com múltiplos fatores em jogo. A política e a polarização são, cada vez mais,&#160;forças influentes. O discurso impreciso sobre imunidade apenas obscurece ainda mais o panorama informativo e, por sua vez, a tomada de decisão sobre a vacinação. O marketing de saúde e bem-estar é astuto e sedutor, cuidadosamente elaborado para despertar nosso interesse e oferecer soluções. No ambiente midiático atual, todos precisamos ser cautelosos e críticos em relação às empresas que comercializam produtos e serviços voltados para nossa saúde e bem-estar. Isso é importante ao avaliar&#160;a preparação para qualquer pandemia futura&#160;e como nossos sistemas de saúde podem construir e manter a confiança do público. Uma compreensão precisa da imunidade nos ajuda a manter um sistema imune que funcione bem, e uma sociedade que também funcione bem. Alessandro Marcon é pesquisador associado sênior do Instituto de Direito da Saúde da Universidade de Alberta, no Canadá. Jia Hu é médica de saúde pública nos Programas de Imunização e de Prevenção e Promoção da Saúde da Universidade da Colúmbia Britânica, no Canadá.",
+      "region": "global",
+      "published": "2026-11-09T18:25:19+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "A empresa média pode chegar antes no uso de inteligência artificial",
+      "link": "https://www.nexojornal.com.br/debate/2026/11/08/ia-para-empresas-uso-ia-empreendedorismo",
+      "teaser": "O início é menos sobre infraestrutura e mais sobre uso do dado que já existe Em maio, quando abri esta série, a frase que eu mais ouvia de empresários era “eu não sei por onde começar”. Alguns meses e alguns projetos depois, a resposta que tenho é mais simples do que eu imaginava: pelo dado que a empresa já tem e sem gastar com infraestrutura. A percepção do mercado vai na direção oposta. Na pesquisa de inovação do IBGE (Instituto Brasileiro de Geografia e Estatística) com indústrias de 100 ou mais funcionários, o custo alto aparece como obstáculo para 78,6% das empresas, e a falta de gente qualificada para 54,2%. Os números falam de tecnologias digitais avançadas em geral, mas ajudam a entender por que tanta empresa adia. Na pesquisa TIC Empresas, do Cetic.br, a empresa média usa bem menos IA que a grande, 32% contra 50%. O que vi nos últimos meses deveria contar outra história. Em uma fabricante de alimentos, a ligação entre a IA e o sistema de gestão ficou pronta em menos de uma semana. Quem fez foi a equipe de tecnologia da própria empresa, seguindo um roteiro simples, sobre um espelhamento dos dados que só permite leitura. Sem licença nova e sem risco para a operação. Com o histórico de vendas desde 2020, a primeira versão de um modelo simples de previsão de demanda errou cerca de quatro vezes menos que o método usado até então, olhando três meses à frente. Numa distribuidora, os dados que já estavam no sistema passaram a mostrar a margem real por vendedor e por pedido, depois de descontos e bonificações. A informação estava lá. Faltava montá-la de forma acionável para implementação de quem cuida do processo. Comece por uma pergunta de negócio que já incomoda alguém e pelo dado que está guardado no sistema há anos Numa rede de varejo em dificuldade, trabalhamos sem integração. Por extração, recebemos cerca de 10 GB de dados, lidos e processados em poucos minutos. Somada a entrevistas com a liderança, essa primeira leitura contribuiu para a geração de uma lista de iniciativas para recuperar o negócio, quantificando o efeito de cada uma em um trabalho que antigamente tomava semanas. Os três exemplos começaram pelo sistema que a empresa já usava, sem um projeto de tecnologia de meses antes. Sim, isso significou zero custo ou investimento. O que a IA não resolve sozinha é saber se o número faz sentido. Flávio Pies mostrou nesta série que ela erra com a mesma cara de quem acerta, e com dado de empresa acontece igual. Na fabricante, a tabela de notas fiscais registrava cada cancelamento duas vezes e a primeira soma de vendas saiu inflada. Na distribuidora, um erro na parametrização do sistema contou em dobro os impostos, prejudicando o custeio do produto e as consequentes conclusões. A IA processou tudo sem reclamar. Quem percebeu o problema foi gente que conhece o negócio. Na empresa média, a IA começa no sistema que já está lá e a liderança sabe quais são as dores do negócio. Nosso trabalho foi trazer método e unir essas pontas. Nisso, a empresa média pode levar vantagem sobre a grande. O estudo do MIT (Massachussetts Institute of Technology) que citei em maio, aquele dos 95% de projetos-piloto sem retorno mensurável, traz um dado menos comentado: empresas de médio porte levaram cerca de 90 dias do piloto à implementação, contra nove meses ou mais nas grandes. Faz sentido. Na média, o dono está perto e a cadeia de aprovação é curta. Vanessa Sandrini lembrou aqui que a decisão continua sendo humana. Na empresa média, ela só demora menos. Tem um cuidado que precisa entrar na conta desde o início: o que foi construído não pode ir embora com o consultor. Esses trabalhos funcionam melhor se já forem feitos juntos, ou melhor, através da equipe executiva do cliente. Essa colaboração melhora o resultado e permite o enraizamento do conhecimento da solução e do uso potente de IA no negócio.&#160; Em uma empresa sem ninguém que conheça o próprio sistema por dentro, desconfio que o ritmo seja outro. Em maio, propus três escolhas para adotar a IA: letramento, governança e onde aplicar. Continuam valendo. O que esses meses de trabalho me deram foi uma resposta melhor para a pergunta do começo. Comece por uma pergunta de negócio que já incomoda alguém e pelo dado que está guardado no sistema há anos. Escrevi também que a janela estava aberta. Continua, e entrar por ela custa menos do que parece. Francisco Rochadel é CEO e fundador da Mondoré. Pebio-Mondoré Este artigo de opinião faz parte do Debate 'As escolhas em relação à inteligência artificial'. A série é produzida com o apoio da Mondoré, consultoria estratégica e empresa B certificada que tem como missão contribuir para o aumento de produtividade de negócios nacionais a partir de diagnósticos de gestão, operação e da adoção da IA de forma realista, prática e considerando seus impactos socioambientais.",
+      "region": "global",
+      "published": "2026-11-08T23:12:36+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Como a América Latina chega à COP31, na Turquia",
+      "link": "https://www.nexojornal.com.br/externo/2026/11/08/cop31-2026-turquia-america-latina-cop30-belem",
+      "teaser": "Agenda defendida em Belém perde força para a nova edição da cúpula da ONU. Planos para combustíveis e financiamento climático devem ser temas abordados na conferência &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2026/11/20240328_fumaca-incendio-Amazonia-Brasil_Amazing-Aerial_Alamy-3FYMG59-1024x683-1.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Incêndio florestal na Amazônia brasileira &lt;/media:title&gt; &lt;media:credit&gt; Amazing Aerial / Alamy &lt;/media:credit&gt; &lt;/media:content&gt; A América Latina chega à cúpula climática da ONU deste ano com menos apoio político para a agenda que promoveu há um ano no Brasil. Muitos países latino-americanos demonstraram mais unidade na COP30, realizada em novembro de 2025 em Belém, do que em anos anteriores. Essas alianças pressionaram por metas mais ambiciosas em áreas como transição energética, desmatamento e financiamento climático. Desde então, alguns dos líderes que tiveram papel fundamental no avanço dessa agenda deixaram o cargo, levando consigo qualquer perspectiva de uma voz regional unida. A Colômbia elegeu um presidente que prometeu&#160;aumentar a produção de petróleo e adotar o&#160;fracking&#160;(fraturamento hidráulico), uma mudança radical em relação à iniciativa do governo anterior de abandonar os combustíveis fósseis. O novo governo do Chile&#160;revogou mais de 40 decretos ambientais&#160;nos primeiros meses de mandato e cortou o financiamento para o Ministério do Meio Ambiente e para tratados internacionais, incluindo o de Escazú. O governo do presidente Rodrigo Paz&#160;eliminou&#160;o Ministério do Meio Ambiente da Bolívia em agosto. O Acordo de Escazú entrou em vigor em abril de 2021, tornando-se o primeiro&#160;tratado regional&#160;na América Latina e no Caribe sobre direitos ambientais O Brasil é uma exceção notável. O quarto mandato do presidente Luiz Inácio Lula da Silva, em detrimento de mais um governo dos Bolsonaro, reafirmou o governo que liderou a COP30 – embora com menos aliados regionais do que há um ano. Mesmo Lula, no entanto, tem enfrentado críticas por apoiar a exploração de combustíveis fósseis na bacia do rio Amazonas. “Temos uma situação política totalmente diferente da de um ano atrás”, disse Andrés Gómez, diretor para a América Latina da Iniciativa do Tratado sobre Combustíveis Fósseis, ao Dialogue Earth. “Os governos de extrema direita estão interessados em explorar tudo em seus territórios.” Mantendo o ímpeto de Belém A COP31 começa em Antália nesta segunda-feira, 9, com a Turquia como anfitriã e a Austrália presidindo as negociações. A conferência retomará os assuntos pendentes de Belém: dois planos de ação, um sobre o abandono dos combustíveis fósseis e outro sobre o fim do desmatamento; e um apelo para aumentar o financiamento climático. Ana Toni, diretora-executiva da COP30, está otimista. “Estou bastante confiante de que o impulso criado na COP30 terá continuidade na COP31”, disse ela ao Dialogue Earth. A Turquia anunciou a cúpula como uma&#160;“COP da implementação”, com foco no apoio aos países na concretização de seus planos climáticos. Na América Latina, a&#160;grande maioria&#160;dos países apresentou Contribuições Nacionalmente Determinadas (NDCs) atualizadas no âmbito do Acordo de Paris nos últimos dois anos&#160; — as NDCs 3.0 deveriam ser apresentadas até 2025. Argentina, Guatemala e Haiti ainda não o fizeram. De acordo com o Acordo de Paris de 2015, os países são obrigados a elaborar um plano de ação para seus esforços de redução das emissões nacionais e adaptação aos impactos das mudanças climáticas. Esses compromissos são conhecidos como Contribuições Nacionalmente Determinadas (NDCs). As NDCs são apresentadas a cada cinco anos, e devem ser mais ambiciosas do que as anteriores (o chamado “mecanismo de catraca”). Combinadas, essas metas nacionais devem resultar em um esforço global coordenado para reduzir a gravidade e o impacto das mudanças climáticas. Como anfitriã da COP, a Turquia pode escolher um tema central de agenda que deseja abordar, e optou pela eletrificação. O presidente da COP31, Murat Kurum,&#160;propôs&#160;uma meta global voluntária para aumentar a parcela da demanda final de energia atendida pela eletricidade, de pouco mais de 20% (em junho de 2026) para 35% até 2035. No que diz respeito à energia, a América Latina se aproxima da média global de eletrificação: a eletricidade atende a&#160;cerca de 20%&#160;de sua demanda final de energia. Mas sua rede elétrica é muito mais limpa do que a maioria, com&#160;65%&#160;da eletricidade proveniente de fontes limpas em 2025. A extração de petróleo se tornou um tema político em vários países. As discussões sobre o&#160;fracking&#160;(fraturamento hidráulico) se tornaram um dos principais pontos de debate nas eleições colombianas, onde o candidato vencedor, Abelardo de la Espriella, apresentou os combustíveis fósseis como um caminho para a prosperidade. Alejandra López, diretora de diplomacia climática do&#160;think tank&#160;regional Transforma, afirma que a eletrificação poderia ajudar a separar a política das ações climáticas na região. “Eletrificação, mobilidade, segurança energética, geração de empregos, transporte público: todas essas são agendas que não são politizadas da esquerda à direita, e não soam como questões ambientais”, disse ela ao Dialogue Earth. Dois mapas do caminho à vista À frente da presidência da COP30,&#160;o Brasil buscou incluir compromissos concretos&#160;sobre o desmatamento e a eliminação gradual dos combustíveis fósseis no acordo final da cúpula do ano passado. No entanto, divergências entre os governos fizeram com que esses pontos não fossem aprovados nas negociações. O país anunciou então que elaboraria dois mapas do caminho voluntários e os apresentaria na Turquia. Um abordaria a eliminação gradual dos combustíveis fósseis, e o outro, o desmatamento e o manejo florestal sustentável. Os documentos não têm caráter vinculativo, mas podem servir como uma referência a ser seguida pelos governos nacionais. A América do Sul perdeu mais floresta do que qualquer outra região do mundo entre 2015 e 2025, com uma média de&#160;4,1 milhões de hectares&#160;por ano. Isso foi causado por atividades como agricultura, pecuária e construção de infraestrutura. No entanto, há alguns casos de sucesso, incluindo&#160;o menor nível de desmatamento desde 1988&#160;alcançado pelo Brasil neste ano. &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2026/11/20251009_campo-soja_Balsas_Brasil_Fernando-Frazao_Agencia-Brasil-1.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Embora a América do Sul tenha perdido mais floresta do que qualquer outra região entre 2015 e 2025, no Brasil o desmatamento está atualmente em seu nível mais baixo desde 1988 &lt;/media:title&gt; &lt;media:credit&gt; Fernando Frazão / Agência Brasil &lt;/media:credit&gt; &lt;/media:content&gt; A região também está&#160;extraindo&#160;mais combustíveis fósseis: sua produção de petróleo aumentou 20% no ano passado, impulsionada principalmente pela Guiana e pelo Brasil. Países de toda a região, incluindo a Argentina e o Brasil, também buscam ativamente expandir a extração de petróleo e gás. Citando a atual crise no estreito de Ormuz, Ana Toni argumentou que abandonar os combustíveis fósseis não é apenas um problema climático: “É um problema econômico, político e de soberania.” O ônus financeiro O pacote final da COP30 revelou um&#160;plano&#160;para mobilizar cerca de US$ 1,3 trilhão em financiamento climático para os países em desenvolvimento por ano até 2035. Os países concordaram em&#160;triplicar&#160;o financiamento para adaptação até esse ano, em relação aos níveis de 2025. Com base na meta de Glasgow de cerca de&#160;US$ 40 bilhões&#160;por ano, isso significaria aproximadamente US$ 120 bilhões. Críticos&#160;observaram, no entanto, que o compromisso da COP30 carece de uma base de referência definida e não especifica quem é responsável pelo aumento. “O mundo precisa urgentemente de financiamento para adaptação para prevenir e preparar as comunidades vulneráveis a desastres e para o surgimento crescente dos impactos climáticos”, disse Tariye Gbadegesin, CEO dos Fundos de Investimento Climático, ao Dialogue Earth. “Atualmente, os países em desenvolvimento recebem um financiamento para adaptação de 12 a 14 vezes menor do que precisam.” No ano passado, o Brasil também lançou o Fundo Florestas Tropicais Para Sempre, criado para remunerar os países pela preservação das florestas com uma meta de captação de US$ 10 bilhões até 2026. Os compromissos assumidos já alcançaram quase US$ 8 bilhões até o momento. Omontante ainda está bem distante dos US$ 125 bilhões vislumbrados por seus idealizadores, mas novos compromissos podem ser anunciados ainda este ano. A questão para a região também é quem paga e em que condições. A América Latina e o Caribe receberam&#160;17%&#160;do financiamento internacional para o clima entre 2016 e 2020. Esse montante veio principalmente na forma de empréstimos, e não de doações, aumentando dívidas que já são pesadas. Em vários países, o serviço da dívida já&#160;excede&#160;os gastos em áreas como saúde e educação. Um bloco fragmentado Nas COPs, os países latino-americanos negociam individualmente e em vários blocos, diferente de outros continentes, como a África, que votam e fazem lobby em conjunto. A maioria das nações faz parte de múltiplos agrupamentos, formados com base em interesses e posições comuns. Todos os países da região integram há muito tempoo Grupo dos 77 e China, uma coalizão de nações em desenvolvimento que atua no âmbito do sistema da ONU. Enquanto isso, um bloco que inclui Chile, Colômbia e Panamá compõe a Associação Independente da América Latina e do Caribe (Ailac). Há também o Grupo Sul, um bloco formado principalmente por países do Cone Sul, bem como a Alternativa Bolivariana para as Américas, que ganhou&#160;destaque&#160;no final da década de 2000. “A possibilidade que a América Latina e o Caribe têm ao negociar em conjunto tem um poder superior a qualquer possibilidade que possamos ter ao negociar separadamente” María Fernanda Souza diretora de mudanças climáticas do Uruguai O resultado desses agrupamentos diversos&#160; é que a América Latina se mostra dividida nas negociações. A unidade regional como a demonstrada pela África, permitiu que o continente alcançasse resultados mais eficazes, segundo alguns especialistas. María Fernanda Souza, diretora de mudanças climáticas do Uruguai e presidente suplente do Grupo dos 77, disse ao Dialogue Earth que a incapacidade de negociar como um bloco “teve e continua a ter custos” para a América Latina. “Não consigo identificar exatamente por que não conseguimos estar mais unidos”, continuou ela. “A possibilidade que a América Latina e o Caribe têm de negociar em conjunto tem um poder superior a qualquer possibilidade que possamos ter ao negociar separadamente.” Souza destaca que os interesses dos países do sul, que dependem fortemente das indústrias pecuária e agrícola, são diferentes dos das ilhas do Caribe, que têm sido duramente atingidas pelas mudanças climáticas e precisam desesperadamente de recursos para se adaptar. No entanto, há questões específicas em que os países latino-americanos deveriam ser capazes de deixar de lado as diferenças políticas e se unir, disse López. Ela identificou o financiamento climático como um desses temas para a COP31: “Como não há grandes conflitos, os países conseguirão se alinhar mais facilmente.” Toni acredita que essa divisão precede mudanças políticas recentes na região: “Mesmo quando havia outros governos no poder, nunca falamos realmente a uma só voz.” Ela rejeitou a ideia de que a região seja diversa demais para se alinhar, ressaltando que a África, que vota em bloco, também possui uma pluralidade de países, incluindo pequenos estados insulares. “Acho que sempre é possível, e acho que é desejável”, disse ela. López teme que uma América Latina com perfil discreto na COP31 leve essa fraqueza para a COP32, a ser sediada na Etiópia: “No momento em que se destaca a África como uma região especial – uma região particularmente vulnerável –, [haverá] aqueles que ficarão de fora do universo do ‘somos importantes, somos vulneráveis’. E essa será a América Latina.”",
+      "region": "global",
+      "published": "2026-11-08T23:06:27+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Por que o voto distrital sempre volta ao debate no Brasil",
+      "link": "https://www.nexojornal.com.br/expresso/2026/11/08/enquete-voto-distrital-ministro-pl-pec-2-2025-hugo-motta",
+      "teaser": "Presidente da Câmara, Hugo Motta tenta aprovar ainda em 2026 adoção de novo sistema eleitoral para escolha de deputados federais e estaduais e vereadores. País adotou modelo entre os séculos 19 e 20 &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2026/11/int9415.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Pessoa votando no segundo turno das eleições de 2026, em São Paulo &lt;/media:title&gt; &lt;media:credit&gt; Paulo Pinto / Agência Brasil - 25.10.2026 &lt;/media:credit&gt; &lt;/media:content&gt; Após o segundo turno das eleições de 2026, o presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), voltou a articular uma reforma eleitoral no Brasil, com a substituição do sistema proporcional pelo distrital misto. A mudança ocorreria para os cargos de deputados federais e estaduais e vereadores a partir de 2034, com um modelo de transição em 2030. “Queremos avançar com essa proposta ainda este ano para que tanto a Câmara quanto o Senado avaliem essas mudanças. Tudo isso visando a trazer mais eficiência e a possibilidade de respeitar o voto do eleitor sobre a sua representação federal, estadual e municipal” Hugo Motta presidente da Câmara dos Deputados, em entrevista a jornalistas em 28 de outubro A proposta é vista como uma forma de os parlamentares do centrão minarem a ação de “puxadores de votos”, após o esvaziamento do número de representantes do bloco no Legislativo a partir de 2027. O sistema eleitoral brasileiro teve modelos de voto distrital misto entre 1855 e 1932, com tentativas de retorno desde a formulação da Constituição Federal de 1988. Neste texto, o Nexo apresenta o atual modelo e as diferenças para o voto distrital e seu modelo misto. Também mostra os momentos em que se tentou retomar esse sistema eleitoral no Brasil e explica o que fez a discussão voltar em 2026. O atual sistema eleitoral Atualmente, o Brasil tem dois sistemas eleitorais em vigor: o majoritário, em que o candidato eleito é o que obtém maioria dos votos (válido para presidentes, governadores, prefeitos e senadores) o proporcional (válido para deputados federais e estaduais e vereadores), em que o eleito é definido com base em cálculos que levam em consideração o total de votos recebido pelo partido ou pela federação; a partir daí, os candidatos mais votados dentro da sigla são chamados para assumir as cadeiras O cálculo do modelo proporcional baseia-se no chamado quociente eleitoral. Nele, divide-se a quantidade total de votos válidos — excluindo os brancos e nulos — pela quantidade de vagas ao cargo. O resultado é a quantidade de votos necessária para que o partido ou a federação tenha uma cadeira na Casa legislativa.&#160; O modelo proporcional permite que candidatos que receberam uma grande quantidade de votos puxem outros do mesmo partido ou federação. Para assumir essa cadeira, o candidato “puxado” precisa atingir, no mínimo, 10% de votos do quociente eleitoral.&#160;&#160; O Nexo fez um vídeo demonstrando o cálculo do quociente eleitoral em setembro de 2022.&#160; O deputado federal Nikolas Ferreira (PL-MG), por exemplo, se tornou o mais votado da história do Brasil em 2026, acumulando mais de 3,11 milhões de votos. Como o quociente eleitoral de Minas Gerais foi de 214.720 votos, ele obteve outras 13 cadeiras para o partido. Já o caso da federação PSOL/Rede em São Paulo mostra a dificuldade de eleger candidatos quando há uma alta concentração de votos. A votação expressiva de deputadas federais como Erika Hilton (com 1,59 milhões de votos) e Sâmia Bomfim (com 583,10 mil votos) fez com que a federação tivesse direito a nove cadeiras na Câmara dos Deputados. No entanto, somente seis candidatos atingiram os 10% do quociente eleitoral em São Paulo – de 33.821 votos.&#160; O que é o voto distrital No caso do voto distrital, o território é dividido em pequenos distritos e os eleitores escolhem um político para representar aquele espaço. Essa divisão pode ser federal, estadual ou municipal, a depender do cargo em disputa.&#160; Diferentemente do sistema proporcional, o voto distrital elege o candidato que tiver mais votos na região, independentemente da quantidade de votos para o partido ou para a coligação. Os votos dados aos candidatos não eleitos são descartados. Há algumas variações do voto distrital. O “distritão”, por exemplo, considera que cada estado é um distrito — no caso de vereadores, cada município é um distrito —, e há um candidato por distrito. Já no sistema distrital puro, o número de cadeiras é distribuído a partir da quantidade de deputados que a unidade da federação tem direito no Congresso.&#160; No caso de São Paulo, por exemplo, que tem direito a 70 cadeiras na Câmara dos Deputados no atual modelo, o território estadual seria dividido em 70 distritos, com um eleito para cada região. 5 é o número de países que adotam o “distritão” em 2026, como Afeganistão e Iraque. Os dados são do International Idea (Instituto Internacional para a Democracia e Assistência Eleitoral) 61 é o número de países que adotam o distrital puro em 2026, como Estados Unidos e Reino Unido. Os dados são do International Idea&#160; Outra variação do voto distrital é o misto. Nesse caso, o eleitor dá dois votos: um para o candidato que deseja que represente seu distrito; e outro para o partido ou a coligação desejada. Com isso, metade das cadeiras são conquistadas pela votação majoritária no distrito e a outra parte é distribuída como no sistema proporcional, com uma lista fechada de candidatos. 7&#160; é o número de países que adotam o voto distrital misto em 2026, como Alemanha e México. Os dados são do International Idea&#160; O voto distrital no Brasil O sistema de representação proporcional para o Legislativo é vigente no Brasil desde a instauração do Código Eleitoral de 1932. A lei seguinte, de 1965, segue o mesmo modelo eleitoral e está válida até os dias atuais.&#160; Segundo Karolina Roeder, doutora em ciência política pela UFPR (Universidade Federal do Paraná) e professora na Uninter, a mudança de 1932 não foi neutra. “Ela integrou o conjunto de reformas do período pós-Revolução de 1930, que buscavam enfraquecer o poder das oligarquias regionais que haviam dominado a Primeira República”, afirmou ao Nexo.&#160; “A proporcionalidade, junto com o voto secreto, o sufrágio feminino e a criação da Justiça Eleitoral, apareceu como instrumento para ampliar a competição, abrir espaço a minorias políticas e reduzir o monopólio das elites regionais sobre a representação” Karolina Roeder doutora em ciência política pela UFPR e professora na Uninter, em entrevista ao Nexo Antes do Código Eleitoral de 1932, variações do modelo distrital foram adotadas para as eleições legislativas. A primeira lei a tratar do sistema foi a Lei dos Círculos, de 1855. Nela, as províncias eram divididas em círculos (distritos), em que o candidato mais votado era eleito. O sistema distrital seguiu com algumas variações — como a quantidade de deputados a serem eleitos por círculo — até 1932. Houve um breve hiato no uso do modelo eleitoral entre 1875 e 1881, quando cada província passou a ter direito a apenas um deputado. “O sistema distrital, nesse contexto, estava associado ao coronelismo e à chamada política dos governadores, já que a definição dos distritos e o controle do voto local, somados à ausência de uma Justiça Eleitoral independente, favoreciam as máquinas políticas estaduais e locais”, disse Roeder.&#160; Com o fim da ditadura militar, em 1985, o retorno do sistema distrital chegou a ser discutido durante a formulação da Constituição Federal de 1988. Desde então, propostas para o voto legislativo por distrito estiveram presentes no Congresso Nacional, mas com pouca efetividade. Quando o Brasil discutiu o voto distrital &#160; 1988 Durante a Assembleia Constituinte, que elaborou a Constituição Federal, houve a discussão sobre qual seria o sistema eleitoral do Brasil. A proposta de voto distrital foi rejeitada ainda nas subcomissões do colegiado. &#160; 1999&#160; O então deputado federal cearense Sérgio Machado, à época no PSDB, propôs uma PEC (Proposta de Emenda à Constituição) para substituir o sistema proporcional pelo distrital. A proposta estabelecia que nenhuma unidade da federação poderia eleger menos de oito parlamentares e mais de 70, totalizando os 513 atuais. A emenda chegou à CCJ (Comissão de Constituição, Justiça e Cidadania), mas foi arquivada em 2003. &#160; 2006 O PSDB voltou a defender o voto distrital em 2006, a partir de uma PEC proposta pelo deputado federal paulista Arnaldo Madeira. Havia uma pressão por uma reforma política após o escândalo do mensalão no ano anterior. A medida foi aprovada na CCJ, mas não chegou a ser votada pelo plenário e foi arquivada. &#160; 2015 A PEC 182/2007, de autoria do então senador Marco Maciel (DEM-PE), levou oito anos para ser votada no plenário da Câmara dos Deputados. Ao longo do período, a proposta de eleição distrital mista foi incluída no texto. Em 2015, os deputados rejeitaram a proposta por um placar de 369 votos a 99. &#160; 2017 O plenário da Câmara dos Deputados também rejeitou a proposta de voto distrital em 2017. A mudança de sistema foi incluída na reforma eleitoral da PEC 77/2003, de autoria da então senadora Ideli Salvatti (PT-SC), mas foi derrotada por 238 a 205 votos. &#160; 2021 A Câmara dos Deputados aprovou a PEC 125/2011, que propunha uma reforma ao sistema eleitoral e a volta das coligações, em novembro de 2021. Embora o texto principal tenha sido aprovado, a proposta de distritão foi excluída durante a votação dos destaques. A derrubada se deu pelo placar de 423 votos a 35. Os prós e os contras do sistema distrital A substituição do voto proporcional pelo distrital misto não é bem recebida por vários cientistas políticos. Em junho de 2021, o pesquisador Jairo Nicolau afirmou ao jornal O Estado de S. Paulo que esse era “o pior sistema eleitoral do mundo”.&#160; Para João Carlos Amoroso Botelho, professor do Departamento de Ciência Política da UFMG (Universidade Federal de Minas Gerais), o sistema distrital misto tem mais desvantagens do que vantagens. “Ao combinar regras, esses sistemas tentam resolver problemas dos sistemas majoritários e proporcionais, mas acabam criando outros problemas, sem resolver os já existentes”, disse ao Nexo. Entre os argumentos favoráveis ao modelo distrital misto, está a aproximação do eleitor com seu candidato, permitindo-lhe fazer cobranças mais diretamente. “Também se argumenta que o sistema reduz os custos de campanha, ao circunscrever a disputa a um território menor, e pode diminuir a fragmentação partidária e o personalismo que caracterizam a lista aberta brasileira, além de tornar o voto mais inteligível”, afirmou Roeder.&#160; Já as preocupações com o voto distrital envolvem o desperdício de votos, a sub-representação de minorias e o favorecimento de partidos maiores. “Há também o risco de paroquialismo, com parlamentares voltados a demandas locais em detrimento de pautas nacionais, além de maior vulnerabilidade ao clientelismo e a lideranças territorialmente dominantes”, segundo a doutora em ciência política pela UFPR. O retorno da discussão Com o resultado das eleições legislativas de 2026 e o crescimento da bancada do PL — de 98 para 121 deputados —, lideranças partidárias do centrão voltaram a discutir a possibilidade do modelo distrital. Isso porque o sistema proporcional atual permitiu que nomes como Nikolas Ferreira e Lucas Pavanato (PL-SP) concentrassem votos e abrissem cadeiras para candidatos do partido com menor força eleitoral. Ambos têm alta participação nas redes sociais. Além de Motta, o encontro que deu início à articulação teve a presença de representantes do PP, União Brasil, MDB, Republicanos, PSD, PSDB, Cidadania, Podemos e PSB. Entre eles, somente o Republicanos e o Podemos aumentaram sua bancada na Câmara nas eleições de 2026.&#160; As duas maiores bancadas da Câmara, o PL e o PT, são resistentes à aprovação do projeto. Após o encontro de líderes, Motta afirmou que irá conversar com as lideranças dos partidos e coligações. “Estou feliz em reabrir esse debate e encontrar uma janela ainda neste ano para fazer essa mudança. Estou aqui para atender a um apelo dos líderes, e chegou o momento de enfrentar esse tema”, disse o presidente da Casa.&#160; Botelho discorda da decisão de Motta. “Ao invés de voltar à proposta de sistema misto, que não evitaria o efeito Nikolas, o melhor seria a continuidade da tentativa de aprimorar o que já existe, como foi o caso com a proibição das coligações nas eleições proporcionais, o que tem reduzido a fragmentação do sistema partidário no Brasil”, afirmou o professor da UFMG. O voto distrital misto representa o estágio final da proposta formulada por Motta para as eleições gerais de 2034. No pleito anterior, de 2030, o sistema aplicado seria o do distritão, como forma de transição.&#160; Para Roeder, é preciso ter atenção à constante alteração de regras eleitorais. “Nas últimas décadas, o país mudou com frequência temas como coligações proporcionais, cláusula de desempenho, financiamento de campanhas e federações. Somar a isso uma troca de sistema amplia a instabilidade e impede avaliar o efeito de cada mudança, o que torna difícil distinguir o que cada nova regra produziu do que decorre de reformas anteriores”, disse a doutora em ciência política pela UFPR.",
+      "region": "global",
+      "published": "2026-11-08T23:00:23+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Comissão da Câmara Legislativa do DF questiona porte de armas por PMs fora de serviço",
+      "link": "https://www.brasildefato.com.br/2026/11/09/comissao-da-camara-legislativa-do-df-questiona-porte-de-armas-por-pms-fora-de-servico/",
+      "teaser": "A Comissão de Direitos Humanos da Câmara Legislativa do Distrito Federal (CLDF) vai cobrar explicações da Polícia Militar do Distrito Federal (PMDF) sobre as regras para o porte de armas por policiais durante os períodos de folga. A iniciativa ocorre após o assassinato de Alessandra da Silva Oliveira Andrade, de 26 anos, morta a tiros [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-09T20:17:46+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Copa da Reforma Agrária encerra edição no Ceará reafirmando esporte como direito do povo do campo",
+      "link": "https://www.brasildefato.com.br/2026/11/09/copa-da-reforma-agraria-encerra-edicao-no-ceara-reafirmando-esporte-como-direito-do-povo-do-campo/",
+      "teaser": "No último sábado (7), aconteceu a grande final da 4ª Copa Estadual da Reforma Agrária, no Estádio Municipal Raimundo de Oliveira, em Caucaia (CE). Conhecida como a maior Copa Camponesa do Brasil, a competição chegou à decisão após cinco meses de jogos e mobilização em todo o estado. A programação começou com música ao vivo, [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-09T20:07:47+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Distrito Federal recebe 100 doses da vacina contra mpox para grupos prioritários",
+      "link": "https://www.brasildefato.com.br/2026/11/09/distrito-federal-recebe-100-doses-da-vacina-contra-mpox-para-grupos-prioritarios/",
+      "teaser": "Após um período de desabastecimento, o Distrito Federal recebeu 100 novas doses da vacina contra a mpox no sábado (7). O lote chega em meio ao registro de novos casos da doença na capital e será destinado inicialmente a grupos considerados prioritários pelo Ministério da Saúde. No cenário nacional, o governo federal anunciou a aquisição [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-09T19:59:02+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Brasil chega à COP31 com ‘outra moral’: menos desmatamento e menos emissões, aponta secretário do Observatório do Clima",
+      "link": "https://www.brasildefato.com.br/2026/11/09/brasil-chega-a-cop31-com-outra-moral-menos-desmatamento-e-menos-emissoes-aponta-secretario-do-observatorio-do-clima/",
+      "teaser": "Márcio Astrini afirma que grande gargalo das conferências é tirar os acordos do papel Fonte",
+      "region": "global",
+      "published": "2026-11-09T19:43:39+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Coletivo Mãos Solidárias distribui lanches e canetas em locais de prova do Enem em Porto Alegre",
+      "link": "https://www.brasildefato.com.br/2026/11/09/coletivo-maos-solidarias-distribui-lanches-e-canetas-em-locais-de-prova-do-enem-em-porto-alegre/",
+      "teaser": "O coletivo Mãos Solidárias distribuiu lanches, água e canetas a participantes do Exame Nacional do Ensino Médio (Enem), no domingo (8), em Porto Alegre. A ação contou com banquinhas solidárias em frente aos locais de prova e foi realizada em conjunto com as cozinhas solidárias da Vila Jardim, Tia Grazi, Prato Cheio e Cefer 2 [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-09T19:33:24+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Na COP31, OMS defende sistemas de saúde resilientes ao clima",
+      "link": "https://www.brasildefato.com.br/2026/11/09/na-cop31-oms-defende-sistemas-de-saude-resilientes-ao-clima/",
+      "teaser": "As mudanças climáticas não são uma ameaça futura, mas uma crise de saúde acontecendo agora. O alerta foi feito pelo diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus, nesta segunda-feira (9), em Antália, na Turquia, durante a 31ª Conferência das Nações Unidas sobre Mudança do Clima (COP31). “Os impactos das mudanças climáticas na [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-09T19:24:55+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Fux suspende todas as ações judiciais contra proibição de bets no país",
+      "link": "https://www.brasildefato.com.br/2026/11/09/fux-suspende-todas-as-acoes-judiciais-contra-proibicao-de-bets-no-pais/",
+      "teaser": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), atendeu a um pedido da Procuradoria-Geral da República (PGR) e determinou a suspensão de todas as ações eventualmente abertas no país contra a proibição das bets. A decisão é válida até que o plenário do STF julgue a constitucionalidade da Medida Provisória 1.394/2026, que proibiu, em [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-09T19:06:45+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Moro anuncia mais dois secretários: pasta da Segurança Pública promete presídio que já existe",
+      "link": "https://www.brasildefato.com.br/2026/11/09/moro-anuncia-mais-dois-secretarios-pasta-da-seguranca-publica-promete-presidio-que-ja-existe/",
+      "teaser": "O ex-juiz da Lava Jato e governador eleito do Paraná, Sergio Moro (PL), anunciou mais dois secretários nesta segunda-feira (9). O vice-governador eleito e atual presidente da Federação das Indústrias do Paraná (Fiep), Edson Vasconcelos, assume a Infraestrutura. A Segurança Pública fica com Fabiano Bordignon, delegado da Polícia Federal de Foz do Iguaçu (PR).&#160; Eles [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-09T19:03:36+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Dólar encerra estável, aos R$ 5,50; Bolsa sobe 2%",
+      "link": "https://oglobo.globo.com/economia/financas/ao-vivo/ibovespa-hoje-acompanhe-bolsa-e-dolar.ghtml",
+      "teaser": "Dólar encerra estável, aos R$ 5,50; Bolsa sobe 2% Boletim Focus piorou expectativas para indicadores. Petróleo cai 4%, mas juros futuros operam estáveis",
+      "region": "global",
+      "published": "2026-11-09T22:11:08+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Homem apontado como integrante de quadrilha que fornecia fuzis ao Comando Vermelho no Rio é preso na Bahia",
+      "link": "https://oglobo.globo.com/rio/noticia/2026/11/09/homem-apontado-como-integrante-de-quadrilha-que-fornecia-fuzis-ao-comando-vermelho-no-rio-e-preso-na-bahia.ghtml",
+      "teaser": "Um homem apontado como integrante de uma organização criminosa que fornecia fuzis ao Comando Vermelho no Rio foi preso nesta segunda-feira pela Polícia Civil. Felipe de Souza dos Santos, o Paquito, de 32 anos, foi localizado em Camamu, na Bahia, num trabalho conjunto entre a Delegacia de Capturas e Polícia Interestadual (DC-Polinter) e a Polícia Civil baiana, que realizou a prisão no Distrito de Travessão. Arma usada por criança que disparou e atingiu irmã de 5 anos foi esquecida na cozinha pelo pai 'Ele podia ter me matado': idosa de 81 anos agredida por lutador relata terror após ataque Felipe de Souza foi identificado a partir de uma investigação que começou após apreensões de armas e munições em Seropédica, no Interior do Rio, em abril de 2024, pela Polícia Rodoviária Federal. Na ocasião, foram recolhidos dois fuzis calibre 7,62, uma espingarda calibre 12, 15 carregadores de fuzil, dois carregadores de espingarda e 50 munições calibre 7,62. Segundo a investigação, o arsenal havia saído do Rio Grande do Sul e seria entregue a traficantes vinculados ao Comando Vermelho na Rocinha, na Zona Sul do Rio. Felipe de Souza integrava o núcleo logístico desse transporte, sendo, posteriormente, identificado dentro de uma organização criminosa que utilizava linguagem cifrada, pagamentos fracionados, contas de terceiros e veículos preparados para ocultar armamentos, além de monitorar barreiras policiais durante os deslocamentos. Antes da prisão de Felipe de Souza, policiais da Polinter e da Polícia Civil do Rio Grande do Sul já haviam prendido Alexandre Albara, apontado como integrante do núcleo financeiro e logístico do mesmo grupo, em agosto deste ano. Contra Felipe de Souza havia mandado de prisão preventiva expedido pela 2ª Vara Especializada em Organização Criminosa da Comarca da Capital do Rio de Janeiro, pelos crimes investigados de organização criminosa armada e comércio ilegal de arma de fogo. Ele foi apresentado à Delegacia Territorial de Ubaitaba, onde foram adotadas as providências legais cabíveis, permanecendo à disposição da Justiça.",
+      "region": "global",
+      "published": "2026-11-09T22:05:06+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "JBS compra da J&F a Flora, dona de Minuano e Francis, avaliada em R$ 3 bi",
+      "link": "https://oglobo.globo.com/blogs/capital/post/2026/11/jbs-compra-da-jandf-a-flora-dona-de-minuano-e-francis-avaliada-em-r-3-bi.ghtml",
+      "teaser": "A JBS acaba de anunciar a aquisição da Flora, dona de marcas como Francis, Neutrox e OX, além da Minuano, de produtos de limpeza, que pertence à J&amp;F, holding dos irmãos Batista que controlam a gigante das carnes. Segundo fato relevante da JBS enviado à Comissão de Valores Mobiliários (CVM), negócio tem enterprise value de R$ 2,97 bilhões. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "region": "global",
+      "published": "2026-11-09T21:59:15+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "'Adotado' por empresário na adolescência, Rony se reaproximou do pai biológico que abandonou a família através do irmão",
+      "link": "https://oglobo.globo.com/esportes/futebol/noticia/2026/11/09/adotado-por-empresario-na-adolescencia-rony-se-reaproximou-do-pai-biologico-que-abandonou-a-familia-atraves-do-irmao.ghtml",
+      "teaser": "Marigerson Barbosa Carneiro, pai do atacante Rony, do Santos, foi assassinado na tarde desta segunda-feira, em Terra Alta, no Pará. O jogador, que já se pronunciou publicamente lamentando a morte, não tinha com ele a relação que o parentesco sugere. O atleta cresceu sem sua presença, e a reaproximação só ocorreu mais tarde. Rony cresceu em meio a uma vida de muita pobreza ao lado dos quatro irmãos na zona rural do município paraense de Magalhães Barata. Marigerson se separou da mãe quando o hoje atacante ainda era criança e saiu de casa, afastando-se da família. Quem assumiu a figura paterna na vida de Rony foi o empresário Hércules Junior. Eles se conheceram quando o atacante ainda era um adolescente e atuava na base. - Passei fome, minha vida foi bem sofrida no começo. Se eu contar vou passar o programa todo contando. Mas na época, ele (Hércules) direcionou algo na minha vida que eu espero há muito tempo. Por isso o considero como um pai, porque me aconselha, me ensinou o caminho que eu deveria seguir. Ele também me dá alguns conselhos que eu não gosto. Mas tenho que seguir, porque sei que é o certo - contou Rony em entrevista ao SBT, em 2021. Outro que se tornou uma espécie de pai para o atacante foi Robson, seu irmão mais velho. Foi ele o responsável por aproximar o atacante de Marigerson. O atacante nunca criou uma ligação com o pai biológico tão forte como a que mantém com Hércules. Mas a relação era harmoniosa. - O considero (Hércules) como um pai porque não tive um pai muito presente na minha vida. Mas eu amo meu pai, todas minhas férias eu vou lá para visitá-lo - explicou na mesma entrevista. Initial plugin text Rony e os irmãos irão se despedir de Marigerson em Terra Alta. O atacante contou que Neymar, seu companheiro de Santos, disponibilizou seu jatinho para o deslocamento dele e da família. \"Hoje recebi uma das notícias mais difíceis da minha vida: o falecimento do meu pai. Recebo esse momento com profunda tristeza e dor no coração, mas permaneço firme na fé, confiando que Deus é o nosso sustento e que Ele nos dará força para atravessar essa difícil caminhada. Quero expressar minha gratidão ao Santos Futebol Clube, à comissão técnica, especialmente ao professor Cuca, e a todos que demonstraram carinho, compreensão e solidariedade desde que receberam a notícia. Meu agradecimento especial ao Neymar, pela generosidade e disponibilidade em oferecer seu avião para nos ajudar neste momento, possibilitando o deslocamento da minha família. Obrigado também a todos os amigos, familiares e pessoas que estão se manifestando em oração e oferecendo apoio a mim e à minha família. Neste momento, meu desejo é estar ao lado dos meus familiares, honrar a memória do meu pai e encontrar forças para seguir em frente. Sigo firmado na fé, porque sei que Deus está conosco mesmo nos momentos mais difíceis\", diz o texto divulgado por Rony. Marigerson foi morto a facadas na região do pescoço. Segundo informações da Polícia Militar do Pará, uma mulher foi detida em flagrante com a arma do crime, uma faca de cerca de 20 centímetros, e encaminhada à Delegacia de Polícia Civil (Depol). Ela foi identificada como Selma Soares Cordovil, de 48 anos. Ainda que a motivação do crime não tenha sido divulgada, pessoas ligadas ao atleta indicam que a suspeita teve uma relação amorosa com o pai do atacante.",
+      "region": "global",
+      "published": "2026-11-09T21:56:00+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Magalu cresce diante de crise na Casas Bahia e com parcerias com plataformas internacionais",
+      "link": "https://oglobo.globo.com/economia/negocios/noticia/2026/11/09/magalu-cresce-com-crise-da-casas-bahia-e-parcerias-com-plataformas-internacionais.ghtml",
+      "teaser": "Em um momento em que o varejo navega em cenário macroeconômico adverso — com a taxa básica de juros nas alturas e endividamento recorde das famílias —, o Magazine Luiza impulsiona seu resultado abocanhando mercado perdido pela Casas Bahia, sua principal concorrente e em recuperação judicial, e escalando vendas e operação de logística em parceria com gigantes internacionais de e-commerce, como Mercado Livre e Shopee. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "region": "global",
+      "published": "2026-11-09T21:53:55+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Zagueiro do Flamengo mostra música que compôs e supreende torcedores: 'Mais difícil ainda criticar'",
+      "link": "https://oglobo.globo.com/esportes/futebol/flamengo/noticia/2026/11/09/zagueiro-do-flamengo-mostra-musica-que-compos-e-supreende-torcedores-mais-dificil-ainda-criticar.ghtml",
+      "teaser": "Herói do tetracampeonato da Copa Libertadores do Flamengo, em 2025, o zagueiro Danilo Luiz é conhecido pela torcida por gostar de falar sobre psicanálise e literatura. Mas nesta segunda (9), ele surpreendeu as redes com o interesse por outra arte. O atleta publicou um vídeo em que o amigo e músico Jean Nascimento toca uma canção em violão e voz. Na legenda, ele explica que foi uma música escrita pelos dois em parceria. Veja também: Bap foi avisado de critério da CBF para convocação de atletas de Flamengo e Palmeiras Catapulta humana: Atletas de base jump batem recordes mundiais de lançamento humano vertical; vídeo \"Música que escrevi com meu amigo @jeancabelera com esperança sempre em um futuro melhor! Ah quem dera fosse assim!\", escreveu ele. Com uma letra que aborda aspectos sociais e visão otimista para a humanidade, o jogador que atuou como lateral direito da seleção brasileira nesta última Copa do Mundo recebeu elogios dos torcedores no seu perfil de Instagram, com muitos deles surpresos com a sua iniciativa de se apresentar como compositor. \"Além de tudo é compositor? Assim fica mais difícil ainda criticar... Rsrsrs\", comentou uma torcedora. \"Agora ele é compositor também. Incrível como você é espetacular em tudo que se propõe a fazer, amo demais\", escreveu outra seguidora. \"Que música linda! Vocês arrasaram. Danilo, você não cansa de nos surpreender positivamente, né?! Que coisa rica acompanhar o tanto de bem que você oferece para o mundo! Orgulho demais de ter você como ídolo!\", avaliou outra. Danilo tem se mostrado interessado em debater outros assuntos além do esporte. No último mês, foi convidado do programa \"Papo de segunda\", do GNT, onde debateu diferentes temas. Entre eles, o atleta relembrou quando foi descartado dos planos do Juventus, na Itália, e precisou mudar o seu planejamento de vida e carreira. Initial plugin text",
+      "region": "global",
+      "published": "2026-11-09T21:47:37+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Em audiência na Alerj, Governo do Estado afirma que deixará decisão sobre concessão de gás para próxima gestão",
+      "link": "https://oglobo.globo.com/rio/noticia/2026/11/09/em-audiencia-na-alerj-governo-do-estado-afirma-que-deixara-decisao-sobre-concessao-de-gas-para-proxima-gestao.ghtml",
+      "teaser": "A gestão do governador interino Ricardo Couto vai deixar para a próxima gestão a decisão sobre o futuro da distribuição de gás natural no Estado do Rio. Com os contratos da concessionária Naturgy previstos para terminar em julho de 2027, o governador decidiu não antecipar uma definição sobre a prorrogação do vínculo ou a realização de uma nova licitação. A escolha caberá ao governador eleito, Douglas Ruas (PL), que toma posse em 6 de janeiro. Até lá, a atual administração pretende entregar dois estudos técnicos para subsidiar a decisão, incluindo uma avaliação do valor dos ativos da concessão e estimativas de arrecadação com uma eventual outorga. Ex-marido de galerista norte-americano morto no Rio é sentenciado à prisão perpétua nos Estados Unidos Pedida prisão temporária de PM suspeito de ser autor do tiro que matou de turista paulista que viajava de carro para o Rio A Fundação Getulio Vargas (FGV) deve apresentar, até 30 de novembro, o Plano Estadual de Gás e cenários com estimativas de valores de outorga. Já a International Finance Corporation (IFC), ligada ao Banco Mundial, realiza a avaliação da base de ativos da concessão, com diagnóstico previsto para fevereiro de 2027. As informações foram apresentadas pelo subsecretário-geral da Casa Civil, Sergio Pimentel, em audiência pública da Comissão de Orçamento, Finanças, Fiscalização Financeira e Controle da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj), nesta segunda-feira. Deputados se reuniram com gestão do governador interino Ricardo Couto para discutir concessões de 2027 Octacílio Barbosa — A FGV vai entregar o Plano Estadual de Gás, que abrange todo o escopo dessa prestação de serviço no estado, e vai apresentar cenários com alternativas em relação à prorrogação ou a uma eventual licitação. Já o IFC vai fazer a análise da base de ativos, ou seja, vai avaliar e mensurar quanto realmente vale essa concessão, para que se possa saber o que ela pode gerar de outorga — explicou Pimentel. A reunião foi convocada em meio à discussão do Projeto de Lei Orçamentária Anual (PLOA) de 2027, que prevê déficit de R$ 13,98 bilhões. O objetivo, de acordo com o presidente do colegiado, deputado Gustavo Tutuca (PP), foi conhecer os projetos de concessão em planejamento pelo Executivo, os prazos de vigência dos contratos atuais e o potencial de arrecadação dessas parcerias. Colegiado também debateu gastos de R$ 2 bilhões com transportes. Com frentes frias empurradas pelo El Niño, tempestades no Rio devem ser mais frequentes nesta primavera — Além de atrair investimentos e melhorar os serviços prestados à população, as concessões podem representar uma importante fonte de receita, especialmente por meio do pagamento de outorgas. Diante do cenário fiscal do Rio de Janeiro, é necessário avaliar o potencial dessas receitas, a previsão de ingresso nos cofres públicos e os compromissos financeiros decorrentes dos contratos — afirma Tutuca. Caso Rosalina: juiz avaliará se assassinato a que Duarte Lima responde prescreveu, como alega defesa Segundo o subsecretário, a contratação da IFC foi necessária porque o contrato firmado com a FGV não previa a avaliação dos ativos. Até então, as informações sobre esse patrimônio eram fornecidas pela própria concessionária. Depois da conclusão do diagnóstico, a expectativa é que a modelagem e a elaboração de um eventual edital sejam finalizadas até o fim de abril. Caso o próximo governo opte pela licitação, o procedimento está previsto para meados de 2027. Deputado Gustavo Tutuca (PP) presidente da Comissão de Orçamento da Alerj Octacílio Barbosa — Se o próximo governo entender que é possível realizar uma renovação do contrato e que essa é a melhor solução para o Estado do Rio de Janeiro, ele vai poder tomar essa decisão de forma mais abalizada — afirmou o subsecretário. De Rolex a Patek Philippe: relógios de luxo alimentam rede de roubos e receptação entre Rio e São Paulo Cobrança por receita no orçamento A indefinição sobre o modelo da concessão levou o deputado Luiz Paulo (PSD) a cobrar explicações sobre a ausência de qualquer previsão de arrecadação com outorga no orçamento de 2027. O parlamentar, que pediu a inclusão do tema na audiência, já havia defendido uma nova licitação durante a discussão do PLOA em plenário, na semana passada. Ele resgatou estimativas apresentadas anteriormente pelo então secretário estadual da Casa Civil, Nicola Miccione. Pelos cálculos, o valor econômico da concessão chegaria a R$ 25 bilhões, com investimentos estimados entre R$ 15 bilhões e R$ 16 bilhões. A diferença, de aproximadamente R$ 10 bilhões, poderia representar o montante da outorga. Desse valor, no entanto, o Estado ainda teria de ressarcir R$ 7,2 bilhões à concessionária. — Não encontramos nenhuma previsão de outorga no PLOA de 2027. É possível ter uma receita condicionada para isso, afinal de contas o rombo orçamentário está na ordem de R$ 13,9 bilhões — afirmou Luiz Paulo, para quem a concessão de gás é a mais relevante entre as discutidas pela comissão. — Ela está diretamente ligada ao desenvolvimento do estado. O secretário estadual de Planejamento e Gestão, Rafael Ventura Abreu, ponderou que a ausência da receita no orçamento não está relacionada apenas à falta de definição sobre o valor da outorga. Segundo ele, ainda não existe um processo formal de licitação em andamento que permita registrar essa possibilidade como receita condicionada. — Não há sequer um processo de licitação formalizado em curso que fundamente a previsão da outorga como receita condicionada. Se houvesse, não haveria nenhuma barreira técnica para a inclusão — disse. Concessões de transporte pesam R$ 2 bilhões Outro ponto da audiência foi o impacto das concessões de transporte ferroviário, metroviário e aquaviário nas contas estaduais. De acordo com Pimentel, os contratos representam, juntos, uma despesa de aproximadamente R$ 2 bilhões. No caso da concessão ferroviária, o governo desembolsa cerca de R$ 32 milhões por mês para a Trens RJ. — Nessa concessão, o foco é conseguirmos resolver os problemas não pela vertente da receita, mas sim pela da despesa — afirmou o subsecretário. A bilhetagem única também entrou na pauta. O governo estadual procurou a IFC para desenvolver uma proposta de modelagem que contemple os sistemas ferroviário e aquaviário e permita avançar na integração dos diferentes modais da Região Metropolitana. A intenção é incluir a discussão sobre a bilhetagem no escopo de uma nova contratação de consultoria para os serviços públicos de mobilidade urbana. — Um gasto de R$ 2 bilhões é relevante o suficiente para justificar que o Estado tome medidas para contratar uma consultoria — argumentou Pimentel. Segundo ele, na primeira reunião da equipe de transição foi mencionada a intenção de assinar o contrato. Na área de saneamento, o conselheiro-presidente da Agência Reguladora de Energia e Saneamento Básico do Estado do Rio (Agenersa), Rafael Carvalho de Menezes, chamou atenção para o peso da indenização dos ativos no cálculo de uma eventual outorga. — Quanto maior for essa indenização, menor vai ser a outorga. Por isso, é muito importante dar atenção especial a essa avaliação. Nossa equipe já está acompanhando o trabalho junto com o IFC — afirmou. Já em relação ao metrô, a equipe de Ricardo Couto lembrou que o sistema possui uma concessão em vigor e que o governo conta com uma consultoria do Banco Nacional de Desenvolvimento Econômico e Social (BNDES) para estudar a expansão em direção à Baixada Fluminense e o projeto da Linha 3. De acordo com eles, a modelagem é desenvolvida sem custos para o Estado. Também foram discutidas na audiência as concessões de ônibus, saneamento e rodovias, entre elas a Via Lagos e a Rota 116. Initial plugin text",
+      "region": "global",
+      "published": "2026-11-09T21:41:31+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Rio tem a temperatura mínima mais baixa do mês, com 15,7°C; veja a previsão para esta terça",
+      "link": "https://oglobo.globo.com/rio/noticia/2026/11/09/rio-tem-a-temperatura-minima-mais-baixa-do-mes-com-157c-veja-a-previsao-para-esta-terca.ghtml",
+      "teaser": "O município do Rio registrou, nesta segunda-feira, a temperatura mínima mais baixada do mês de novembro. Segundo dados do sistema Alerta Rio, da prefeitura, os termômetros marcaram 15,7°C às 5h45, no Alto da Boa Vista. A máxima desta segunda foi em São Cristóvão: 23,5°C, registrados às 12h25. A máxima desta segunda-feira foi a mais baixa desde 3 de outubro, quando foram registrados 22,9°C, também em São Cristóvão. A exemplo da manhã e da tarde, a noite desta segunda deve ter tempo nublado a encoberto, com possibilidade de chuva fraca em pontos isolados. Para esta terça, o tempo deve ficar de nublado a encoberto, com possibilidade de chuvas fracas e isoladas. A temperatura deve variar entre 15°C e 26°C, segundo o Alerta Rio. A previsão se repete até a sexta-feira, com chuvas fracas a moderadas na quinta e na sexta. Na quinta-feira, a temperatura sobe e a máxima pode chegar aos 31°C.",
+      "region": "global",
+      "published": "2026-11-09T21:41:10+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Lucro da JBS cai 72% no 3º trimestre, para US$ 164 milhões",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/lucro-da-jbs-cai-72-no-3o-trimestre-para-us-164-milhoes.shtml",
+      "teaser": "A JBS reportou nesta segunda-feira (9) lucro líquido de US$ 164 milhões (R$ 902 milhões) do terceiro trimestre, queda de 72% em relação ao mesmo período do ano passado, à medida que enfrentou desafios em várias unidades de negócios, embora a divisão de carne bovina dos Estados Unidos tenha dado sinais de melhora após registrar uma série de trimestres com margens negativas. Leia mais (11/09/2026 - 19h25)",
+      "region": "global",
+      "published": "2026-11-09T22:25:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Governo Trump anuncia nova Suprema Corte e novo conselho eleitoral na Venezuela",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/governo-trump-anuncia-nova-suprema-corte-e-novo-conselho-eleitoral-na-venezuela.shtml",
+      "teaser": "O chefe da diplomacia dos Estados Unidos , Marco Rubio , afirmou nesta segunda-feira (9) que a Venezuela terá novos juízes para a Suprema Corte e um novo conselho eleitoral até dezembro. Leia mais (11/09/2026 - 19h25)",
+      "region": "global",
+      "published": "2026-11-09T22:25:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Demanda de galpão de alto padrão é impulsionada por ecommerce, e vacância diminui, diz levantamento",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/demanda-de-galpao-de-alto-padrao-e-impulsionada-por-ecommerce-e-vacancia-diminui-diz-levantamento.shtml",
+      "teaser": "A taxa de vacância de condomínios logísticos classificados como A ou A+ (ou seja, de alto padrão) caiu a 4,9% no terceiro trimestre de 2026, segundo monitoramento feito pela consultoria Binswanger Brazil. O resultado representa o menor patamar da série histórica, iniciada em 2013. Leia mais (11/09/2026 - 19h24)",
+      "region": "global",
+      "published": "2026-11-09T22:24:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Anthropic lança novos modelos Fable e Mythos antes de IPO",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/anthropic-lanca-novos-modelos-fable-e-mythos-antes-de-ipo.shtml",
+      "teaser": "A Anthropic revelou nesta segunda-feira dois novos modelos de inteligência artificial , Claude Fable 5.2 e Claude Mythos 5.2, antes de seu IPO (oferta pública inicial de ações) . Leia mais (11/09/2026 - 19h20)",
+      "region": "global",
+      "published": "2026-11-09T22:20:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "'No pain, no gain' é o cacete",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/no-corre/2026/11/no-pain-no-gain-e-o-cacete.shtml",
+      "teaser": "A primeira aula talvez seja a mais desafiadora . É a única em que os alunos se juntam em duplas para realizar movimentos que impactarão diretamente o parceiro; na primeira metade da sessão, manipulam-no; na segunda, são por ele manipulados. Ou vice-versa. Leia mais (11/09/2026 - 19h10)",
+      "region": "global",
+      "published": "2026-11-09T22:10:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "JBS compra Flora por US$ 542 milhões e entra no setor de limpeza",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/jbs-compra-flora-por-us-542-milhoes-e-entra-no-setor-de-limpeza.shtml",
+      "teaser": "A JBS , maior produtora global de carnes, anunciou nesta segunda-feira (9) a aquisição de 100% da Flora, empresa do grupo J&amp;F, acionista controlador da empresa, em uma transação avaliada em US$ 542 milhões (R$ 2,98 bilhões), para entrar no mercado de limpeza e cuidados pessoais de alto valor agregado. Leia mais (11/09/2026 - 19h06)",
+      "region": "global",
+      "published": "2026-11-09T22:06:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Grupo de advogados ligado a Lula propõe código de ética e mandato para ministros do STF",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/grupo-de-advogados-ligado-a-lula-propoe-codigo-de-etica-e-mandato-para-ministros-do-stf.shtml",
+      "teaser": "O grupo jurídico Prerrogativas, alinhado ao governo Lula ( PT ), preparou uma minuta de reforma do Judiciário entregue ao petista na pré-campanha que inclui a criação de um código de ética e mandatos para ministros do STF (Supremo Tribunal Federal). Leia mais (11/09/2026 - 19h05)",
+      "region": "global",
+      "published": "2026-11-09T22:05:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Jornalista Rosental Calmon Alves recebe prêmio ANJ de liberdade de imprensa",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/jornalista-rosental-calmon-alves-recebe-premio-anj-de-liberdade-de-imprensa.shtml",
+      "teaser": "O jornalista Rosental Calmon Alves, 74, vai receber o Prêmio de Liberdade de Imprensa 2026 da ANJ (Associação Nacional de Jornais), no dia 3 de dezembro, em São Paulo . Leia mais (11/09/2026 - 19h05)",
+      "region": "global",
+      "published": "2026-11-09T22:05:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Skydance replaces James Gunn and Peter Safran as DC Studios chiefs following Warner Bros. takeover",
+      "link": "https://www.dw.com/en/skydance-replaces-james-gunn-and-peter-safran-as-dc-studios-chiefs-following-warner-bros-takeover/a-79904972?maca=en-rss-en-all-1573-rdf",
+      "teaser": "In another major shake-up for the DC Studios, Skydance is replacing Hollywood director James Gunn and producer Peter Safran with a former Marvel executive.",
+      "region": "global",
+      "published": "2026-11-09T20:19:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Republican Thomas Massie seeks to force House vote on impeaching Defense Secretary Pete Hegseth over Iran war",
+      "link": "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Trump critic Thomas Massie is calling for a vote to impeach Pentagon chief Pete Hegseth, accusing Hegseth of waging war without congressional approval.",
+      "region": "global",
+      "published": "2026-11-09T20:15:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Pope Leo draws 2.5 million in Buenos Aires, renews warning over Milei's austerity",
+      "link": "https://www.dw.com/en/pope-leo-draws-2-5-million-in-buenos-aires-renews-warning-over-milei-s-austerity/a-79904137?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Some 2.5 million people have attended Pope Leo's mass in Buenos Aires, his largest gathering yet. The pontiff once again called for protecting the vulnerable as President Milei cuts disability care and social services.",
+      "region": "global",
+      "published": "2026-11-09T18:38:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "French officials blame Iran for supermarket fridge hacking",
+      "link": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-rdf",
+      "teaser": "The recent cyberattack on refrigerators and freezers in supermarkets in France was organized by Iran's Revolutionary Guards, French Foreign Minister Jean-Noel Barrot has said, describing the hacking as \"unprecedented.\"",
+      "region": "global",
+      "published": "2026-11-09T18:33:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Russia: Independent Novaya Gazeta shuts its Moscow newsroom",
+      "link": "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-all-1573-rdf",
+      "teaser": "The investigative newspaper is closing its doors after Russian authorities labeled it a \"foreign agent\" and ordered it vacate its Moscow premises.",
+      "region": "global",
+      "published": "2026-11-09T16:22:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "India’s demonetization: 10 years on, promises remain unfulfilled",
+      "link": "https://www.dw.com/en/india-s-demonetization-10-years-on-promises-remain-unfulfilled/a-79903331?maca=en-rss-en-all-1573-rdf",
+      "teaser": "A decade after the 2016 currency ban, its impact on India's economy and the fight against black money remains contested.",
+      "region": "global",
+      "published": "2026-11-09T16:21:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Ice hockey: Norway says it's been kicked out of World Juniors in favor of Russia",
+      "link": "https://www.dw.com/en/ice-hockey-norway-says-it-s-been-kicked-out-of-world-juniors-in-favor-of-russia/a-79901844?maca=en-rss-en-all-1573-rdf",
+      "teaser": "The wrangling over Russia's return to international ice hockey continues, with Norway saying it has been kicked out of the next major tournament to accommodate Russia. Switzerland has joined a \"boycott.\"",
+      "region": "global",
+      "published": "2026-11-09T16:02:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Fake news in Africa: In an age of disinformation, who decides what's true?",
+      "link": "https://www.dw.com/en/fake-news-in-africa-in-an-age-of-disinformation-who-decides-what-s-true/a-79874039?maca=en-rss-en-all-1573-rdf",
+      "teaser": "From Ghana to Mozambique, the fight against fake news keeps gaining momentum. But combating disinformation also requires safeguards for free speech, leaving some governments in an inconvenient position.",
+      "region": "global",
+      "published": "2026-11-09T15:56:00+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Nach den Midterms: Trump: Iran-Krieg ist militärisch „effektiv vorüber“",
+      "link": "https://www.tagesspiegel.de/internationales/dpa-nach-den-midterms-trump-iran-krieg-ist-militarisch-effektiv-voruber-16265180.html",
+      "teaser": "Zuletzt war mit weiteren Angriffen der USA und Israels gegen den Iran gerechnet worden. Doch von Angriffsplänen scheint Präsident Trump nun abzurücken.",
+      "region": "berlin",
+      "published": "2026-11-09T22:19:14+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Nach Horror-Sturz bei Olympia: US-Skistar Vonn vor neunter OP „ziemlich nervös“",
+      "link": "https://www.tagesspiegel.de/sport/dpa-nach-horror-sturz-bei-olympia-us-skistar-vonn-vor-neunter-op-ziemlich-nervos-16265104.html",
+      "teaser": "Acht Operationen liegen hinter Lindsey Vonn, nun steht die Skirennfahrerin vor einem weiteren Eingriff am Knie. Detailliert schildert sie, was ihr nun bevorsteht.",
+      "region": "berlin",
+      "published": "2026-11-09T21:11:38+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Bundespräsidentenwahl: NRW-CDU nominiert Günther Jauch für Bundesversammlung",
+      "link": "https://www.tagesspiegel.de/politik/dpa-bundesprasidentenwahl-nrw-cdu-nominiert-gunther-jauch-fur-bundesversammlung-16265080.html",
+      "teaser": "Günther Jauch soll für die NRW-CDU an der Wahl des Bundespräsidenten oder der Bundespräsidentin teilnehmen. Welche Persönlichkeiten die Partei außerdem für die Bundesversammlung nominiert hat.",
+      "region": "berlin",
+      "published": "2026-11-09T21:02:50+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Gedenken: Berlin erinnert an die Opfer der Pogromnacht",
+      "link": "https://www.tagesspiegel.de/berlin/dpa-gedenken-berlin-erinnert-an-die-opfer-der-pogromnacht-16264980.html",
+      "teaser": "Synagogen brannten, jüdische Geschäfte wurden geplündert, Menschen ermordet: Berlin gedenkt der Pogromnacht vor 88 Jahren. Politiker mahnen.",
+      "region": "berlin",
+      "published": "2026-11-09T20:41:22+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Republikaner Massie geht in die Offensive: Amtsenthebungsverfahren gegen Pentagonchef Hegseth auf den Weg gebracht",
+      "link": "https://www.tagesspiegel.de/internationales/republikaner-massie-geht-in-offensive-amtsenthebungsverfahren-gegen-pentagonchef-hegseth-auf-den-weg-gebracht-16264769.html",
+      "teaser": "Nach dem Wahldebakel bei den Midterms steigt der Druck auf US-Verteidigungsminister Pete Hegseth. Im Kongress wird ein Schritt hin zu einem möglichen Amtsenthebungsverfahren unternommen.",
+      "region": "berlin",
+      "published": "2026-11-09T20:32:22+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Hollywood: „Superman“-Regisseur Gunn tritt als Chef von DC Studios ab",
+      "link": "https://www.tagesspiegel.de/gesellschaft/dpa-hollywood-superman-regisseur-gunn-tritt-als-chef-von-dc-studios-ab-16264893.html",
+      "teaser": "„Superman“-Regisseur James Gunn und Produzent Peter Safran geben ihre Führungsposten bei den DC Studios ab. Zur Begründung heißt es, sie werden wieder stärker „kreative Arbeit“ verfolgen.",
+      "region": "berlin",
+      "published": "2026-11-09T20:26:36+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Schusswaffenkriminalität: Großeinsatz in Berlin: Durchsuchung auch bei „Hells Angels“",
+      "link": "https://www.tagesspiegel.de/gesellschaft/panorama/dpa-schusswaffenkriminalitat-grosseinsatz-in-berlin-durchsuchung-auch-bei-hells-angels-16264852.html",
+      "teaser": "Vor einem Jahr wurde eine Sondereinheit gegen Schusswaffenkriminalität in Berlin gegründet. Nun gibt es neue Durchsuchungen - darunter im Vereinsheim der „Hells Angels“.",
+      "region": "berlin",
+      "published": "2026-11-09T20:21:24+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Abwehrkampf gegen Russland: Merz will bei EU-Gipfel über Ukraine-Hilfe sprechen",
+      "link": "https://www.tagesspiegel.de/internationales/dpa-abwehrkampf-gegen-russland-merz-will-bei-eu-gipfel-uber-ukraine-hilfe-sprechen-16264808.html",
+      "teaser": "Die Ukraine benötigt für nächstes Jahr 70 Milliarden Euro zusätzlich, um gegen die russischen Angreifer bestehen zu können. 45 Milliarden sollen aus der EU kommen. Für Merz ein sehr dringliches Thema.",
+      "region": "berlin",
+      "published": "2026-11-09T20:13:50+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Durchsuchungen wegen Schusswaffenkriminalität in Berlin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/einsatzkraefte-polizei-berlin-hells-angels-spezialeinsatzkommando-bundespolizei.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-11-09T20:50:00+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "17-Jährige in Berlin mit Schusswaffe bewusstlos geschlagen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-polizei-hellersdorf-17-jaehrige-niederschlag.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-11-09T20:48:00+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "13-jährige Lisa aus Marzahn: 22-Jähriger Tatverdächtiger polizeibekannt",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-marzahn-vermisstes-maedchen-tot-brandenburg-bad-freienwalde-taeter.html",
+      "teaser": "Nach dem Tod der 13-jährigen Lisa aus Berlin-Marzahn ermittelt eine Mordkommission. Tatverdächtig ist ein 22 Jahre alter Mann. Gegen ihn ermittelte die Polizei wegen Kinderpornographie.",
+      "region": "berlin",
+      "published": "2026-11-09T19:37:24+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Berlin: 39-Jähriger wegen Vergewaltigung zum dritten Mal vor Gericht",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/vergewaltigung-prozess-berlin-steglitz-gestaendnis-weitere-taten.html",
+      "teaser": "Wegen Vergewaltigungen von bewusstlosen Frauen ist ein heute 39-Jähriger bereits mehrfach zu jahrelangen Haftstrafen verurteilt worden. Nun geht es am Berliner Landgericht um weitere Fälle, die der Angeklagte zu Beginn gestand.",
+      "region": "berlin",
+      "published": "2026-11-09T17:38:11+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Autofahrer landet bei Flucht vor Polizei im Berliner Landwehrkanal",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-flucht-polizei-autofahrer-landwehrkanal.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-11-09T17:21:09+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "So sucht die Polizei nach vermissten Menschen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/vermisste-suche-berlin-polizei-vermisstenstelle.html",
+      "teaser": "Fast 13.000 Menschen wurden 2025 in Berlin als vermisst gemeldet. Die meisten Fälle werden aufgeklärt. Doch wie geht die Polizei bei der Suche vor? Und warum macht es einen Unterschied, ob Kinder oder Erwachsene verschwinden?",
+      "region": "berlin",
+      "published": "2026-11-09T17:09:10+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Frau mit Stichverletzungen im Krankenhaus - Verdächtiger in U-Haft",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/luebben-spreewald-frau-mit-stichverletzungen.html",
+      "teaser": "Trotz mehrerer Stichverletzungen schaffte es eine schwer verletzte Frau in Lübben noch selbst ins Krankenhaus. Ein 21 Jahre alter Mann steht im Verdacht, sie attackiert zu haben.",
+      "region": "berlin",
+      "published": "2026-11-09T16:29:36+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Brandenburg übernimmt Finanzierung längerer Betreuungszeiten in den Kitas",
+      "link": "https://www.rbb24.de/politik/beitrag/2026/11/kita-pakt-2030-land-uebernimmt-finanzierung-laengerer-kita-zeiten-brandenburg.html",
+      "teaser": "Die Brandenburger Landesregierung will - trotz angespannter Haushaltslage - jetzt doch längere Öffnungszeiten in Kitas finanzieren. Hintergrund sind frei werdende Gelder, weil mit weniger Kindern in den Kitas gerechnet wird.",
+      "region": "berlin",
+      "published": "2026-11-09T16:20:30+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Ukraine-Hilfe: Was sie jeden Deutschen kostet und was davon ankommt",
+      "link": "https://www.berliner-zeitung.de/article/ukraine-hilfe-pro-kopf-so-viel-zahlt-deutschland-im-laendervergleich-10572019",
+      "teaser": "Laut Regierung sind es rund 1200 Euro pro Einwohner. Doch nur ein Teil geht direkt an die Ukraine. Wo Deutschland im Ländervergleich steht.",
+      "region": "berlin",
+      "published": "2026-11-09T18:25:58+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Auch 88 Jahre danach: Für Antisemitismus ist in Deutschland immer noch Platz",
+      "link": "https://www.berliner-zeitung.de/article/auch-88-jahre-danach-fuer-antisemitismus-ist-in-deutschland-immer-noch-platz-10579866",
+      "teaser": "Die Reichspogromnacht ist Vergangenheit, die ihr zugrunde liegenden Motive nicht. Das uralte Amalgam aus Neid und Ressentiment verändert nur seine Gestalt.",
+      "region": "berlin",
+      "published": "2026-11-09T18:25:24+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "So geht es Michael Rednik in der Psychiatrie: Darum muss der Familienvater plötzlich putzen",
+      "link": "https://www.berliner-zeitung.de/article/so-geht-es-michael-rednik-in-der-psychiatrie-darum-muss-der-familienvater-ploetzlich-putzen-10578463",
+      "teaser": "Seit Freitag voriger Woche ist der Vater der Familie Rednik in der Psychiatrie in Dresden untergebracht. In Videos informiert er über seinen Alltag, zu dem auch Badputzen gehört.",
+      "region": "berlin",
+      "published": "2026-11-09T17:58:03+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Königslinie zwischen Sassnitz und Trelleborg soll im Sommer 2027 zurückkehren",
+      "link": "https://www.berliner-zeitung.de/article/koenigslinie-zwischen-sassnitz-und-trelleborg-soll-im-sommer-2027-zurueckkehren-10579362",
+      "teaser": "Fertige Fahrpläne und ein Buchungs-Countdown versprechen die Rückkehr der Königslinie ab Juli 2027. Der Fährhafen Mukran führt aber eigene Gespräche mit anderen Partnern.",
+      "region": "berlin",
+      "published": "2026-11-09T17:06:01+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Russlands Schattenflotte im Visier: Berliner Firma plant Drohnenboot mit Raketen",
+      "link": "https://www.berliner-zeitung.de/article/russlands-schattenflotte-im-visier-berliner-firma-plant-drohnenboot-mit-raketen-10580510",
+      "teaser": "Russland hält mit schwer kontrollierbaren Tankern Öl- und LNG-Exporte am Laufen. Stark Defence aus Berlin plant nun ein bewaffnetes Drohnenboot zur Überwachung.",
+      "region": "berlin",
+      "published": "2026-11-09T17:04:21+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Mit der Faust ins Gesicht: Neue Raubüberfälle in Potsdam",
+      "link": "https://www.berliner-zeitung.de/article/mit-der-faust-ins-gesicht-wieder-jugendgewalt-in-potsdam-10580390",
+      "teaser": "In Potsdam griffen zuletzt immer wieder Jugend-Gangs andere Jugendliche an. Nun werden neue Fälle öffentlich .",
+      "region": "berlin",
+      "published": "2026-11-09T16:55:05+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Fast jeder Fünfte unter 30 zweifelt an Demokratie als Regierungsform",
+      "link": "https://www.berliner-zeitung.de/article/fast-jeder-fuenfte-unter-30-zweifelt-an-demokratie-als-regierungsform-10578213",
+      "teaser": "Eine neue Studie zeigt: Die Unzufriedenheit darüber, wie die Demokratie in Deutschland funktioniert, ist erheblich. Vor allem zwischen den Generationen und Ost und West.",
+      "region": "berlin",
+      "published": "2026-11-09T16:49:26+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Gasspeicher nur noch zu 59 Prozent gefüllt: Deutschland bricht Entnahmerekord",
+      "link": "https://www.berliner-zeitung.de/article/gasspeicher-nur-noch-zu-59-prozent-gefuellt-deutschland-bricht-entnahmerekord-10578659",
+      "teaser": "Deutschlands Gasspeicher fallen vor dem Winter unter 60 Prozent. Zugleich erreicht die Gasentnahme Anfang November einen neuen Rekord. Was bedeutet das?",
+      "region": "berlin",
+      "published": "2026-11-09T14:59:19+00:00"
+    }
+  ]
+}

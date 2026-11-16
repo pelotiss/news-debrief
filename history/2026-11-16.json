@@ -1,0 +1,782 @@
+{
+  "date": "2026-11-16",
+  "digest_markdown": "## Berlín\n\nNo hay disrupciones de tránsito, transporte público ni cambios regulatorios relevantes para tu desplazamiento hoy.\n\nUna novedad normativa a nivel UE: [la Unión Europea está implementando nuevas tarjetas de discapacidad con código QR](https://www.elindependiente.com/sociedad/2026/11/15/ue-nuevas-tarjetas-discapacidad-qr-cambios-estacionamiento/) para evitar usos indebidos, algo que España también está preparando. Si tienes esta acreditación, habrá cambios en los trámites de renovación en los próximos meses.\n\n## Mundo\n\n**Deporte.** [Inglaterra derrotó a España 3-2](https://elpais.com/deportes/futbol/2026-11-15/inglaterra-devora-la-leyenda-de-espana.html), rompiendo una racha invicta de 44 partidos de la campeona mundial. En otro ámbito, [SpaceX logró capturar la segunda etapa de su cohete Starship](https://www.economist.com/science-and-technology/2026/11/15/spacex-achieves-another-historic-first), otro hito histórico en el desarrollo del vehículo reutilizable.\n\n**Tecnología.** [El fundador de Nvidia, Jensen Huang, estaría negociando su posible regreso a la empresa](https://elpais.com/us/2026-11-15/jensen-huang-planea-su-regreso-a-nvidia-con-el-apoyo-de-silicon-valley/) apenas días después de renunciar, según Financial Times. [Anthropic realizó una IPO multimillonaria](https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai), intensificando la competencia en inteligencia artificial.\n\n**Oriente Medio.** [Irán atacó una base militar estadounidense en Bahréin con drones](https://www.brasildefato.com.br/2026/11/15/ira-ataca-base-militar-dos-eua-no-bahrein-pais-afirma-ter-interceptado-drones/), según la Guardia Revolucionaria Islámica. [Israel confirmó la muerte de un comandante del Hamas en Gaza](https://www.brasildefato.com.br/2026/11/15/israel-mata-comandante-do-hamas-em-ataque-aereo-no-sul-de-gaza/). [Irán funciona sin líder supremo tras la muerte de Khamenei, con seis generales y funcionarios tomando decisiones](https://www.economist.com/middle-east-and-africa/2026/11/15/iran-is-functioning-without-a-supreme-leader).\n\n**Seguridad en Europa.** [Estonia cerrará su frontera con Rusia en diciembre](https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje/) tras acusar al Kremlin de intentar sabotajear una fábrica de material militar; [ocho personas fueron detenidas](https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115).\n\n**América Latina.** [Guatemala cerró cuatro días de homenajes reinhumando los restos del premio Nobel Miguel Ángel Asturias](https://elpais.com/america/2026-11-16/guatemala-cierra-cuatro-dias-de-homenajes-con-la-inhumacion-de-las-cenizas-de-miguel-angel-asturias.html), medio siglo después de su muerte en el exilio. [Murió Miguel Ángel Félix Gallardo, el \"Jefe de Jefes\" fundador del Cartel de Guadalajara, a los 80 años](https://elpais.com/mexico/2026-11-15/muere-el-narco-miguel-angel-felix-gallardo-el-jefe-de-jefes-a-los-80-anos.html), tras estar en prisión desde 1989.\n\n**Salud.** [Brasil confirmó la primera muerte por mpox en el país, en Río de Janeiro](https://www.brasildefato.com.br/2026/11/15/rio-de-janeiro-tem-primeira-morte-confirmada-por-mpox-no-pais/).\n\n**Aviación.** [El caos aéreo en EE.UU. continúa su tercer día](https://www.brasildefato.com.br/2026/11/15/reflexos-de-caos-aereo-nos-estados-unidos-entra-no-terceiro-dia-apos-falha-em-sistema-de-controle-de-trafego/) tras una falla en el sistema de control de tráfico.",
+  "articles": [
+    {
+      "source": "El País",
+      "title": "La Guardia Urbana desaloja la acampada de la plaza Catalunya de Barcelona",
+      "link": "https://elpais.com/espana/catalunya/2026-11-16/la-guardia-urbana-desaloja-la-acampada-de-la-plaza-catalunya-de-barcelona.html",
+      "teaser": "Decenas de efectivos de la policía local han comenzado la operación el domingo a medianoche",
+      "region": "global",
+      "published": "2026-11-16T00:10:49+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Guatemala cierra cuatro días de homenajes a Miguel Ángel Asturias con la inhumación de sus cenizas",
+      "link": "https://elpais.com/america/2026-11-16/guatemala-cierra-cuatro-dias-de-homenajes-con-la-inhumacion-de-las-cenizas-de-miguel-angel-asturias.html",
+      "teaser": "Los restos del premio Nobel de Literatura de 1967 reposan ya en su país, medio siglo después de su muerte en el exilio. “Es un acto de justicia”, dice el presidente Bernardo Arévalo",
+      "region": "global",
+      "published": "2026-11-16T00:04:08+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Inglaterra devora la leyenda de España",
+      "link": "https://elpais.com/deportes/futbol/2026-11-15/inglaterra-devora-la-leyenda-de-espana.html",
+      "teaser": "En un despliegue de intensidad, el equipo de Tuchel arrolla a la Roja y acaba con la racha de 44 partidos invicta de la campeona del mundo, que rozó una remontada increíble cuando la despertó Lamine con 0-3",
+      "region": "global",
+      "published": "2026-11-15T22:19:40+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Muere el narco Miguel Ángel Félix Gallardo, el Jefe de Jefes, a los 80 años",
+      "link": "https://elpais.com/mexico/2026-11-15/muere-el-narco-miguel-angel-felix-gallardo-el-jefe-de-jefes-a-los-80-anos.html",
+      "teaser": "El primer gran capo de la historia del narcotráfico mexicano, fundador del Cartel de Guadalajara, había sido trasladado de emergencia al hospital. Llevaba desde 1989 en prisión",
+      "region": "global",
+      "published": "2026-11-15T21:35:13+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Jensen Huang planea su regreso a Nvidia con el apoyo de Silicon Valley",
+      "link": "https://elpais.com/us/2026-11-15/jensen-huang-planea-su-regreso-a-nvidia-con-el-apoyo-de-silicon-valley.html",
+      "teaser": "El fundador del mayor fabricante de chips del mundo presiona a la junta directiva para que lo reincopore tras el escándalo por el caso de espionaje, según Financial Times",
+      "region": "global",
+      "published": "2026-11-15T21:21:49+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "El CD Tenerife vuelve a la competición tras el luto por la muerte de su delantero Jesús de Miguel",
+      "link": "https://elpais.com/deportes/futbol/2026-11-15/el-cd-tenerife-vuelve-a-la-competicion-tras-el-luto-por-la-muerte-de-su-delantero-jesus-de-miguel.html",
+      "teaser": "La plantilla del equipo canario, junto a la del Ceuta, su rival este domingo, se unen en un homenaje al futbolista fallecido tras un choque con el portero del Andorra Jesús Owono el 2 de noviembre en el Heliodoro Rodríguez López",
+      "region": "global",
+      "published": "2026-11-15T21:06:29+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Estonia cerrará en diciembre su frontera con Rusia tras acusar al Kremlin de un intento de sabotaje",
+      "link": "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html",
+      "teaser": "La Fiscalía del país báltico anuncia la detención de ocho personas en relación con una supuesta acción contra una fábrica de material militar",
+      "region": "global",
+      "published": "2026-11-15T20:33:37+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Sánchez y Chelo García Cortés para las campanadas de La Séptima o ‘La Peter’ en ‘Fuera de Control’",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/sanchez-y-chelo-garcia-cortes-para-las-campanadas-de-la-septima-o-la-peter-en-fuera-de-control.html",
+      "teaser": "El presidente del Gobierno habla de su papel como suegro y de cómo conoció a su esposa, Begoña Gómez",
+      "region": "global",
+      "published": "2026-11-15T19:56:07+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Iran is functioning without a supreme leader",
+      "link": "https://www.economist.com/middle-east-and-africa/2026/11/15/iran-is-functioning-without-a-supreme-leader",
+      "teaser": "Six men from a council of generals and bureaucrats now dominate decision making",
+      "region": "global",
+      "published": "2026-11-15T23:33:27+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Anthropic’s giant IPO puts the heat on OpenAI",
+      "link": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+      "teaser": "Coding agents are big business. But what comes next?",
+      "region": "global",
+      "published": "2026-11-15T19:49:20+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "A plan to end America’s most expensive bottleneck",
+      "link": "https://www.economist.com/by-invitation/2026/11/15/a-plan-to-end-americas-most-expensive-bottleneck",
+      "teaser": "Reforming the permitting system would generate trillions of dollars of new economic activity, argues Martin Heinrich",
+      "region": "global",
+      "published": "2026-11-15T17:40:28+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Donald Trump will get a warm welcome in the Philippines",
+      "link": "https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines",
+      "teaser": "He almost skipped about the only country that still adores him",
+      "region": "global",
+      "published": "2026-11-15T14:56:22+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "SpaceX achieves another historic first",
+      "link": "https://www.economist.com/science-and-technology/2026/11/15/spacex-achieves-another-historic-first",
+      "teaser": "It has caught the second stage of its Starship rocket",
+      "region": "global",
+      "published": "2026-11-15T11:33:37+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "The Bottom Line newsletter: Nvidia will never be the same",
+      "link": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
+      "teaser": "Shailesh Chitnis, our chip-industry expert, reflects on the fall of Jensen Huang",
+      "region": "global",
+      "published": "2026-11-14T11:55:51+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Checks and Balance newsletter: What do ballot initiatives tell us about America?",
+      "link": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
+      "teaser": "John Prideaux, our executive editor, explains why they can be used to take the pulse of the country",
+      "region": "global",
+      "published": "2026-11-14T11:10:57+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Why is it only the Manosphere talking about abuse against men?",
+      "link": "https://www.economist.com/podcasts/2026/11/14/why-is-it-only-the-manosphere-talking-about-abuse-against-men",
+      "teaser": "How domestic abuse became part of the culture wars",
+      "region": "global",
+      "published": "2026-11-14T08:52:56+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "The World’s Last Chance for Peace",
+      "link": "https://www.foreignaffairs.com/spain/pedro-sanchez-world-last-chance-peace-avert-world-war",
+      "teaser": "How to avert a new world war.",
+      "region": "global",
+      "published": "2026-11-13T05:00:00+00:00"
+    },
+    {
+      "source": "Le Monde diplomatique",
+      "title": "November: the longer view",
+      "link": "https://mondediplo.com/2026/11/01zlonger-view",
+      "teaser": "The month's archives. - 2026/11 / perspective",
+      "region": "global",
+      "published": "2026-11-12T18:17:41+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Frente Amplio hace del impuesto a la riqueza el eje de su campaña y promete una \"motosierra para los de arriba\"",
+      "link": "https://www.elindependiente.com/espana/2026/11/15/frente-amplio-impuesto-riqueza-eje-campana/",
+      "teaser": "Frente Amplio ha vuelto a situar el impuesto a la riqueza, bautizado bajo el lema 'Tax the Rich', en el [&#8230;]",
+      "region": "global",
+      "published": "2026-11-15T19:10:49+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "El programa del PSOE para el 29-N: gestión técnica de Adif y Renfe, un 1% del PIB para vivienda, una ley de integridad y más impuestos para los tecnoligarcas",
+      "link": "https://www.elindependiente.com/espana/2026/11/15/programa-psoe-29n-gestion-adif-renfe-vivienda-corrupcion-tecnoligarcas/",
+      "teaser": "La campaña electoral del 29-N ya está en marcha y los españoles votarán en exactamente dos semanas. Pero fue este [&#8230;]",
+      "region": "global",
+      "published": "2026-11-15T17:24:48+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Turner, la filial de ACS en EEUU, modernizará la sede mundial de Lubrizol en Ohio",
+      "link": "https://www.elindependiente.com/economia/2026/11/15/turner-filial-acs-eeuu-modernizara-sede-lubrizol-ohio/",
+      "teaser": "La empresa estadounidense de construcción y filial de Hochtief (ACS), Turner, ha sido seleccionada para modernizar la sede central mundial [&#8230;]",
+      "region": "global",
+      "published": "2026-11-15T15:41:45+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Ceuta tendrá un asiento permanente en el Comité de las Regiones de la UE desde este lunes",
+      "link": "https://www.elindependiente.com/espana/2026/11/15/ceuda-asiento-permanente-comite-regiones-ue-lunes/",
+      "teaser": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha anunciado este domingo durante un acto público [&#8230;]",
+      "region": "global",
+      "published": "2026-11-15T15:26:50+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Feijóo hará campaña en Guipúzcoa este martes para apoyar a Echeverría tras el ataque que sufrió en Hernani",
+      "link": "https://www.elindependiente.com/espana/2026/11/15/feijoo-campana-guipuzcoa-martes-apoyar-echeverria-ataque-hernani/",
+      "teaser": "El candidato del Partido Popular al Congreso por Guipúzcoa, Jon Echeverría, ha denunciado este domingo la \"violencia política de máxima [&#8230;]",
+      "region": "global",
+      "published": "2026-11-15T13:42:12+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Sánchez propone un permiso retribuido por crianza, más impuestos para los grandes tenedores y crear la figura de la \"unión de amistad\"",
+      "link": "https://www.elindependiente.com/espana/2026/11/15/sanchez-programa-electoral-alcorcon-crianza-grandes-tenedores-union-amistad/",
+      "teaser": "\"¡Esta es nuestra bandera, la de la Constitución española, de la democracia, de los derechos, de la igualdad de las [&#8230;]",
+      "region": "global",
+      "published": "2026-11-15T13:06:56+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Mercadona apuesta por la gastronomía portuguesa con este producto por menos de 3 euros",
+      "link": "https://www.elindependiente.com/sociedad/2026/11/15/novedad-portuguesa-mercadona-arreglara-cena-menos-3-euros/",
+      "teaser": "Mercadona continúa renovando su catálogo con productos pensados para facilitar las comidas del día a día. La cadena valenciana incorpora [&#8230;]",
+      "region": "global",
+      "published": "2026-11-15T09:00:00+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Adiós al uso indebido: la UE blinda con QR las nuevas tarjetas de discapacidad mientras España prepara su llegada",
+      "link": "https://www.elindependiente.com/sociedad/2026/11/15/ue-nuevas-tarjetas-discapacidad-qr-cambios-estacionamiento/",
+      "teaser": "Las acreditaciones de discapacidad en la Unión Europea afrontan su mayor renovación técnica en casi tres décadas. El Diario Oficial [&#8230;]",
+      "region": "global",
+      "published": "2026-11-15T08:30:00+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Starling founder Anne Boden plots new AI-powered bank",
+      "link": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-15T16:33:09+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "DuckDB has an answer to “bloated” database messages",
+      "link": "https://thenewstack.io/duckdb-quack-database-protocol/",
+      "teaser": "Older database protocols were built before big data. Some still send results row by row, repeating details like column names The post DuckDB has an answer to “bloated” database messages appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-15T15:05:56+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Claude Fable 5.2 vs. Opus 5.5: Same scores at almost 4x the cost",
+      "link": "https://thenewstack.io/claude-fable-5-2-vs-opus-5-5/",
+      "teaser": "Anthropic released Claude Fable 5.2 on November 9 and said it beats Claude Opus 5.5 in almost every capability the The post Claude Fable 5.2 vs. Opus 5.5: Same scores at almost 4x the cost appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-15T15:00:00+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "AWS Emulator proves agents need a verification loop. Realism is the hard part.",
+      "link": "https://thenewstack.io/aws-emulator-verification-loops/",
+      "teaser": "This week, Amazon Web Services released AWS Emulator, a local copy of AWS that coding agents can test against. It The post AWS Emulator proves agents need a verification loop. Realism is the hard part. appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-14T17:30:00+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix",
+      "link": "https://thenewstack.io/claude-fable-5-2-vs-fable-5-1/",
+      "teaser": "Anthropic’s Claude Fable 5.2 promises fewer refusals and lower token prices, but those changes played out very differently in our The post Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-14T17:00:00+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Web search for agents is here: Why ranking still decides the answer",
+      "link": "https://thenewstack.io/ai-agent-search-ranking/",
+      "teaser": "AI agents have had a URL problem for a while. When an agent needs current information but has no search The post Web search for agents is here: Why ranking still decides the answer appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-14T16:00:00+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "DuckLake 1.1 solves the absurd complexity of data lakes at AI scale",
+      "link": "https://thenewstack.io/ducklake-sql-lakehouse-metadata/",
+      "teaser": "How much simpler could a data lakehouse get if an ordinary SQL database kept track of its files? That&#8217;s the The post DuckLake 1.1 solves the absurd complexity of data lakes at AI scale appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-14T15:45:04+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Anthropic wants you to build on Claude. There’s a catch.",
+      "link": "https://thenewstack.io/anthropic-enterprise-developer-competition/",
+      "teaser": "Anthropic wants developers to build businesses on Claude, but its expansion into enterprise software is raising concerns among founders that The post Anthropic wants you to build on Claude. There’s a catch. appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-14T15:15:00+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Claude Fable 5.2 vs. GPT-6 Astra: A lower list price didn’t mean a lower bill",
+      "link": "https://thenewstack.io/claude-fable-5-2-vs-gpt-6-astra/",
+      "teaser": "Anthropic is positioning its new model, Claude Fable 5.2, for demanding coding and technical work. Anthropic launched Fable 5.2 on The post Claude Fable 5.2 vs. GPT-6 Astra: A lower list price didn’t mean a lower bill appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-14T14:00:00+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Por uma política concorrencial à altura do nosso tempo",
+      "link": "https://www.nexojornal.com.br/perspectiva/2026/11/15/oligopolio-concorrencia-concorrentes-participacao-social-desigualdade",
+      "teaser": "Vivemos o tempo dos grandes oligopólios. Uma política concorrencial reformada, popular e progressista, aberta a novas vozes, pode devolver às pessoas a capacidade de escolher, empreender e participar Ela sai de casa às 7 horas, na zona leste de São Paulo, e antes de ligar o aplicativo para o qual dirige confere o saldo num dos poucos bancos a que tem acesso, paga a conta do celular a uma das três operadoras disponíveis e lembra que precisa remarcar a consulta do filho, porque o hospital do bairro entrou para a rede de outro plano de saúde e deixou de atender o da família. Ao longo do dia, um algoritmo decidirá quantas corridas ela vai fazer e quanto cada uma vai valer, e todas as suas conversas passarão pelo mesmo aplicativo de mensagens. À noite, o mercado da esquina, que agora pertence a uma grande rede, cobrará mais caro pela carne, que muito provavelmente saiu do frigorífico de uma das duas gigantes do setor no Brasil. Antes de dormir, já com a cabeça no travesseiro, ela ainda passará uma hora, talvez duas, vendo vídeos escolhidos por um algoritmo sem rosto, dos mesmos donos do aplicativo onde troca mensagens. Em nenhum momento do dia ela ouvirá falar de política concorrencial ou de defesa da concorrência. Mas, cotidianamente, sua vida é organizada por decisões de poucos agentes econômicos, que ela não escolhe nem pode contestar. É um poder que não se apresenta, não pede votos e raramente aparece no noticiário. Está no preço, na taxa, na comissão, no credenciamento, no contrato que ninguém lê. Está, sobretudo, na falta de alternativas. A concorrência é provavelmente um dos últimos assuntos que passam pela cabeça de alguém numa manhã nublada de uma quinta-feira qualquer. Não é à toa. Uma das maneiras mais eficazes de retirar um tema relevante da disputa pública é torná-lo enfadonho, quando não simplesmente inofensivo, e poucos temas foram tão bem-sucedidos nesse esquecimento quanto o antitruste, o nome técnico para a função do Estado de garantir que haja concorrência nos mercados. O linguista George Lakoff mostra, em “Não pense num elefante”, que o modo como se fala de um assunto decide quais valores ele desperta em quem ouve, e a defesa da concorrência é quase um caso de manual. Por trás de mercados relevantes, elasticidades e modelos econométricos existe uma política pública com um propósito, mas quando esse propósito é apresentado como a maximização do bem-estar do consumidor, poucos sabem dizer o que isso significa e quase ninguém se reconhece nele.&#160; Este artigo é um convite a lembrar disso. A agenda deste começo de século 21 é o enfrentamento do poder, e a política concorrencial é parte importante, senão central, dessa empreitada. Este artigo é também a defesa de uma possibilidade. A possibilidade de uma política concorrencial reformista, que preserve as estruturas construídas ao longo da redemocratização, como o Cade (Conselho Administrativo de Defesa Econômica), autarquia responsável por aplicar a lei de defesa da concorrência no país. Uma política renovada, porque os desafios de hoje são outros, e as plataformas, os algoritmos e os fundos que compram empresas em série pedem instrumentos e perguntas novas. Popular, porque só ganha força quando as pessoas que vivem os efeitos do poder econômico participam da sua construção. E progressista, porque toma o partido dessas pessoas e entende que concorrência, distribuição de renda e democracia caminham juntas. Ao vencedor, as batatas Machado de Assis pôs na boca de um filósofo louco, Quincas Borba, a parábola de duas tribos famintas diante de um campo de batatas que só alimentaria uma delas. Nessa história, a paz condenaria ambas à fome, enquanto a guerra garantiria a sobrevivência da vencedora. Ao vencido, caberiam o ódio ou a compaixão; ao vencedor, as batatas. Mais de um século depois, essa filosofia parece ter encontrado morada nos mercados do nosso tempo. Quem vence uma vez tende a vencer de novo e cada vitória prepara a seguinte, num círculo que se retroalimenta. Ele nasce do ganho que o poder de mercado proporciona, transforma-se em poder sobre o que se diz e se vê e termina por dar a esses poucos vencedores o controle sobre a própria democracia. O círculo começa onde quase ninguém olha, na margem que se acrescenta ao custo de cada coisa vendida, aquela que, nos Estados Unidos, saltou de 21% para 61% entre 1980 e meados da década de 2010, enquanto a parte do trabalho na renda encolhia. Continua no acúmulo silencioso que deixou nas mãos do 1% mais rico cerca de 27% de toda a renda brasileira em 2019, confirmando o que Thomas Piketty já havia mostrado, que a riqueza cresce mais depressa do que a economia que a sustenta. É assim que a concentração dos mercados vira concentração de renda, com a naturalidade de quem passa de um cômodo a outro da mesma casa. Mas a casa inteira empobrece, porque mercados sem rivalidade produzem menos, inovam menos e investem menos do que poderiam. O Brasil, um país cuja produtividade cresceu apenas 0,8% ao ano entre 1995 e 2024, conhece de perto o preço dessa acomodação. Em boa parte do mundo, o custo de vida voltou ao centro da disputa política. A escala dos negócios nunca foi tão grande, e a apropriação dos ganhos que essa escala produz nunca esteve tão concentrada em poucos atores da tecnologia e das finanças. Quando o preço da carne, do aluguel ou da mensalidade sobe mais depressa do que o salário, a pergunta sobre quem fica com os ganhos da atividade econômica deixa de ser abstrata, e a política concorrencial é uma das poucas ferramentas do Estado desenhadas para respondê-la. Por muito tempo, um discurso tecnocrático manteve essa relação longe do debate público. Na sequência, do mercado, o poder passa à palavra. Quem controla os caminhos pelos quais as pessoas se informam, compram e conversam decide também o que será visto e o que ficará no escuro. As plataformas do nosso tempo escapam de um antitruste que só sabe olhar para os preços e reúnem os dados, a nuvem e o conhecimento de que hoje dependem varejistas, bancos e governos, o que lhes permite decidir, longe de todos os olhares, a direção que a tecnologia vai tomar. Vivemos o que já se chamou de nova Era Dourada, com uma concentração econômica ainda maior do que aquela que, no começo do século 20, levou o americano Louis Brandeis, advogado que depois chegaria à Suprema Corte, a falar da maldição do gigantismo. Essa maldição agora mora em servidores e algoritmos que, como mostram evidências empíricas recentes, aprendem sozinhos a cobrar mais caro sem que ninguém precise combinar nada. Não bastasse isso, a inteligência artificial ameaça acelerar esse círculo como nenhuma tecnologia antes dela. Treinar e operar os grandes modelos exige chips, nuvem, dados e talentos que já estão nas mãos de pouquíssimas empresas. A autoridade de concorrência britânica identificou, em 2024, uma teia de mais de 90 parcerias e investimentos cruzados entre Google, Apple, Microsoft, Meta, Amazon e Nvidia, com o alerta de que os grupos que dominam os mercados de hoje podem usar essa posição para estender seu domínio aos mercados que a própria inteligência artificial está criando. Se a máquina que responde a perguntas, produz conteúdo e sugere compras pertencer a poucos, serão também de poucos as respostas, os conteúdos e as vendas. Por fim, da palavra, o poder chega à democracia, quando a riqueza e a voz acumuladas se convertem em influência sobre governos, parlamentos e reguladores que escrevem as regras capazes de proteger o que já foi conquistado, e então o círculo se fecha para recomeçar. No Brasil, essa engrenagem é antiga. Raymundo Faoro a descreveu como a obra dos donos do poder, mas hoje ela gira em todas as escalas, no posto de combustível que combina preços com o vizinho, no aumento de preços de procedimentos pelo único plano de saúde da região, no empregador que domina o mercado de trabalho de uma cidade inteira e segura os salários, nos cinco bancos que concentravam quase 80% do crédito, no aplicativo que decide quanto vale cada corrida. Carolina Maria de Jesus registrava em seu diário, na favela do Canindé, a fome e o preço da comida que subia, como quem anota a passagem de um poder sem rosto, e é esse poder sem rosto que a política concorrencial precisa aprender a nomear. Quem define o preço da corrida, a comissão do restaurante, o reajuste do plano e a assinatura do software decide também como a renda será repartida, e por isso a política concorrencial é, no fundo, uma política sobre quem fica com as batatas. E as batatas são mais do que renda. O poder de que se fala aqui vai muito além do monopólio e da economia. É o poder de fixar preços e salários, e também o de organizar o que se vê e o que se lê, de desenhar a cidade e seus serviços, de escolher quem entra num mercado e quem fica de fora, de influenciar quem escreve as regras. Um poder que atravessa muitas esferas da vida e que, por isso mesmo, alcança a cidadania. Nas sociedades em que vivemos, consumir e empreender são formas básicas de pertencer. Estudos de antropologia sobre a inclusão pelo consumo no Brasil das últimas décadas mostram que, para muitos jovens das periferias, comprar, frequentar e escolher também são maneiras de se reconhecer como parte da comunidade e de reivindicar direitos.&#160; Quando poucos concentram o poder sobre o que se compra, a que preço e em que condições, a capacidade de consumir e de empreender de muitos encolhe, e com ela encolhe a cidadania. A família que não consegue escolher onde comprar, o pequeno comerciante que não consegue abrir as portas porque o mercado já foi fechado por quem chegou antes e a motorista que não tem como recusar o preço da corrida perdem mais do que dinheiro. Perdem voz, autonomia e lugar. Perdem um pedaço de cidadania. Defender a concorrência é ser fiel ao melhor da própria economia de mercado, aquela que Mário Covas tinha em mente quando pediu no Senado, em 1989, um choque de livre iniciativa “sujeita a riscos e não apenas a prêmios”. Covas disse isso pouco depois de ter liderado a maior bancada da Assembleia Constituinte, e seu choque de capitalismo cabia no pacto que ela selou: o de uma Constituição que pôs os valores sociais do trabalho e da livre iniciativa, lado a lado, entre os fundamentos da República.&#160; Nesse constitucionalismo, mercado e igualdade aparecem como partes de uma mesma promessa, a de uma sociedade em que vencer uma vez não dê a ninguém o direito de vencer para sempre. Essa promessa, porém, nunca saiu inteira do papel, e a distância entre o que a Constituição pede e o que a política concorrencial pratica tem raízes antigas no modo como o Brasil costuma importar suas ideias. Ideias fora do lugar Em 1973, o crítico literário Roberto Schwarz publicou um ensaio que mudaria a forma de pensar o Brasil, “As ideias fora do lugar”. No país escravista do século 19, observava ele, as ideias liberais importadas da Europa conviviam com a escravidão e com o favor, e muitas vezes serviam para justificá-los. Descreviam uma sociedade de indivíduos livres e iguais que o Brasil não era, mas davam verniz moderno a relações que continuavam desiguais. As ideias continuam fora do lugar quando um aparato que se pretende profundamente técnico convive, lado a lado, com um capitalismo de compadrio. Mecanismos complexos de estimação de demanda, estruturas sofisticadas de inferência causal, argumentos colhidos nos melhores livros-texto de economia e as heurísticas jurídicas mais refinadas habitam o mesmo espaço em que os donos do poder interagem de fato com a ação política e a modificam, e ali se misturam a favores a serem devolvidos, que se perdem entre as letras gregas dos modelos e as frases latinas do juridiquês. Nas universidades, esse mesmo instrumental tem servido para revelar os problemas crônicos de concentração que atravessam a economia brasileira, mas, ao entrar nos autos de um processo, costuma se curvar a argumentos meramente transacionais, de pouco rigor, cuja função principal é proteger interesses. O que deveria iluminar o poder passa a escondê-lo, e o favor de que falava Schwarz sobrevive com roupa nova, vestido de econometria e de doutrina. A política concorrencial brasileira corre o risco de viver sua própria versão desse descompasso. Essa disciplina viveu um momento existencial nos anos 1980 nos Estados Unidos, onde nasceu. A “batalha pela alma do antitruste” opôs, de um lado, uma visão que reduzia a política concorrencial à eficiência e, de outro, uma tradição preocupada com a dispersão do poder e as oportunidades de quem quer competir. A primeira visão, associada ao neoliberalismo da Escola de Chicago, venceu e predominou por décadas, espalhando-se pelo mundo por meio de manuais, redes de autoridades e consultorias globais. Chegou ao Brasil como o gospel de um antitruste imaginário, traduzido de manuais estrangeiros, com eficiências projetadas em planilhas. Nesse evangelho, os mercados concretos dão lugar a prospectos do que eles seriam. Aparecem consumidores representativos, curvas de demanda e projeções de sinergia. Desaparecem o paciente que não pode trocar de plano, o comerciante que paga a taxa que lhe impõem sem ter a quem recorrer, a entregadora que põe a vida em jogo a cada corrida sem ter o poder de negociar o que recebe, a enfermeira que passa a ganhar menos sem ter como negociar seu salário. O excesso de poder de um lado implica a ausência de poder do outro, do lado do consumidor, do trabalhador, do pequeno empreendedor. Em suma, do povo. Há algo de irônico e poético no fato de que o diagnóstico mais preciso desse deslocamento tenha vindo de um quase homônimo de Roberto Schwarz. Falo de Luis Fernando Schuartz, falecido professor da FGV Direito Rio e ex-conselheiro do Cade, que deu ao fenômeno o nome de desconstitucionalização do direito de defesa da concorrência. Schuartz percebeu que as decisões da autoridade brasileira tinham passado a buscar suas premissas na teoria econômica, sem se voltar à Constituição, e que a economia do antitruste se tornara, na prática, fonte do direito brasileiro. O professor registrou que as pistas deixadas pela Constituição nunca chegaram à aplicação da lei. E as pistas são muitas. O artigo 170 funda a ordem econômica na valorização do trabalho humano e na livre iniciativa e lhe dá por fim assegurar a todos existência digna, conforme os ditames da justiça social, colocando a livre concorrência ao lado da defesa do consumidor, da redução das desigualdades regionais e sociais e da busca do pleno emprego. O artigo 173 manda que a lei reprima o abuso do poder econômico que vise à dominação dos mercados, à eliminação da concorrência e ao aumento arbitrário dos lucros. Os constituintes de 1988, portanto, escreveram uma política concorrencial que falava de trabalho, de dignidade e de desigualdade, e a prática que veio depois aprendeu a falar apenas de excedentes e de curvas. Roberto Schwarz mostrou ideias europeias que davam verniz moderno a um país desigual, e Luis Fernando Schuartz mostrou uma Constituição brasileira que ficou na gaveta enquanto o ferramental econômico ganhava espaço. É um ferramental valioso, de que a política concorrencial precisa, mas que perde o compasso quando se fecha num círculo de especialistas, afasta a participação popular e deixa de enxergar a vida de quem está nesses mercados — o paciente, o comerciante, a entregadora. Entre os dois cabe boa parte da história do nosso antitruste, e o desafio que se abre agora é reaproximar essa técnica, construída com tanto cuidado, das pessoas que a Constituição mandou proteger. Esse antitruste está, portanto, duplamente fora do lugar. Pressupõe mercados disputados e um Estado neutro num país de oligarquias, cuja própria Constituição manda olhar para o trabalho e para a desigualdade. E convive com aquilo que deveria combater, produzindo uma política concorrencial muitas vezes cartorial, tanto pela primazia da influência política em parte de sua ação quanto por um pensamento reducionista sobre a missão dessa política pública e da autoridade que a aplica.&#160; Enquanto isso, nos próprios Estados Unidos e na Europa, a última década trouxe de volta as perguntas sobre concentração, trabalho e plataformas, como se viu na postura altiva dos órgãos de defesa da concorrência americanos, deste lado do Atlântico, e na construção da lei europeia de mercados digitais, do outro. Seria uma ironia triste se o Brasil continuasse fiel a um modelo que seus próprios autores já revisam, quando guarda na sua Constituição, desde 1988, as perguntas que o Norte Global agora redescobre. A resposta a esse descompasso no Brasil passa pelo uso dos instrumentos do direito antitruste em toda a sua plenitude e na sua forma mais sofisticada, associado à participação social e à consciência de que, usados no vácuo, eles reproduzem as mesmas ideias fora do lugar. Num país oligárquico como o nosso, a sofisticação técnica que dispensa uma reflexão objetiva sobre o papel do Estado, sobre a economia de mercado que se quer construir e sobre o debate distributivo que cerca a defesa da concorrência acaba sendo inócua e ingênua, porque perde de vista aquilo que a política concorrencial é em sua essência: uma política sobre o poder em suas muitas formas – o poder de fixar preços, de fechar mercados, de definir salários, de decidir o que se vê e de influenciar quem escreve as regras. Por isso, toda análise concorrencial deveria começar perguntando quem detém esse poder, sobre quem ele se exerce e quem paga por ele. Modelos e doutrinas ganham sentido quando ajudam a responder a essa pergunta, e o perdem quando servem para evitá-la. Essa pergunta precisa atravessar todas as instâncias em que a política concorrencial se faz, da autoridade que investiga ao tribunal que revê suas decisões, e chegar sobretudo a quem vive seus efeitos. É ela que devolve as ideias ao seu lugar, porque obriga a técnica a olhar para o país que a Constituição descreveu, com seus trabalhadores, consumidores e pequenos empreendedores, em vez do mercado imaginado nos manuais.&#160; Uma política concorrencial que se pergunta pelo poder e se abre a quem o sofre volta a ter lugar no país real, e levá-la até lá exige reformá-la. A própria história do antitruste mostra que foi assim, aberto à sociedade e voltado contra o poder, que ele nasceu. Reformar para um novo tempo Pensar em um futuro para a política concorrencial exige relembrar suas origens, nascidas da revolta popular contra o crescimento sem freio do poder econômico concentrado. No fim do século 19, agricultores, pequenos produtores e movimentos populistas dos Estados Unidos se levantaram contra o poder das ferrovias, dos bancos e dos grandes trustes. Em 1890, o Congresso aprovou a lei que levaria o nome do senador John Sherman, que a defendeu lembrando que um país que não tolerava um rei como poder político também não deveria tolerar um rei sobre a produção, o transporte e a venda das necessidades da vida. A Lei Sherman passou mais de uma década quase sem sair do papel, e a história de como ela ganhou força começa em 1872, numa pequena cidade da região petrolífera da Pensilvânia, onde uma menina de 14 anos viu o negócio do pai começar a ruir. Franklin Tarbell era um produtor independente de petróleo, e a ameaça vinha de um acordo secreto entre ferrovias e refinarias ligadas a John D. Rockefeller, que encarecia o frete de todos os concorrentes do magnata. A menina cresceu vendo vizinhos perderem o negócio, a renda e a autonomia para uma empresa que ninguém tinha escolhido. Trinta anos depois, Ida Tarbell voltou àquela história como jornalista. Leu processos, contratos e depoimentos, entrevistou dirigentes da Standard Oil, empresa de Rockefeller, ouviu as pessoas que perderam tudo para o conglomerado e, entre 1902 e 1904, publicou na revista McClure’s uma série de 19 reportagens que deu ao monopólio rosto, endereço e consequências. Theodore Roosevelt, que uma vez chamou os jornalistas daquela geração de “muckrakers” (algo como revolvedores de lama), soube transformar a indignação que eles despertaram em ação de governo. A Standard Oil foi processada naquele mesmo ano, e em 1911 a Suprema Corte mandou desmembrá-la em 34 empresas. Ao escrever suas reportagens, Tarbell fez algo talvez mais importante do que escrever uma lei. Aproximou uma política nascente da vida de milhões de pessoas e mostrou que uma lei só ganha força quando a sociedade enxerga o poder que ela deve conter. Uma lei que só os advogados conhecem incomoda pouca gente, e a lei antitruste começou a incomodar quando saiu dos tribunais e dos gabinetes e chegou às mesas de jantar, às assembleias de fazendeiros e às bancas de jornal, levada pela voz de uma repórter que fez do poder econômico um assunto de todos. Foi pela abertura, mais do que pela sofisticação de qualquer doutrina, que o antitruste deixou de ser promessa. Do outro lado do Atlântico, a lição foi aprendida entre ruínas. A Alemanha tinha passado meio século tratando os cartéis como estabilizadores da economia, e eles já eram cerca de 2.500 em 1930, pouco antes de o regime nazista aprovar a lei dos cartéis compulsórios e tomar para si o controle de todo o sistema. Desde o começo daquela década, um grupo de acadêmicos da cidade de Freiburg via no poder, estatal ou privado, a raiz da perda da liberdade. Um deles, o professor de direito Franz Böhm, chegou a definir a concorrência como o mais genial instrumento de desempoderamento da história.&#160; Depois da Segunda Guerra, essas ideias ajudaram a dar forma à economia social de mercado e à lei alemã contra restrições à concorrência, de 1957, que Böhm defendeu como deputado contra a oposição da grande indústria. No mesmo ano, o Tratado de Roma inscreveu regras de concorrência entre os fundamentos da integração europeia. Nos dois lados do oceano, a política concorrencial nasceu como resposta democrática ao poder e só ganhou corpo quando virou disputa pública. No Brasil, a política concorrencial foi construída aos poucos, e seu impulso decisivo veio com a redemocratização. Nos anos 1990, a abertura econômica e a estabilização trouxeram a Lei 8.884, de 1994, que transformou o Cade em autarquia e deu início a um processo de profissionalização sem precedentes. Quase duas décadas depois, a Lei 12.529, de 2011, estruturou uma autoridade moderna, com análise prévia de fusões, uma Superintendência-Geral responsável pelas investigações, um Departamento de Estudos Econômicos e um Tribunal Administrativo. Esses processos deram à política concorrencial a capacidade de funcionar com objetividade, previsibilidade e rigor técnico. Na mesma época, a Constituição de 1988 deu origem a outra política, que seguiu um caminho diferente. Ao fazer da defesa do consumidor um direito fundamental, ela abriu espaço para o Código de Defesa do Consumidor, de 1990, que saiu dos livros e chegou ao balcão do Procon, ao juizado especial e ao exemplar do código que toda loja deve manter à vista. Isso fez com que milhões de brasileiros passassem a saber que têm direitos quando compram e onde reclamá-los.&#160; Já a defesa da concorrência ficou restrita a um círculo pequeno de especialistas. As duas políticas estão lado a lado no mesmo artigo 170 e servem às mesmas pessoas, mas só uma delas aprendeu a falar com elas. Essa distância diz respeito ao modo como a política se apresentou ao país e em nada diminui o trabalho de quem a construiu. As servidoras e os servidores que ergueram a defesa da concorrência no Brasil guardam um legado histórico único, como artífices de uma instituição forte e robusta, capaz de desmontar cartéis, analisar operações complexas e resistir a pressões, e nenhuma reforma séria começa sem reconhecer esse patrimônio. É justamente a partir desse patrimônio que chegou a hora de reformar a política concorrencial brasileira. Reformá-la para um novo tempo, para um novo desafio e para um novo embate, tendo as bases técnicas e a experiência acumulada como ponto de partida.&#160; Os anos 1990 fizeram a abertura da economia, e falta fazer agora a outra, a que deu força à Lei Sherman e que a defesa do consumidor soube fazer por aqui, a abertura da política concorrencial à sociedade que ela deve proteger, para que essa política faça jus às duas acepções que a palavra carrega em português, a de política pública e a de disputa política, e seja ao mesmo tempo um conjunto de instrumentos técnicos e um objeto legítimo de debate público.&#160; Essa reforma tem um caminho concreto, feito de escolhas sobre onde atuar, como se organizar e quem ouvir, e algumas dessas escolhas já começaram a ser feitas. A política concorrencial de que precisamos Reformar a política concorrencial começa por uma pergunta simples, feita todos os anos e respondida em público. Onde o poder econômico mais pesa na vida das pessoas? A resposta está menos nos autos dos processos e mais no hospital que deixou de atender o plano, nas operadoras que fecharam 2025 com lucro recorde, nas plataformas que nasceram abertas para depois cobrar pedágio de quem vende e de quem trabalha. Está no preço da carne e na mensalidade da faculdade. Está no salário que não sobe porque há poucos empregadores na cidade. Está na transição energética, que pode ficar mais cara e mais lenta se poucos controlarem seus insumos.&#160; A resposta a essa pergunta precisa virar uma agenda pública de prioridades, definida depois de ouvir a sociedade e publicada para que todos saibam quais mercados serão estudados e investigados e por quê, como já fazem autoridades de concorrência de outros países. Uma política reformada escolhe ir aonde o poder está e diz à sociedade, com clareza, para onde está indo. E tem que ir sem esperar convite. A vida de uma autoridade concorrencial costuma ser pautada pelo que bate à sua porta, as notificações de fusões, as denúncias de concorrentes, os pedidos das empresas. A defesa da concorrência de que precisamos inverte essa ordem. Abre investigações por iniciativa própria, estuda os mercados antes que o dano se consolide e usa os dados a seu favor para enxergar o que acontece nos algoritmos, nas plataformas e nos mercados de trabalho. Essa reforma pode ser dita em movimentos concretos, que se reforçam uns aos outros. Elevar os critérios de faturamento de empresas, que obrigam a notificação de fusões, e ajustar as normas desse controle, reorganizar a Superintendência-Geral em torno dos mercados que mais importam, tornar pública a priorização de casos, reformar o regimento interno da autoridade e aprovar o PL 4.675/2025, que trata dos mercados digitais. Nenhum deles exige abandonar a técnica, e todos pedem mais transparência e mais participação. O primeiro movimento é uma questão de tempo, e tempo é o recurso que a burocracia mais consome. Em 2025, a autoridade analisou 847 atos de concentração, nome dado, grosso modo, a fusões e aquisições de empresas com potencial de concentrar poder de mercado. Desses, 819 foram aprovados sem restrições e nenhum foi reprovado. Cada hora dedicada a carimbar operações inofensivas é uma hora a menos para investigar o que importa. Elevar os critérios de notificação, fixados em 2012 e corroídos por mais de uma década de inflação e de crescimento da economia, e ajustar as normas desse controle, para que operações sem risco tenham um rito simples e as que preocupam recebam toda a atenção, significa desburocratizar o Estado e devolver às servidoras e aos servidores o trabalho para o qual se prepararam. A lei já permite chamar para análise, em até um ano, as operações que escapam dos critérios formais, e é esse olhar que deve recair sobre os fundos e conglomerados que concentram mercados aos poucos, uma clínica ou um mercado de bairro de cada vez. O tempo liberado precisa de uma estrutura que o aproveite. Uma Superintendência-Geral reorganizada em torno dos mercados que mais pesam na vida das pessoas, como saúde, alimentos, crédito, mercados digitais e trabalho, com capacidade de fazer estudos de mercado e de abrir investigações a partir deles, enxerga além do preço. Uma estrutura que saiba que o poder de mercado também se mede pela qualidade que cai, pela inovação que não acontece, pela privacidade que se perde e pela escolha que desaparece. Que coloque a técnica construída ao longo de três décadas para trabalhar com mais ambição, ousando teorias do dano que os manuais ainda não consagraram, olhando para o efeito de uma operação sobre o trabalho e sobre a dependência de quem compra e de quem vende. Um órgão que prefira arriscar perder um caso difícil a deixar de enfrentá-lo.&#160; Quando compromissos de conduta não bastam, um Cade que tenha coragem de impor remédios estruturais, como a venda de negócios inteiros. Que, depois de aprovar uma fusão, volte, anos depois, para conferir em público se ela entregou o que prometeu. Trava assim o bom combate das ideias, em que as empresas e seus representantes são ouvidos com atenção e a autoridade, segura de sua missão, nada tem a temer do contraditório. Esse combate se trava à luz do dia. Um processo transparente, com documentos públicos sempre que o sigilo não for indispensável, audiências abertas e prazos conhecidos, convida para dentro dele vozes que hoje ficam do lado de fora. A política concorrencial precisa de mais e mais Idas Tarbell, gente de fora do pequeno mundo da concorrência que denuncie, fiscalize e aponte o que deve ser perseguido. Associações de consumidores, Procons, sindicatos, cooperativas, pequenos comerciantes, pesquisadoras e jornalistas precisam encontrar linguagem simples e respostas para seus questionamentos, passando a fazer parte objetiva e real da construção dessa política pública. A tentação de quem teme a politização é fechar as portas, e a experiência mostra que a captura prospera justamente no silêncio. Alguns passos nessa direção já foram dados e merecem ser levados adiante com ambição. A proposta de revisão do regimento interno do Cade, posta em consulta pública na plataforma Brasil Participativo, procura tornar mais transparentes os mecanismos de decisão e mais permeáveis a quem está de fora – o próprio fato de ter sido submetida à sociedade antes de ser aprovada aponta o caminho. É a oportunidade de transformar em regra o que hoje depende de iniciativas isoladas, como a chamada pública de contribuições aberta numa investigação sobre plataformas digitais, que ainda não tem previsão formal. O PL 4.675/2025 vai na mesma direção. Na versão enviada pelo governo, o projeto cria uma Superintendência de Mercados Digitais, permite designar as plataformas de relevância sistêmica e impor a elas obrigações como portabilidade de dados, interoperabilidade e acesso não discriminatório, e faz algo que a lei de 2011 não faz, ao prever audiências e consultas públicas obrigatórias antes dessas decisões e abrir espaço para que qualquer interessado contribua. Nos mercados digitais, a participação da sociedade deixa de depender da boa vontade de quem decide e passa a fazer parte do procedimento. Decisões recentes também mostram o que uma política concorrencial atenta à vida real pode fazer. Em 2023, um acordo limitou os contratos de exclusividade do iFood com restaurantes, vedando a exclusividade com redes de 30 ou mais lojas e restringindo-a nas grandes cidades, para que outros aplicativos pudessem disputar o mercado. É o tipo de decisão que chega ao dono do restaurante e ao entregador, e que só produz efeito quando acompanhada de perto.&#160; Para isso, a defesa da concorrência precisa deixar a periferia da política econômica, ocupar seu lugar ao lado da Esplanada e fazer da cooperação um método de trabalho, porque os mercados digitais, o crédito, a saúde e o trabalho atravessam as fronteiras de muitas instituições, e só uma cooperação constante com a Secretaria Nacional do Consumidor, a Agência Nacional de Proteção de Dados, o Banco Central, as agências reguladoras e os Procons permite enxergar o poder por inteiro. As iniciativas em curso são importantes, mas ainda são apenas um início diante do desafio. O tempo em que vivemos pede um choque mais profundo, um choque de reforma e de missão, capaz de reconstruir os pilares da política concorrencial brasileira sobre a ideia com que ela nasceu, a de que o poder econômico concentrado é um problema público e deve ser enfrentado em público. A política concorrencial pode mais A política concorrencial pode mais. Deve mais. E pode porque conta com o trabalho das servidoras e dos servidores que hoje fazem a defesa da concorrência funcionar no país, gente dedicada que analisa operações complexas em prazos curtos, desmonta cartéis, resiste a pressões e sustenta, processo após processo, uma das tradições técnicas mais sólidas do Estado brasileiro. É sobre esse trabalho que qualquer reforma deve se apoiar, e é graças a ele que a defesa da concorrência tem condições de enfrentar a missão de seu tempo, a de tornar cada dia mais custoso o caminho de perpetuação do poder econômico. Abdicar dessa missão é abdicar de mudar de fato a vida de competidores e consumidores. É deixar que a política se afaste do interesse público e se feche numa tecnocracia que exclui os afetados de sua formulação. É manter o debate preso ao elefante de Lakoff, nos termos de quem prefere que ninguém entenda, e desistir de construir uma narrativa compreensível para aqueles que são seus reais destinatários. É aceitar a concentração de poder como um dado da natureza, quando ela resulta de escolhas que a sociedade pode e deve contestar. Para cumpri-la, a defesa da concorrência precisa abandonar a imagem que construiu de si mesma, a de uma ilha de excelência imune à política. As influências políticas já atuam sobre a política antitruste, e fingir que não existem apenas deixa que elas ajam em silêncio. A politização se anula quando se somam mais vozes, mais organizações, mais interesses afetados e mais consumidores. Em essência, mais povo. Nenhuma forma de política se sustenta longe do povo, e é esse o espírito de Tarbell que a ação antitruste precisa reencontrar, o de uma política que ganha força quando se abre, quando a imprensa, as universidades, os sindicatos, as associações de consumidores e de pequenos negócios e as organizações da sociedade civil investigam, documentam e denunciam as formas pelas quais o poder econômico organiza a vida das pessoas e encontram do outro lado uma autoridade disposta a recebê-los, ouvi-los e agir. O governo, o Congresso e o Judiciário podem dar a essa política os meios e a legitimidade de que ela precisa. Abertura e rigor caminham juntos. É possível ter uma autoridade e uma política concorrencial sérias, em que as ideias se confrontam com franqueza, em que as teorias mais ousadas precisam provar seu valor diante dos melhores argumentos do outro lado e em que cada decisão se sustenta em fatos, em método e em razões que qualquer cidadão pode ler. O confronto de ideias faz parte dessa seriedade, e uma seriedade que se esconde atrás de portas fechadas acaba servindo a poucos. A motorista da zona leste talvez nunca leia uma decisão sobre concorrência. A política concorrencial que nos cabe construir será julgada pelo que mudar no dia dela, no preço do que compra, no valor da corrida, no atendimento do filho. Uma menina da Pensilvânia viu o poder econômico desfazer a vida de sua cidade e dedicou anos a torná-lo visível. Mais de um século depois, a tarefa da nossa geração é a mesma. Enxergar o poder, nomeá-lo e contê-lo, com técnica, com coragem e com mais povo. Enfrentar o poder é a missão do nosso tempo. Não nos escondamos dela. Paulo Henrique de Oliveira é economista pela Unifesp (Universidade Federal de São Paulo), além de mestre e doutorando na área de política e economia do setor público na FGV (Fundação Getulio Vargas). É coordenador executivo da iniciativa IPPM (Interesse Público e Poder de Mercado) da FGV Direito SP, pesquisador do Cebrap (Centro Brasileiro de Análise e Planejamento) e do Cedis (Centro de Direito, Internet e Sociedade) do IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa). Atua como Chefe de Gabinete da Presidência do Cade (Conselho Administrativo de Defesa Econômica). As opiniões expressas são pessoais.",
+      "region": "global",
+      "published": "2026-11-15T21:10:20+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Tamanduás e antas têm microplástico no sangue, diz estudo",
+      "link": "https://www.nexojornal.com.br/externo/2026/11/15/poluicao-contaminacao-microplastico-tamandua-anta-animais",
+      "teaser": "Pesquisa com espécimes de três biomas brasileiros mostra que animais terrestres também estão expostos a esse tipo de poluente &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2026/09/Myrmecophaga_tridactyla_Pantanal_region_Brazil_cropped.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Tamanduá-bandeira &lt;/media:title&gt; &lt;media:credit&gt; Anagoria / Wikimedia Commons &lt;/media:credit&gt; &lt;/media:content&gt; Tamanduás-bandeira e antas no interior do Brasil estão acumulando microplásticos no sangue, de acordo com um estudo publicado pela revista Nature&#160;— o fenômeno acomete, inclusive, espécimes que vivem longe de cidades e de infraestruturas humanas, em habitats praticamente intocados. Dados de localização (via GPS) e amostras de sangue de 26 antas (Tapirus terrestris) e 21 tamanduás-bandeira (Myrmecophaga tridactyla) foram coletados na Amazônia, no Cerrado e no Pantanal, com a ajuda do Instituto de Pesquisas Ecológicas (IPÊ) e do Instituto de Conservação de Animais Silvestres (ICAS). Os micropedaços de plástico foram encontrados em 43 dos 47 indivíduos observados, com uma concentração média de 73,8 partículas por mililitro (ml) de sangue. “Quando se fala em impacto ecológico, costumamos olhar para a área diretamente ocupada pelas atividades humanas. Mas é importante investigar, também, as zonas de influência, que vão além do lugar onde essas atividades acontecem”, explica Marcia de Almeida Monteiro Melo Ferraz, autora principal do estudo e professora da Universidade da Colúmbia Britânica Okanagan, no Canadá. Os microplásticos são pedaços com menos de 5 milímetros de diâmetro, invisíveis a olho nu. De tão pequenos e leves, esses poluentes se espalham pelo ar e são carregados pela água em chuvas e enchentes. Os primeiros relatos de microplásticos por cientistas são dos anos 1970, mas o termo só surgiu em 2004, e seu estudo vem crescendo desde então. O que a atual pesquisa mostra é que os animais não precisam estar em contato próximo com as mudanças promovidas pelos seres humanos no ambiente para serem atingidos por elas. Ainda assim, o contato com infraestruturas humanas está, sim, diretamente associado ao aumento na quantidade de microplásticos no sangue. “Isso nos dá uma esperança: se controlarmos o avanço da intervenção humana sobre as áreas naturais, talvez seja possível reduzir a exposição a microplásticos”, diz Ferraz. Ainda não é possível afirmar que a presença de microplásticos no sangue seja prejudicial à saúde. Em humanos, contudo, os microplásticos já foram associados a tumores, demência e patologias cardíacas, o que também não significa que eles seriam a principal causa dos problemas. Em animais silvestres, a correlação é ainda mais difícil de estabelecer: estudos em laboratório que apontam possíveis malefícios, partem de concentrações mais altas do que as documentadas na natureza. A equipe do estudo, que pretende ampliar o trabalho no Brasil, acabou de garantir financiamento da agência ambiental do governo do Canadá (ECCC) para replicar o estudo por lá, coletando amostras do ambiente e de animais a fim de investigar de onde vem o microplástico e qual seu efeito nos espécimes locais.",
+      "region": "global",
+      "published": "2026-11-15T21:09:06+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "5 livros de autorias periféricas para sair de lugares comuns",
+      "link": "https://www.nexojornal.com.br/estante-favoritos/2026/11/14/autores-perifericos-livros-sobre-periferia-indicacoes-nivaldo-brito",
+      "teaser": "A convite da seção ‘Favoritos’, o escritor, editor e pesquisador Nivaldo Brito indica cinco livros de autoras e autores periféricos que fogem de estereótipos Surgidos no início deste século, os saraus periféricos foram escola para inúmeros escritores, editores e trabalhadores do livro em geral, inclusive para os que não tiveram ocasião de frequentar universidades. Mas a vasta produção literária nascida em contextos periféricos ainda é, muitas vezes, associada apenas à oralidade e às denúncias contra o sistema que os encontros com microfone aberto promovem, tendo outras características (estéticas e temáticas) deixadas de escanteio.&#160; &#160; Abaixo, sugiro obras que convidam a apreciar o parágrafo enquanto paisagem. Todas foram lançadas recentemente por editoras independentes, cujas autorias transitam com intimidade por diversos circuitos culturais de suas respectivas cidades; com reconhecimento na cena dos saraus, inclusive. São leituras que escapam, cada uma a seu modo, do estereótipo que o mercado editorial brasileiro vem tentando estabelecer de livro feito por favelado.&#160; &#160; Contos reunidos Fábio Mandingo (Ciclo contínuo, 2025) &#160; Ia escrever sobre outro livro do Mandingo (“Salvador negro rancor”), mas me dei conta de que o emprestei e ele nunca mais voltou. Daí procurei o exemplar de “A princesa Mahin” — um épico disfarçado de realismo mágico, com tramas e geografias que os livros de história raramente ousam percorrer —, mas lembrei que emprestei também. E você sabe como é. &#160; Enxuta até no título, esta antologia traz contos inéditos misturados com todos os outros já publicados pelo autor. Toda vez que leio, tento adivinhar em quais outros CEPs os personagens podem se esconder. &#160; Grito do fundo do poço Damásio Marques (M.inimalismos, 2025) &#160; O livro, por inteiro, parece contradizer — ou questionar — a sua primeira frase: “ninguém precisou chegar ao fundo”. Os contos do primeiro capítulo são um rolê pelos pontos menos turísticos da zona sul de São Paulo na companhia de personagens adictos e sonoros — desenhados com síntese, pouca cor e muita sombra. O autor muda o tom no segundo capítulo (curtinho) e parece nos chamar para uma conversa na beira de uma mesa de sinuca ou corredor de uma instituição qualquer.&#160; &#160; Sério sem ser soturno. Impressiona por transformar em eco o que nos acostumamos a chamar de solidão ou vazio.&#160; &#160; Unguento Anajara Tavares (Segundo Selo, 2024) &#160; A poesia não precisa ser um jogo de malabares ou dribles com as letras. É isso que me lembra a obra de estreia de Anajara Tavares. Poemas-cuidados para despertar pelo menos uma célula de dengo em nós. Majoritariamente, lembram aqueles feitiços que alguém que nos quer feliz um dia lançou. &#160; Dominó de ossos Dinha (Me parió Revolução, 2025) &#160; Sob a alegoria de personagens de histórias de terror, cada conto traz um tipo conhecido (e quase nunca nomeado) de monstro. A descrição dos vilões não é feita pelas suas aparências, mas pelas metáforas de suas violências.&#160;&#160;&#160; &#160; Um jogo de memórias de pesadelos primários.&#160; &#160; Pretos, prussianos, índios e caipiras II: Pobreza e escravidão nos arredores de São Paulo Salloma Salomão (Aruanda Mundi, 2026) &#160; Continuando o seu trabalho de divulgação científica de uma vida inteira, sem deixar de ser artista, Salloma Salomão nos ajuda a pensar com mais raiz sobre a construção social, material e simbólica de nosso país (e os seus múltiplos apagamentos). Tudo a partir de uma base de documentos arduamente investigada e da sua interpretação crítica e sensível. Embora não sejam muitas, me demorei nas fotografias e suas reticências. Uma publicação imprescindível, nada menos que isso. &#160; Nivaldo Brito está ilustrando o seu décimo segundo livro. Nascido no verão de 1985, em Acajutiba, na Bahia, retirou-se para São Paulo aos 18 anos, onde resiste até agora. Filho de pessoas semialfabetizadas, pesquisa as singularidades editoriais e literárias que emergem de territórios marginalizados como doutorando no programa de Estudos Comparados de Literaturas de Língua Portuguesa da USP (Universidade de São Paulo). É editor executivo e livreiro nas editoras Selin Trovoar e Estação Povoar.",
+      "region": "global",
+      "published": "2026-11-14T21:40:41+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Como o Super El Niño está afetando a Amazônia",
+      "link": "https://www.nexojornal.com.br/externo/2026/11/14/el-nino-2026-super-el-nino-amazonia-kit-de-emergencia",
+      "teaser": "Fenômeno acentua crise climática na região. Combinação com seca sazonal traz consequências graves para a qualidade do ar, contribui para a perda da biodiversidade, aumenta desregulação do clima e acelera inflação logística &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2026/11/images-1.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Manaus coberta por fumaça de queimadas &lt;/media:title&gt; &lt;media:credit&gt; Alberto César Araújo / Amazônia Real/17.10.2026 &lt;/media:credit&gt; &lt;/media:content&gt; Nas últimas cinco décadas, a&#160;Amazônia tem sofrido&#160;com a&#160;crise climática, os&#160;incêndios florestais&#160;e o&#160;contínuo desmatamento. E, atualmente, a combinação desses fatores com o fenômeno do&#160;El Niño&#160;tem agravado ainda mais a situação dos amazônidas e da biodiversidade, dificultado a logística de hidrovias e aumentado a poluição do ar pelas queimadas. A estiagem atual na região está sendo marcada pela poluição atmosférica causada pela fumaça das queimadas, o que levou tanto o governo federal quanto o estadual a adotarem&#160;medidas emergenciais de uso de brigadistas e aeronaves para conter os incêndios&#160;na cidade de Manaus, inclusive com ajuda das&#160;Forças Armadas para ajudar os brigadistas. No período de setembro a outubro de 2026, as queimadas urbanas e florestais se intensificaram, com a liberação de uma fumaça que prejudicou as atividades cotidianas da população:&#160;houve suspensão de aulas nas escolas&#160;e&#160;aumento de problemas respiratórios na população, em especial em Manaus. O transporte sofreu com a falta de visibilidade para navegação. E a logística de exportação e importação pelos rios gerou inflação dos preços dos produtos, com o surgimento de “taxas secas” cobrada por unidade contêiner transportado. Além disso, a&#160;seca dos rios&#160;dificultou o acesso às escolas, à água potável e à alimentação em comunidades isoladas, além de ter causado prejuízo na agricultura familiar, caça e pesca de subsistência. El Niño e Amazônia Períodos de estiagem são comuns na Amazônia, mas têm se tornado cada vez mais frequentes e intensos. A região&#160;enfrentou secas severas nos anos de 2005 e 2010, com anomalia de cobertura total de nuvens decorrente do aquecimento no Atlântico Norte Tropical, intensificadas em 2010 pelo El Niño. Em 2015, o evento gerou&#160;calor sem precedentes e deficit de umidade no ar&#160;devido a um El Niño considerado “mais forte”. Em 2023 e 2024, o fenômeno climático também provocou&#160;clima severo, tendo como resultado as secas dos rios Negros e Solimões, com superaquecimento das águas, mortandade de peixes por falta de oxigênio, falta de água potável para os ribeirinhos e problemas de logísticas nas hidrovias da região. Um&#160;relatório sobre os impactos da estiagem extrema na Amazônia de 2023 e 2024&#160;nas regiões da bacia do Tapajós, no Pará e do interflúvio Purus-Madeira, no Amazonas, apontou a necessidade de se ampliar a capacidade de resiliência climática em territórios coletivos em razão desses eventos extremos. Este relatório deu ênfase especial aos impactos vivenciados por mulheres de povos indígenas e de comunidades tradicionais que vivem em territórios pressionados por projetos de infraestrutura e atividades extrativista. Em 2026, a combinação entre verão amazônico, que ocorre anualmente entre junho e novembro, e super El Niño trouxe consequências também graves, sobretudo para a&#160;qualidade do ar&#160;na região. A&#160;concentração de partículas finas no ar chegou a PM 2.5 de 344,5 microgramas por metro cúbico (µg/m³), cerca de 23 vezes o limite da OMS para 24 horas, que é de 15 µg/m³. Apesar de não ter atingido o nível de severidade de 2023 e 2024, o fenômeno deste ano contribuiu sensivelmente para as alta temperaturas, escassez de chuvas e secas. O&#160;Rio Negro chegou ao mínimo de 17m, impossibilitando a logística, em especial o escoamento e a exportação de produtos manufaturados do Polo Industrial de Manaus. As queimadas Em apenas um dia, entre 9 e 10 de outubro, o&#160;Instituto Nacional de Pesquisas Espaciais (Inpe)&#160;registrou cerca 2.001 focos de incêndio no Brasil, o que corresponde a 88,3% da totalidade de focos ocorridos em outros países latino-americanos. Nesse mesmo dia, o número de focos de incêndio detectados na Amazônia foi de 1.282. Esse número elevado se deve à coincidência entre o chamado “super El Niño” — que impactou de maneira severa a Amazônia, trazendo estiagem prolongada e altas temperaturas — e o pico de queimadas na região. Estudos sobre incêndios em florestas em geral citaram dois tipos de incêndios que podem ser identificados na&#160;crise de incêndios na Amazônia: o primeiro deles ocorre com processo de desmatamento de floresta para uso de pastagem para o gado em grandes propriedades; o segundo, que responde por uma minoria das ocorrências, para a prática da agricultura familiar. Os incêndios podem gerar a destruição de grandes extensões de florestas, liberando altos índices de partículas poluentes na atmosfera, que são levadas com a ação dos ventos para as cidades. Além disso, eles contribuem para a perda da biodiversidade, desregulação do clima, interrupção dos serviços ecossistêmicos, redução na quantidade de alimentos e inflação dos preços de logística nas hidrovias da região. Nesse contexto, torna-se fundamental fortalecer políticas públicas na prevenção e no combate aos incêndios florestais. Afinal, proteger a Amazônia é essencial para o equilíbrio do climático, a biodiversidade e a qualidade de vida das gerações atuais e futuras.",
+      "region": "global",
+      "published": "2026-11-14T21:23:06+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Distrito Federal: aposta na continuidade e punição adiada",
+      "link": "https://www.nexojornal.com.br/debate/2026/11/14/eleicoes-2026-distrito-federal-df-governo-politica",
+      "teaser": "Informações sobre o escândalo Master-BRB circularam e tinham endereço, mas o eleitor aceitou a narrativa de ruptura interna e reelegeu Celina Leão Em agosto, descrevemos a eleição no Distrito Federal como um quase-experimento sobre a punição eleitoral da corrupção. A resposta das urnas foi pela continuidade. Celina Leão (PP) foi reeleita com 57,18% dos votos válidos, contra 42,82% de Leandro Grass (PT). A governadora ficou a meros 1.089 votos de liquidar a fatura logo no primeiro turno, o que talvez só não tenha ocorrido porque mais de 26 mil eleitores digitaram na urna o número do PL (22), anulando votos para uma sigla sem candidato ao governo. O grupo que chegou ao Palácio do Buriti com Ibaneis Rocha (MDB) em 2019 governará por mais quatro anos, apesar do escândalo Master-BRB. Isso não significa que o escândalo tenha sido irrelevante. Ibaneis, responsabilizado politicamente até por antigos aliados, não foi diretamente testado nas urnas. Desistiu do Senado, adotando uma espécie de autopunição estratégica, antecipando a possível derrota. Com duas vagas em jogo, o ex-governador ainda tenderia a dividir o voto à direita com a chapa do PL, podendo abrir caminho para Leila Barros (PDT), que terminou seis pontos atrás de Bia Kicis. Ao sair, evitou o atrito com a família Bolsonaro, deixando ao PL as duas cadeiras.&#160; Para nosso quase-experimento, Ibaneis gerou um problema de seleção, além de uma curiosidade: a unidade mais exposta ao tratamento saiu da amostra antes da medição. Será que o ex-governador seria eleitoralmente punido?&#160; Celina Leão aparentou romper com o antecessor em maio. Fez campanha como “novo governo”, apresentando-se como quem administra a crise, não como quem a causou. Como ensina Maquiavel, “tendo o príncipe necessidade de saber usar bem a natureza do animal, deve escolher a raposa e o leão”. Celina, que abraçou a alcunha de “leoa” na campanha, aqui foi mais raposa, reconhecendo bem as armadilhas do jogo. Afastou sua imagem dos escândalos e ressaltou as entregas do governo de que fazia parte.&#160; Eleitores tendem a relativizar desvios do próprio campo, o que favoreceu a estratégia num eleitorado de maioria à direita. Além disso, mesmo após a ascensão de uma direita mais ideológica, o eleitor brasiliense ainda decide seu voto comparando o desempenho dos governos num conjunto de políticas públicas, como demonstrado outrora por Gláucio Soares. O escândalo Master-BRB entrou nessa conta ao lado — e não no lugar — das obras e dos programas sociais que Celina pôs no centro da campanha.&#160; Estabilidade da governadora pode depender menos da oposição e mais de como coordenar sua atuação com um PL fortalecido, além do desenrolar do caso Master-BRB Decisões do Judiciário também redesenharam a oferta de candidatos. Com o registro de José Roberto Arruda (PSD) indeferido pelo TSE (Tribunal Superior Eleitoral), a direita que chegava dividida voltou a ter um único polo competitivo. A transferência de votos que antecipamos se confirmou, e o segundo turno repetiu o reagrupamento contra o PT.&#160; O mapa da votação no DF dá pistas de como a disputa se dividiu e se nacionalizou. Grass venceu apenas nas zonas eleitorais da Asa Norte e da Asa Sul, exatamente as duas únicas em que Lula (PT) superou Flávio Bolsonaro (PL) na eleição presidencial. Celina levou todas as demais, com perto de 60% em Ceilândia, Recanto das Emas e Núcleo Bandeirante.&#160; No segundo turno, ela superou em cerca de três pontos os 54,28% de Flávio no DF. A nacionalização que levou Grass ao segundo turno foi a mesma que o impediu de vencer, e o pequeno descolamento a favor da governadora indica que sua base vai além do antipetismo estrito. Essa base combina a herança do rorizismo, enraizado na periferia pela distribuição de lotes, com a direita ideológica consolidada pelo bolsonarismo nas mesmas regiões. Não por acaso, o neto do ex-governador, Joaquim Roriz Neto (PL), foi o quarto deputado distrital mais votado. Na Câmara Legislativa, Celina terá provavelmente uma supermaioria. Dos 24 deputados distritais eleitos, 17 pertencem a partidos de centro e de direita. O PL fez a maior bancada, com cinco cadeiras; o Republicanos, o MDB e o PP elegeram três cada; e o União, o Podemos e o PSD, uma cada. Pela oposição, o PT fez três cadeiras, e o PSOL e o PSB, duas cada.&#160; Apesar de fazer apenas sete deputados, número insuficiente sequer para abrir uma CPI (Comissão Parlamentar de Inquérito), a esquerda teve o distrital mais votado da história, Max Maciel (PSOL), com 92.234 votos — quase o dobro do segundo colocado. O PSOL também elegeu o deputado federal mais votado do DF, Fábio Felix, com 224 mil votos. São votações expressivas, que mostram que o campo mantém lideranças competitivas.&#160; O PL saiu das urnas como força dominante da direita, com a maior bancada distrital, três das oito cadeiras do Distrito Federal na Câmara dos Deputados e as duas vagas ao Senado, conquistadas por Michelle Bolsonaro e Bia Kicis. Somando Damares Alves (Republicanos), eleita em 2022, o DF passa a ser representado no Senado por três mulheres, todas vinculadas ao bolsonarismo.&#160; Filiada ao PP, Celina Leão depende fortemente do PL, um partido parceiro, mas com agenda própria e que já mostrou disposição para divergir. O caso de Thiago Manzoni (PL), hoje deputado federal eleito, é um bom exemplo: ele deixou a base do governo na Câmara Legislativa após votar contra o socorro ao BRB.&#160; A crise do BRB será um teste de transparência e coordenação: entre os 17 parlamentares reeleitos, 11 votaram a favor da compra do Master e seis contra, mantendo o tema no centro da relação entre o Buriti e a Câmara. A oposição, embora minoritária localmente, terá condições de fiscalizar e disputar a narrativa, sobretudo diante de novos desdobramentos da investigação da Polícia Federal e da reeleição de Lula.&#160; Resta saber o quanto a agenda do segundo mandato será dominada pelo banco. A promessa de cobrir o prejuízo até junho não se cumpriu, a privatização foi descartada e o governo diz buscar financiamento junto a organismos internacionais. Cada nova fase das investigações pode reabrir a ferida que a campanha conseguiu fechar.&#160; Além disso, qualquer solução para o BRB passa por instituições federais. Uma governadora que fez campanha ao lado de Flávio e Michelle terá de negociar, a partir de janeiro, com um Lula reeleito. O quase-experimento terminou com um resultado não trivial. A informação sobre o escândalo circulou, era crível e tinha endereço. Ainda assim, o eleitor aceitou a narrativa de ruptura interna e preferiu a continuidade. A punição, por enquanto, ficou para depois.&#160; O Distrito Federal sai de 2026 com a direita mais forte na representação, a esquerda restrita ao Plano Piloto e à minoria legislativa, e uma governadora cuja estabilidade pode depender menos da oposição do que do desenrolar do caso BRB e da consolidação das alianças com o PL. Frederico Bertholini é professor do Instituto de Ciência Política da UnB e pesquisador do LAPCIPP (Laboratório de Pesquisa em Comportamento Político, Instituições e Políticas Públicas) e do ObservaDF. Joscimar Silva é professor do Instituto de Ciência Política da UnB, onde coordena o grupo de pesquisa Informação Pública e Eleições, pesquisador do LAPCIPP e INCT Democracia Digital. Michelle Fernandez é professora do Instituto de Ciência Política da UnB, onde coordena o Núcleo de Estudos sobre Estado, Burocracia e Políticas de Saúde (Nepos), e pesquisadora do INCT QualiGov. Este artigo de opinião faz parte da série Debate sobre as eleições estaduais de 2026, produzida em parceria com a ABCP – Associação Brasileira de Ciência Política",
+      "region": "global",
+      "published": "2026-11-14T21:20:00+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Seu débito, governador: uma carta aberta a Tarcísio de Freitas",
+      "link": "https://www.nexojornal.com.br/ensaio/2026/11/14/tarcisio-de-freitas-secretarios-seguranca-governo-sao-paulo",
+      "teaser": "Encerre a espetacularização do morticínio de jovens pretos, normalizado em sua gestão: marketing macabro, cuja eficácia na proteção das pessoas comuns o senhor terá sempre dificuldade de demonstrar Este artigo é também uma carta ao governador de São Paulo.&#160; Devo dizer que escrevi sob trauma, três dias depois do assalto que sofri. Tentei não deixar a emoção escrever por mim. Mas também não quis impedir que ela se mostrasse. É o que sobra para quem não escolheu ser vítima, mas se tornou uma: primeiro pelo abandono pelo Estado, depois pela ação do bandido.&#160; *** Caro governador Tarcísio,&#160; Espero que o senhor e sua família estejam em segurança. Sei que estão: o senhor tem como garantir isso.&#160; Eu, contribuinte paulista, não posso dizer o mesmo. Só neste ano, sofri dois assaltos e uma tentativa. Na última vez, saí ferido no corpo e na alma. O senhor dispõe de um aparato para cuidar de si e dos seus, e isso é justo. Quem responde pela segurança de todos não deve ficar desprotegido. Mas me perdoe a rudeza: por que só o senhor?&#160; Fazer da insegurança um tema de palanque, que some das prioridades quando as urnas se fecham, é um insulto às vítimas Cheguei a pensar: “Foi azar. Isso não deve ter relação com incúria do governador.” E se tiver? Concedi-lhe o benefício da dúvida, mas a dúvida, como mostro abaixo, esgotou-se: o senhor está em dívida comigo e com São Paulo.&#160; Meu juízo sobre sua conduta, portanto, não é positivo. Ainda não chego a contratar um cobrador vestido de vermelho da cabeça aos pés para persegui-lo dia e noite, como já se fez com caloteiros. O senhor merece uma chance de quitar o que deve.&#160; Trago dois requerimentos.&#160; O primeiro: que assuma a responsabilidade pela segurança de São Paulo. Tenho visto o senhor terceirizar a culpa aos antecessores, ao governo federal e, numa pirueta admirável, ao próprio crime organizado. Isso não é liderança; é álibi. Assuma, seja honesto. Talvez com isso as vítimas sejam menos severas ao julgá-lo.&#160; Comece admitindo que assistiu, impassível, à alta de 98% nas mortes provocadas pela polícia entre 2022 e 2024, enquanto o desempenho da segurança piorava. O senhor, que propagandeia suas competências de raciocínio lógico, sabe que, por definição, polícia que mata muito investiga pouco; e que, sem investigação, o criminoso não é punido, apenas encorajado.&#160; Governador, a autopropaganda é sempre cabotina. Nem sempre é falsa. Sem ofensa, a sua é enganosa.&#160; Repare no bisonho índice de esclarecimento de homicídios. Era ruim quando o senhor assumiu: 40%. Em sua gestão, caiu para 31%. Ou seja, sete em cada 10 assassinos seguem livres para o próximo crime.&#160; E os feminicídios? O senhor está informado dessa calamidade que acontece bem ao seu lado? As vítimas passaram de 195, em 2022, para 270, em 2025: 38,5% a mais. Isso não o constrange.&#160; Há mais. Segundo o Fórum Brasileiro de Segurança Pública, entre 2022 e 2025 as mortes violentas intencionais caíram 15% no Brasil. Em São Paulo, caíram 3,3%. Sugiro que se mire em bons exemplos: Rio Grande do Sul, com queda de 38,8%; Piauí, 30%; Goiás, 31,5%; Paraná, 28,9%.&#160; Quando o homicídio é tratado com negligência, o roubo de um celular parece irrelevante. Não é. O senhor sabe que há vasos comunicantes entre os crimes contra o patrimônio e contra a pessoa. O “deixa pra lá” é um convite à bandidagem, e o convite está sendo aceito.&#160; Uma questão de método, se me permite: desacople a segurança pública do marketing político. Fazer da insegurança que aterroriza a sociedade um tema de palanque, que some das prioridades quando as urnas se fecham, é um insulto às vítimas. Encerre também a espetacularização do morticínio de jovens pretos, normalizado em sua gestão: marketing macabro, cuja eficácia na proteção das pessoas comuns o senhor terá sempre dificuldade de demonstrar.&#160; E trate a segurança como direito universal, reconhecendo que o crime atravessa toda a sociedade, inclusive sua parcela mais abastada. Não discrimine os pobres.&#160; O segundo requerimento é subsidiário e pessoal: que o senhor me ressarça pelos prejuízos decorrentes da sonegação, por seu governo, do serviço de segurança a que tenho direito.&#160; Segue o borderô dos dois assaltos:&#160; Dois celulares: R$ 20.000&#160; Quatro dias fora do ar: R$ 32.000&#160; Estresse pós-traumático, 10 sessões psiquiátricas: R$ 15.000&#160; Fisioterapia domiciliar, 20 sessões: R$ 8.000&#160; Perda da carteira digital: R$ 7.000&#160; Perda temporária de autonomia: R$ 6.000&#160; Recuperação da vida digital: R$ 8.000&#160; Compromissos e atividades perdidas: R$ 12.000&#160; Exames, honorários médicos e medicação: R$ 12.000&#160; TOTAL: R$ 120.000&#160; Atenciosamente,&#160; José Cesar Martins&#160; P.S.: Diga-me, por favor, para quem devo enviar a chave Pix. O recurso será dividido entre a Associação Pró-Vítima e a Associação Fala Mulher. José Cesar Martins é sociólogo e coordenador da iniciativa cívica Derrubando Muros",
+      "region": "global",
+      "published": "2026-11-14T21:17:26+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Israel mata comandante do Hamas em ataque aéreo no sul de Gaza",
+      "link": "https://www.brasildefato.com.br/2026/11/15/israel-mata-comandante-do-hamas-em-ataque-aereo-no-sul-de-gaza/",
+      "teaser": "As Forças de Defesa de Israel (IDF) anunciaram, neste domingo (15), a morte de Samir Mahmoud Hassan Abu Younis, comandante da Brigada de Rafah, um dos braços militares do Hamas, em um ataque aéreo realizado na noite de sábado (14), na região de Al-Mawasi, a oeste de Khan Yunis, no sul da Faixa de Gaza. [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-15T19:53:00+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "No Peru, papa Leão 14 critica cultura que associa dignidade humana à produtividade",
+      "link": "https://www.brasildefato.com.br/2026/11/15/no-peru-papa-leao-14-critica-cultura-que-associa-dignidade-humana-a-produtividade/",
+      "teaser": "O papa Leão 14 afirmou, neste domingo (15), que a doença não diminui a dignidade humana e criticou a lógica de uma sociedade que mede o valor das pessoas pela capacidade de produzir. A declaração foi feita durante a oração do Angelus, na cidade de Cusco, no Peru, onde o pontífice dedicou uma mensagem especial [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-15T19:40:00+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "‘Fascistas’ xingam e provocam famílias no primeiro dia da Feira da Reforma Agrária em Goiânia",
+      "link": "https://www.brasildefato.com.br/2026/11/15/fascistas-xingam-e-provocam-familias-no-primeiro-dia-da-feira-da-reforma-agraria-em-goiania/",
+      "teaser": "As famílias camponesas que realizam a 3ª Feira Estadual da Reforma Agrária de Goiás na Praça Universitária, em Goiânia, foram surpreendidas, no início da tarde desse sábado (14), por provocações e xingamentos. Ao menos três grupos passaram pelo local para xingar, filmar e hostilizar assentados e acampados do Movimento dos Trabalhadores Rurais Sem Terra (MST). [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-15T19:18:12+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Irã ataca base militar dos EUA no Bahrein; país afirma ter interceptado drones",
+      "link": "https://www.brasildefato.com.br/2026/11/15/ira-ataca-base-militar-dos-eua-no-bahrein-pais-afirma-ter-interceptado-drones/",
+      "teaser": "O Irã efetuou um novo ataque contra instalações militares dos Estados Unidos no Bahrein, no Golfo Pérsico. Segundo a Guarda Revolucionária Islâmica (IRGC), seis drones foram lançados contra um sistema de radar de defesa aérea localizado na base de helicópteros de Al-Rifaa, em uma operação apresentada como retaliação às ofensivas estadunidenses contra o território iraniano. [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-15T18:24:19+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Rio de Janeiro tem primeira morte confirmada por mpox no país",
+      "link": "https://www.brasildefato.com.br/2026/11/15/rio-de-janeiro-tem-primeira-morte-confirmada-por-mpox-no-pais/",
+      "teaser": "O estado do Rio de Janeiro confirmou nesta semana a primeira morte por mpox do país. Não foram divulgados detalhes da vítima, apenas que ela era da capital. A doença infecciosa é causada pelo Mpox vírus (MPXV) e provoca sintomas como feridas na pele e mucosas, assim como febre, dores de cabeça e no corpo. [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-15T17:05:12+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Reflexos de caos áereo nos Estados Unidos entra no terceiro dia após falha em sistema de controle de tráfego",
+      "link": "https://www.brasildefato.com.br/2026/11/15/reflexos-de-caos-aereo-nos-estados-unidos-entra-no-terceiro-dia-apos-falha-em-sistema-de-controle-de-trafego/",
+      "teaser": "A Administração Federal de Aviação (FAA, na sigla em inglês) informou, neste domingo (15), que o caos no transporte aéreo dos Estados Unidos pode persistir por mais um dia, adiando a previsão de volta à normalidade. Na sexta-feira (13), a administração do governo de Donald Trump determinou a suspensão de todas as decolagens de voos [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-15T16:39:10+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Fux zera julgamento sobre fim da 6×1 e adia definição sobre flexibilização das folgas",
+      "link": "https://www.brasildefato.com.br/2026/11/15/fux-zera-julgamento-sobre-fim-da-6x1-e-adia-definicao-sobre-flexibilizacao-das-folgas/",
+      "teaser": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), interrompeu o julgamento virtual sobre a implementação do fim da escala 6&#215;1 e pediu que o caso seja levado ao plenário físico da Corte. Com a decisão, a votação, que já contava com quatro manifestações favoráveis à manutenção do calendário de transição aprovado pelo Congresso Nacional, [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-15T15:12:57+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Lula propõe diversificação comercial e aproximação com países asiáticos em cúpula nas Filipinas",
+      "link": "https://www.brasildefato.com.br/2026/11/15/lula-propoe-diversificacao-comercial-e-aproximacao-com-paises-asiaticos-em-cupula-nas-filipinas/",
+      "teaser": "O presidente Luiz Inácio Lula da Silva (PT) defendeu a ampliação das relações comerciais do Brasil com os países do Sudeste Asiático durante participação na 49ª cúpula da Associação de Nações do Sudeste Asiático (Asean), realizada em Manila, nas Filipinas. Em declaração à imprensa neste domingo (15), Lula destacou a estratégia de diversificação das parcerias [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-15T13:56:34+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Atleta de 16 anos morre depois de sofrer choque na cabeça em partida de futebol na Argentina",
+      "link": "https://oglobo.globo.com/esportes/futebol-internacional/noticia/2026/11/15/atleta-de-16-anos-morre-depois-de-sofrer-choque-na-cabeca-em-partida-de-futebol-na-argentina.ghtml",
+      "teaser": "O jogador Abel Núñez, de 16 anos, morreu neste domingo, dias depois de sofrer uma forte pancada na cabeça durante uma partida de futebol das categorias de base do Fútbol Club Ezeiza, na província de Buenos Aires, na Argentina. O adolescente precisou passar por uma cirurgia após o acidente, mas não resistiu. A morte foi confirmada pelo clube de futebol de campo, e também pelo Nueva Estrella, equipe de futsal da Associação Argentina de Futebol (AFA) pela qual o jovem também atuava. Veja também: Tenerife volta a campo com homenagens a Jesús de Miguel após morte de atacante E mais: Jorge Jesus diz que não sente falta de Cristiano Ronaldo na seleção: 'Só se for para me fazer companhia' Antes da morte, o Ezeiza havia publicado um comunicado pedindo uma corrente de oração pela recuperação do atleta. O clube informou que Núñez havia sofrido um forte golpe na cabeça e precisado de uma intervenção cirúrgica. A instituição também manifestou apoio à família e pediu que jogadores, dirigentes, integrantes da comissão técnica e torcedores se unissem em uma corrente de solidariedade. Clubes lamentam morte do jogador Após a confirmação da morte, o Ezeiza publicou uma mensagem de despedida. A instituição classificou a notícia como a mais difícil já comunicada pelo clube e lamentou a perda do jovem. \"Depois de sofrer uma pancada muito forte durante uma partida, vestindo com orgulho nossa camisa do Ezeiza, lamentamos profundamente sua partida\", escreveu a equipe. O jovem Abel Núñez morreu depois de sofrer um choque na cabeça durante partida de futebol e passar por uma cirurgia Reprodução / Instagram / @futbolclubezeiza O clube também enviou condolências aos familiares, amigos e companheiros de Núñez. Na mensagem, destacou que o futebol ficava em segundo plano diante da perda do atleta. O Nueva Estrella, por sua vez, anunciou a suspensão de toda a programação esportiva e das atividades previstas para esta segunda-feira (16). Em publicação nas redes sociais, a equipe afirmou que o momento era de apoiar a família e os amigos do jogador. \"Hoje não há partidas nem resultados que importem. Hoje a dor nos une e nos convida a estar perto de quem mais precisa\", declarou o clube, que também homenageou o adolescente: \"Abel sempre fará parte da nossa família. Descanse em paz, pequeno. O Nueva Estrella nunca vai esquecer você\". Initial plugin text Jogador atuava nas categorias de base Núñez integrava as categorias de base do Ezeiza, clube que disputa o Torneo Promocional Amateur, última divisão do futebol argentino entre as equipes diretamente filiadas à AFA, além de jogar futsal pelo Nueva Estrella. O acidente aconteceu durante uma partida pelo time de base do Ezeiza. Dias antes da morte, o clube já havia pedido orações pela recuperação do atleta, informando que ele tinha sido submetido a uma cirurgia em razão da gravidade do ferimento na cabeça. As instituições não divulgaram detalhes sobre as circunstâncias do impacto nem sobre a causa médica da morte. Initial plugin text",
+      "region": "global",
+      "published": "2026-11-16T01:01:38+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Acusado de sonegar mais de R$ 50 bilhões, Ricardo Magro vive em meio a imóveis e carros de luxo nos EUA; veja patrimônio",
+      "link": "https://oglobo.globo.com/rio/noticia/2026/11/15/acusado-de-sonegar-mais-de-r-50-bilhoes-ricardo-magro-vive-em-meio-a-imoveis-e-carros-de-luxo-nos-eua-veja-patrimonio.ghtml",
+      "teaser": "Acusado de envolvimento em um esquema de sonegação de impostos que deixou uma dívida superior a R$ 50 bilhões, o empresário Ricardo Magro mantém um patrimônio de luxo nos Estados Unidos. Uma reportagem do Fantástico, da TV Globo, identificou nove imóveis, pelo menos 20 empresas registradas e 13 carros ligados a ele, à ex-mulher e à filha na região de Coral Gables e Key Biscayne, no sul de Miami, na Flórida. Refit: campeão da Copa truck preso por sonegação abriu 40 postos de combustíveis em dois meses e tinha empresas 'secretas', diz MP Operação Refit: MPRJ mira pai, avô e tio de Ricardo Magro, suspeito de ser maior fraudador fiscal do país Entre os bens estão dois apartamentos de luxo de quase 500 metros quadrados, avaliados em mais de R$ 43 milhões, de frente para a praia, em Key Biscayne, uma ilha exclusiva da região. Os veículos, de marcas como Porsche, Ferrari, Lamborghini e Rolls-Royce, somam mais de R$ 25 milhões. Oito dos 13 carros identificados estão registrados em um mesmo endereço. Ricardo Magro conquistou mercado com ajuda de ex-cacique do MDB e manteve elos com o PT Reprodução A equipe do programa também localizou uma casa em um condomínio de luxo que aparece formalmente em nome de uma imobiliária. No entanto, o acordo de separação de Magro e da ex-mulher, Alessandra Engel Magro, de 2025, ao qual o Fantástico teve acesso, indica que o imóvel ficou com o empresário. Outro negócio ligado à família é um spa que comercializa e utiliza produtos da Amazônia. O estabelecimento funciona em um prédio e é administrado pela filha de Magro, de 21 anos, e pela ex-mulher. Alessandra estava no local quando a equipe esteve lá, mas não quis dar entrevista. Empresas nos Estados Unidos Além dos imóveis e veículos, a reportagem encontrou empresas ligadas à família em diferentes endereços dos Estados Unidos. Em Longview, no Texas, a equipe esteve em uma usina de processamento de gás comprada, em 2020, pela J.Global Energy, fundada pelo pai do empresário, João Manuel Magro. Segundo a imprensa local, a negociação teria girado em torno de US$ 14 milhões. Ex-funcionários ouvidos pelo Fantástico, que pediram para não ser identificados por medo de represálias, afirmaram que Ricardo Magro era considerado o verdadeiro dono da empresa, embora a J.Global aparecesse formalmente como proprietária. A Refit, controlada pelo empresário Ricardo Magro, deve R$ 9,4 bilhões em impostos ao governo estadual, segundo a PF, e tem R$ 49,8 bilhões inscritos em dívida ativa da União Reprodução A estrutura estava praticamente vazia quando a equipe esteve no local. A usina, que tinha 50 funcionários quando foi comprada, contava com menos de 15. Segundo os relatos, havia problemas na operação e atrasos nos pagamentos a produtores. Em Oklahoma, a equipe encontrou uma fazenda de mineração de bitcoins comprada, em 2021, pela empresa Minefficiency Limitada, por US$ 450 mil, segundo comunicado da prefeitura de McAlester. Pessoas que trabalharam ou inspecionaram o local relataram falhas constantes nos equipamentos e problemas elétricos. Uma das entrevistadas levantou a suspeita de que a estrutura poderia servir para esconder valores provenientes de lavagem de dinheiro. A fazenda de bitcoins e a usina do Texas têm escritórios no mesmo endereço. Em Houston, também no Texas, a reportagem localizou um prédio apontado nas investigações como central de empresas ligadas ao esquema. Em uma mesma sala, no 28º andar, funcionariam pelo menos 13 companhias. Segundo o Ministério Público do Rio, a estrutura empresarial e a distribuição do patrimônio entre familiares tinham como objetivo afastar os vínculos formais de Magro com os bens, embora ele continuasse usufruindo deles. Dívida de R$ 50 bilhões Dados da Procuradoria-Geral da Fazenda Nacional apontam que o grupo de empresas ligado ao empresário acumula R$ 50,5 bilhões em impostos não pagos. Somente a Refit, antiga Refinaria de Manguinhos, deve R$ 27,6 bilhões. Desse total, R$ 14,4 bilhões são devidos ao governo do Rio de Janeiro. Em uma das investigações, a Receita Federal e a Agência Nacional do Petróleo identificaram um esquema em que combustíveis já prontos para consumo eram importados como se fossem petróleo bruto, para reduzir o pagamento de tributos. A fraude foi identificada após a apreensão de quatro navios. Ricardo Magro e outras 18 pessoas foram denunciadas pelo Ministério Público. O empresário está foragido desde maio. A Justiça também decretou a prisão de familiares dele e de outros investigados. \"A gente está falando de uma pessoa que escolhe não pagar imposto, apesar de ter um patrimônio bilionário nas suas contas\" disse Renata Mello Chagas, promotora de Justiça do Gaeste, do Ministério Público do Rio ao Fantástico. A promotora afirmou ainda que o empresário mantém a capacidade de garantir que o dinheiro continue sendo usado em benefício próprio. O Ministério Público pediu a inclusão de Magro na difusão vermelha da Interpol, mecanismo utilizado para localizar pessoas procuradas internacionalmente. Initial plugin text",
+      "region": "global",
+      "published": "2026-11-16T00:35:33+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Enem 2026: acompanhe a live de correção ao vivo e confira o gabarito extraoficial em tempo real",
+      "link": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/ao-vivo/enem-2026-acompanhe-ao-vivo-o-segundo-dia-de-provas-e-o-gabarito-extraoficial.ghtml",
+      "teaser": "Enem 2026: acompanhe a live de correção ao vivo e confira o gabarito extraoficial em tempo real Professores comentam as 90 questões do segundo dia de provas; acesse também a calculadora de nota do Enem e o simulador do Sisu para ver suas chances no curso desejado Gabarito Enem 2026 2º dia: acompanhe a live de correção extraoficial das provas e veja todas as respostas. Visita ao Inep: ministro da Educação diz governo impede tentativas de ataques hacker. Calculadora do Enem 2026: Estime sua nota com base nos acertos. Corretor de redação do Enem 2026: ferramenta estima a nota que você tirou. Simulador Sisu 2026: veja suas chances de aprovação no curso desejado",
+      "region": "global",
+      "published": "2026-11-15T23:35:40+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Após renunciar, ex-CEO da Nvidia discute com aliados possível volta ao comando da empresa, diz FT",
+      "link": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/11/15/apos-renunciar-ex-ceo-da-nvidia-discute-com-aliados-possivel-volta-ao-comando-da-empresa-diz-ft.ghtml",
+      "teaser": "O fundador e ex-CEO da fabricante de chips e servidores de alto desempenho Nvidia, Jensen Huang, está discutindo um possível retorno à empresa apenas alguns dias após o conselho de administração tê-lo demitido, informou o jornal de negócios Financial Times neste domingo. Escândalo da Nvidia: 'Culto ao fundador' moldou o Vale do Silício e põe em xeque futuro da empresa Nvidia: Entenda por que escândalo que derrubou CEO acirra disputa entre EUA e China por chips de IA Huang é protagonista de um escândalo que envolve relacionamentos extraconjugais e espionagem internacional. O primeiro caso a vir a público foi com uma empresária chinesa, suspeita de trabalhar para os serviços de inteligência de Pequim. Após o executivo admitir esse relacionamento, outros dois casos extraconjugais vieram a público, incluindo o envolvimento com uma vice-presidente da Nvidia, que era subordinada de Huang. Segundo o Financial Times, o executivo tem discutido a ideia de retornar, enquanto vários aliados do Vale do Silício pressionam o Conselho de Administração da Nvidia — diferentemente de outros bilionários da tecnologia, como Elon Musk, da SpaceX e da Tesla, e Mark Zuckerberg, da Meta, Huang fundou a empresa, mas não tem mais o controle acionário. 'Sala de guerra' no Vale do Silício Huang conversou sobre a possibilidade de retomar o cargo com confidentes, segundo diversas pessoas citadas, sob anonimato, pelo jornal britânico. Segundo um aliado de Huang ouvido pela publicação, uma “sala de guerra” formada por executivos do Vale do Silício buscava influenciar o conselho da companhia e estava atrás de apoio na Casa Branca. Enquanto isso: Data centers devem atrair R$ 1 tri até 2036 e estimular térmicas no Brasil Ainda na semana passada, em publicação nas redes sociais, a Altimeter Capital Management e a Atreides Management, gestoras que têm participação acionária na Nvidia, citaram “o sucesso extraordinário da liderança de Jensen Huang ao longo de um longo período” e a incerteza criada por sua saída ao instar o conselho a adotar uma abordagem “lenta, comedida e deliberada” em relação à futura liderança da fabricante de componentes. Isso deveria incluir “o potencial retorno de Jensen Huang”, escreveram Brad Gerstner, da Altimeter, e Gavin Baker, da Atreides, em uma carta publicada na rede social X. Petição com 160 mil assinaturas No fim de semana, uma campanha que pede o retorno de Huang ao comando da Nvidia reuniu o apoio de milhares de pessoas, entre funcionários, ex-funcionários e acionistas da companhia. Elon Musk, presidente executivo da Tesla e da SpaceX, está entre os signatários de uma petição que lançada poucos dias após a saída do fundador da fabricante de semicondutores, segundo o site TechCrunch. No início da noite de ontem, eram 160 mil assinaturas na petição on-line. Desse total, 7,6 mil são funcionários da Nvidia, 1,5 mil são ex-empregados, 85 mil são acionistas da companhia e 66 mil são apoiadores, conforme o site da petição. O apoio político, porém, pode não ser simples de obter, uma vez que a proximidade de Huang com membros de alto escalão do governo Trump, como o secretário de Comércio, Howard Lutnick, levou a crise para a Casa Branca. Neste domingo, o secretário do Tesouro dos EUA, Scott Bessent, afirmou no programa Sunday Morning Futures, da Fox News, que a Nvidia precisa de uma \"reviravolta drástica\" na liderança e deveria buscar novos líderes fora da empresa.",
+      "region": "global",
+      "published": "2026-11-15T23:34:32+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Quando sai o resultado do Enem 2026? Notas serão divulgadas em 2027",
+      "link": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/15/quando-sai-o-resultado-do-enem-2026-notas-serao-divulgadas-em-2027.ghtml",
+      "teaser": "O resultado do Enem 2026 será divulgado em 18 de janeiro de 2027. Os resultados serão publicados em janeiro de 2027, na Página do Participante. A data oficial foi confirmada pelo Inep após a realização das provas. Enquanto aguardam as notas, os candidatos podem consultar o gabarito extraoficial do Enem 2026 para conferir as respostas e ter uma estimativa do número de acertos. Aproveite para assistir também à transmissão com a correção dos professores para as provas deste domingo (15), de Matemática e Ciências da Natureza. Gabarito Enem 2026: veja correção extraoficial do 1º dia de provas Gabarito Enem 2026 2º dia: veja correção extraoficial das provas Corretor de redação do Enem 2026: ferramenta estima a nota que você tirou O resultado do Enem apresenta o desempenho do participante nas quatro áreas avaliadas pelo exame: Linguagens, Ciências Humanas, Ciências da Natureza e Matemática. A nota da redação também é divulgada separadamente, em uma escala de 0 a 1.000 pontos. Como já é de costume, o Enem 2026 foi dividido em dois finais de semana. No primeiro domingo, os candidatos fizeram as provas de Linguagens, Ciências Humanas e a redação, cujo tema foi \"A valorização do Sistema Único de Saúde (SUS) como direito universal\". Neste segundo domingo, foram aplicadas as provas de Matemática e Ciências da Natureza, totalizando 90 questões. Aproveite para conferir os comentários dos professores sobre a prova do primeiro dia do Enem 2026: O Enem utiliza diferentes versões dos cadernos de questões para evitar fraudes durante o exame. A diferença entre elas está na ordem das perguntas e nas alternativas. O gabarito oficial do Enem será divulgado em 18 de novembro, próxima quarta-feira. Enquanto aguardam pela correção, os candidatos podem conferir o gabarito extraoficial do Enem 2026, feito em parceria com os professores do Elite Rede de Ensino e da Amplia Plataforma de Ensino, para ter uma noção do seu desempenho. A seguir, confira o gabarito extraoficial do 1º dia de Enem 2026 por cor: Gabarito Enem 2026 prova branca: veja correção extraoficial do 1º dia Gabarito Enem 2026 prova verde: veja correção extraoficial do 1º dia Gabarito Enem 2026 azul: veja correção extraoficial do 1º dia de provas Gabarito Enem 2026 amarela: veja correção extraoficial do 1º dia Veja também a correção das provas do 2º dia de Enem, conforme a cor do caderno: Gabarito Enem 2026 cinza: veja correção extraoficial do 2º dia Gabarito Enem 2026 prova verde 2º dia: veja correção extraoficial Gabarito Enem 2026 2º dia azul: veja correção extraoficial da prova Gabarito Enem 2026 2º dia prova amarela: veja correção extraoficial Como é calculada a nota do Enem? As provas objetivas do Enem são corrigidas pela metodologia Teoria de Resposta ao Item (TRI), que considera a complexidade das questões e o padrão de respostas do participante, e não apenas a quantidade total de acertos. Por isso, duas pessoas que acertaram o mesmo número de questões podem receber notas diferentes. Já a redação é corrigida a partir de competências definidas pelo Inep. Para que os candidatos possam estimar seu desempenho, O GLOBO criou uma calculadora de nota do Enem. Basta acessar o simulador e informar a quantidade de questões certas para obter uma previsão da nota. A nota do Enem pode ser utilizada em diferentes processos de acesso ao ensino superior, como o Sisu, o Prouni e o Fies. Para ajudar os alunos a descobrirem a nota você precisa tirar para ingressar na faculdade dos sonhos pelo Sisu, O GLOBO possui a ferramenta Simulador do Sisu, que considera os diferentes pesos que cada universidade aplica no sistema.",
+      "region": "global",
+      "published": "2026-11-15T23:27:50+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Veículo pega fogo e interdita a Ponte Rio-Niterói; vídeo",
+      "link": "https://oglobo.globo.com/rio/noticia/2026/11/15/veiculo-pega-fogo-e-interdita-a-ponte-rio-niteroi-video.ghtml",
+      "teaser": "A Ponte Rio-Niterói precisou ser interditada na noite deste domingo, após um veículo pegar fogo no vão central, no sentido Rio de Janeiro. O Corpo de Bombeiros foi acionado à 18h45 e conseguiu controlar as chamas. Não há informações sobre vítimas. Initial plugin text A via ficou completamente bloqueada por cerca de 15 minutos e, por volta das 20h, foi totalmente liberada. O trânsito, porém, permaneceu intenso. Militares do quartel de Niterói atuam em apoio à concessionária Ecovias Ponte para a retirada do veículo. — O veículo ficou completamente destruído. Ficou só a carcaça preta do carro e muita cinza em volta. Cena de filme — relatou a universitária Camila Pinto, que passava pelo local no momento, a caminho de um jantar. Vídeos nas redes sociais mostram o carro completamente em chamadas e um coluna de fumaça cinza se formando em direção ao céu.",
+      "region": "global",
+      "published": "2026-11-15T23:06:40+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Quando sai o gabarito oficial do Enem 2026? Entenda cronograma",
+      "link": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/15/quando-sai-o-gabarito-oficial-do-enem-2026-entenda-cronograma.ghtml",
+      "teaser": "O gabarito oficial do Enem 2026 vai ser divulgado pelo Inep no dia 18 de novembro. O prazo inicialmente estabelecido no edital era até o 10º dia útil após o segundo dia de aplicação do exame, o que correspondia ao dia 27 de novembro. No entanto, neste domingo (15), após o segundo dia de provas, revelou que a divulgação do gabarito oficial será na próxima quarta-feira (18). Enquanto a correção oficial não é publicada, os candidatos podem consultar o gabarito extraoficial, feito pelo Jornal O GLOBO em parceria com professores do Elite Rede de Ensino e da Amplia Plataforma de Ensino. Nos dois dias de prova, os professores se reuniram em uma transmissão ao vivo para corrigir e comentar as questões. Confira a live com a correção das provas deste domingo e acesse o gabarito extraoficial do 1º dia e o gabarito do 2º dia de Enem 2026. Gabarito Enem 2026 extraoficial: veja respostas das provas do 1º e 2º dia Corretor de redação do Enem 2026: ferramenta estima a nota que você tirou Quando foi o Enem 2026? O Enem 2026 foi dividido em dois dias de aplicação, como de costuma. No primeiro domingo, 8 de novembro, os candidatos fizeram as provas de Linguagens, Ciências Humanas e Redação. Já no segundo dia, em 15 de novembro, foram aplicadas 45 questões de Matemática e 45 de Ciências da Natureza. Por que existem diferentes versões de prova no Enem? O Enem utiliza diferentes versões dos cadernos para aumentar a segurança durante a aplicação. As questões são as mesmas, mas a ordem das perguntas e das alternativas muda entre as provas. Por isso, o candidato precisa identificar a cor do caderno recebido antes de conferir o gabarito. Confira o gabarito do 1º dia de Enem 2026 por cor: Gabarito Enem 2026 prova branca: veja correção extraoficial do 1º dia Gabarito Enem 2026 prova verde: veja correção extraoficial do 1º dia Gabarito Enem 2026 azul: veja correção extraoficial do 1º dia de provas Gabarito Enem 2026 amarela: veja correção extraoficial do 1º dia Veja também a correção das provas do 2º dia de Enem, conforme a cor do caderno: Gabarito Enem 2026 cinza: veja correção extraoficial do 2º dia Gabarito Enem 2026 prova verde 2º dia: veja correção extraoficial Gabarito Enem 2026 2º dia azul: veja correção extraoficial da prova Gabarito Enem 2026 2º dia prova amarela: veja correção extraoficial Quando sai a nota do Enem 2026? O MEC confirmou neste domingo que a divulgação das notas do Enem 2026 vai acontecer no dia 18 de janeiro de 2027. Os resultados serão publicados na Página do Participante. Vale destacar que o número de acertos do Enem não determina sozinho a pontuação final. Isso porque as notas são calculadas pela Teoria de Resposta ao Item (TRI), que considera o nível de dificuldade das questões e o padrão de respostas do candidato. Para ajudar os candidatos a estimar o desempenho, O GLOBO desenvolveu uma calculadora de nota do Enem. Depois de conferir o gabarito extraoficial, acesse o simulador e informe a quantidade de questões certas para obter uma previsão da nota. Os participantes ainda podem usar a ferramenta Simulador do Sisu, que ajuda a descobrir qual nota você precisa tirar, considerando os diferentes pesos que cada universidade aplica no SISU.",
+      "region": "global",
+      "published": "2026-11-15T22:50:13+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Simulador Sisu 2026: veja suas chances de aprovação no curso desejado",
+      "link": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/15/simulador-sisu-2026-veja-suas-chances-de-aprovacao-no-curso-desejado.ghtml",
+      "teaser": "O Simulador do Sisu 2026 é uma ferramenta do GLOBO que ajuda a descobrir se a sua nota no Exame Nacional de Ensino Médio (Enem) é suficiente para conseguir o curso que você sonha no Sistema de Seleção Unificada (Sisu). A ferramenta informa a nota de corte de todos os cursos do ano passado, apresenta aqueles com as maiores taxas de relação candidato/vaga e considera o peso que cada instituição de ensino dá às provas do Enem para definir a média final. Gabarito Enem 2026 extraoficial: veja respostas das provas do 1º e 2º dia Quanto preciso tirar no Enem? Veja um simulador completo para o Sisu A ferramenta do GLOBO funciona a partir da sua nota, que você pode consultar na Página do Participante do Enem. Depois, você escolhe o estado, o curso e o tipo de vaga (ampla concorrência ou tipo de cota). ⚠️ Dica: se você faz parte de mais de um grupo social que possui cotas, teste as diferentes combinações. Há vagas, por exemplo, apenas para pessoas pretas. Outras que são para pessoas pretas, mas que tenham limite de renda. Outras vão além e reservam para pessoas pretas, que tenham limite de renda e que estudaram na escola pública. Todas essas combinações apresentam resultados diferentes na plataforma. Por isso, experimente todas elas na ferramenta do GLOBO. O simulador do Sisu vai considerar o peso que cada curso dá para as provas do Enem (Redação, Matemática, Linguagens, Ciências da Natureza e Ciências Humanas) e vai exibir a nota média considerando essas ponderações. A calculadora também vai apresentar a possibilidade do candidato ser aprovado ou não, considerando a nota de corte do ano passado, e a relação entre a quantidade de inscritos e de vagas de 2024 — o que indica quais são os cursos mais concorridos. Assim como no ano passado, os estudantes vão poder utilizar no Sisu a melhor das notas obtidas nas últimas três edições do Enem.",
+      "region": "global",
+      "published": "2026-11-15T22:41:37+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Confira o gabarito extraoficial do 2º dia do Enem 2026",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/confira-o-gabarito-extraoficial-do-2o-dia-do-enem-2026.shtml",
+      "teaser": "A Folha , em parceria com o Grupo Educacional Farias Brito, disponibiliza o gabarito extraoficial do segundo dia do Enem 2026 (Exame Nacional do Ensino Médio), realizado neste domingo (15) em todo o país. Leia mais (11/15/2026 - 22h16)",
+      "region": "global",
+      "published": "2026-11-16T01:16:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Simaria passa cantada em Breno Ferreira e leva fora ao vivo no Domingão do Faustão",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/11/simaria-passa-cantada-em-breno-ferreira-e-leva-fora-ao-vivo-no-domingao-do-faustao.shtml",
+      "teaser": "Simaria fez a primeira aparição ao vivo na televisão de sua carreira solo no Domingão com Huck ( Globo ) neste domingo (15), mas o que chamou mesmo a atenção do público foi uma cantada que ela passou em Breno Ferreira. A gafe ocorreu após a apresentação do ator no Dança dos Famosos . Leia mais (11/15/2026 - 22h05)",
+      "region": "global",
+      "published": "2026-11-16T01:05:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "O mercado tem compromisso com o Brasil?",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/o-mercado-tem-compromisso-com-o-brasil.shtml",
+      "teaser": "Não sou economista e não tratarei de números, mas há anos me dedico à pesquisa de temas relacionados à educação e à aporofobia no Brasil . A partir desse prisma, percebo que o ódio ao pobre está no cerne da chantagem dos agentes do mercado financeiro . Leia mais (11/15/2026 - 22h00)",
+      "region": "global",
+      "published": "2026-11-16T01:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "O século da solidão",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/o-seculo-da-solidao.shtml",
+      "teaser": "Podemos escolher a música que ouvimos. Se não gostamos de uma canção, podemos desligá-la ou sair do show. Ninguém nos obriga a comprar uma pintura de que não gostamos. Mas ninguém pode escolher não passar por um edifício. Leia mais (11/15/2026 - 22h00)",
+      "region": "global",
+      "published": "2026-11-16T01:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Justiça bloqueia R$ 180 mil da Meta por descumprir ordem para retirar ataques a Erika Hilton",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/justica-bloqueia-r-180-mil-da-meta-por-descumprir-ordem-para-retirar-ataques-a-erika-hilton.shtml",
+      "teaser": "A Justiça de São Paulo bloqueou R$ 179,7 mil em contas da Meta por descumprimento de uma ordem para remover um vídeo com ataques transfóbicos contra a deputada federal Erika Hilton ( PSOL -SP). O tribunal tinha determinado em 11 de junho que a empresa removesse em até 24 horas uma publicação do deputado federal André Fernandes (PL-CE). A defesa da deputada afirma que a medida só foi efetivada em outubro. Leia mais (11/15/2026 - 22h00)",
+      "region": "global",
+      "published": "2026-11-16T01:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Intenções e contradições se chocam na COP31",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/intencoes-e-contradicoes-se-chocam-na-cop31.shtml",
+      "teaser": "Luiz Inácio Lula da Silva ( PT ) foi recebido como estadista na COP31 , a conferência da ONU sobre clima que teve início na segunda (9) em Antália, Turquia . Isso se deu em grande parte por méritos da sua gestão no setor, como a redução inaudita no desmatamento. Leia mais (11/15/2026 - 22h00)",
+      "region": "global",
+      "published": "2026-11-16T01:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Caso Master mostrou falhas na supervisão financeira",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/caso-master-mostrou-falhas-na-supervisao-financeira.shtml",
+      "teaser": "O salto nas liquidações extrajudiciais decretadas pelo Banco Central -entre novembro de 2025 e o decorrer deste ano foram 21 casos, o maior número desde 2002- é demonstrativo da erosão dos padrões regulatórios e de supervisão desde a década passada, período em que foi facilitada a entrada de novas instituições num contexto de avanço tecnológico. Leia mais (11/15/2026 - 22h00)",
+      "region": "global",
+      "published": "2026-11-16T01:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Morre o narcotraficante Miguel Ángel Félix Gallardo, 'poderoso chefão' do México, aos 80",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/morre-o-narcotraficante-miguel-angel-felix-gallardo-poderoso-chefao-do-mexico-aos-80.shtml",
+      "teaser": "O histórico narcotraficante Miguel Ángel Félix Gallardo morreu neste domingo (15), aos 80 anos. Conhecido como \"poderoso chefão\", ele foi um dos responsáveis pelo surgimento dos grandes cartéis do México e pelo assassinato de um agente da DEA, a agência antidrogas dos Estados Unidos, crime que levou à sua condenação. Leia mais (11/15/2026 - 21h50)",
+      "region": "global",
+      "published": "2026-11-16T00:50:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Yemen: Anti-Houthi forces pull back as rebels advance",
+      "link": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Forces aligned with the Yemeni government and Saudi Arabia are seeking to strengthen control over the interim capital Aden as the Iran-backed Houthis approach.",
+      "region": "global",
+      "published": "2026-11-15T23:29:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Goodbye, overtourism? Sustainable travel gains ground",
+      "link": "https://www.dw.com/en/goodbye-overtourism-sustainable-travel-gains-ground/a-79934295?maca=en-rss-en-all-1573-rdf",
+      "teaser": "As tourism booms across Latin America, alternative forms of travel are gaining ground. Making your holiday more sustainable means rethinking who calls the shots, who invests and who benefits.",
+      "region": "global",
+      "published": "2026-11-15T20:57:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Zelenskyy urges removal of Starshield limits on Ukraine",
+      "link": "https://www.dw.com/en/zelenskyy-urges-removal-of-starshield-limits-on-ukraine/a-79953300?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Ukraine's government has said the throttling of satellite-based internet system prevents Kyiv from intercepting Russian attacks.",
+      "region": "global",
+      "published": "2026-11-15T20:39:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Czechia: Scores protest against public media reform",
+      "link": "https://www.dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Hundreds of thousands of people gathered to protest against the government's plan to abolish broadcasting fees. Critics say the nationalist coalition would like to secure control over the media.",
+      "region": "global",
+      "published": "2026-11-15T19:12:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Estonia closes border to Russia after suspected drone factory arson",
+      "link": "https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Estonia has accused Russia of conducting hybrid warfare after a drone factory was set alight in Viimsi. Now it will close its border crossings at the start of December.",
+      "region": "global",
+      "published": "2026-11-15T18:29:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Nearly 1,600 migrants arrive on Spain's Canary Islands in one day",
+      "link": "https://www.dw.com/en/nearly-1-600-migrants-arrive-on-spain-s-canary-islands-in-one-day/a-79952941?maca=en-rss-en-all-1573-rdf",
+      "teaser": "The majority of the migrants who arrived on the islands on Saturday came from Senegal, Gambia, and Guinea. The surge in arrivals to the Canaries comes after Spain's Ceuta recently faced a migration crisis.",
+      "region": "global",
+      "published": "2026-11-15T18:26:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Cape Verde election: Jose Maria Neves set to win second term",
+      "link": "https://www.dw.com/en/cape-verde-election-jose-maria-neves-set-to-win-second-term/a-79952606?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Nearly two-thirds of the voters in the West African nation voted to keep President Jose Maria Neves in office, according to provisional results.",
+      "region": "global",
+      "published": "2026-11-15T16:47:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "German economy returns to growth, so why is the country still worried?",
+      "link": "https://www.dw.com/en/german-economy-returns-to-growth-so-why-is-the-country-still-worried/a-79932220?maca=en-rss-en-all-1573-rdf",
+      "teaser": "The German economy is growing again, albeit slightly. However, economists warn that without reforms, higher productivity and solid public finances, a loss of prosperity and growing debt threaten future generations.",
+      "region": "global",
+      "published": "2026-11-15T16:12:00+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Saisonabschluss in den USA: Russin Andrejewa lobt nach WTA-Titel Ukrainerin Switolina",
+      "link": "https://www.tagesspiegel.de/sport/dpa-saisonabschluss-in-den-usa-russin-andrejewa-lobt-nach-wta-titel-ukrainerin-switolina-16287817.html",
+      "teaser": "Mirra Andrejewa gewinnt das Endspiel der WTA Finals gegen Elina Switolina. Danach wendet sich die Russin an ihre ukrainische Gegnerin - freundlicher als zuvor eine andere Spielerin aus Belarus.",
+      "region": "berlin",
+      "published": "2026-11-16T00:53:39+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Südamerika-Reise: Papst mahnt am Amazonas zu Umweltschutz",
+      "link": "https://www.tagesspiegel.de/internationales/dpa-sudamerika-reise-papst-mahnt-am-amazonas-zu-umweltschutz-16287795.html",
+      "teaser": "Kurz vor Schluss seiner Südamerika-Reise warnt Leo XIV. vor einer Zerstörung des weltgrößten Regenwalds. Und macht deutlich, dass aus seiner Sicht die Wirtschaft strenge Grenzen braucht.",
+      "region": "berlin",
+      "published": "2026-11-15T23:27:33+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Angst vor dem Älterwerden?: Makatsch: „Man wird ja hoffentlich nach hinten raus weiser“",
+      "link": "https://www.tagesspiegel.de/gesellschaft/dpa-angst-vor-dem-alterwerden-makatsch-man-wird-ja-hoffentlich-nach-hinten-raus-weiser-16287791.html",
+      "teaser": "Ein eigenes Restaurant könnte Heike Makatsch reizen – solange Zahlen, Lizenzen und Businessplan außen vor bleiben. Sie kann sich auch ein Leben abseits des Rampenlichts vorstellen.",
+      "region": "berlin",
+      "published": "2026-11-15T23:02:16+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Kalenderblatt: Was geschah am 16. November?",
+      "link": "https://www.tagesspiegel.de/dpa-kalenderblatt-was-geschah-am-16-november-16287789.html",
+      "teaser": "Tag für Tag gibt es Ereignisse, Anekdoten, Geburts- oder Sterbetage, an die erinnert werden soll.",
+      "region": "berlin",
+      "published": "2026-11-15T22:56:23+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Britisches Königshaus: Prinz Harry überrascht mit Ukraine-Besuch",
+      "link": "https://www.tagesspiegel.de/gesellschaft/dpa-britisches-konigshaus-prinz-harry-uberrascht-mit-ukraine-besuch-16287785.html",
+      "teaser": "Royaler Überraschungs-Besuch in der Ukraine: Prinz Harry trifft in Lwiw verwundete Soldaten und macht ihnen Mut. In einer Sporthalle trainieren Veteranen für ein ganz besonderes Turnier.",
+      "region": "berlin",
+      "published": "2026-11-15T22:09:45+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Nations League: Dramatischer 3:2-Sieg: England schlägt Weltmeister Spanien",
+      "link": "https://www.tagesspiegel.de/sport/dpa-nations-league-dramatischer-32-sieg-england-schlagt-weltmeister-spanien-16287783.html",
+      "teaser": "Spanien muss erstmals nach 43 Spielen wieder eine Niederlage hinnehmen. Thomas Tuchels Engländer ringen den Welt- und Europameister nieder. Italien verpasst in Belgien den Einzug ins Viertelfinale.",
+      "region": "berlin",
+      "published": "2026-11-15T21:51:24+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Chip-Konzern: Bericht: Jensen Huang spricht über Rückkehr an Nvidia-Spitze",
+      "link": "https://www.tagesspiegel.de/gesellschaft/medien/dpa-chip-konzern-bericht-jensen-huang-spricht-uber-ruckkehr-an-nvidia-spitze-16287780.html",
+      "teaser": "Jensen Huang galt bis zu seinem Abgang als nahezu unersetzlich bei Nvidia. Könnte er wieder an der Spitze des Chip-Konzerns auftauchen?",
+      "region": "berlin",
+      "published": "2026-11-15T21:43:28+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "American Football: NFL: Cousins gewinnt mit Vikings fünf Tage nach Wechsel",
+      "link": "https://www.tagesspiegel.de/sport/dpa-american-football-nfl-cousins-gewinnt-mit-vikings-funf-tage-nach-wechsel-16287776.html",
+      "teaser": "Kirk Cousins ist zurück bei den Minnesota Vikings und führt das NFL-Team direkt zu einem Sieg - an einem Ort mit besonderer Bedeutung für seine Geschichte. Patrick Mahomes überragt beim Chiefs-Sieg.",
+      "region": "berlin",
+      "published": "2026-11-15T21:28:52+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Eishockey: Eisbären Berlin verlieren auch gegen Schwenningen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/deutsche-eishockey-liga-eisbaeren-berlin-schwenninger-wild-wings.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-11-15T20:47:34+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Volleyball: BR Volleys trotzen siegen in Düren",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/volleyball-bundesliga-dueren-br-volleys-berlin.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-11-15T20:44:43+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Kurzbahn-DM: Angelina Köhler schwimmt deutschen Rekord",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/schwimmen-deutsche-kurzbahn-meisterschaft-angelina-koehler-rekord.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-11-15T20:02:19+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Gedenkgottesdienst in Altglietzen für Lisa aus Marzahn",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/altglietzen-gedenkgottesdienst-lisa.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-11-15T19:36:59+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Über Nacht geöffnet: 110.000 Besucher feiern 30 Jahre Hamburger Bahnhof",
+      "link": "https://www.rbb24.de/kultur/beitrag/2026/11/berlin-hamburger-bahnhof-museum-besucher-konzerte-fuehrungen.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-11-15T18:50:51+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Wetter in Berlin und Brandenburg: \"Schnee ist derzeit kein Thema\"",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-brandenburg-wetter-prognose-schnee-november.html",
+      "teaser": "Die neue Woche startet in Berlin und Brandenburg mit vielen Wolken, Regen und Wind. Schnee wie Anfang der Woche im Landkreis Oder-Spree ist \"derzeit kein Thema\", so der ARD-Wetterexperte Vögtlin. Auch die Prognosen zum Winter in der Region fallen noch vage aus.",
+      "region": "berlin",
+      "published": "2026-11-15T17:27:00+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Fußball: Der Klebeband-Elfmeter von Kreuzberg",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/fussball-berlin-hansa-07-kunstrasen-platz-sanierung-verletzungen.html",
+      "teaser": "Seit über 20 Jahren ist der Platz von Hansa 07 in Berlin-Kreuzberg marode. Während sich Politik, Bezirk und BIM die Zuständigkeiten zuschieben, kämpft der Großverein mit Bandscheibenvorfällen und absurden Verwaltungspossen.",
+      "region": "berlin",
+      "published": "2026-11-15T16:18:36+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "DHB-Pokal: Titelverteidiger Füchse trifft im Viertelfinale auf Erlangen",
+      "link": "https://www.rbb24.de/sport/beitrag/2026/11/handball-dhb-pokal-auslosung-viertelfinale-fuechse-berlin.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-11-15T16:17:54+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Asylbewerber in Sachsen: Deutlich weniger Ankünfte – Zahl der Abschiebungen steigt",
+      "link": "https://www.berliner-zeitung.de/article/asylbewerber-in-sachsen-deutlich-weniger-ankuenfte-zahl-der-abschiebungen-steigt-10599802",
+      "teaser": "Weniger Asylbewerber kommen nach Sachsen, gleichzeitig werden mehr Ausreisepflichtige abgeschoben. Doch die Zahl der Duldungen bleibt unverändert hoch.",
+      "region": "berlin",
+      "published": "2026-11-15T16:15:59+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Nations League wie „Wer wird Millionär?“: Hat Klopps DFB-Team gegen Oranje die Antwort?",
+      "link": "https://www.berliner-zeitung.de/article/dfb-team-niederlande-kai-havertz-klopp-nations-league-10594160",
+      "teaser": "DFB-Team gegen Niederlande: Klopp braucht in der Nations League einen Sieg. Kai Havertz vergab gegen Serbien Chancen – doch er kann große Spiele.",
+      "region": "berlin",
+      "published": "2026-11-15T16:00:00+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Leihspieler Adewumi: Hertha-Fans sind der Trumpf im Transferpoker",
+      "link": "https://www.berliner-zeitung.de/article/leihspieler-adewumi-hertha-fans-sind-der-trumpf-im-transferpoker-10599710",
+      "teaser": "Hertha BSC bemüht sich Leihspieler Oluwaseun Adewumi fest vom FC Burnley zu verpflichten. Die Fans könnten dabei der entscheidende Faktor werden.",
+      "region": "berlin",
+      "published": "2026-11-15T15:21:57+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Prügelnde Lehrer und kriminelle Banden: Das ist der Schulalltag am östlichen Mittelmeer",
+      "link": "https://www.berliner-zeitung.de/article/schulgewalt-nahost-tuerkei-syrien-libanon-jugendbanden-10577671",
+      "teaser": "Ein Kriminologe und ein Erziehungswissenschaftler, der selbst in Ankara zur Schule ging, erklären, was Schüler dort erleben und was das für Deutschland bedeutet.",
+      "region": "berlin",
+      "published": "2026-11-15T14:45:26+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Silvester jetzt doch mit Kiewel und Kerner: ZDF stellt Pläne für den Jahreswechsel vor",
+      "link": "https://www.berliner-zeitung.de/article/silvester-jetzt-doch-mit-kiewel-und-kerner-zdf-stellt-plaene-fuer-den-jahreswechsel-vor-10599551",
+      "teaser": "Nach Kritik von Zuschauern und angesichts sinkender Reichweiten hatte das ZDF seine große Open-Air-Silvesterparty gestrichen. Die neuen Pläne rufen nun aber ebenso wenig Begeisterung hervor.",
+      "region": "berlin",
+      "published": "2026-11-15T14:25:55+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Wichtiger Theaterpreis: Chemnitzer Oper „Rummelplatz“ gewinnt bei „Der Faust“",
+      "link": "https://www.berliner-zeitung.de/article/wichtigter-theaterpreis-chemnitzer-oper-rummelplatz-gewinnt-bei-der-faust-10599515",
+      "teaser": "Ausverkaufte Säle, Jurylob, Spitzenpreis: Frank Hilbrichs Chemnitzer Opernaufführung „Rummelplatz“ holt den begehrten Theaterpreis „Der Faust“ nach Sachsen.",
+      "region": "berlin",
+      "published": "2026-11-15T14:23:53+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Klopps Kappe hat bald ausgedient: Das DFB-Team verabschiedet Adidas nach über 70 Jahren",
+      "link": "https://www.berliner-zeitung.de/article/dfb-adidas-abschied-klopp-kappe-nike-wechsel-10598849",
+      "teaser": "Gegen die Niederlande trägt das DFB-Team in Berlin zum letzten Mal die drei Streifen. Der Wechsel zu Nike hat finanzielle Gründe.",
+      "region": "berlin",
+      "published": "2026-11-15T14:10:28+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Video: Hier wird die alte Muldentalbrücke an der A14 bei Grimma gesprengt",
+      "link": "https://www.berliner-zeitung.de/article/video-hier-wird-die-alte-muldentalbruecke-an-der-a14-bei-grimma-gesprengt-10599572",
+      "teaser": "Nach mehr als 50 Jahren Dienst: Die marode Muldebrücke der A14 bei Grimma ist Geschichte. Das marode Bauwerk wurde kontrolliert gesprengt.",
+      "region": "berlin",
+      "published": "2026-11-15T14:07:51+00:00"
+    }
+  ]
+}

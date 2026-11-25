@@ -1,0 +1,878 @@
+{
+  "date": "2026-11-25",
+  "digest_markdown": "## Berlín\n\nNo hay disrupciones de transporte ni cambios regulatorios de relevancia inmediata reportados para el 25 de noviembre.\n\n## Mundo\n\n**España / Cataluña**\n[Puigdemont anuncia su regreso](https://elpais.com/espana/elecciones-generales/2026-11-25/campana-electoral-29-n-y-actualidad-politica-en-directo.html) a España el 12 de diciembre en avión desde Bruselas hasta Barcelona, donde se dirigirá directamente al Parlament.\n\n**Migraciones**\n[190 personas más llegan a El Hierro](https://elpais.com/espana/2026-11-25/sin-pausa-en-la-ruta-canaria-190-personas-mas-llegan-en-dos-cayucos-a-el-hierro.html) en dos cayucos, continuando la ruta canaria. Un [salvadoreño que fue deportado por las políticas migratorias de Trump](https://elpais.com/internacional/2026/11-25/kilmar-abrego-garcia-victima-de-las-deportaciones-masivas-de-trump-aterriza-en-madrid.html) ha llegado a Madrid tras pasar por una megacárcel en El Salvador.\n\n**Tecnología**\n[Nvidia se dispara un 31,5%](https://www.elindependiente.com/economia/2026/11/23/nvidia-se-dispara-un-315-tras-el-regreso-de-huang-y-lleva-al-nasdaq-a-ganar-un-65/) tras el regreso de Jensen Huang como CEO, impulsando al Nasdaq un 6,5%. Claude, el modelo de IA de Anthropic, [ha logrado probar la Hipótesis de Riemann](https://www.nexojornal.com.br/expresso/2026/11/24/hipotese-de-riemann-resolvida-anthropic-claude-gpt-ia-matematica), uno de los siete Problemas del Milenio.\n\n**Oriente Próximo**\n[Los Houthis reclaman ataques](https://www.dw.com/en/houthis-claim-attacks-on-saudi-refinery-financial-district/a-80043632) contra una refinería saudí y el distrito financiero de Riad. [El Golfo sobrevivió a una guerra corta y caliente, pero un conflicto largo y frío será más difícil](https://www.economist.com/middle-east-and-africa/2026/11/24/the-gulf-survived-a-short-hot-war-a-long-cold-one-will-be-harder), con posibilidad de que continúe hasta 2029.\n\n**América Latina**\n[Colombia enfrenta un repunte de violencia](https://www.economist.com/the-americas/2026/11/24/ten-years-after-colombias-peace-deal-violence-is-rising-again) diez años después del acuerdo de paz que terminó seis décadas de conflicto.\n\n**Otros**\n[Australia y las Islas Salomón firman un pacto de seguridad](https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china) visto como contrapeso a China. [Países ricos enfrentan una \"recesión sexual\"](https://www.economist.com/international/2026/11/25/the-rich-worlds-sexual-recession-is-getting-worse), impulsada en parte por el agotamiento. [Grecia realiza huelga de 24 horas](https://oglobo.globo.com/mundo/noticia/2026/11/25/grecia-tem-dia-de-greve-para-exigir-aumentos-salariais) exigiendo aumentos salariales y medidas contra el costo de vida.",
+  "articles": [
+    {
+      "source": "El País",
+      "title": "¿Merece la pena el Dyson Airwrap i.d.? Lo he probado y esta es mi experiencia con el moldeador más deseado (ahora con más de 150€ de descuento)",
+      "link": "https://elpais.com/escaparate/ofertas-y-descuentos/probamos-dyson-airwrap-id-oferta-pre-black-friday-2026.html",
+      "teaser": "Seis accesorios intercambiables, una aplicación que automatiza el moldeado y una rutina capilar personalizada para conseguir diferentes acabados de forma sencilla",
+      "region": "global",
+      "published": "2026-11-25T11:27:07+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Campaña electoral 29-N y actualidad política, en directo | Puigdemont anuncia que regresará a España el 12 de diciembre: “Volveré a Cataluña sin pedir permiso y sin pedir perdón”",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-11-25/campana-electoral-29-n-y-actualidad-politica-en-directo.html",
+      "teaser": "El ‘expresident’ asegura que viajará en avión de Bruselas a Barcelona y se trasladará directamente al Parlament | Sánchez afirma que las pensiones gozan de “extraordinaria salud” y promete aumentar la hucha a 50.000 millones en 2030 | Colau augura que si Abascal es vicepresidente desplegará “un ICE” en las calles de España",
+      "region": "global",
+      "published": "2026-11-25T10:55:42+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Recetas navideñas imprescindibles para endulzar las fiestas",
+      "link": "https://elpais.com/gastronomia/2026-11-25/recetas-navidenas-imprescindibles-para-endulzar-las-fiestas.html",
+      "teaser": "Recetas sorprendentes y nuevas versiones de los clásicos de siempre. Dr. Oetker, especialista en repostería desde hace más de 130 años, ofrece todos los ingredientes para prepararlas y, sobre todo, soluciones para darles un toque final divertido y especial",
+      "region": "global",
+      "published": "2026-11-25T10:47:34+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Los 30 mejores chollos de Amazon solo este 25 de noviembre en Black Friday 2026: rebajas de hasta el 79%",
+      "link": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-semana-black-friday-2026-25-noviembre.html",
+      "teaser": "Seleccionamos los descuentos más atractivos en las categorías principales de compra y con precios mínimos históricos: ahorra hasta 120 euros en top ventas",
+      "region": "global",
+      "published": "2026-11-25T10:46:32+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Marcos Llorente desata la polémica por mostrar en redes a su hija comiendo caviar: de las críticas de Gabriel Rufián o Alberto Garzón a la respuesta del futbolista",
+      "link": "https://elpais.com/gente/2026-11-25/marcos-llorente-desata-la-polemica-por-mostrar-en-redes-a-su-hija-comiendo-caviar-de-las-criticas-de-gabriel-rufian-o-alberto-garzon-a-la-respuesta-del-futbolista.html",
+      "teaser": "El jugador del Atlético de Madrid, cuestionado anteriormente por sus hábitos, ha sido criticado en redes sociales y programas de televisión por la ostentación y la inconveniencia detrás de la merienda de Amor, de un año. “¿En qué momento os habéis convertido en el comité de supervisión de mis gastos?“, ha respondido él",
+      "region": "global",
+      "published": "2026-11-25T10:37:22+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Ricky Martin, de aquel niño extrovertido a la fama mundial: una fascinante vida en imágenes",
+      "link": "https://elpais.com/icon/2026-11-25/ricky-martin-de-aquel-nino-extrovertido-a-la-fama-mundial-una-fascinante-vida-en-imagenes.html",
+      "teaser": "A punto de cumplir 55 años, uno de los artistas que inauguró la fiebre latina en el mundo hace casi 30 años ha anunciado nuevo disco para 2027. Aquí algunas estampas de su vida, de una adolescencia en San Juan a rodearse de leyendas",
+      "region": "global",
+      "published": "2026-11-25T10:36:46+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Sin pausa en la ruta canaria: 190 personas más llegan en dos cayucos a El Hierro",
+      "link": "https://elpais.com/espana/2026-11-25/sin-pausa-en-la-ruta-canaria-190-personas-mas-llegan-en-dos-cayucos-a-el-hierro.html",
+      "teaser": "Sánchez confía en que “se puedan reducir en los próximos días las llegadas”",
+      "region": "global",
+      "published": "2026-11-25T10:31:31+00:00"
+    },
+    {
+      "source": "El País",
+      "title": "Kilmar Abrego García, víctima de las deportaciones masivas de Trump, aterriza en Madrid",
+      "link": "https://elpais.com/internacional/2026-11-25/kilmar-abrego-garcia-victima-de-las-deportaciones-masivas-de-trump-aterriza-en-madrid.html",
+      "teaser": "El salvadoreño fue trasladado el año pasado a la megacárcel de Bukele y ha sufrido la persecución de las autoridades estadounidense. Tras pasar por España, su plan es asentarse en México",
+      "region": "global",
+      "published": "2026-11-25T10:27:32+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Nvidia was right to bring back Jensen Huang, writes Sarah Guo",
+      "link": "https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo",
+      "teaser": "He is the key to stopping AI from becoming the preserve of a few, argues the venture capitalist",
+      "region": "global",
+      "published": "2026-11-25T10:32:00+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "How Britain sells America to Americans",
+      "link": "https://www.economist.com/podcasts/2026/11/25/how-britain-sells-america-to-americans",
+      "teaser": "A handpicked article read aloud from the latest issue of The Economist",
+      "region": "global",
+      "published": "2026-11-25T10:08:21+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "The rich world’s sexual recession is getting worse",
+      "link": "https://www.economist.com/international/2026/11/25/the-rich-worlds-sexual-recession-is-getting-worse",
+      "teaser": "Exhaustion is just one of the culprits",
+      "region": "global",
+      "published": "2026-11-25T09:09:11+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "The Gulf survived a short, hot war. A long, cold one will be harder",
+      "link": "https://www.economist.com/middle-east-and-africa/2026/11/24/the-gulf-survived-a-short-hot-war-a-long-cold-one-will-be-harder",
+      "teaser": "Conflict could continue until 2029",
+      "region": "global",
+      "published": "2026-11-24T22:09:57+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Are America’s supply chains really more vulnerable than China’s?",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
+      "teaser": "Mapping the vulnerabilities in global commerce",
+      "region": "global",
+      "published": "2026-11-24T20:34:14+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Doomsday predictions have value, even if they’re wrong",
+      "link": "https://www.economist.com/science-and-technology/2026/11/24/doomsday-predictions-have-value-even-if-theyre-wrong",
+      "teaser": "And other takeaways from a conference on the end of the world",
+      "region": "global",
+      "published": "2026-11-24T19:13:16+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Shanghai’s boss is purged from Xi Jinping’s top team",
+      "link": "https://www.economist.com/china/2026/11/24/shanghais-boss-is-purged-from-xi-jinpings-top-team",
+      "teaser": "Chen Jining is the latest in a string of high-profile removals",
+      "region": "global",
+      "published": "2026-11-24T18:45:56+00:00"
+    },
+    {
+      "source": "The Economist",
+      "title": "Ten years after Colombia’s peace deal, violence is rising again",
+      "link": "https://www.economist.com/the-americas/2026/11/24/ten-years-after-colombias-peace-deal-violence-is-rising-again",
+      "teaser": "The accord ended six decades of war. Can peace still be assured?",
+      "region": "global",
+      "published": "2026-11-24T18:27:00+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "China Is Preparing for the End of Détente",
+      "link": "https://www.foreignaffairs.com/china/china-preparing-end-detente-trump-yun-sun",
+      "teaser": "After Trump, a hawkish backlash awaits.",
+      "region": "global",
+      "published": "2026-11-25T09:00:00+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "The Global Antiauthoritarian Wave Is an Illusion",
+      "link": "https://www.foreignaffairs.com/united-states/democracy-global-anti-authoritarian-wave-illusion",
+      "teaser": "Democracy can’t be saved at the ballot box.",
+      "region": "global",
+      "published": "2026-11-25T09:00:00+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "The Real Nvidia Scandal",
+      "link": "https://www.foreignaffairs.com/china/real-nvidia-scandal-kilcrease-chilukuri",
+      "teaser": "How China exploited a massive loophole in U.S. national security—and how Congress can close it.",
+      "region": "global",
+      "published": "2026-11-24T09:00:00+00:00"
+    },
+    {
+      "source": "Foreign Affairs",
+      "title": "The Paradox of Iranian Power",
+      "link": "https://www.foreignaffairs.com/iran/paradox-iranian-power-sadjadpour",
+      "teaser": "Why the Islamic Republic can’t make peace.",
+      "region": "global",
+      "published": "2026-11-24T09:00:00+00:00"
+    },
+    {
+      "source": "Le Monde diplomatique",
+      "title": "Italy's general strike",
+      "link": "https://mondediplo.com/2026/11/italy-strike",
+      "teaser": "‘ Abbassate le armi, alzate i salari ! ' (‘Down arms, raise wages.') On Friday 20 November, Italy's largest trade union, the General Confederation of Labour (CGIL), organised its fifth general strike since 2022 in opposition to Giorgia Meloni's budgets. In more than a hundred cities across the country, unions demanded more resources for wages, pensions, hospitals and schools from a government bent on austerity and rearmament. Since the autumn of 2025, solidarity with Palestine has also (…) - 2026/11 / Dossier",
+      "region": "global",
+      "published": "2026-11-23T12:00:46+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Nvidia se dispara un 31,5% tras el regreso de Huang y lleva al Nasdaq a ganar un 6,5%",
+      "link": "https://www.elindependiente.com/economia/2026/11/23/nvidia-se-dispara-un-315-tras-el-regreso-de-huang-y-lleva-al-nasdaq-a-ganar-un-65/",
+      "teaser": "Las acciones de Nvidia se dispararon este lunes un 31,5 %, hasta los 165,05 dólares por título, en su mayor [&#8230;]",
+      "region": "global",
+      "published": "2026-11-23T22:10:08+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Pedro Rollán: \"El primer viaje de Feijóo podría ser a Marruecos para mostrar respeto pero, también, exigir reciprocidad y lealtad\"",
+      "link": "https://www.elindependiente.com/espana/2026/11/23/pedro-rollan-el-primer-viaje-de-feijoo-podria-ser-a-marruecos-para-mostrar-respeto-pero-tambien-exigir-reciprocidad-y-lealtad/",
+      "teaser": "Pedro Rollán vuelve a ser cabeza de lista de su partido al Senado por Madrid. Presidente de la Cámara alta [&#8230;]",
+      "region": "global",
+      "published": "2026-11-23T21:50:07+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Vox y la involución de los Cantores de Híspalis",
+      "link": "https://www.elindependiente.com/opinion/2026/11/23/vox-y-la-involucion-de-los-cantores-de-hispalis/",
+      "teaser": "Moreno Bonilla, que es el PP amable y azafato (aunque la amabilidad del azafato es sólo oficio), ha dicho que [&#8230;]",
+      "region": "global",
+      "published": "2026-11-23T21:49:47+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "La advertencia del genio de Meta Alexandr Wang sobre la IA que ha resuelto el mayor problema matemático de la humanidad",
+      "link": "https://www.elindependiente.com/futuro/2026/11/23/la-advertencia-del-genio-de-meta-alexandr-wang-sobre-la-ia-que-ha-resuelto-el-mayor-problema-matematico-de-la-humanidad/",
+      "teaser": "Después de traer de cabeza a las mentes más brillantes del planeta durante 167 años, uno de los mayores enigmas [&#8230;]",
+      "region": "global",
+      "published": "2026-11-23T20:23:27+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Así es el nuevo permiso por duelo de 10 días laborables: qué familiares pueden pedirlo y qué medidas incluye para paliativos y eutanasia",
+      "link": "https://www.elindependiente.com/espana/2026/11/23/asi-es-el-nuevo-permiso-por-duelo-de-10-dias-laborables-que-familiares-pueden-pedirlo-y-nuevas-medidas-para-paliativos-y-eutanasia/",
+      "teaser": "El Gobierno aprobará este martes en el Consejo de Ministros el Real Decreto-Ley de adaptación y reducción de jornada para [&#8230;]",
+      "region": "global",
+      "published": "2026-11-23T19:10:53+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Bardem, Rosa Montero y otros 200 nombres de la cultura piden el voto para Frente Amplio y esquivan el \"voto útil\" al PSOE",
+      "link": "https://www.elindependiente.com/tendencias/cultura/2026/11/23/bardem-rosa-montero-y-otros-200-nombres-de-la-cultura-piden-el-voto-para-frente-amplio-y-esquivan-el-voto-util-al-psoe/",
+      "teaser": "El mundo de la cultura vuelve a movilizarse ante una cita electoral, aunque esta vez con un destinatario concreto. Cerca [&#8230;]",
+      "region": "global",
+      "published": "2026-11-23T19:05:22+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Sánchez desempolva a seis días de las elecciones la ampliación del permiso por fallecimiento que enfrentó a Díaz y Cuerpo",
+      "link": "https://www.elindependiente.com/espana/2026/11/23/sanchez-desempolva-a-seis-dias-de-las-elecciones-la-ampliacion-del-permiso-por-fallecimiento-que-enfrento-a-diaz-y-cuerpo/",
+      "teaser": "A seis días de las elecciones, el presidente del Gobierno, Pedro Sánchez, ha decidido rescatar la ampliación de los permisos [&#8230;]",
+      "region": "global",
+      "published": "2026-11-23T18:21:25+00:00"
+    },
+    {
+      "source": "El Independiente",
+      "title": "Terror en Sinaloa: junto al Chapo Isidro cayeron sus primos Serafín y Pánfilo y su cuñado José Luis",
+      "link": "https://www.elindependiente.com/internacional/2026/11/23/terror-en-sinaloa-junto-al-chapo-isidro-cayeron-sus-primos-serafin-y-panfilo-y-su-cunado-jose-luis/",
+      "teaser": "El Gobierno mexicano ha elevado de 11 a 20 el número de muertos en la operación que culminó con la [&#8230;]",
+      "region": "global",
+      "published": "2026-11-23T18:03:25+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "The best Christmas gifts for founders",
+      "link": "https://sifted.eu/articles/the-best-christmas-gifts-for-founders/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-25T10:40:53+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "How much do you know about your AI agents?",
+      "link": "https://sifted.eu/articles/how-much-do-you-know-about-your-ai-agents-brnd/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-25T09:00:46+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "25 biotech startups to watch, according to VCs",
+      "link": "https://sifted.eu/articles/25-biotech-startups-to-watch-according-to-vcs/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-25T05:00:47+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "How to build an AI-native VC fund",
+      "link": "https://sifted.eu/articles/how-to-build-an-ai-native-vc-fund/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-25T05:00:06+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Why Europe’s sovereignty debate is heading to Luxembourg this March",
+      "link": "https://sifted.eu/articles/europes-sovereignty-debate-luxembourg-brnd/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-24T14:29:19+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Exclusive: Starling veteran to take over as CEO",
+      "link": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-24T13:57:46+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Who could be Starling’s next CEO?",
+      "link": "https://sifted.eu/articles/starlings-next-ceo/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-24T11:00:37+00:00"
+    },
+    {
+      "source": "Sifted",
+      "title": "Cybersecurity startups mapped: 108 companies guarding Europe's digital frontline",
+      "link": "https://sifted.eu/articles/cybersecurity-startups-mapped-108-companies-guarding-europes-digital-frontline/",
+      "teaser": "",
+      "region": "global",
+      "published": "2026-11-24T05:00:22+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Please don’t give the robot my SSH keys: How to keep AI out of trouble",
+      "link": "https://thenewstack.io/teleport-agent-delegated-identity/",
+      "teaser": "Say a developer asks an AI agent to find out why a Kubernetes pod keeps crashing. The agent needs logs. The post Please don&#8217;t give the robot my SSH keys: How to keep AI out of trouble appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-24T21:57:58+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Move fast, don’t break 100 apps: Dan Garfield on keeping AI-powered coding on the rails",
+      "link": "https://thenewstack.io/ai-coding-delivery-bottleneck/",
+      "teaser": "An AI coding agent can give a product manager a working prototype before the next planning meeting. Which is great! The post Move fast, don’t break 100 apps: Dan Garfield on keeping AI-powered coding on the rails appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-24T19:48:46+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Confluent spent 3 months rewriting Kafka’s Java client in Rust with AI — and had to start over",
+      "link": "https://thenewstack.io/confluent-kafka-rust-agents/",
+      "teaser": "Confluent spent nearly three months using AI coding agents to translate Apache Kafka&#8217;s Java client into Rust. The engineers discarded The post Confluent spent 3 months rewriting Kafka’s Java client in Rust with AI — and had to start over appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-24T19:26:18+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Anthropic’s Claude Ship tackles the pull request bottleneck created by AI coding agents",
+      "link": "https://thenewstack.io/claude-ship-automated-approvals/",
+      "teaser": "A year after Claude Code creator Boris Cherny began relying on AI to write all his code, he&#8217;s looking to The post Anthropic&#8217;s Claude Ship tackles the pull request bottleneck created by AI coding agents appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-24T18:15:59+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "As MCP turns two, Claude gets Skills over MCP and better support for long-running tasks",
+      "link": "https://thenewstack.io/mcp-skills-tasks-claude/",
+      "teaser": "Anthropic on Tuesday marked the second anniversary of the Model Context Protocol (MCP) by bringing support for skills, long-running tasks, The post As MCP turns two, Claude gets Skills over MCP and better support for long-running tasks appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-24T18:08:34+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Getting a GPU is only the beginning. Ask AWS EKS.",
+      "link": "https://thenewstack.io/kubernetes-gpu-inference-startup/",
+      "teaser": "Eight minutes is a long time to wait for another copy of an AI model to start serving traffic. It The post Getting a GPU is only the beginning. Ask AWS EKS. appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-24T17:17:12+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "OpenClaw at one: its chief architect on a year of explosive growth, wooing the enterprise, and being Meta’s muse",
+      "link": "https://thenewstack.io/openclaw-vincent-koc-interview/",
+      "teaser": "It&#8217;s been a whirlwind 12 months for OpenClaw, the open source personal AI agent used for everything from managing calendars The post OpenClaw at one: its chief architect on a year of explosive growth, wooing the enterprise, and being Meta&#8217;s muse appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-24T12:39:32+00:00"
+    },
+    {
+      "source": "The New Stack",
+      "title": "Vercel will make AI providers prove they don’t keep prompts. Here’s why it matters for developers.",
+      "link": "https://thenewstack.io/vercel-audited-zdr-inference/",
+      "teaser": "Since April, developers using Vercel&#8217;s AI Gateway have been able to request provider-level zero data retention (ZDR). Vercel says its The post Vercel will make AI providers prove they don&#8217;t keep prompts. Here&#8217;s why it matters for developers. appeared first on The New Stack .",
+      "region": "global",
+      "published": "2026-11-24T12:00:00+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Como o inquérito das fake news mudou o Supremo (para pior)",
+      "link": "https://www.nexojornal.com.br/colunistas/2026/11/24/inquerito-das-fake-news-supremo-stf-moraes-efeitos-o-que-mudou",
+      "teaser": "O juiz que se torna uma máquina de fazer tudo o que entende ser necessário para, na sua visão, proteger a democracia e a Constituição corre o risco de deixar de ser juiz Depois de mais de sete anos de tramitação, o presidente do Supremo, Edson Fachin, encerrou o inquérito das fake news. Na sua controversa história, dois planos foram frequentemente confundidos, tanto na crítica quanto na defesa do procedimento: sua origem e sua condução. Em sua decisão, Fachin enfatizou que o plenário do Supremo inequivocamente validou a instauração do inquérito de ofício em 2020, com a designação do ministro Alexandre de Moraes como relator. Contudo, a autorização inicial não torna correta toda decisão posterior no procedimento. A validade da origem não é chancela das centenas de escolhas (em sua maioria individuais, sem passagem pelo colegiado) feitas ao longo do caminho.",
+      "region": "global",
+      "published": "2026-11-25T01:36:04+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "O que as projeções econômicas prenunciam para Lula 4",
+      "link": "https://www.nexojornal.com.br/expresso/2026/11/24/ajuste-fiscal-lula-governo-brasil-dolar-pib-divida",
+      "teaser": "Lula sanciona ajuste fiscal enquanto Ministério da Fazenda revê projeções para o PIB e para a inflação. Economistas avaliam o cenário O presidente Luiz Inácio Lula da Silva (PT) sancionou nesta terça-feira (24) o projeto de lei com medidas de ajuste fiscal. O pacote pode gerar economia de até R$ 56 bilhões em 2027. A proposta, que já havia passado pelo Senado, foi aprovada na segunda-feira (23) pela Câmara dos Deputados. Horas antes disso, o Ministério da Fazenda revisou para baixo a projeção do PIB (Produto Interno Bruto) de 2026 e para cima a da inflação – isso em um momento de alta do dólar e juros elevados.",
+      "region": "global",
+      "published": "2026-11-25T00:03:09+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Da educação básica à universidade: o peso das desigualdades",
+      "link": "https://www.nexojornal.com.br/expresso/2026/11/24/desigualdades-acesso-a-universidade-educacao-faculdad",
+      "teaser": "Estudos de quatro centros de pesquisa mostram como as disparidades raciais persistem no ensino, motivadas por fatores estruturais que afetam negros e mais pobres &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2026/11/toms6058.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Aluna durante aula de redação em curso pré-vestibular social no Rio de Janeiro &lt;/media:title&gt; &lt;media:credit&gt; Tomaz Silva / Agência Brasil &lt;/media:credit&gt; &lt;/media:content&gt; A população negra e de baixa renda enfrenta as maiores barreiras para concluir a educação básica e acessar o ensino superior. É o que concluíram quatro estudos feitos por diferentes centros de pesquisa em parceria com as organizações Imaginable Futures e Instituto Îandé. As pesquisas mostraram, por exemplo, que o abandono escolar na educação básica se relaciona mais com fatores socioeconômicos do que com escolhas individuais. Também investigaram o papel de políticas como cotas e medidas de incentivo à permanência para ampliar o acesso ao ensino superior. Neste texto, que integra a cobertura especial “Desigualdades raciais na educação”, o Nexo mostra qual o peso das desigualdades nas diferentes etapas da educação. Também traz os caminhos sugeridos por pesquisadores para contornar o cenário. Os impactos na educação básica As desigualdades socioeconômicas afetam jovens já na educação básica, com maior impacto sobre pretos e pardos, segundo um levantamento da associação civil sem fins lucrativos Ação Educativa, publicado em agosto de 2026. O estudo analisou a situação de jovens entre 15 e 29 anos que não frequentam a escola e ainda não concluíram a educação básica — contingente que somou 7,9 milhões de pessoas em 2025, sendo a maior parte negra. 72,3% dos jovens de 15 a 29 anos fora da escola e sem a educação básica concluída eram pretos ou pardos em 2024, segundo dados do IBGE O levantamento considerou dados do IBGE (Instituto Brasileiro de Geografia e Estatística), do Censo Escolar (produzido pelo Inep) e outras pesquisas acadêmicas sobre o tema. Segundo os pesquisadores, o cenário de evasão e abandono escolar pouco tem a ver com desinteresse pelos estudos, mas sim com uma série de desvantagens econômicas e pressões sociais que levam jovens a trocar a escola pelo trabalho — como a necessidade de complementar a renda familiar ou de cuidar de um parente. Diante disso, as disparidades baseadas em gênero também tensionam o cenário em torno de estudantes negros e de baixa renda. De acordo com a análise, os homens são pressionados a entrar precocemente no mercado de trabalho. Já as mulheres acabam se dedicando a afazeres domésticos e cuidados familiares. Com isso, segundo os pesquisadores, a divisão de responsabilidades entre trabalho e estudo integram uma disputa pelo tempo e energia dos jovens, colocando-os em condições desiguais de permanência na escola. &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2024/03/novo-ensino-medio--scaled.jpeg\" type=\"image/jpeg\" medium=\"image\"&gt; &lt;media:title&gt; Estudantes do ensino médio chegam para prova do Enem no Rio de Janeiro &lt;/media:title&gt; &lt;media:credit&gt; Fernando Frazão / Agência Brasil 05.11.2023 &lt;/media:credit&gt; &lt;/media:content&gt; Roberto Catelli Junior, doutor em educação pela USP (Universidade de São Paulo) e coordenador executivo adjunto na organização Ação Educativa, disse ao Nexo que o quadro contribui para perpetuar uma condição econômica e social da população negra. “Claro que hoje existem vários mecanismos para reverter isso, mas ainda há uma espécie de fábrica de exclusão em andamento”, disse. Leia a análise completa (PDF, 42 páginas)Evasão e abandono dos jovens da educação básica e a perpetuação das desigualdades educacionais e sociais no Brasil: a interseccionalidade raça, gênero e classe Mesmo que a renda desses jovens aumente no futuro, isso nem sempre garante seu retorno à escola. É o que mostrou uma análise estatística feita pelo Afro-Cebrap (Núcleo de Pesquisa e Formação em Raça, Gênero e Justiça Racial) com dados da Pnad Contínua (Pesquisa Nacional por Amostra de Domicílios Contínua) do IBGE. A base de dados acompanhou jovens de 20 a 29 anos entre 2016 e 2025. Segundo a pesquisa, a melhora da renda domiciliar incentiva jovens brancos a concluir o ensino médio mais do que pretos e pardos, reforçando disparidades educacionais em outras fases da vida. “A renda ajuda todos, mas ajuda menos quem é negro”, disse Ana Clara Simões, mestre em economia pela UFMG (Universidade Federal de Minas Gerais) e uma das autoras do estudo, ao&#160;Nexo. 12 vezes é quanto aumenta, aproximadamente, a chance de um jovem branco concluir o ensino médio quando a renda familiar por pessoa sobe de cerca de R$ 380 para cerca de R$ 3.600 por pessoa 8,7 vezes é quanto aumentam as chances de concluir o ensino médio para jovens negros na mesma situação Simões disse que embora o acesso ao ensino fundamental esteja quase universalizado, a desigualdade racial persiste e tem se deslocado para outras etapas de aprendizagem. É o caso, por exemplo, do ensino médio: mesmo que o número de jovens negros que concluíram a etapa tenha aumentado ao longo dos anos, o contingente ainda fica abaixo de outros grupos. Dados do IBGE de 2024 indicaram que a taxa de conclusão do ensino médio entre jovens brancos e amarelos foi de 81,7%, contra 69,5% entre jovens pretos, pardos e indígenas. Superar a diferença de 12,2 pontos percentuais entre os números pode levar cerca de 16 anos, segundo cálculo de novembro de 2025 feito pela organização Todos Pela Educação e citado pelo Afro-Cebrap. “Entre 2016 e 2025, a taxa de conclusão do ensino médio subiu para todos os grupos, entre brancos e negros, homens e mulheres, campo e cidade, e todas as regiões. A expansão, no entanto, não foi claramente compensatória”, disse. Leia a análise completa (PDF, 41 páginas)Desigualdades que a renda não apaga: raça/cor, gênero e território na conclusão do ensino médio no Brasil (2016-2025) A passagem para o ensino superior&#160; No caso de pretos e pardos que concluíram o ensino básico, a criação da Lei de Cotas em 2012 foi um importante motor de acesso ao ensino superior. Segundo dados do Censo do IBGE divulgado em 2025, o percentual de pardos com graduação foi de 2,4% para 12,3% entre 2000 e 2022. Já o de pessoas pretas foi de 2,1% para 11,7% nesse mesmo período. O avanço, no entanto, não foi suficiente para reverter por completo disparidades raciais ligadas ao acesso ao ensino superior, como mostrou um estudo do Gemaa (Grupo de Estudos Multidisciplinares da Ação Afirmativa) — vinculado ao Iesp-Uerj (Instituto de Estudos Sociais e Políticos da Universidade do Estado do Rio de Janeiro). A pesquisa se baseou em dados do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira) sobre matrículas na educação básica e superior entre 2009 e 2024. &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2024/05/library-books-shelves-student-preview.jpg\" type=\"image/jpeg\" medium=\"image\"&gt; &lt;media:title&gt; Estudante entre as estantes da biblioteca &lt;/media:title&gt; &lt;media:credit&gt; Reprodução / Pickpic &lt;/media:credit&gt; &lt;/media:content&gt; De acordo com a análise, cursos mais concorridos — como medicina, direito e engenharias — ainda têm uma sobrerrepresentação de alunos brancos, em relação à sua proporção no ensino médio, resultando consequentemente em menos representatividade nas carreiras. Outra barreira para a equidade racial citada pelos pesquisadores tem a ver com o território: municípios com maior proporção de jovens negros no ensino médio apresentam, em média, menor probabilidade de contar com uma instituição de ensino superior local. Ou seja, mesmo com a reserva de vagas via cotas, o acesso geográfico a instituições fica prejudicado, especialmente no Nordeste. “[Isso demonstra] uma sobreposição estrutural entre exclusão racial e exclusão territorial que as políticas de cotas, por atuarem apenas dentro das instituições já existentes, não têm poder de corrigir isoladamente”, afirmaram os pesquisadores no estudo. Leia a análise completa (PDF, 90 páginas)Desigualdades raciais na educação: a passagem do ensino médio ao superior O papel das políticas públicas&#160; Além das cotas, o apoio à permanência de estudantes nas universidades é tido por especialistas como outro importante motor de acesso ao ensino superior, garantindo que jovens socioeconomicamente vulneráveis tenham melhores condições para conseguir concluir seus cursos. Em 2010, o governo federal implementou a medida por meio do Pnaes (Programa Nacional de Assistência Estudantil), que prevê a oferta de auxílios estudantis como: vagas em moradia estudantil refeições de qualidade nutricional serviços de transporte entre campi unidades de atendimento à saúde creches para filhos de estudantes Uma análise do núcleo de pesquisas Dara (Dados e Análises do Racismo e do Antirracismo) – vinculado ao Iesp-Uerj –, com base em dados do Ministério da Educação e outras pesquisas acadêmicas sobre o tema, corroborou a relação entre a oferta de subsídios do Pnaes e a permanência de estudantes que ingressaram com o suporte de cotas raciais. 50% dos beneficiários do PNAES entre 2022 e 2024 eram pretos e pardos 23% é até quanto o acesso à política reduziu a evasão universitária, segundo estimativas do Dara (Dados e Análises do Racismo e do Antirracismo) Segundo os pesquisadores, estudantes beneficiados pela Bolsa Permanência — um dos auxílios financeiros subsidiados pela política — permanecem na universidade até 1,9 vez mais que os não beneficiados, principalmente em cursos de cinco anos de duração. Antonio Carlos Tiburcio, doutorando em sociologia pelo Iesp-Uerj que coordenou o estudo, disse ao Nexo que, mesmo que o Pnaes não priorize o critério racial, os dados dos beneficiários reforçam o perfil de quem mais precisa de apoio para continuar estudando. “As cotas mudaram o perfil de quem entra na universidade pública. Há mais estudantes negros e de famílias pobres, e são eles que mais precisam de apoio para continuar estudando. Na prática, a assistência estudantil virou parte fundamental do sistema de ações afirmativas brasileiro”, disse. &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2026/11/d6a9702.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Egressos em Encontro de Cotistas da Universidade do Estado do Rio de Janeiro &lt;/media:title&gt; &lt;media:credit&gt; Fernando Frazão / Agência Brasil &lt;/media:credit&gt; &lt;/media:content&gt; Apesar dos achados, Tiburcio disse que a principal lacuna do estudo é identificar o efeito real da cobertura da política. Isso porque a pesquisa reuniu estudos acadêmicos que, muitas vezes, focam em um território específico, e não em todo o país. Além disso, faltam microdados públicos que deem conta do cenário por completo. Para viabilizar a sistematização dessas informações, o Dara tem trabalhado junto ao MEC (Ministério da Educação) para viabilizar um acordo de cooperação técnica. “A partir desses dados, será possível medir o efeito real da política identificando em que grupo os auxílios chegam mais, quem precisa de mais atenção e se os valores são suficientes. A política alcança quem precisa e os sinais são positivos, mas sem uma avaliação nacional e rigorosa, decisões sobre ampliar ou redesenhar o programa correm o risco de ser tomadas no escuro”, disse o pesquisador. Leia a análise completa (PDF, 35 páginas)Estado da arte das avaliações da Política Nacional de Assistência Estudantil (Pnaes) Este texto faz parte da cobertura especial sobre desigualdades raciais na educação, produzida com o apoio da Imaginable Futures e do Instituto Îandé.",
+      "region": "global",
+      "published": "2026-11-24T23:23:48+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Como a Palantir se aproximou do governo brasileiro",
+      "link": "https://www.nexojornal.com.br/externo/2026/11/24/palantir-peter-thiel-governo-lula-agu-abin-ia",
+      "teaser": "Empresa de Peter Thiel emplacou projeto-piloto na Advocacia-Geral da União. Agência Brasileira de Inteligência vê risco à soberania nacional &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2026/11/images-5.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Peter Thiel, cofundador da Palantir &lt;/media:title&gt; &lt;media:credit&gt; Gage Skidmore / Wikimedia Commons &lt;/media:credit&gt; &lt;/media:content&gt; Desde a gestão Jair Bolsonaro (PL), uma empresa fundada pelo bilionário Peter Thiel com apoio da CIA tem aprofundado seu lobby junto ao governo federal. Nos últimos cinco anos, representantes da Palantir Technologies tiveram ao menos 73 reuniões com pastas estratégicas que lidam com ações judiciais do governo, petróleo, terras raras e que mantêm vastos bancos de dados sensíveis e sigilosos sobre a população e a economia do Brasil. Até aqui, o esforço rendeu frutos. Durante a gestão Lula (PT), a Advocacia-Geral da União (AGU) passou a utilizar tecnologias da Palantir em um “projeto-piloto”. É o que revela uma apuração inédita da Agência Pública. Para o pesquisador em Direito da Informação e Comunicação da Universidade de Hamburgo André Ramiro, o grande número de reuniões com o governo já é um sinal de alerta. Para ele, a big tech atua como um emissário do governo dos EUA ao redor do mundo com o que ele define como uma “agenda tecno-autoritária”. “Uma reunião de tratativa ou apenas uma sugestão de um contrato futuro já é um ativo para a Palantir, porque é um mapeamento de uma demanda do poder público brasileiro”, disse Ramiro à Pública. “Esse mapeamento já é uma estratégia de lobby, que pode fazer parte da estratégia de negócios da empresa… ainda que, no fim das contas, não haja um ‘aperto de mãos’ ou um contrato assinado, a Palantir consegue criar um mapeamento de demandas que pode ser compartilhado com o governo dos Estados Unidos, ameaçando nossa soberania digital”, afirmou ainda o pesquisador. O software Foundry, da Palantir, foi usado pelo Ministério da Educação (MEC) e também pela AGU. No MEC, o programa foi usado para gerir o transporte escolar em nível nacional, mas o uso foi descontinuado em agosto de 2026 depois de muito questionamento, inclusive pela base do governo Lula (PT). A Pública identificou que a AGU também usa o Foundry, além da Inteligência Artificial da Palantir (AIP), por meio de um contrato de dois anos no valor de R$ 3,7 milhões. A AGU confirmou à reportagem o uso de programas da Palantir em “projetos-piloto e provas de conceito nas áreas de ontologia e gestão do conhecimento” por meio do serviço de nuvem AWS, da Amazon. Questionada pela Pública, a pasta afirmou que o contrato vence em dezembro e que não será renovado. “A Palantir e a AWS não participaram do desenvolvimento dos modelos, artefatos e protótipos produzidos pela AGU a partir do uso da plataforma”, disse ainda a AGU. A reportagem apurou que o governo usou programas da Palantir apesar da Agência Brasileira de Inteligência (Abin) ter pregado cautela quanto ao acesso de softwares da companhia a dados brasileiros. Em julho de 2022, na reta final do governo Bolsonaro, a Abin iniciou tratativas com a Palantir para adquirir programas da empresa usados na área de inteligência e espionagem, mas em maio de 2023, já no governo Lula, a Abin desistiu da compra por enxergar estes mesmos softwares como um “risco” à “soberania digital” brasileira. Procurado, o órgão confirmou ter tido “reuniões técnicas” com a Palantir, mas não forneceu detalhes, como datas dos encontros, lista de participantes ou relatórios e atas do que foi discutido com a big tech. Consultados pela Pública, dados do governo organizados pela agência Fiquem Sabendo mostram que ao menos 49 servidores dos governos Lula e Bolsonaro se reuniram com representantes da Palantir desde 2021. As agendas mostram que a maior parte dos encontros de representantes da Palantir aconteceram após a posse do presidente Lula (PT), em janeiro de 2023. Representantes da Palantir que se reuniram com o governo Henrique Valer (ex-vice-presidente da Palantir no Brasil): reuniu-se com servidores do Ministério da Saúde [4 reuniões durante o governo Bolsonaro], da AGU [2 reuniões durante o governo Lula], do MEC (FNDE) [1 reunião durante o governo Lula] e do Ministério da Fazenda [1 reunião durante o governo Lula]. Marvin Grossi (engenheiro de software da Palantir no Brasil): reuniu-se com servidores do Ministério da Saúde [4 reuniões, todas durante o governo Bolsonaro] e do MEC (FNDE) [9 reuniões, todas durante o governo Lula]. Tiago Fetter (chefe de vendas da Palantir no Brasil): reuniu-se com servidores do MEC (FNDE) [10 reuniões], da AGU [3 reuniões], do Ministério da Defesa [1 reunião], do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) [1 reunião], da Anvisa [1 reunião] e da ANM [1 reunião], todas realizadas durante o governo Lula. Marcelo Faustino (ex-chefe de vendas da Palantir no Brasil – 03/22 a 07/23): reuniu-se com servidores do Ministério da Saúde [5 reuniões durante o governo Bolsonaro e 1 durante o governo Lula], do MEC (FNDE) [5 reuniões durante o governo Lula] e do Ministério da Fazenda [1 reunião durante o governo Lula]. Consuelo Remmert (conselheira sênior da Palantir no Brasil e América Latina): reuniu-se com membros do Ministério da Defesa e das Forças Armadas do governo Lula (PT), incluindo dirigentes do Censipam, órgão do ministério responsável pelo monitoramento da Amazônia. Servidores do governo que se reuniram com a Palantir Alessandra Maria Costa e Lima (ex-coordenadora-geral de Sistemas e Aplicações (CGSA), atual Coordenadora-Geral de Soluções Digitais (CGSD) do MEC): servidora com o segundo maior número de reuniões com a Palantir no período [11 reuniões entre 2023 e 2024], todas relacionadas à parceria entre o FNDE e o MEC. Cláudio Azevedo Costa (ex-auditor-geral da Auditoria do Sistema Único de Saúde (DENASUS)): servidor público com o terceiro maior número de reuniões com a Palantir no período [10 reuniões, todas em 2022], relacionadas a tratativas sobre testes do DENASUS. Eduardo Watanabe Oliveira (ex-diretor do Departamento de Inteligência Jurídica e Inovação e ex-Coordenador-Geral de Inteligência Artificial e Gestão do Conhecimento na AGU): servidor da AGU com o maior número de reuniões com a Palantir no período [5 reuniões entre 2024 e 2025]. Foi responsável por articular a aproximação da big tech com a pasta: participou de um evento em Brasília com envolvimento da Palantir e, a partir de então, começaram as reuniões com a AGU (agenda de 7 de fevereiro de 2024.) Delson Pereira (ex-diretor de tecnologia e inovação do FNDE/MEC (atual Coordenador-Geral de Tecnologia da Informação na SENAPPEN/MJSP)): servidor público com o maior número de reuniões com a Palantir no período [19 reuniões entre 2023 e 2025], todas relacionadas à parceria entre o FNDE/MEC e a big tech. Ao todo, ocorreram 15 reuniões ao longo do governo Bolsonaro, concentradas no Ministério da Saúde, por meio do Departamento Nacional de Auditoria do Sistema Único de Saúde (DENASUS). Na atual gestão, houve outros 38 encontros de servidores do governo com representantes da Palantir, concentrados no MEC e na AGU. As 18 reuniões restantes envolveram servidores de agências reguladoras – autarquias ligadas (mas não subordinadas) ao governo. Entre os órgãos com quem a empresa se encontrou durante o governo de Jair Bolsonaro (PL) estão a Abin, o Ministério da Saúde e a Polícia Rodoviária Federal. Durante o governo Lula, executivos da big tech se reuniram nos ministérios da Defesa, da Fazenda, da Educação, de Minas e Energia, do Desenvolvimento, Indústria, Comércio e Serviços, além da Advocacia-Geral da União. A partir de 2023, representantes da Palantir também estiveram reunidos com servidores de agências reguladoras que lidam com dados estratégicos do Brasil. Na lista, constam encontros com servidores da Agência Nacional de Águas (ANA), de Mineração (ANM) e do Petróleo, Gás Natural e Biocombustíveis (ANP). Em 25 de janeiro de 2023, por exemplo, dirigentes da ANP reuniram-se com um representante da Palantir no escritório central da agência no Rio de Janeiro (RJ) para discutir uma eventual “solução Palantir”. Pouco depois, em 6 de março, houve mais uma reunião de “apresentação” da companhia dos EUA com um assessor da ANP. Meses depois, o superintendente de Dados Técnicos da ANP Marcelo Castilho, um dos participantes do 1º encontro, relatou num ofício interno obtido pela Pública que a Palantir foi uma das procuradas pela ANP para apresentar “soluções e tecnologias” para a “gestão dos dados geofísicos e de poço oriundos das atividades de E&amp;P [Extração e Produção] de petróleo e gás natural”, suspenso à época por problemas “de segurança cibernética, após tentativa de ataque hacker à ANP”. A agência nega que tenha contratos com a Palantir e afirmou que “não realizou contratação ou aquisição de suas soluções tecnológicas, direta ou indiretamente”. Segundo a ANP, as reuniões tiveram caráter “exclusivamente institucional e informativo, destinada à apresentação da empresa e de suas soluções tecnológicas, sem caráter deliberativo, negociação comercial ou tomada de decisão administrativa”. A Palantir foi criada no início dos anos 2010 com verbas do fundo de investimentos em startups da CIA, chamado de In-Q-Tel. Lançado em 1999, o fundo investiu em mais de 800 empresas com o intuito de financiar um salto de desenvolvimento em tecnologias de defesa e espionagem que depois serviriam ao complexo militar norte-americano. Fundador da Palantir, o bilionário norte-americano Peter Thiel é um dos nomes mais influentes na extrema direita dos EUA, com ascendência sobre o governo de Donald Trump e políticos importantes, como o atual vice-presidente JD Vance, tendo injetado milhões de dólares em candidaturas alinhadas a ele ideologicamente. Em 2009, no artigo “The Education of a Libertarian” (A Educação Libertária), ele escreveu: “eu não acredito mais que liberdade e democracia sejam compatíveis”, argumentando que o sufrágio universal dificulta a manutenção de políticas libertárias. Para o diretor-executivo da ONG Data Privacy, Rafael Zanatta, a aproximação do governo brasileiro com a Palantir – e, por consequência, com seus donos e acionistas – implica riscos à soberania brasileira e a informações sensíveis em poder do estado. “Peter Thiel atua para ampliar a influência dos EUA na América do Sul, sonhando com uma espécie de ‘protetorado’ norte-americano na região – e ele imprime essa ideologia na empresa, porque a Palantir defende que o mundo se encaminha para um cenário de guerra total”, disse Zanatta. “Quem capitula e se integra acaba sendo protegido pelo complexo militar e ideológico norte-americano”, completa, afirmando que o fundador da Palantir “não acredita no multilateralismo, pois enxerga a sociedade como um espaço de competição sem fim”. A Pública procurou representantes da Palantir do Brasil, para ouvi-los sobre a relação da empresa com o governo federal e eventuais parcerias a nível estadual e municipal na atualidade, mas não houve resposta. Caso se manifestem, o texto será atualizado. AGU: escolha “puramente técnica” com política de dados “rigorosa” A reportagem da Pública localizou registros de ao menos 22 reuniões de membros da AGU com representantes da Palantir entre fevereiro de 2024 e agosto de 2026, via Lei de Acesso à Informação (LAI). Porém, a AGU disse que ocorreram apenas 18 reuniões neste período. Desde 2025, a pasta usa o software Foundry e a inteligência artificial AIP por meio do serviço de nuvem AWS, da Amazon, no âmbito do contrato nº 28/2023 com a operadora Claro S/A. Segundo a AGU, a tecnologia é aplicada em um “projeto-piloto” para a produção de “minutas”, que são modelos de peças judiciais que podem ser usadas pelos advogados da União, como petições, contestações, recursos e propostas de acordo judicial. “A AGU não mantém relação contratual direta nem realiza pagamentos à AWS ou à Palantir; as relações financeiras e operacionais da instituição são mantidas exclusivamente com a Claro”, afirmou a pasta. Em entrevista à Pública, o secretário de Governança e Gestão Estratégica da AGU, Caio Castelliano, disse que os softwares da Palantir acessam somente dados públicos de processos e que a escolha pela empresa foi “puramente técnica”. “Eles [Palantir] são muito bons em organizar o conhecimento, e criar a ontologia [da AGU] a partir da ferramenta é muito mais fácil, segundo a nossa equipe técnica”, disse. &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2026/11/1-AGU-usa-tecnologia-da-Palantir-em-projeto-piloto-enquanto-Abin-ve-risco-a-soberania-1.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Secretário de Governança e Gestão Estratégica da AGU, Caio Castelliano &lt;/media:title&gt; &lt;media:credit&gt; Reprodução / Universidade Federal do Mato Grosso do Sul &lt;/media:credit&gt; &lt;/media:content&gt; “Nossa ideia é tentar economizar ao máximo o tempo do advogado: já sabemos qual modelo [de texto] que ele usa, qual o tipo de dado que precisa para preencher uma minuta, então como geramos isso o mais bem acabado possível? É aí que a Palantir nos ajuda a economizar tempo, gerando as minutas o mais próximo possível da versão final”, disse o secretário da AGU. De acordo com ele, a aplicação de tecnologias da Palantir partiu de uma constatação interna – a necessidade de uma espécie de “paridade de armas” com escritórios privados. “Os escritórios estão usando muito intensamente a IA e nós também precisamos usar, mas infelizmente não existem IAs de referência nacionais. O que nós estamos fazendo é um processo de máxima diversificação: a gente quer ter IAs pagas, gratuitas, americanas, chinesas… essa é a nossa estratégia”, disse o secretário. Ele alegou que existem treinamentos internos de segurança com os servidores para prevenir incidentes e a disponibilização de dados sensíveis em ambientes fora do controle da AGU – e do próprio governo. Segundo o secretário, a política interna da AGU sobre dados sensíveis seria “mais rigorosa” do que em outros órgãos do governo e o uso da tecnologia da Palantir foi “exclusivamente experimental”, não operacional. Castelliano afirmou que os softwares da big tech passam por uma “dupla camada de segurança” e não têm conexão com o principal sistema usado pela pasta – “um sistema inteiramente desenvolvido pela AGU, hospedado em nosso data center e que usa nossos equipamentos e softwares”, segundo ele. “Nós só podemos mandar para a nuvem o que for dado público. O que não for, não vai para nenhuma nuvem, nem em território nacional – o próprio sistema barra e não permite isso ao usuário”, disse Castelliano. Por meio de nota, a AGU afirmou que “os projetos [com tecnologia da Palantir] serviram para validar métodos de estruturação da gestão do conhecimento baseados em ontologias, mediante a organização de conceitos, entidades e relações relevantes”. Segundo a pasta, o contrato se encerra em dezembro e não será renovado. (Leia a resposta na íntegra) Para o diretor-executivo da Data Privacy, porém, qualquer metodologia que se baseie na tecnologia da Palantir traz riscos ao Brasil. “A plataforma Foundry não é banco de dados nem uma mera ferramenta, mas algo que conecta bases de dados e as organiza seguindo o modelo da Palantir, oferecendo ações automatizadas, permissões, trilhas de auditoria e rastreabilidade, além de presença de agentes de IA operando regularmente. Há potencial ganho de eficiência, mas com um modelo de dependência embutido na ontologia dos atores estatais – porque as ‘soluções’ são propriedades da Palantir”, disse Rafael Zanatta. Segundo ele, a estratégia da empresa é tornar os governos dependentes das soluções da Palantir. André Ramiro concorda sobre os riscos deste lobby: “pensando na aproximação com o MEC e com sistemas judiciais por meio da AGU, me preocupa muito essa estratégia da Palantir seguir ‘comendo pelas beiradas’, contando inclusive com o relato de servidores do governo que vão atestar ‘ganhos na eficiência’ com o uso dos programas dela”. Agendas da AGU também registram encontros com representantes da big tech para discutir a criação de um “sistema de análise de riscos fiscais judiciais”, com uma “proposta” da Palantir para a área de “precatórios” – que lida com um nicho bilionário de dívidas do governo negociadas diariamente em bolsas de valores. Além disso, em uma resposta enviada via LAI a própria AGU citou à Pública “casos de uso” da tecnologia na “investigação de fraudes”, sem dar mais detalhes. Em nota, a AGU disse que a “identificação de fraudes foi prevista no contrato [com a Claro S/A] como uma das frentes possíveis, mas não foi operacionalizada, já que todos os créditos do contrato foram direcionados unicamente para a gestão do conhecimento”. A pasta informou ainda que o uso das ferramentas da Palantir custará, ao todo, R$ 3,7 milhões até o fim de dezembro – um valor pago à Claro, que atua como intermediária técnica. Segundo a pasta, o software Foundry não foi instalado em computadores da AGU, sendo acessado apenas via método SaaS, que é baseado em servidores na nuvem. Abin vê “alto risco de dependência tecnológica” em “soberania digital” Logo no início do governo Lula a Abin avaliou o uso da tecnologia da Palantir como um “risco” à “soberania digital” do país. A Abin iniciou negociações para comprar “soluções de gestão de conteúdo digital” e “produção de inteligência” da Palantir em junho de 2022, durante o governo Bolsonaro. À época, o órgão estava sob o comando do ex-capitão do Exército e oficial de inteligência Victor Carneiro, que foi indiciado pela PF no caso da Abin Paralela. Carneiro também foi peça central na espionagem ilegal de favelas na cidade do Rio de Janeiro (RJ) no mesmo período, como revelado pela Pública. Mas logo no início do atual governo, o órgão central da política de inteligência do país desistiu do negócio. Segundo a Abin, a compra era “inviável” pelo “alto risco de dependência tecnológica”, “inclusive no que diz respeito a critérios de soberania digital”. A declaração consta em uma resposta do órgão para a Agência Pública via Lei de Acesso à Informação. Em seu posicionamento, a Abin aponta que, “conforme informado pela Agência [Abin], a referida prospecção concluiu que eventual contratação dos serviços da Palantir seria inviável, porque, além de não atender adequadamente às necessidades do órgão, representaria alto risco de dependência tecnológica, inclusive no que diz respeito a critérios de soberania digital. Por tais razões, a Abin não realizou qualquer tipo de contratação com a empresa”. Lobby da Palantir começou no governo Bolsonaro e aumentou na gestão Lula A linha do tempo de contatos e encontros da Palantir com o governo federal começa na época da pandemia de Covid-19, em 2021. Foi quando o Ministério da Saúde do ex-ministro Marcelo Queiroga (PL) testou softwares da companhia por meio da área de incorporação de novas tecnologias pelo Sistema Único de Saúde (SUS), segundo apurado pela Pública em fontes oficiais do governo. Entretanto, o ministério negou à reportagem ter realizado qualquer contratação de softwares da Palantir. A Palantir não esconde seu interesse em reunir e tratar dados de sistemas de saúde – o que fica latente a partir de sua parceria com o Serviço Nacional de Saúde (NHS) do Reino Unido. Em 2023, o governo britânico anunciou uma parceria por meio de um contrato de 330 milhões de libras (R$ 2,4 bilhões) para o desenvolvimento de softwares personalizados, alimentados por dados de pacientes do NHS, como reportado pela agência Reuters. A parceria tem rendido críticas no Reino Unido, com instituições de saúde e pacientes questionando a eficácia do serviço e a necessidade de abertura e compartilhamento de dados com a controversa empresa. No último dia 16 de novembro, o jornal The Guardian reportou que o governo britânico estenderá o contrato com a Palantir por mais dois anos, até 2029, e dali em diante não renovará a parceria pelo risco crescente de dependência da tecnologia da big tech. De volta ao Brasil, em 2022 representantes da Palantir também se encontraram com dirigentes do Serviço Federal de Processamento de Dados (Serpro) brasileiro. Em 12 de maio daquele ano, a Diretoria de Negócios, Governos e Mercados do Serpro recebeu emissários da big tech para uma reunião cuja pauta era “apresentação da Palantir e negócios em andamento com o governo brasileiro”. Já no governo Lula, a Palantir se reuniu com o setor do Ministério da Defesa que monitora a Amazônia com imagens de satélite e radares (Censipam). O encontro ocorreu em abril de 2025, um mês após a conselheira sênior da Palantir no Brasil, Consuelo Remmert, participar de um evento da Escola Superior de Defesa (ESD), também ligada à pasta do ministro José Múcio. Segundo o Ministério da Defesa, em 24 de abril de 2025 Remmert e outros representantes da Palantir se reuniram com o então diretor-geral adjunto do Censipam, Harley de Moraes, o diretor Operacional, Daniel Pereira, o coordenador-geral de Inteligência, Raimundo Camargos Filho, e a chefe de gabinete do órgão, Laura Perdigão, para uma “apresentação da área de atuação da empresa”. Procurado pela Pública, o Ministério da Defesa disse que “não foram celebrados acordos de cooperação, parcerias ou instrumentos congêneres com o referido grupo”. Ainda em 2025, a Secretaria Nacional de Políticas Penais (Senappen), subordinada ao Ministério da Justiça e Segurança Pública na gestão do ex-ministro Ricardo Lewandovski, solicitou oficialmente a compra do principal software de inteligência da Palantir, chamado de Gotham em referência ao universo do personagem Batman, da DC Comics. Segundo a própria empresa, o software “permite que os usuários identifiquem padrões ocultos em conjuntos de dados que vão desde fontes de inteligência de sinais até relatos de informantes confidenciais”. A diretoria de inteligência da Senappen planejava usar o programa na “análise em tempo real” de “milhões de registros” do sistema penitenciário brasileiro. Procurada pela Pública, a pasta disse apenas que a compra não foi realizada, sem fornecer mais detalhes. A reportagem também identificou que a Palantir concorreu em editais para o setor de tecnologia no Supremo Tribunal Federal (STF). Em 2023, a big tech conseguiu se credenciar para fornecer soluções de tratamento de dados, mas não foi escolhida para compilar extensas bases de processos judiciais em andamento e arquivados no Supremo. Proximidade com Exércitos dos EUA e Israel No início de 2024, quando já fortalecia seu lobby junto ao governo brasileiro, a Palantir fechou uma parceria com o ministério da Defesa de Israel para desenvolver soluções tecnológicas para contribuir com os “esforços de guerra” do governo de Benjamin Netanyahu, inclusive na ofensiva contra Gaza. Na ocasião, o próprio Peter Thiel viajou até Israel e tirou fotos ao lado de membros do Exército israelense e do CEO da Palantir, o também polêmico Alex Karp. &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2026/11/images-6.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Destacamento 201, uma unidade da Reserva do Exército dos EUA criada em junho de 2025 para incorporar executivos de tecnologia como tenentes-coronéis em regime de tempo parcial &lt;/media:title&gt; &lt;media:credit&gt; Reprodução / Secretaria do Exército dos Estados unidos &lt;/media:credit&gt; &lt;/media:content&gt; Em junho de 2025, a empresa estreitou sua relação com o governo Trump ao liberar seu Chief Technology Officer (CFO), Shyam Sankar, para servir como conselheiro da reserva do Exército. Segundo a gestão Trump, “nesta função, eles trabalharão em projetos direcionados para ajudar a orientar soluções tecnológicas rápidas e escaláveis para problemas complexos”. Com o novo emprego, Sankar recebeu o título de Tenente-Coronel da Reserva do Exército dos Estados Unidos. Há ainda suspeitas que o software Gotham tenha sido utilizado por Israel e Estados Unidos em recentes conflitos no Oriente Médio, como por exemplo na seleção da lista de centenas de alvos que tiveram seus pagers explodidos no Líbano, em setembro de 2024, sob acusação de ser membros do Hezbollah no Líbano.",
+      "region": "global",
+      "published": "2026-11-24T21:38:42+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "O quanto a matemática tem que se preocupar com a IA",
+      "link": "https://www.nexojornal.com.br/expresso/2026/11/24/hipotese-de-riemann-resolvida-anthropic-claude-gpt-ia-matematica",
+      "teaser": "Chatbot Claude, da Anthropic, conseguiu provar a Hipótese de Riemann, um dos sete Problemas do Milênio. OpenAI também anunciou que modelos internos resolveram centenas de enigmas matemáticos O matemático turco-americano Levent Alpöge, pesquisador da Anthropic, anunciou na sexta-feira (21) que conseguiu demonstrar (ou seja, provar) a Hipótese de Riemann com o uso do Claude, o chatbot de IA da empresa. O enigma matemático foi formulado em 1859 pelo alemão Bernhard Riemann e trata da distribuição dos números primos. “É natural sentir que isso é um fim — no meu caso, a perda de um dos principais faróis orientadores — , mas o que vi ao longo dessa jornada me impressionou tanto que acredito que seja o início de uma nova era na ciência, de algo muito maior”",
+      "region": "global",
+      "published": "2026-11-24T19:31:18+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Ajuste fiscal: o que foi aprovado e por que não deve parar por aí",
+      "link": "https://www.nexojornal.com.br/expresso/2026/11/24/ajuste-fiscal-lula-aprovado-governo-lula-economia-brasil",
+      "teaser": "Presidente Lula sanciona pacote avalizado pelo Congresso com ações para as contas públicas. 2ª rodada de medidas pode vir ainda em 2026 &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2026/11/img20261111153739529MED.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Bruno Moretti, ministro do Planejamento e Orçamento do governo Lula &lt;/media:title&gt; &lt;media:credit&gt; Vinicius Loures / Câmara dos Deputados/11.11.2026 &lt;/media:credit&gt; &lt;/media:content&gt; O presidente Luiz Inácio Lula da Silva (PT) sancionou nesta terça-feira (24) o pacote de ajuste fiscal&#160;que foi aprovado pela Câmara na segunda-feira (23). O texto prevê medidas para elevar a arrecadação e permitir maior contenção de gastos a partir do próximo ano. A proposta foi aprovada por 353 votos a favor e 128 contra, a maioria do PL. Houve cinco abstenções de deputados do PT e do PSOL, após o tema ter dividido parte da esquerda.&#160; R$ 45 bilhões a R$ 56 bilhões é a economia estimada com o pacote, de acordo com Bruno Moretti, ministro do Planejamento e Orçamento As ações aprovadas vão desde um mecanismo para possibilitar um menor crescimento da despesa pública até cortes de benefícios fiscais, passando por mudanças no piso da saúde. O pacote foi apresentado em meio à pressão de agentes do mercado financeiro e de parte dos economistas por ajuste fiscal. Neste texto, o Nexo explica o que é um ajuste fiscal e mostra quais foram as medidas aprovadas. O que foi aprovado O ajuste fiscal do governo foi idealizado pelo ministro do Planejamento, Bruno Moretti, e apresentado pelo senador Jaques Wagner (PT-BA) no dia 11 de novembro.&#160; De modo mais amplo, o pacote de medidas de equilíbrio das contas públicas atua por meio de contenção de gastos, redução de benefícios tributários e mudanças de regras orçamentárias para dar mais flexibilidade à política fiscal. A proposta foi aprovada no Senado em 18 de novembro, depois de negociações entre a base do governo e a oposição. O texto aprovado na Casa foi mantido pela Câmara nesta segunda-feira (23), e sancionado por Lula sem vetos na terça-feira (24).&#160; Veja abaixo algumas das principais medidas de ajuste. Travas na execução do Orçamento Uma das frentes diz respeito ao arcabouço fiscal, aprovado em 2023, que prevê um crescimento real dos gastos do governo de entre 0,6% e 2,5% a cada ano. Um dos pilares do arcabouço é a meta de resultado primário — ou seja, a cada ano, o governo tem que tentar manter a diferença entre despesas e receitas dentro de uma faixa preestabelecida. 0,5% do PIB é o centro da meta de superavit primário para 2027. Isso equivale a cerca de R$ 73,2 bilhões, e pode variar de 0,25% do PIB (R$ 36,6 bilhões) a 0,75% do PIB (R$ 109,8 bilhões) A proposta do governo prevê um gatilho que poderá reduzir o crescimento do gasto público a 2% para viabilizar o cumprimento da meta fiscal. Em 2027, a estimativa é que esse gatilho leve à economia de R$ 12,8 bilhões. Se o mecanismo for acionado em um ano, ele não poderá ser revertido. Além disso, o projeto prevê que o governo possa fazer bloqueios do Orçamento mirando o centro da meta fiscal, e não o piso, como tem acontecido nos últimos anos. O texto também amplia o escopo de despesas que podem ser contingenciadas durante a execução do Orçamento. Piso da saúde A Constituição Federal prevê que a União deve gastar valores mínimos com saúde e educação. Por isso se fala em “pisos constitucionais” nessas duas áreas. Esses valores estão atrelados à arrecadação. Ou seja, uma parte do dinheiro que entra para o governo já está “carimbada” para essas áreas. O piso da saúde prevê que os gastos com esse setor precisam ser 15% da receita corrente líquida — que equivale a tudo que o governo arrecada, menos as transferências para estados e municípios. O percentual foi definido por emenda constitucional em 2015. Em 2026, o Congresso aprovou uma proposta para retirar da conta do piso da saúde receitas extraordinárias advindas do petróleo. Na prática, isso evita que, em caso de aumento do preço do petróleo — o que pode ocorrer por causa da alta do dólar, de guerras ou de outros fatores geopolíticos —, os gastos do governo com a saúde precisem crescer também. O projeto de ajuste fiscal de 2026 prevê que essa regra seja estendida até 2030 e possa ser acionada mesmo quando houver superavit primário. Benefícios fiscais O projeto também aumenta de 10% para 20% o corte linear nos benefícios fiscais concedidos pela União. Ou seja, os incentivos fiscais dados pelo governo (com exceções como a Zona Franca de Manaus) serão reduzidos em um décimo, garantindo uma entrada maior de dinheiro nos cofres públicos. Há também uma previsão de limitação nas compensações tributárias, que são instrumentos que permitem às empresas recuperar os pagamentos de impostos. Outras medidas O projeto também prevê que o Congresso analise em até 60 dias uma proposta de regulamentação dos supersalários. O prazo começa a ser contado após a publicação da lei — ou seja, a contagem começou nesta terça-feira (24), dia da sanção de Lula. Há também um dispositivo na proposta que permite um crédito extraordinário de R$ 10,5 bilhões para pagar subvenções ao setor de diesel. Na prática, isso significa que esses incentivos serão excluídos da meta fiscal e do limite de gastos imposto pelo arcabouço. Por que não deve parar por aí Lula já deixou claro que não pretende tomar medidas que coloquem em xeque promessas de campanha, como programas sociais e a manutenção da política de valorização do salário mínimo.&#160; Mas, desde outubro, quando foi reeleito para o quarto mandato, o presidente tem sido pressionado por agentes do mercado financeiro e por parte dos economistas para adotar medidas que contenham a trajetória da dívida pública. O pacote aprovado na Câmara nesta segunda-feira (23) tem como foco a viabilização de um superavit primário em 2027. O objetivo, em uma segunda leva de medidas de ajuste, é contemplar medidas de prazo mais longo, visando a uma melhora nas contas públicas até 2030. Segundo notícias publicadas na imprensa nesta terça-feira (25), Lula deu aval para que o ministro da Fazenda, Dario Durigan, envie uma Proposta de Emenda Constitucional mirando cortes de despesas.&#160; O presidente da Câmara, Hugo Motta, defende que essas novas medidas sejam enviadas ao Congresso antes do fim de 2026 – ou seja, antes que a nova legislatura, repleta de nomes de oposição, seja empossada em 2027. “Este Congresso está apto a votar, para que possamos seguir avançando nessa política de ajuste fiscal de forma mais contundente”, disse Motta a jornalistas. O pano de fundo A relação dívida/PIB (Produto Interno Bruto) é usada muitas vezes para medir a saúde financeira de um governo. A lógica é que quanto maior o endividamento do setor público em relação à capacidade produtiva da economia, maior a dificuldade para o pagamento dos valores devidos. O nível da dívida pública no Brasil está em crescimento em anos recentes. 82,9% foi a relação dívida/PIB do Brasil em setembro de 2026. O dado tem como base a dívida bruta do governo geral, que inclui governo federal, Previdência e governos estaduais e municipais R$ 11,1 trilhões foi a dívida bruta do governo geral em setembro de 2026 O Brasil vive uma situação de desequilíbrio nas contas públicas desde ao menos 2014. A partir daquele momento, o país acumulou deficits primários em quase todos os anos — ou seja, o governo gastou mais do que arrecadou, sem contar o pagamento de juros da dívida. Essas diferenças costumam ser cobertas pelo governo por meio da contração de mais dívida. Se a dívida pública cresce, pode aumentar a percepção de que o governo terá dificuldades de honrar seus compromissos com credores. E se há maior percepção de risco, os agentes de mercado cobram um prêmio mais alto para emprestar dinheiro ao poder público — o que acontece justamente via compra de títulos públicos. Isso significa que tende a haver um aumento dos juros. Os juros mais altos ajudam a retroalimentar a dívida pública, que passa a ter um custo mais alto. Mas há também efeitos sobre a população, que vê um aumento nas taxas para pegar empréstimos. Embora muitos economistas defendam que haja um ajuste fiscal no quarto mandato do petista, o tema não é consensual. O formato de um eventual ajuste também não é unânime. ESTAVA ERRADO: A versão anterior deste texto dizia que a arrecadação com receitas extraordinárias do petróleo ficaria fora do piso da saúde só em caso de deficit primário. Na verdade, ela ficará de fora independentemente disso. A informação foi corrigida às 16h do dia 24 de novembro de 2026.",
+      "region": "global",
+      "published": "2026-11-24T15:59:53+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "4 respostas sobre o retorno de Jensen Huang à Nvidia",
+      "link": "https://www.nexojornal.com.br/entrevista/2026/11/23/nvidea-ceo-jensen-huang-retorno-analise",
+      "teaser": "Executivo foi reintegrado ao cargo de CEO depois de pressões do governo americano e queda nas ações. Advogado especializado no setor de tecnologia avalia o caso &lt;media:content url=\"https://midia-cdn.nexojornal.com.br/wp-content/uploads/images/2026/11/P20250430JB-0891-1.webp\" type=\"image/webp\" medium=\"image\"&gt; &lt;media:title&gt; Jensen Huang em evento ao lado do presidente Donald Trump &lt;/media:title&gt; &lt;media:credit&gt; The White House / Wikimedia Commons/30.4.2025 &lt;/media:credit&gt; &lt;/media:content&gt; O conselho de administração da Nvidia reintegrou Jensen Huang ao cargo de CEO nesta segunda-feira (23). Ele estava fora da empresa desde 12 de novembro, em meio à repercussão de um relacionamento extraconjugal com uma suposta espiã chinesa.&#160; O caso era investigado pela Nvidia, diante dos riscos do vazamento de segredos industriais a concorrentes. Também era um assunto de interesse nacional americano, visto que a empresa controla a produção de chips para IA no mundo e é uma vantagem competitiva dos EUA na guerra comercial contra a China.&#160; A situação veio a público no fim de outubro, depois que o The New York Times revelou que órgãos de inteligência do governo americano monitoravam a situação. Segundo o jornal, o presidente Donald Trump tomou conhecimento do caso, mas não fez nada.&#160; Agora, Trump pressionou a Nvidia a aceitar Huang de volta. Tanto o conselho da empresa quanto o presidente americano disseram, em declarações públicas sobre o assunto, que o executivo “não representa um risco à segurança nacional”.&#160; A Nvidia vinha sendo comandada interinamente por Colette Kress. Com a volta de Huang, a empresa viu suas ações dispararem na bolsa nesta segunda-feira (23), depois de sucessivas quedas desde que o escândalo veio à tona. Nesta entrevista, Carlos Affonso Pereira de Souza, professor de direito na Uerj (Universidade do Estado do Rio de Janeiro) e diretor do ITS Rio (Instituto de Tecnologia e Sociedade do Rio de Janeiro), explica ao Nexo o que o caso revela sobre a indústria de IA. Qual recado a Nvidia passa ao devolver o comando da empresa a Jensen Huang? CARLOS AFFONSO PEREIRA DE SOUZA Um recado pode ser mandado para várias pessoas ao mesmo tempo. No caso da volta de Huang, parece que o principal destinatário da mensagem enviada pela empresa é o mercado, que tinha reagido mal à saída do CEO.&#160; O resultado mais direto desse recado é que o CEO é a empresa. A alta de mais de 30% das ações no dia do anúncio diz muito sobre como investidores precificam a dependência de uma única pessoa — um risco que costuma ser tratado como problema de governança e que aqui foi lido como um elemento positivo (pelo menos a curto prazo). O que acontece quando as regras de uma empresa deixam de valer para seu principal executivo? CARLOS AFFONSO PEREIRA DE SOUZA A simbiose entre o executivo e a empresa consegue dobrar até mesmo a aplicação das regras de conduta — o que se mostra problemático em termos de governança.&#160; Programas de integridade dependem do exemplo das lideranças. Por mais brilhante e definidor sobre o futuro da empresa que seja Huang, o atestado que o conselho passa é de que o indivíduo é maior do que a empresa — e isso faz com que, para onde quer que ele vá, ele carregue consigo uma apreciação que parece residir na pessoa, e não na instituição.&#160; Uma situação semelhante aconteceu com Sam Altman em 2023, quando ele foi demitido e reintegrado à OpenAI. O que isso revela sobre a indústria de IA? CARLOS AFFONSO PEREIRA DE SOUZA Na OpenAI, a disputa girava em torno da missão da organização com estrutura sem fins lucrativos ligada à empresa. Na Nvidia, a questão envolve conduta pessoal e segurança nacional, com pressão da Casa Branca.&#160; O que os casos revelam em comum é uma indústria em que o poder se concentra não apenas em poucas empresas, mas especialmente em seus fundadores, que ganham status de celebridades.&#160; Como avalia a pressão do governo americano pelo retorno de Jensen Huang? O que isso diz sobre a relação entre Estado e empresas de tecnologia nos EUA? CARLOS AFFONSO PEREIRA DE SOUZA Os Estados Unidos tratam empresas de chips e de IA como campeãs nacionais e ativos geopolíticos, num capitalismo de Estado que aproxima governos e empresas.&#160; Estamos acostumados a pensar que a regulação e a governança do digital divide o mundo em três categorias: os EUA, com as empresas liderando a inovação; a China, com o direcionamento do Estado mais próximo do mundo corporativo; e a Europa, que exporta modelos regulatórios.&#160; O que o caso da Nvidia revela é um estreitamento das diferenças entre EUA e China, justamente os dois grandes competidores na corrida da IA, quando se trata de aproximação entre o governo e as lideranças das empresas privadas. As grandes empresas de tecnologia, cada vez mais, se tornam proxies dos seus respectivos governos, servindo de ponta-de-lança não só da inovação, mas também da diplomacia e das disputas sobre governança digital.",
+      "region": "global",
+      "published": "2026-11-23T21:43:45+00:00"
+    },
+    {
+      "source": "Nexo",
+      "title": "Ainda é possível juntar os cacos do direito brasileiro?",
+      "link": "https://www.nexojornal.com.br/ensaio/2026/11/23/direito-judiciario-juiz-crise-democracia-brasil",
+      "teaser": "Numa democracia, a expectativa é a de um juiz neutro, imparcial e fiel às leis. O que se vê, porém, é outra coisa O direito brasileiro está em pedaços. É difícil acreditar na imparcialidade dos juízes ou no caráter republicano das leis, e esse descrédito não é de hoje. De um lado, o povo aprendeu a ver a ordem jurídica como opressiva e excludente. De outro, as elites sempre a encararam como instrumento de dominação e de conquista de privilégios econômicos num capitalismo de araque: sem concorrência, mas com muitos bons amigos nos centros de poder. A lei, ora, a lei… O que há de novo, em tempos de democracia de massas, polarização ideológica e redes sociais, é a consolidação de uma crença de que o direito se dissolveu por inteiro na política paroquial ou na troca de favores privados. O manual de sobrevivência das elites matreiras nunca foi tão explícito. Quer ser candidato e disputar o poder? Trate de costurar alianças nas cortes. Chegou lá? Parabéns: agora loteie as vagas dos tribunais entre juristas que lhe devotem lealdade. É empresário e quer aumentar seu poder econômico ou se proteger de investigações? Não economize milhões na contratação de advogados bem relacionados, quando não com laços de família nos palácios e gabinetes. Não se trata de crítica generalizada à honradez dos juízes brasileiros. É análise política e sociológica, não denúncia criminal. Um sistema corrupto não é uma soma de indivíduos comprovadamente corrompidos, mas aquele em que, na percepção geral, de dentro e de fora, o poder do dinheiro se sobrepõe às regras coletivas. A maioria pode ser honesta; o sistema, não. Numa democracia, a expectativa é a de um juiz neutro, imparcial e fiel às leis. Mesmo em tempos de ativismo judicial, com forte intervenção em políticas públicas e até em disputas eleitorais, espera-se um julgador sereno e equidistante. Comedido nas manifestações públicas, exuberante nos autos: decisões de farta fundamentação racional e doutrinária, com respeito à jurisprudência, ou seja, aos precedentes consolidados. O que se vê, porém, é outra coisa. Juízes que, nas redes sociais, opinam abertamente sobre controvérsias morais, ideológicas e partidárias. Ministros de tribunais superiores que se comportam como comentaristas políticos, avaliam a conduta de membros dos demais Poderes e se dão ao direito de atuar como fonte de jornalistas, plantando estrategicamente suas opiniões. Julgamentos que revelam uma dinâmica de facções internas: a manipulação de procedimentos e uma hermenêutica abusiva, que tudo permite, a serviço de votos previamente combinados com vistas a determinado resultado político. Decisões monocráticas a torto e a direito, em benefício de quem as profere ou de seus aliados políticos. A crise de legitimidade do Judiciário é grave. O direito brasileiro não juntará sozinho os próprios cacos Como se isso não bastasse para desmoralizar o Judiciário, uma última fronteira foi ultrapassada: a da reputação ilibada. As sucessivas revelações policiais de que o crime de colarinho branco se infiltrou nos tribunais – em várias instâncias, mas sobretudo na cúpula do sistema –, somadas à enorme dificuldade de se adotarem as mais elementares medidas legais de punição, ameaçam decretar a falência do modelo. Parte do povo, atônita, irrompe na esfera pública: revoltada contra o “sistema”, apoia o populismo de direita, as chacinas e os acenos autoritários. Despreza parlamentares e juízes, que legislam e julgam em causa própria, com malabarismos retóricos e hermenêuticos a justificar alhos, bugalhos e penduricalhos. Condena a atuação do Estado na economia, que ajuda os endinheirados e é vista como empecilho à utopia empreendedora. Superendividado na informalidade e humilhado pela desestruturação de seu mundo privado, o batalhador de periferia torna-se presa fácil de charlatães que misturam religião, política e promessa de prosperidade. A luz não virá da academia, do Judiciário nem da advocacia. No sistema científico e universitário brasileiro, o direito não é apenas o mais inconsistente dos campos do saber. É também o menos blindado contra a força gravitacional do poder econômico e do poder político. As páginas dos jornais estão povoadas de formadores de opinião que não revelam seus conflitos de interesse – uma falha imperdoável dos jornais. Afinal, o que é o direito? Para o povo, é o que essas elites querem que seja. Elas, por sua vez, se digladiam e se revezam. A troca de xerife muda a direção do vento e, com ele, a chamada jurisprudência – vocábulo recém-incorporado e já desmoralizado pela sabedoria popular. A vingança vem na forma de descrença, ressentimento e adesão ao populismo de direita. Indignado, o povo lança pedras à vidraça do templo da ordem jurídica. Sim, o templo do direito está em perigo. Sua proteção e reconstrução não virão de dentro. Só a política pode – e deve – salvá-lo. Uma política republicana, não facciosa nem moralista, alternativa ao extremismo de direita e ao esquerdismo velhaco. Um bom começo seria a sociedade civil cobrar que os juízes suspeitos de crime sejam imediatamente afastados das funções jurisdicionais, para que as investigações se aprofundem e se cumpra o devido processo legal. Como podem continuar a julgar aqueles sobre quem recaem gravíssimas suspeitas de receber favores de criminosos de colarinho branco – favores, inclusive, decorrentes de tráfico sexual? Que se afastem e defendam sua inocência. Não menos importante é a vigilância da sociedade sobre as indicações políticas para os altos tribunais. O critério da fidelidade servil e os acertos fisiológicos devem dar lugar à busca dos melhores. Perfil doutrinário e representatividade social são critérios legítimos de escolha. Cabe ao presidente da República indicar quem entender melhor, entre juristas de indiscutível altivez e independência, que venham da prática ou da academia, com biografias de qualidade. Em seu quarto mandato, que Lula escolha logo uma ministra negra para o STF, em claro sinal de que os tempos e os hábitos mudaram. Não subestimemos o quadro. A crise de legitimidade do Judiciário é grave. O direito brasileiro não juntará sozinho os próprios cacos. Se a virtude cívica republicana não vier em seu socorro, devolvendo-lhe a autonomia e o crédito, o templo será invadido e transformado em acampamento da turba, à espera do próximo líder carismático e de seus juristas de estimação. Jean-Paul Veiga da Rocha é professor doutor da Faculdade de Direito da Universidade São Paulo.",
+      "region": "global",
+      "published": "2026-11-23T21:41:02+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Dez anos após sua morte, Fidel Castro segue respeitado por diferentes setores políticos em Cuba",
+      "link": "https://www.brasildefato.com.br/2026/11/25/dez-anos-apos-sua-morte-fidel-castro-segue-respeitado-por-diferentes-setores-politicos-em-cuba/",
+      "teaser": "Nesta quarta-feira (25), completam-se dez anos da morte de Fidel Castro, líder da Revolução Cubana, que morreu em Havana aos 90 anos. Em um país em que o debate político está presente &#8220;em todo canto&#8221;, a figura do comandante ainda é capaz de unir quem diverge sobre quase tudo. É o que observa Gabriel Vera [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-25T09:00:00+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "‘Queimar os Céus’: Documentário sobre o legado de Fidel Castro tem exibição gratuita e debate em Porto Alegre",
+      "link": "https://www.brasildefato.com.br/2026/11/24/queimar-os-ceus-documentario-sobre-o-legado-de-fidel-castro-tem-exibicao-gratuita-e-debate-em-porto-alegre/",
+      "teaser": "A capital do Rio Grande do Sul recebe uma exibição especial do documentário “Fidel e Cuba Socialista – Queimar os Céus”, produzido pelo Brasil de Fato. O evento gratuito ocorre na próxima segunda-feira (30), às 19h, no CineBancários, na rua General Câmara, 424, no Centro Histórico de Porto Alegre. A sessão será seguida por uma [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-25T02:24:27+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "MPF pede mudanças na gestão de políticas para população de rua em SP",
+      "link": "https://www.brasildefato.com.br/2026/11/24/mpf-pede-mudancas-na-gestao-de-politicas-para-populacao-de-rua-em-sp/",
+      "teaser": "O Ministério Público Federal (MPF) e o Ministério Público de Contas do Estado de São Paulo (MPC-SP) divulgaram, na tarde desta terça-feira (24), um documento de 150 páginas no qual fazem diversas recomendações sobre políticas estaduais voltadas para a população em situação de rua. Os órgãos apontaram problemas de acompanhamento de atuação de organizações terceirizadas [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-25T00:54:55+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Lula não convida Milei para posse e mantém Argentina sem embaixador",
+      "link": "https://www.brasildefato.com.br/2026/11/24/lula-nao-convida-milei-para-posse-e-mantem-argentina-sem-embaixador/",
+      "teaser": "O presidente Luiz Inácio Lula da Silva (PT) não convidará seu homólogo argentino, Javier Milei, para a cerimônia de posse do seu quarto mandato. O governo também mantém a decisão de deixar o vizinho sem embaixador brasileiro, após reiterados ataques de autoridades do país a Lula e questionamentos sobre as eleições. O ministro das Relações [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-25T00:33:07+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Justiça condena Assuero Veronez a pagar R$ 200 mil por destruição de geoglifo no Acre",
+      "link": "https://www.brasildefato.com.br/2026/11/24/justica-condena-assuero-veronez-a-pagar-r-200-mil-por-destruicao-de-geoglifo-no-acre/",
+      "teaser": "A Justiça Federal condenou o presidente da Federação da Agricultura e Pecuária do Acre (Faeac), Assuero Veronez, a pagar R$ 200 mil de indenização por danos morais coletivos pela destruição de estruturas de um geoglifo na Fazenda Crichá, em Capixaba, de propriedade do dirigente ruralista. Segundo o Ministério Público Federal (MPF), a área foi aterrada [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-25T00:22:14+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Ajuste fiscal libera R$ 1,2 trilhão para juros, enquanto coloca em risco investimentos futuros em saúde e educação",
+      "link": "https://www.brasildefato.com.br/2026/11/24/ajuste-fiscal-libera-r-12-trilhao-para-juros-enquanto-coloca-em-risco-investimentos-futuros-em-saude-e-educacao/",
+      "teaser": "O ajuste fiscal aprovado pela Câmara Federal na segunda-feira (23), depois de passar pelo Senado, prevê impacto de até R$ 56,1 bilhões nas contas públicas em 2027. Para o economista Paulo Kliass, porém, o problema não é só o tamanho do corte, mas onde a tesoura passa. Em entrevista ao Conexão BdF, da Rádio Brasil [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-25T00:15:35+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Memorial da América Latina batiza espaços em homenagem a Luiz Carlos Prestes, Olga Benário e Quilombo Saracura",
+      "link": "https://www.brasildefato.com.br/2026/11/24/memorial-da-america-latina-batiza-espacos-em-homenagem-a-luiz-carlos-prestes-olga-benario-e-quilombo-saracura/",
+      "teaser": "Na última semana, três espaços do Memorial da América Latina receberam novas denominações como forma de resgatar a trajetória e homenagear personalidades e grupos que fizeram parte da história do Brasil. A Praça Cívica, espaço de 12 mil m² onde está a icônica mão que sintetiza a obra de Oscar Niemeyer, passou a se chamar [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-25T00:01:55+00:00"
+    },
+    {
+      "source": "Brasil de Fato",
+      "title": "Porteira aberta: direita espanhola pode levar Vox ao poder e romper ‘cordão sanitário’ europeu",
+      "link": "https://www.brasildefato.com.br/2026/11/24/porteira-aberta-direita-espanhola-pode-levar-vox-ao-poder-e-romper-cordao-sanitario-europeu/",
+      "teaser": "A cinco dias da eleição que pode levar a extrema direita ao governo da Espanha, o professor e pesquisador em Relações Internacionais Ricardo Leães afirmou em entrevista ao Conexão BdF, da Rádio Brasil de Fato, que a possível aliança entre o Partido Popular (PP) e o Vox, no domingo (29), reflete um movimento da direita tradicional [&#8230;] Fonte",
+      "region": "global",
+      "published": "2026-11-24T23:58:35+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Caixa avalia possível aquisição do BRB, em crise financeira provocada pelo caso Master",
+      "link": "https://oglobo.globo.com/economia/noticia/2026/11/25/caixa-avalia-possivel-aquisicao-do-brb-em-crise-financeira-provocada-pelo-caso-master.ghtml",
+      "teaser": "A Caixa Econômica Federal (CEF) está interessada no BRB e analisa os ativos do banco para uma possível aquisição. A instituição de Brasília vive uma grave crise financeira causada por suas operações com o Banco Master, investigadas por fraude pela Polícia Federal. Caso o negócio vá para frente, o BRB seria federalizado, com o governo do Distrito Federal deixando o controle da instituição. A informação foi revelada pelo Valor Econômico e confirmada pelo GLOBO. Essa opção era descartada pelos governos federal e do DF antes da eleição. Agora, a União está avaliando a possibilidade e não descarta uma autorização. No caso da gestão distrital, o entendimento de interlocutores é que a governadora Celina Leão pode mudar de ideia, especialmente porque o BRB está com fortes problemas de liquidez e o governo não encontrou outra solução. Procurados, Caixa, BRB, Ministério da Fazenda e governo do DF não se manifestaram. A opção preferida pela governadora é pegar um empréstimo de R$ 6,6 bilhões junto ao Fundo Garantidor de Crédito (FGC) para capitalizar o banco. Mas o FGC e os bancos garantidores resistem a dar encaminhamento nas condições atuais. No caso do FGC, a avaliação é que primeiro é necessário ter maior conhecimento da situação financeira do BRB antes de dar o empréstimo, para não correr o risco de conceder o crédito e depois ser obrigado a socorrer os clientes e investidores do banco em caso de eventual liquidação. Para além disso, seria atípico para o fundo conceder um empréstimo sem mudança de controle da instituição. Em caso de federalização ou privatização, contudo, haveria maior disposição de dar o empréstimo para viabilizar a operação, caso seja necessário. Para a Caixa, por sua vez, a operação em uma primeira análise pode fazer sentido dada a sinergia em alguns negócios, como os depósitos judiciais e a carteira de crédito imobiliário. No BRB, o valor global em depósitos judiciais é de R$ 31,9 bilhões captados em quatro estados (Bahia, Paraíba, Alagoas e Maranhão), além do Distrito Federal.",
+      "region": "global",
+      "published": "2026-11-25T11:29:52+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Bolsonaro completa um ano cumprindo pena por trama golpista",
+      "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/bolsonaro-completa-um-ano-cumprindo-pena-por-trama-golpista.ghtml",
+      "teaser": "Condenado a 27 anos e três meses de prisão por participação na trama golpista, Jair Bolsonaro começou a cumprir a pena há exatamente um ano, por decisão de Alexandre de Moraes, datada de 25 de novembro de 2025. Relator do processo no STF, o ministro determinou o trânsito em julgado da ação, encerrando a possibilidade de recursos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "region": "global",
+      "published": "2026-11-25T11:21:00+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Tenista francês é investigado por suposta recusa a exame antidoping e pode ser suspenso por quatro anos",
+      "link": "https://oglobo.globo.com/esportes/noticia/2026/11/25/tenista-frances-e-investigado-por-suposta-recusa-a-exame-antidoping-e-pode-ser-suspenso-por-quatro-anos.ghtml",
+      "teaser": "O tenista francês Arthur Rinderknech, atual número 57 do ranking, é investigado pela Agência Internacional de Integridade do Tênis (ITIA) por uma suposta recusa a um exame antidoping surpresa, em junho. O jogador de 31 anos negou a acusação, disse que nunca utilizou substâncias proibidas e afirmou que será inocentado por um tribunal independente. Segundo o jornal L'Équipe, o episódio aconteceu na região da Bretanha, quando Rinderknech estaria saindo de casa com pressa para pegar um trem. O tenista teria assinado um formulário que registrava a recusa ao controle, mas acreditava que o documento correspondia a um registro de ausência ou indisponibilidade para o exame. Ainda conforme o portal, o francês foi formalmente informado da acusação em setembro, durante um período de treinamento com a equipe de seu país para a Copa Davis, em Quebec. A investigação pode resultar em uma suspensão de até quatro anos, penalidade prevista para casos de recusa a um controle antidoping. Nas redes sociais, Rinderknech se manifestou e afirmou que já comunicou à ITIA que contesta a acusação. Além disso, o tenista solicitou que o caso seja analisado por um tribunal independente. — Nunca tomei qualquer substância proibida e tenho orgulho das minhas conquistas no tênis profissional, todas alcançadas com muito trabalho e sempre com integridade — declarou o tenista em um trecho da nota oficial. Initial plugin text “Estou ciente das notícias sobre o meu suposto caso de recusa a um exame antidoping junto à Agência Internacional de Integridade do Tênis (ITIA), que, segundo a própria entidade, deveria ter sido mantido sob absoluto sigilo. Já informei à ITIA que nego a acusação e solicitei que o caso seja analisado e julgado por um Tribunal Independente, conforme é meu direito. Apresentarei todos os detalhes da situação ao Tribunal Independente e, neste momento, não responderei publicamente às acusações. Acredito que, quando o caso for apresentado ao Tribunal Independente, serei inocentado da acusação de recusa ao exame. Nunca utilizei qualquer substância proibida e tenho orgulho das minhas conquistas no tênis profissional, todas alcançadas com muito trabalho e sempre com integridade. AR”",
+      "region": "global",
+      "published": "2026-11-25T11:12:56+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Quem é Darren Beattie, aliado da família Bolsonaro que deixou o governo Trump",
+      "link": "https://oglobo.globo.com/politica/noticia/2026/11/25/quem-e-darren-beattie-aliado-da-familia-bolsonaro-que-deixou-o-governo-trump.ghtml",
+      "teaser": "Darren Beattie deixou o cargo de assessor do presidente dos Estados Unidos, Donald Trump. Aliado da família Bolsonaro, ele era conselheiro do Departamento de Estado americano para temas relacionados ao Brasil. O governo do país confirmou a saída do servidor, mas não detalhou o motivo. Em março, Beattie foi impedido de entrar no Brasil após o governo brasileiro revogar seu visto. A medida foi citada pelo presidente Luiz Inácio Lula da Silva durante agenda no Rio de Janeiro, onde afirmou que o então conselheiro norte-americano não poderia visitar o país enquanto não fossem liberados os vistos do ministro Alexandre Padilha e de sua família. Beattie pretendia viajar ao Brasil para participar de um evento sobre minerais críticos em São Paulo e também visitar o ex-presidente Jair Bolsonaro (PL), preso em Brasília. Interlocutores do Itamaraty afirmaram na ocasião que a revogação do visto ocorreu porque o assessor teria prestado informações falsas no pedido de entrada no país. Beattie atuava como assessor do Departamento de Estado no governo de Donald Trump e era responsável por acompanhar e orientar políticas dos Estados Unidos relacionadas ao Brasil. Segundo o ministro do Alexandre de Moraes, do Supremo Tribunal Federal, responsável pela decisão que barrou o encontro entre Beattie e o ex-presidente, a reunião não fazia parte da agenda diplomática oficial apresentada às autoridades brasileiras, o que motivou a negativa. O chanceler brasileiro, Mauro Vieira, informou ao STF que o encontro poderia ser interpretado como “indevida ingerência” de um funcionário estrangeiro em questões políticas internas do Brasil. Trajetória acadêmica e passagem pela Casa Branca Darren Beattie é cientista político e tem doutorado em teoria política pela Duke University. Antes de atuar na política, lecionou ciência política e filosofia política em universidades nos Estados Unidos e na Alemanha. Galerias Relacionadas Ele ganhou projeção nacional ao integrar a equipe de Trump na Casa Branca durante o primeiro mandato do republicano, atuando como redator de discursos e assessor de políticas públicas. Em 2018, no entanto, foi demitido após vir à tona sua participação em um evento frequentado por figuras associadas ao supremacismo branco nos Estados Unidos. Após deixar o governo, Beattie continuou ligado ao campo conservador e fundou o site político Revolver News, conhecido por defender posições alinhadas a Trump e por divulgar teorias controversas sobre temas políticos nos EUA, como conspirações falsas sobre a invasão do Capitólio em 6 de janeiro. Novo papel no governo Trump Em 2026, Beattie voltou a ocupar um cargo estratégico no governo americano. Ele passou a atuar como assessor sênior encarregado de acompanhar as relações e políticas dos Estados Unidos relacionadas ao Brasil dentro do Departamento de Estado. Nos últimos anos, ele também se tornou crítico frequente do governo brasileiro e de decisões do Judiciário, especialmente do ministro Alexandre de Moraes, responsável por processos envolvendo Bolsonaro. Tensão diplomática A tentativa de visita ao ex-presidente brasileiro ocorreu em meio a tensões diplomáticas entre os dois países. Além da decisão do STF, o governo de Luiz Inácio Lula da Silva anunciou a revogação do visto de Beattie como medida de reciprocidade após restrições impostas pelos Estados Unidos a autoridades brasileiras. A situação ampliou o atrito político envolvendo Bolsonaro, que cumpre pena após condenação relacionada à tentativa de golpe após as eleições de 2022, e seus aliados internacionais.",
+      "region": "global",
+      "published": "2026-11-25T11:11:02+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Grécia tem dia de greve para exigir aumentos salariais",
+      "link": "https://oglobo.globo.com/mundo/noticia/2026/11/25/grecia-tem-dia-de-greve-para-exigir-aumentos-salariais.ghtml",
+      "teaser": "Várias categorias na Grécia, em particular no setor público, entraram em greve nesta quarta-feira (25) por 24 horas para exigir aumentos salariais e medidas contra o custo de vida elevado. Manifestações estão programadas para todo o país, convocadas, entre outros, pela Confederação de Sindicatos do Setor Público, que exige aumentos substanciais dos salários para compensar a perda de poder aquisitivo. Meritocracia: Estudar, construir uma carreira e prosperar? Já não é mais assim para os jovens O GLOBO no Mundo: receba as notícias internacionais no seu WhatsApp Grécia: veja quanto custa morar no país que oferece bolsas de estudo a estrangeiros e como funciona a imigração Os transportes também foram afetados em todo o país, com paralisações no metrô de Atenas no início da manhã e depois a partir das 18h locais (13h de Brasília), além de interrupções nas linhas de trens suburbanos. Balsas e navios também permanecerão atracados por 24 horas. A greve de funcionários de telecomunicações responsáveis pelos serviços de informação aérea provocou o cancelamento de voos em 15 aeroportos regionais. Aumento no preço dos imóveis A Grécia deve registrar este ano um crescimento de 1,8%, contra 1,1% no conjunto da zona do euro, segundo a Comissão Europeia. Os salários, no entanto, continuam baixos: o salário mínimo, apesar do reajuste nos últimos anos, é de 968 euros (R$ 6.200) brutos por mês. Muitos gregos enfrentam um forte aumento nos preços dos imóveis e uma inflação que acelerou consideravelmente, a 5,7% em termos anuais em outubro, segundo dados oficiais.",
+      "region": "global",
+      "published": "2026-11-25T11:08:17+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "PF mira esquema de R$ 2 bilhões que usava obras de fachada para esconder mineração ilegal em MG",
+      "link": "https://oglobo.globo.com/brasil/noticia/2026/11/25/pf-mira-esquema-de-r-2-bilhoes-que-usava-obras-de-fachada-para-esconder-mineracao-ilegal-em-mg.ghtml",
+      "teaser": "A Polícia Federal (PF) deflagrou, nesta quarta-feira, uma operação para desarticular uma organização criminosa investigada pela extração clandestina, transporte, beneficiamento e comercialização de minério de ferro em áreas de Minas Gerais. Segundo o órgão, as investigações apuram a possível prática de crimes de usurpação de bens da União, extração de recursos minerais sem autorização, organização criminosa, lavagem de dinheiro e possíveis delitos contra a Administração Pública. Durante a ação, os policiais apreenderam munições, fuzis, dinheiro vivo e equipamentos. MC Ryan SP diz que é alvo de investigação por ser 'favelado': 'Se eu cantasse sertanejo, seria a mesma história?' 'Vacilo' nas redes expôs plano de MC Ryan SP de trocar carros por imóveis para esconder patrimônio, diz PF Segundo as investigações, há registros de atividades ilegais ao longo da BR-040, nas regiões de Olhos d’Água, Rancho do Boi, Água Limpa, Vale do Sol, Serra da Piedade e Mina Várzea do Lopes, além de localidades nos municípios de Nova Lima, Itabirito, Caeté, Sabará, Morro do Pilar, São Gonçalo do Rio Abaixo, Passa Tempo, Catas Altas e Alvinópolis. A PF também investiga a utilização de supostas obras de terraplanagem, estabilização de encostas, recuperação de áreas degradadas, construção de empreendimentos e intervenções em propriedades particulares como forma de conferir aparência de legalidade à retirada clandestina de minério de ferro. Na ação, foram cumpridos oito mandados de prisão preventiva, dois mandados de prisão temporária e ordens de busca e apreensão em mais de 50 endereços, além do sequestro e bloqueio de bens, direitos e valores até o limite de R$ 2 bilhões. Operação Húbris: Pf apreende armamentos, dinheiro e munições PF Intitulada Operação Húbris, a PF chama os investigados de “piratas do minério”, e mira não apenas os responsáveis pela extração clandestina, mas também os atravessadores, transportadores, beneficiadores, intermediários comerciais e operadores financeiros que, em tese, viabilizam economicamente a atividade criminosa. “Durante as investigações, identificou-se um cenário preocupante de expansão das Unidades de Tratamento de Minérios (UTMs) em Minas Gerais, acompanhado de graves deficiências nos mecanismos de controle e fiscalização. Entre 2012 e 2019, houve 38 deferimentos de licenciamento ambiental para esse tipo de unidade. Já entre 2020 e junho de 2026, registraram-se 155 deferimentos. Somente em 2020, o número de licenciamentos deferidos foi aproximadamente 4,6 vezes superior à média anual do período anterior”, explica a PF. Extração irregular A extração irregular em áreas próximas à rodovia BR-040 causa riscos à estabilidade das encostas, com possibilidade de deslizamentos e desmoronamentos e consequências para a segurança dos milhares de usuários que circulam diariamente pela rodovia. Operação Húbris: PF destaca riscos de deslizamentos e perigos em área de extração irregular PF “As investigações também apontam indícios de exploração irregular na região da Serra da Piedade, importante referência ambiental, histórica, cultural e religiosa de Minas Gerais. Levantamentos periciais estimam em cerca de 5,74 milhões de toneladas o volume de minério potencialmente beneficiado em condições irregulares, correspondente a um valor econômico estimado de R$ 2 bilhões. A estimativa foi elaborada a partir da análise de movimentações financeiras e de parâmetros técnicos relacionados à atividade mineral”, diz a PF. Segundo a PF, há indícios de uma estrutura organizada na extração clandestina, com divisão de tarefas e participação de diferentes segmentos empresariais, que visavam transformar os recursos minerais extraídos clandestinamente em produtos “aparentemente regulares”, para comercialização no mercado formal. O órgão também apura possíveis mecanismos de ocultação patrimonial, utilização de empresas e interpostas pessoas, emissão de documentos fiscais fraudulentos e circulação de expressivos volumes de recursos financeiros, possíveis ilícitos envolvendo agentes públicos e interferências indevidas em atividades de fiscalização. Também foram identificadas “deficiências nos procedimentos de licenciamento”, ausência de comprovação de vistorias presenciais em empreendimentos examinados, prorrogações indevidas de licenças ambientais e fragilidades nos mecanismos de controle da origem e do destino do minério beneficiado. O órgão destaca que, na prática, a existência de uma licença ambiental para beneficiamento de minério não garante que a matéria-prima recebida tenha sido extraída legalmente, e essa deficiência pode favorecer a atuação dos atravessadores e transformar as unidades de beneficiamento em elos de sustentação da mineração clandestina. Reportagem em atualização",
+      "region": "global",
+      "published": "2026-11-25T11:07:09+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "Sertanejo Tiago Piquilo se arrepende de harmonização facial e admite: 'Fiz em excesso'",
+      "link": "https://oglobo.globo.com/ela/noticia/2026/11/25/sertanejo-tiago-piquilo-se-arrepende-de-harmonizacao-facial-e-admite-fiz-em-excesso.ghtml",
+      "teaser": "Tiago Piquilo, da dupla sertaneja Hugo e Tiago, revelou ter se arrependido de alguns procedimentos estéticos realizados nos últimos anos. O cantor contou que decidiu reverter parte dos resultados de uma harmonização facial por considerar que exagerou nas intervenções. Pressão estética, imagem hipersexualizada e desconforto: os motivos que levaram celebridades a reverter procedimentos Beleza natural em alta: famosos revertem procedimentos e especialista explica o porquê Tiago contou que está revertendo parte dos procedimentos por considerar que o resultado da harmonização ficou exagerado. Na entrevista ao programa \"Sensacional\", apresentado por Daniela Albuquerque, na RedeTV!, ele também mencionou intervenções como botox e dois transplantes capilares. \"Acho que o botox é uma coisa normal, até por prevenção… Eu até tô precisando fazer. Eu fiz implante capilar duas vezes, fiz harmonização facial também e tô tirando, a cada dia que passa tô tirando um pouco. Eu fiz em excesso\", afirmou. Tiago Piquilo conta por que decidiu reverter parte de harmonização facial Reprodução Instagram/ Record TV O sertanejo disse que começou a repensar as intervenções depois de assistir à própria participação no \"MasterChef Celebridades\", reality exibido pela Band. Ao se ver na televisão, percebeu que não estava satisfeito com o resultado estético. \"A gente foi fazer recentemente um programa, a gente participou do MasterChef Celebridades, e eu não consegui me assistir, porque eu olhei e falei: 'A minha cara tá uma bacia'. Pensei: 'Eu perdi a noção, eu preciso tirar', aí eu comecei a tirar\" relembrou. Durante a entrevista, Tiago também apontou Hugo como o mais vaidoso da dupla. O parceiro, por sua vez, falou sobre os procedimentos que realizou após mudanças no peso e na rotina de cuidados com o corpo. \"Eu emagreci, fui pra academia, mas não tava legal, aí eu fiz uma lipo… mas eu engordei 4 kg depois. Eu fiquei muito feliz, fiz lipo, coloquei bumbum\", relatou.",
+      "region": "global",
+      "published": "2026-11-25T11:06:18+00:00"
+    },
+    {
+      "source": "O Globo",
+      "title": "'Entre tapas e danças': Vídeo mostra robôs humanoides que simulam luta em ringue e terminam apresentação com performance sincronizada",
+      "link": "https://oglobo.globo.com/economia/epoca/noticia/2026/11/25/entre-tapas-e-dancas-video-mostra-robos-humanoides-que-simulam-luta-em-ringue-e-terminam-apresentacao-com-performance-sincronizada.ghtml",
+      "teaser": "Dois robôs humanoides de uma empresa chinesa protagonizaram uma demonstração de artes marciais em um ringue montado no Centro de Convenções e Exposições de Hong Kong, na China, nesta terça-feira. As máquinas trocaram socos, executaram chutes e realizaram movimentos de defesa diante de espectadores durante a 16ª edição do Hong Kong International Financial Forum. Ao final da apresentação, os robôs interromperam a simulação de combate e começaram a dançar em sincronia. 'Novo Labubu' tem tecnologia: robô japonês se mexe sozinho, reage a toques e vira acessório de moda Pagar para fazer amigos? Empresas investem milhões nos EUA em apps de amizade Nas imagens, os dois robôs aparecem dentro de um octógono de competições de artes marciais. Eles assumem posições de combate, movimentam os braços para simular golpes e executam chutes enquanto se deslocam pelo espaço. A apresentação termina com uma sequência de movimentos coreografados. A demonstração ocorre em meio à expansão da indústria chinesa de robótica humanoide, setor que tem recebido investimentos de empresas e incentivos do governo. A tecnologia busca desenvolver máquinas capazes de reproduzir movimentos humanos e executar tarefas que vão da interação com pessoas a atividades industriais e operações em ambientes de risco. Veja vídeo: Initial plugin text A EngineAI, sediada em Shenzhen, é uma das empresas chinesas que investem no desenvolvimento de robôs com capacidade de locomoção e movimentos complexos. Em abril deste ano, durante a feira InnoEX, também em Hong Kong, a companhia apresentou o modelo PM01, capaz de executar um salto mortal para a frente. O avanço do setor também aparece nos números. Dados oficiais citados indicavam que a China tinha mais de 140 fabricantes de robôs humanoides e mais de 330 modelos em 2025. Um levantamento da consultoria Omdia apontou AgiBot, Unitree Robotics e UBTech entre os principais fabricantes globais em volume de unidades comercializadas.",
+      "region": "global",
+      "published": "2026-11-25T11:03:09+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Caminhos para um futuro de um Brasil livre de desigualdades",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/11/caminhos-para-um-futuro-de-um-brasil-livre-de-desigualdades.shtml",
+      "teaser": "Celebramos 35 anos de uma trajetória construída a muitas mãos, movida pela convicção de que é possível transformar vidas. Quando idealizei o Instituto Dara , sonhei com uma sociedade em que a saúde fosse vista para além da ausência de doenças, abrangendo também as condições sociais, econômicas e emocionais de cada família. Leia mais (11/25/2026 - 08h00)",
+      "region": "global",
+      "published": "2026-11-25T11:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Inspirado em Paulo Freire, projeto de escola pública da Maré, no RJ, vence prêmio internacional",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/inspirado-em-paulo-freire-projeto-de-escola-publica-da-mare-no-rj-vence-premio-internacional.shtml",
+      "teaser": "Uma escola pública do complexo da Maré, no Rio de Janeiro , venceu o World's Best School Prizes (Premiação de Melhor Escola do Mundo) na categoria de superação de adversidade. A premiação é oferecida anualmente pela T4 Education, uma rede global que reúne escolas e profissionais da educação Leia mais (11/25/2026 - 08h00)",
+      "region": "global",
+      "published": "2026-11-25T11:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "André Klotzel tira filme com Alexandre Nero dos cinemas e leva longa ao YouTube",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/andre-klotzel-tira-filme-com-alexandre-nero-dos-cinemas-e-leva-longa-ao-youtube.shtml",
+      "teaser": "O diretor André Klotzel decidiu suspender as exibições do seu novo filme, \"Sem Pai Nem Mãe\" , estrelado por Alexandre Nero , no circuito comercial de cinema . Leia mais (11/25/2026 - 08h00)",
+      "region": "global",
+      "published": "2026-11-25T11:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Globo contrata atriz protagonista de 'Sintonia', da Netflix, para nova novela das dez",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/globo-contrata-atriz-protagonista-de-sintonia-da-netflix-para-nova-novela-das-dez.shtml",
+      "teaser": "Revelada pela Netflix como protagonista da série \" Sintonia \" (2019-2025), Bruna Mascarenhas é a mais nova contratada da Globo . A atriz paulistana foi aprovada em testes e estará no elenco de \"Romance em São Paulo\", próxima novela das dez da emissora. Leia mais (11/25/2026 - 08h00)",
+      "region": "global",
+      "published": "2026-11-25T11:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Em qualquer formato, bom é ser campeão",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/11/em-qualquer-formato-bom-e-ser-campeao.shtml",
+      "teaser": "A geração Z pode não acreditar, mas, até 2003, o torcedor tinha de ser PhD em matemática para saber se o time dele estava a ponto de ganhar o Brasileirão ou ser chutado para o INPS. Não eram 20 clubes disputando pontos corridos em 38 rodadas, como hoje. Podiam ser 16, 32, 46, 68, 94 e (juro!) até 116 estraçalhando-se em torneios à base de mata-matas, divididos por fases, chaves, grupos e módulos. No fim, um deles acabava campeão, mas deixava vários enfartados pelo caminho -quase fora eliminado numa rodada pelo, com todo respeito, Bambuiense, Cascavel ou Arapiraca. Leia mais (11/25/2026 - 08h00)",
+      "region": "global",
+      "published": "2026-11-25T11:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Numerólogo explica por que laranja é a cor do próximo ano",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/astrologia/2026/11/numerologo-explica-por-que-laranja-e-a-cor-do-proximo-ano.shtml",
+      "teaser": "Faltam poucas semanas para a virada, e a maioria ainda não decidiu a cor. Entre os mais de 15 mil participantes do quiz Previsões 2027 , do Personare, 70% responderam que ainda não sabem qual cor vão usar no Ano Novo . Leia mais (11/25/2026 - 08h00)",
+      "region": "global",
+      "published": "2026-11-25T11:00:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Ciudad del Este amplia vendas na Black Friday antecipada apesar do dólar alto",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ciudad-del-este-amplia-vendas-na-black-friday-antecipada-apesar-do-dolar-alto.shtml",
+      "teaser": "Apesar de o dólar ter sido cotado por até R$ 6,40 em algumas lojas, a Black Friday antecipada realizada em Ciudad del Este no último final de semana apresentou crescimento nas vendas impulsionado principalmente por eletrônicos. Leia mais (11/25/2026 - 07h58)",
+      "region": "global",
+      "published": "2026-11-25T10:58:00+00:00"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "MBL promove festival com sabatina de Renan Santos e debate sobre psicoativos",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/mbl-promove-festival-com-sabatina-de-renan-santos-e-debate-sobre-psicoativos.shtml",
+      "teaser": "Um mês após a eleição que projetou nacionalmente sua principal liderança, o MBL (Movimento Brasil Livre) retomará as atividades junto à militância em um evento neste sábado (28), em São Paulo. Leia mais (11/25/2026 - 07h57)",
+      "region": "global",
+      "published": "2026-11-25T10:57:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "US Army to detonate unstable lead-based explosives in Iowa",
+      "link": "https://www.dw.com/en/us-army-to-detonate-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-all-1573-rdf",
+      "teaser": "The Army says a controlled blast is the safest way to deal with explosive chemicals that began crystallising in storage, but residents say changing guidance has left them confused about where the lead dust will go.",
+      "region": "global",
+      "published": "2026-11-25T11:33:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "North Korea expels Swiss envoy over sanctions on camp accused of indoctrinating Ukrainian children",
+      "link": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-all-1573-rdf",
+      "teaser": "North Korea has ordered Switzerland to close its newly reopened diplomatic office. The dispute centers on Swiss sanctions against a camp accused of indoctrinating Ukrainian children from Russian-occupied territories.",
+      "region": "global",
+      "published": "2026-11-25T11:12:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Australia, Solomon Islands sign sweeping pact seen as countering China",
+      "link": "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Australia will become the Solomon Islands' primary security partner, while the archipelago will reject any foreign power trying to \"interfere\" on its \"sensitive\" infrastructure.",
+      "region": "global",
+      "published": "2026-11-25T10:51:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Fact check: Deepfakes and 'US abandons Taiwan' claims spread ahead of vote",
+      "link": "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Ahead of local elections, AI-generated falsehoods targeting Democratic Progressive Party mayoral candidate Puma Shen have surged in Taiwan, alongside disinformation claiming the US is pulling back support for the island.",
+      "region": "global",
+      "published": "2026-11-25T10:35:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Houthis claim attacks on Saudi refinery, financial district",
+      "link": "https://www.dw.com/en/houthis-claim-attacks-on-saudi-refinery-financial-district/a-80043632?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Iran-backed Yemeni Houthis say they carried out fresh retaliatory attacks in Saudi Arabia. A fire was reported at Ras Tanura oil refinery and Riyadh's financial district was attacked for the second time in a week.",
+      "region": "global",
+      "published": "2026-11-25T10:35:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Climate loss and damage fund exists, but the money doesn't",
+      "link": "https://www.dw.com/en/climate-loss-and-damage-fund-exists-but-the-money-doesn-t/a-80035620?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Climate-vulnerable countries fought for years to create a loss and damage fund. Four years on, demand far outstrips funding, pledges are scarce, and disaster-hit nations are still waiting for support.",
+      "region": "global",
+      "published": "2026-11-25T09:49:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "Germany's women footballers take stand against domestic violence",
+      "link": "https://www.dw.com/en/germany-s-women-footballers-take-stand-against-domestic-violence/a-70907974?maca=en-rss-en-all-1573-rdf",
+      "teaser": "Germany's women's football team are to wear UN Women badges in games against Argentina and Peru, as domestic violence hits a record high in Germany.",
+      "region": "global",
+      "published": "2026-11-25T09:30:00+00:00"
+    },
+    {
+      "source": "DW",
+      "title": "German auto workers on back foot as costs, competition bite",
+      "link": "https://www.dw.com/en/german-auto-workers-on-back-foot-as-costs-competition-bite/a-80036111?maca=en-rss-en-all-1573-rdf",
+      "teaser": "German auto workers profited during the industry's boom years, but are now increasingly being asked to trade past gains for future job security.",
+      "region": "global",
+      "published": "2026-11-25T08:51:00+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Britische Royals: Zwei Männer wegen Einbruchs bei William und Kate angeklagt",
+      "link": "https://www.tagesspiegel.de/gesellschaft/dpa-britische-royals-zwei-manner-wegen-einbruchs-bei-william-und-kate-angeklagt-16323449.html",
+      "teaser": "Der Vorfall dürfte ein Schock für die Royals gewesen sein und wirft Fragen zu den Sicherheitsvorkehrungen auf. Nun sind zwei Männer angeklagt: Wussten sie, bei wem sie mutmaßlich eingestiegen waren?",
+      "region": "berlin",
+      "published": "2026-11-25T11:31:24+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "„Bin ich ein Koffer oder was?“: Selenskyj spottet über Lukaschenkos Begleitschutz-Angebot",
+      "link": "https://www.tagesspiegel.de/internationales/dpa-selenskyj-spottet-uber-lukaschenkos-begleitschutz-angebot-16322662.html",
+      "teaser": "Der Kreml beharrt darauf, dass direkte Gespräche zwischen Putin und Selenskyj nur in Moskau stattfinden könnten. Aus Belarus gibt es nun ein fragwürdiges Angebot – das der Ukrainer ablehnt.",
+      "region": "berlin",
+      "published": "2026-11-25T11:21:20+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Toter in Utrecht: Niederlande: Leiche in Gefriertruhe am Straßenrand",
+      "link": "https://www.tagesspiegel.de/gesellschaft/panorama/dpa-toter-in-utrecht-niederlande-leiche-in-gefriertruhe-am-strassenrand-16323379.html",
+      "teaser": "Sperrmüll in der niederländischen Stadt Utrecht: Eine Gefriertruhe steht an der Straße – schon seit Tagen. Dann macht ein Fußgänger eine grausige Entdeckung.",
+      "region": "berlin",
+      "published": "2026-11-25T11:20:55+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Tennis: Dopingtest verweigert? Ermittlungen gegen Rinderknech",
+      "link": "https://www.tagesspiegel.de/sport/dpa-tennis-dopingtest-verweigert-ermittlungen-gegen-rinderknech-16323372.html",
+      "teaser": "Arthur Rinderknech ist den deutschen Tennisfans vor allem durch seinen Erstrundensieg in Wimbledon 2025 gegen Alexander Zverev ein Begriff. Jetzt steht der Franzose wegen einer anderen Sache im Fokus.",
+      "region": "berlin",
+      "published": "2026-11-25T11:19:06+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Regierungsbildung in Berlin: Krach: Ausschluss von Emde löst Antisemitismus-Problem nicht",
+      "link": "https://www.tagesspiegel.de/berlin/dpa-regierungsbildung-in-berlin-krach-ausschluss-von-emde-lost-antisemitismus-problem-nicht-16323354.html",
+      "teaser": "Mit dem Ausschluss der Abgeordneten Vanessa Emde aus der Linke-Fraktion ist für SPD-Landeschef Steffen Krach das Problem Antisemitismus nicht erledigt. Was er für künftige Vorfälle fordert.",
+      "region": "berlin",
+      "published": "2026-11-25T11:16:44+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Einzelhandel: Insolvenzverwalter: Galeria ist bis März durchfinanziert",
+      "link": "https://www.tagesspiegel.de/wirtschaft/dpa-einzelhandel-insolvenzverwalter-galeria-ist-bis-marz-durchfinanziert-16323350.html",
+      "teaser": "Geht es weiter für Galeria? Wie weit fortgeschritten ist die Investorensuche, und wie viele der Warenhäuser bleiben erhalten? Der vorläufige Insolvenzverwalter Kebekus gibt Einblick.",
+      "region": "berlin",
+      "published": "2026-11-25T11:16:07+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Basketball: Rückkehr nach Riga - Ibrahimagic: „Besonderer Ort“",
+      "link": "https://www.tagesspiegel.de/sport/dpa-basketball-ruckkehr-nach-riga-ibrahimagic-besonderer-ort-16323346.html",
+      "teaser": "Deutschlands Basketballern fehlt nur noch ein Sieg bis zum WM-Ticket. In der Vorbereitung steht wieder ein Mann im Fokus, auf den schon vor einem Jahr in Riga viele Augen gerichtet waren.",
+      "region": "berlin",
+      "published": "2026-11-25T11:15:54+00:00"
+    },
+    {
+      "source": "Tagesspiegel",
+      "title": "Zwei Jahre nach Start in den USA: Briten können bei Amazon bald Autos kaufen",
+      "link": "https://www.tagesspiegel.de/wirtschaft/dpa-briten-konnen-bei-amazon-bald-autos-kaufen-16323197.html",
+      "teaser": "2024 wurde „Amazon Autos“ in den USA eingeführt. Nun steigt der Onlinehändler auch in Großbritannien ins Autogeschäft ein.",
+      "region": "berlin",
+      "published": "2026-11-25T11:15:08+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Mann stirbt bei Brand in Spandauer Seniorenheim",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/seniorenwohnheim-brand-berlin-spandau-mann-stirbt.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-11-25T11:28:52+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Tag gegen Gewalt an Frauen: Aktionen in Berlin und Brandenburg",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/internationaler-tag-gegen-gewalt-frauen-orange-day-berlin-brandenburg.html",
+      "teaser": "In Berlin und Brandenburg finden am 25. November zum internationalen Tag gegen Gewalt an Frauen zahlreiche Aktionen statt. In beiden Bundesländern ist die Zahl frauenfeindlicher Straftaten in den letzten Jahren deutlich gestiegen.",
+      "region": "berlin",
+      "published": "2026-11-25T11:17:14+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Bedrohung in Charlottenburg: Polizei erschießt Hund im Hotel",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/polizei-hund-hotelzimmer-schuesse-pudel-tot-berlin-charlottenburg-breitscheidplatz.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-11-25T11:02:47+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Havelland: Mehrere Verletzte bei Unfall mit Schulbus nahe Ketzin",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/brandenburg-ketzin-havelland-schulbus-auto-unfall.html",
+      "teaser": "Unfall mit einem Schulbus nahe Ketzin: Laut Polizei kam es zu einem Zusammenstoß mit einem Auto. Mehrere Menschen wurden verletzt, auch Schüler.",
+      "region": "berlin",
+      "published": "2026-11-25T10:45:53+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Europaweite Großrazzia wegen des Verdachts des Mehrwertsteuerbetrugs",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/razzia-berlin-brandenburg-europa-polizei-zoll-mehrwertsteuerbetrug.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-11-25T10:14:50+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Flixtrain-Tickets ab Dezember bei Deutscher Bahn buchbar",
+      "link": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/deutsche-bahn-flixtrain-tickets-buchen-app-website.html",
+      "teaser": "Bislang zeigt die Bahn Flixtrain-Verbindungen zwar auf ihren Plattformen an, für die Buchung müssen Reisende aber die Flixtrain-Website nutzen. Das ändert sich nun.",
+      "region": "berlin",
+      "published": "2026-11-25T10:10:22+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "\"Terror 18\": Drei mutmaßliche Mitglieder von rechtsextremer Gruppe festgenommen",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/brandenburg-rechtsextremistische-vereinigung-terror-18-jugendliche-festnahmen.html",
+      "teaser": "Die Bundesanwaltschaft hat die mutmaßlich rechtsextremistische Gruppe \"Terror 18\" zerschlagen. Bei einer bundesweiten Razzia sind drei mutmaßliche Mitglieder festgenommen worden. Unter ihnen ist auch ein Jugendlicher aus Brandenburg.",
+      "region": "berlin",
+      "published": "2026-11-25T10:06:30+00:00"
+    },
+    {
+      "source": "rbb24",
+      "title": "Frau in Spremberg schwer verletzt: Ermittlungen gegen Ehemann",
+      "link": "https://www.rbb24.de/panorama/beitrag/2026/11/spremberg-frau-gewalt-zwei-maenner-festgenommen.html",
+      "teaser": "",
+      "region": "berlin",
+      "published": "2026-11-25T09:37:29+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Rechnungshof-Kritik an Ukraine-Zahlen: „Ich weiß, dass Sie das für Ihre Instagram-Reels brauchen“",
+      "link": "https://www.berliner-zeitung.de/article/rechnungshof-kritik-an-ukraine-zahlen-ich-weiss-dass-sie-das-fuer-ihre-instagram-reels-brauchen-10634216",
+      "teaser": "Schriftlich räumt die Regierung Mängel ein, vor der Presse bestreitet ihr Sprecher sie. Und auf die Nachfrage folgt ein Seitenhieb statt einer Antwort.",
+      "region": "berlin",
+      "published": "2026-11-25T11:24:41+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Großbrand im Yara-Werk Poppendorf gelöscht, Ursache weiter unklar",
+      "link": "https://www.berliner-zeitung.de/article/grossbrand-im-yara-werk-poppendorf-geloescht-ursache-weiter-unklar-10633936",
+      "teaser": "Rund 170 Kräfte der Feuerwehren waren in dem Ort bei Rostock im Einsatz. Verletzt wurde niemand, der entstandene Schaden könnte jedoch in die Millionen gehen.",
+      "region": "berlin",
+      "published": "2026-11-25T11:08:24+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Schulweg 243 Meter zu kurz: Nach drei Jahren Gratis-Bus zahlt Mutter rund 50 Euro im Monat",
+      "link": "https://www.berliner-zeitung.de/article/schulweg-243-meter-zu-kurz-nach-drei-jahren-gratis-bus-zahlt-mutter-im-saale-holzland-kreis-rund-50-euro-im-monat-10634402",
+      "teaser": "Eine Zwei-Kilometer-Grenze würde laut Kreisverwaltung rund 240 Schülern helfen und 132.000 Euro im Jahr kosten. Der Nachbarkreis Saale-Orla hat sie schon.",
+      "region": "berlin",
+      "published": "2026-11-25T11:01:32+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Häusliche Gewalt in Spremberg: Frau schwer verletzt – Ehemann unter Tatverdacht",
+      "link": "https://www.berliner-zeitung.de/article/haeusliche-gewalt-in-brandenburg-frau-schwer-verletzt-ehemann-unter-tatverdacht-10634342",
+      "teaser": "Im Spremberger Ortsteil Schönheide ist eine Frau in ihrer Wohnung schwer verletzt worden. Die Staatsanwaltschaft verdächtigt ihren Ehemann.",
+      "region": "berlin",
+      "published": "2026-11-25T11:01:08+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Die Kritik wächst: Was Urs Fischer in Mainz vorgeworfen wird",
+      "link": "https://www.berliner-zeitung.de/article/die-kritik-waechst-was-urs-fischer-in-mainz-vorgeworfen-wird-10632078",
+      "teaser": "Zum dritten Mal trifft Urs Fischer als Trainer auf Ex-Klub Union Berlin. Nach fünf Pleiten in Serie steht der Schweizer unter Druck.",
+      "region": "berlin",
+      "published": "2026-11-25T11:00:00+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Huangs Nvidia-Comeback: Reddit-Trader macht fast 2.000 Prozent Gewinn",
+      "link": "https://www.berliner-zeitung.de/article/huangs-nvidia-comeback-reddit-trader-macht-fast-2000-prozent-gewinn-10633825",
+      "teaser": "Nvidia verlor im November bis Freitag 39 Prozent an der Börse. Mit Jensen Huangs Rückkehr drehte der Kurs. Ein Reddit-Trader machte aus 19.000 fast 400.000 Dollar.",
+      "region": "berlin",
+      "published": "2026-11-25T10:56:42+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Gegenkandidaten gesucht: Wen CDU, SPD, Grüne und Linke gegen Ulrich Siegmund aufstellen wollen",
+      "link": "https://www.berliner-zeitung.de/article/gegenkandidaten-gesucht-wen-cdu-spd-gruene-und-linke-gegen-ulrich-siegmund-aufstellen-wollen-10633569",
+      "teaser": "Am 8. Dezember will Ulrich Siegmund Ministerpräsident von Sachsen-Anhalt werden. Vier Fraktionen suchen nun einen gemeinsamen Herausforderer. Was er mitbringen soll, zeichnet sich bereits ab.",
+      "region": "berlin",
+      "published": "2026-11-25T10:22:25+00:00"
+    },
+    {
+      "source": "Berliner Zeitung",
+      "title": "Häusliche Gewalt in Brandenburg: „Was sollen die Nachbarn denken?“",
+      "link": "https://www.berliner-zeitung.de/article/schatz-was-sollen-deine-eltern-denken-warum-frauenschlaeger-in-brandenburg-selten-vor-gericht-stehen-10631571",
+      "teaser": "Rund neun von zehn Verfahren wegen häuslicher Gewalt stellen Brandenburgs Staatsanwaltschaften ein. Die Gründe liegen im Ablauf der Verfahren – und dafür ist das Land zuständig.",
+      "region": "berlin",
+      "published": "2026-11-25T10:17:56+00:00"
+    }
+  ]
+}
